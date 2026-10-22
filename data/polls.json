@@ -1,0 +1,123 @@
+{
+ "Which of these do you struggle with most?": {
+  "options": [
+   "I miss calls when I'm on a job",
+   "I call back but the lead is already gone",
+   "I don't have a system to track missed calls",
+   "I rely on voicemail and never check it"
+  ],
+  "followUp": "Book a free call with Jared to set up missed-call text-back in under 30 minutes.",
+  "ctaLabel": "Set Up Text-Back Now",
+  "ctaUrl": "/demo"
+ },
+ "What's your biggest follow-up challenge right now?": {
+  "options": [
+   "I forget to follow up after the first contact",
+   "I don't know how many times to follow up",
+   "Following up manually takes too much time",
+   "I feel awkward following up more than twice"
+  ],
+  "followUp": "Let CasperPortal run your follow-up sequences automatically — build once, works on every lead.",
+  "ctaLabel": "Automate My Follow-Ups",
+  "ctaUrl": "/demo"
+ },
+ "How many separate tools does your business currently use?": {
+  "options": [
+   "1–2 tools (pretty simple)",
+   "3–4 tools (getting messy)",
+   "5+ tools (total chaos)",
+   "Mostly spreadsheets and email"
+  ],
+  "followUp": "See exactly what CasperPortal replaces and what you'd save by consolidating.",
+  "ctaLabel": "See What It Replaces",
+  "ctaUrl": "/pricing"
+ },
+ "Where is your local SEO weakest right now?": {
+  "options": [
+   "My Google Business Profile is incomplete or out of date",
+   "I have very few Google reviews",
+   "My business info is inconsistent across directories",
+   "I don't know — I've never checked"
+  ],
+  "followUp": "Get a free local SEO audit from Jared's team and find out exactly where you rank.",
+  "ctaLabel": "Get My Free SEO Audit",
+  "ctaUrl": "https://casperb2b.com/contact"
+ },
+ "Which marketing channel do you rely on most right now?": {
+  "options": [
+   "Word of mouth / referrals",
+   "Google / local search",
+   "Social media (Facebook, Instagram)",
+   "I don't have a consistent system"
+  ],
+  "followUp": "Build a 3-channel system that works even when referrals slow down.",
+  "ctaLabel": "Build My Marketing System",
+  "ctaUrl": "/demo"
+ },
+ "Which repetitive support task eats up the most of your time?": {
+  "options": [
+   "Answering 'What are your hours?' and FAQ questions",
+   "Sending appointment confirmations and reminders manually",
+   "Following up with leads who went quiet",
+   "Responding to missed calls and messages after hours"
+  ],
+  "followUp": "Automate the task you just picked in under an hour inside CasperPortal.",
+  "ctaLabel": "Automate Client Support",
+  "ctaUrl": "/demo"
+ },
+ "Which of these automations would help you most today?": {
+  "options": [
+   "Instant missed-call text-back",
+   "Automated review requests",
+   "Multi-touch lead follow-up",
+   "Appointment reminders"
+  ],
+  "followUp": "CasperPortal comes with all 5 of these pre-built. Book a demo to see how we'd set them up for you.",
+  "ctaLabel": "See the Automations",
+  "ctaUrl": "/demo"
+ },
+ "What's stopping you from getting more Google reviews?": {
+  "options": [
+   "I forget to ask customers",
+   "It feels awkward to ask",
+   "Customers say they will, then they don't",
+   "I don't have a direct link to send them"
+  ],
+  "followUp": "CasperPortal automates the entire review request process so you never have to 'ask' manually again.",
+  "ctaLabel": "Automate My Reviews",
+  "ctaUrl": "/demo"
+ },
+ "What's the most expensive software tool you pay for right now?": {
+  "options": [
+   "My CRM / Lead Management",
+   "Email Marketing (Mailchimp/ActiveCampaign)",
+   "Review Management (Podium/Birdeye)",
+   "Booking/Scheduling (Calendly/Vagaro)"
+  ],
+  "followUp": "CasperPortal replaces all of these for one flat monthly price. Calculate your savings now.",
+  "ctaLabel": "Run the Savings Calculator",
+  "ctaUrl": "/roi-calculator"
+ },
+ "What is your average customer lifetime value?": {
+  "options": [
+   "Under $500",
+   "$500 - $2,000",
+   "$2,000 - $5,000",
+   "Over $5,000"
+  ],
+  "followUp": "Use our interactive ROI calculator to see exactly how much revenue you're leaving on the table.",
+  "ctaLabel": "Run My ROI Calculation",
+  "ctaUrl": "/roi-calculator"
+ },
+ "Which automation would you set up first?": {
+  "options": [
+   "Missed-Call Text-Back",
+   "Appointment Reminders",
+   "Google Review Requests",
+   "New Lead Welcome Sequence"
+  ],
+  "followUp": "We can set up all four of these for you with our Done-For-You path.",
+  "ctaLabel": "See Setup Options",
+  "ctaUrl": "/pricing"
+ }
+}

@@ -1,0 +1,35 @@
+name: Build & publish casperportal.com
+on:
+  push: { branches: [main] }
+  workflow_dispatch:
+permissions: { contents: read, pages: write, id-token: write }
+concurrency: { group: pages, cancel-in-progress: false }
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci            # installs sharp (used only by npm run images)
+      - run: npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: dist }
+      - name: IndexNow ping
+        continue-on-error: true
+        run: |
+          python3 - <<'PY'
+          import json, urllib.request
+          urls = [u for u in open("data/urls.txt").read().split() if u]
+          body = json.dumps({"host": "casperportal.com", "key": "3808756a46524e2fd878c401cb0c664c", "keyLocation": "https://casperportal.com/3808756a46524e2fd878c401cb0c664c.txt", "urlList": urls}).encode()
+          req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body, headers={"content-type": "application/json; charset=utf-8"})
+          try: print("IndexNow", urllib.request.urlopen(req, timeout=30).status, len(urls))
+          except Exception as e: print("IndexNow failed", e)
+          PY
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment: { name: github-pages, url: "${{ steps.d.outputs.page_url }}" }
+    steps:
+      - id: d
+        uses: actions/deploy-pages@v4

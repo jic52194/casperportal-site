@@ -1,0 +1,15 @@
+{
+  "name": "casperportal-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "casperportal.com static site (build: node scripts/build.mjs → dist/)",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/linkcheck.mjs",
+    "images": "node scripts/fetch-images.mjs"
+  },
+  "devDependencies": {
+    "sharp": "^0.33.5"
+  }
+}

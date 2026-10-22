@@ -1,0 +1,284 @@
+{
+ "georgetown": {
+  "pop": "~8,200",
+  "region": "North Shore",
+  "types": [
+   "Contractors",
+   "Clinics",
+   "Salons",
+   "Landscapers"
+  ],
+  "industries": [
+   "Home Services",
+   "Healthcare",
+   "Retail",
+   "Trades"
+  ]
+ },
+ "rowley": {
+  "pop": "~6,400",
+  "region": "North Shore",
+  "types": [
+   "Landscapers",
+   "Contractors",
+   "Farm Stands",
+   "Shops"
+  ],
+  "industries": [
+   "Landscaping",
+   "Construction",
+   "Agriculture",
+   "Trades"
+  ]
+ },
+ "boxford": {
+  "pop": "~8,000",
+  "region": "North Shore",
+  "types": [
+   "Home Service Pros",
+   "Contractors",
+   "Equestrian Businesses",
+   "Boutiques"
+  ],
+  "industries": [
+   "Home Services",
+   "Equestrian",
+   "Construction",
+   "Retail"
+  ]
+ },
+ "groveland": {
+  "pop": "~6,700",
+  "region": "North Shore",
+  "types": [
+   "Shops",
+   "Plumbers",
+   "Electricians",
+   "Restaurants"
+  ],
+  "industries": [
+   "Retail",
+   "Trades",
+   "Home Services",
+   "Dining"
+  ]
+ },
+ "haverhill": {
+  "pop": "~65,000",
+  "region": "Merrimack Valley",
+  "types": [
+   "HVAC Companies",
+   "Clinics",
+   "Auto Dealers",
+   "Contractors"
+  ],
+  "industries": [
+   "HVAC",
+   "Construction",
+   "Healthcare",
+   "Retail",
+   "Automotive"
+  ]
+ },
+ "newburyport": {
+  "pop": "~18,000",
+  "region": "North Shore",
+  "types": [
+   "Boutiques",
+   "Restaurants",
+   "Marine Services",
+   "Real Estate Agents"
+  ],
+  "industries": [
+   "Tourism",
+   "Boutique Retail",
+   "Dining",
+   "Marine",
+   "Real Estate"
+  ]
+ },
+ "newbury": {
+  "pop": "~7,000",
+  "region": "North Shore",
+  "types": [
+   "Farm Stands",
+   "Landscapers",
+   "Marine Contractors",
+   "Home Pros"
+  ],
+  "industries": [
+   "Agriculture",
+   "Home Services",
+   "Marine",
+   "Equestrian"
+  ]
+ },
+ "north-andover": {
+  "pop": "~30,000",
+  "region": "Merrimack Valley",
+  "types": [
+   "Consultants",
+   "Clinics",
+   "HVAC Companies",
+   "Law Firms"
+  ],
+  "industries": [
+   "Professional Services",
+   "Healthcare",
+   "Tech",
+   "Retail",
+   "HVAC"
+  ]
+ },
+ "topsfield": {
+  "pop": "~6,000",
+  "region": "North Shore",
+  "types": [
+   "Landscapers",
+   "Horse Farms",
+   "Home Service Pros",
+   "Boutiques"
+  ],
+  "industries": [
+   "Agriculture",
+   "Home Services",
+   "Equestrian",
+   "Retail"
+  ]
+ },
+ "amesbury": {
+  "pop": "~17,500",
+  "region": "North Shore",
+  "types": [
+   "Contractors",
+   "Clinics",
+   "Shops",
+   "Auto Services"
+  ],
+  "industries": [
+   "Manufacturing",
+   "Trades",
+   "Healthcare",
+   "Retail"
+  ]
+ },
+ "salisbury": {
+  "pop": "~9,100",
+  "region": "North Shore",
+  "types": [
+   "Hotels",
+   "Restaurants",
+   "Marina Services",
+   "Shops"
+  ],
+  "industries": [
+   "Tourism",
+   "Hospitality",
+   "Marine",
+   "Retail",
+   "Food Service"
+  ]
+ },
+ "ipswich": {
+  "pop": "~13,500",
+  "region": "North Shore",
+  "types": [
+   "Farm-to-Table Restaurants",
+   "Marine Services",
+   "Contractors",
+   "Clinics"
+  ],
+  "industries": [
+   "Agriculture",
+   "Tourism",
+   "Marine",
+   "Healthcare",
+   "Trades"
+  ]
+ },
+ "danvers": {
+  "pop": "~28,000",
+  "region": "North Shore",
+  "types": [
+   "Medical Practices",
+   "Auto Dealers",
+   "HVAC Companies",
+   "Law Firms"
+  ],
+  "industries": [
+   "Retail",
+   "Healthcare",
+   "Tech",
+   "HVAC",
+   "Automotive"
+  ]
+ },
+ "beverly": {
+  "pop": "~43,000",
+  "region": "North Shore",
+  "types": [
+   "Medical Practices",
+   "Tech Startups",
+   "Marina Services",
+   "Restaurants"
+  ],
+  "industries": [
+   "Healthcare",
+   "Tech",
+   "Marine",
+   "Retail",
+   "Hospitality"
+  ]
+ },
+ "salem": {
+  "pop": "~44,000",
+  "region": "North Shore",
+  "types": [
+   "Tour Operators",
+   "Restaurants",
+   "Law Firms",
+   "Boutiques"
+  ],
+  "industries": [
+   "Tourism",
+   "Healthcare",
+   "Legal",
+   "Retail",
+   "Hospitality"
+  ]
+ },
+ "lawrence": {
+  "pop": "~80,000",
+  "region": "Merrimack Valley",
+  "types": [
+   "Clinics",
+   "Contractors",
+   "Restaurants",
+   "Auto Services"
+  ],
+  "industries": [
+   "Healthcare",
+   "Trades",
+   "Food Service",
+   "Retail",
+   "Manufacturing"
+  ]
+ },
+ "methuen": {
+  "pop": "~53,000",
+  "region": "Merrimack Valley",
+  "types": [
+   "HVAC Companies",
+   "Auto Dealers",
+   "Contractors",
+   "Medical Practices"
+  ],
+  "industries": [
+   "HVAC",
+   "Construction",
+   "Healthcare",
+   "Automotive",
+   "Retail"
+  ]
+ }
+}

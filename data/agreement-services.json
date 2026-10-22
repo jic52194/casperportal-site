@@ -1,0 +1,266 @@
+[
+ {
+  "id": "it-support",
+  "name": "Remote IT Support Engineer",
+  "category": "Technical & Infrastructure",
+  "price": 1200,
+  "desc": "100% virtual IT support for your team. Whenever software breaks, freezes, or cloud accounts need management, they fix it remotely quickly so your staff can keep moving. (No on-site hardware setup).",
+  "useCases": [
+   "Remote troubleshooting",
+   "Cloud access management",
+   "Software configuration"
+  ]
+ },
+ {
+  "id": "network-eng",
+  "name": "Cloud Network Engineer",
+  "category": "Technical & Infrastructure",
+  "price": 1500,
+  "desc": "Keeps your cloud infrastructure and remote networks connected reliably. Designs, stabilizes, and secures your virtual networks and VPNs without needing an on-site presence.",
+  "useCases": [
+   "Cloud architecture",
+   "Network security",
+   "Virtual Private Networks"
+  ]
+ },
+ {
+  "id": "sec-eng",
+  "name": "Security Engineer L2",
+  "category": "Technical & Infrastructure",
+  "price": 1600,
+  "desc": "Protects your business from unauthorized access, data loss, and security failures. Monitors your systems remotely to keep customer payments and private records secure.",
+  "useCases": [
+   "Compliance audits",
+   "Remote threat monitoring",
+   "Data protection"
+  ]
+ },
+ {
+  "id": "tech-lead",
+  "name": "Tech Lead",
+  "category": "Software Delivery & Product",
+  "price": 1800,
+  "desc": "Provides senior technical oversight for digital projects. When you are building new features, automations, or platforms, this role helps ensure the work is designed correctly from the start.",
+  "useCases": [
+   "Architecture design",
+   "Code reviews",
+   "Technical strategy"
+  ]
+ },
+ {
+  "id": "mid-dev",
+  "name": "Mid-Level Developer",
+  "category": "Software Delivery & Product",
+  "price": 1500,
+  "desc": "Builds the features, automations, and integrations your business runs on. This role turns approved ideas into working software that supports daily operations.",
+  "useCases": [
+   "Feature development",
+   "API integrations",
+   "Bug fixes"
+  ]
+ },
+ {
+  "id": "jr-dev",
+  "name": "Junior Developer",
+  "category": "Software Delivery & Product",
+  "price": 1000,
+  "desc": "Handles routine development tasks such as updates, fixes, configuration changes, and testing. This role keeps smaller execution work moving without slowing larger projects down.",
+  "useCases": [
+   "Routine updates",
+   "Simple bug fixes",
+   "Testing"
+  ]
+ },
+ {
+  "id": "pm",
+  "name": "Project Manager",
+  "category": "Software Delivery & Product",
+  "price": 2200,
+  "desc": "Coordinates people, timelines, and deliverables so projects keep moving. This role reduces delays, follows up on blockers, and keeps execution aligned across distributed teams.",
+  "useCases": [
+   "Sprint planning",
+   "Blocker resolution",
+   "Client updates"
+  ]
+ },
+ {
+  "id": "seo",
+  "name": "SEO Specialist",
+  "category": "Marketing & Creative",
+  "price": 1200,
+  "desc": "Improves your visibility in search so customers can find your business without relying only on paid ads. This role focuses on rankings, technical SEO, and search-driven traffic quality.",
+  "useCases": [
+   "Keyword research",
+   "On-page optimization",
+   "Technical SEO"
+  ]
+ },
+ {
+  "id": "qa",
+  "name": "QA Engineer",
+  "category": "Software Delivery & Product",
+  "price": 1200,
+  "desc": "Tests digital experiences before they reach customers or staff. The goal is to catch issues early so broken workflows do not go live.",
+  "useCases": [
+   "Manual testing",
+   "Automated tests",
+   "Bug reporting"
+  ]
+ },
+ {
+  "id": "devops",
+  "name": "DevOps Engineer",
+  "category": "Software Delivery & Product",
+  "price": 1600,
+  "desc": "Maintains the cloud infrastructure that keeps your systems available and stable. This role helps reduce downtime, supports deployments, and improves reliability as usage grows.",
+  "useCases": [
+   "CI/CD pipelines",
+   "Cloud server maintenance",
+   "Uptime monitoring"
+  ]
+ },
+ {
+  "id": "marketing-mgr",
+  "name": "Digital Marketing Manager",
+  "category": "Marketing & Creative",
+  "price": 1000,
+  "desc": "Owns the direction behind your marketing efforts, including priorities, channels, budget, and performance. This role helps keep marketing tied to business growth instead of activity alone.",
+  "useCases": [
+   "Campaign strategy",
+   "Budget allocation",
+   "Performance analysis"
+  ]
+ },
+ {
+  "id": "perf-marketing",
+  "name": "Performance Marketing Specialist",
+  "category": "Marketing & Creative",
+  "price": 850,
+  "desc": "Manages paid advertising across platforms with a focus on measurable return. This role helps track lead cost, improve targeting, and reduce wasted spend over time.",
+  "useCases": [
+   "Ad creation",
+   "Bid management",
+   "A/B testing"
+  ]
+ },
+ {
+  "id": "content-writer",
+  "name": "Content Writer",
+  "category": "Marketing & Creative",
+  "price": 1100,
+  "desc": "Writes the customer-facing copy your business depends on, including website pages, emails, messages, ads, captions, and scripts. This role helps keep communication clear, consistent, and action-oriented.",
+  "useCases": [
+   "Blog posts",
+   "Ad copy",
+   "Email sequences"
+  ]
+ },
+ {
+  "id": "graphic-designer",
+  "name": "Graphic Designer",
+  "category": "Marketing & Creative",
+  "price": 1100,
+  "desc": "Creates the visual assets your business uses across digital and print channels. This role helps keep the brand consistent, polished, and ready for customer-facing use.",
+  "useCases": [
+   "Ad creatives",
+   "Social media graphics",
+   "Brand assets"
+  ]
+ },
+ {
+  "id": "social-media",
+  "name": "Social Media Executive",
+  "category": "Marketing & Creative",
+  "price": 1000,
+  "desc": "Keeps your social channels active and organized through posting, scheduling, and response management. This role helps maintain consistency even when internal bandwidth is limited.",
+  "useCases": [
+   "Post scheduling",
+   "Community management",
+   "Trend monitoring"
+  ]
+ },
+ {
+  "id": "va-general",
+  "name": "General Virtual Assistant",
+  "category": "General & Admin",
+  "price": 800,
+  "desc": "General administrative support: inbox, scheduling, data, and routine day-to-day tasks.",
+  "useCases": [
+   "Inbox management",
+   "Scheduling",
+   "Data entry"
+  ]
+ },
+ {
+  "id": "va-executive",
+  "name": "Executive Assistant",
+  "category": "General & Admin",
+  "price": 1200,
+  "desc": "High-level support for owners and executives: calendar, communications, and coordination.",
+  "useCases": [
+   "Calendar management",
+   "Communications",
+   "Coordination"
+  ]
+ },
+ {
+  "id": "va-data",
+  "name": "Data Entry Specialist",
+  "category": "General & Admin",
+  "price": 700,
+  "desc": "Accurate, high-volume data entry and record-keeping.",
+  "useCases": [
+   "Data entry",
+   "Record-keeping",
+   "Accuracy"
+  ]
+ },
+ {
+  "id": "va-cs",
+  "name": "Customer Service VA",
+  "category": "General & Admin",
+  "price": 900,
+  "desc": "Handles customer questions, tickets, and follow-up across email, chat, and phone.",
+  "useCases": [
+   "Customer questions",
+   "Ticketing",
+   "Follow-up"
+  ]
+ },
+ {
+  "id": "va-sdr",
+  "name": "Sales Development Representative (SDR)",
+  "category": "Sales & Growth",
+  "price": 1200,
+  "desc": "Outbound prospecting, qualifying leads, and booking meetings.",
+  "useCases": [
+   "Outbound prospecting",
+   "Lead qualification",
+   "Booking meetings"
+  ]
+ },
+ {
+  "id": "va-leadgen",
+  "name": "Lead Generation Specialist",
+  "category": "Sales & Growth",
+  "price": 1000,
+  "desc": "Builds targeted prospect lists and sources new leads.",
+  "useCases": [
+   "List building",
+   "Sourcing leads",
+   "Prospecting"
+  ]
+ },
+ {
+  "id": "va-bookkeeping",
+  "name": "Bookkeeping VA",
+  "category": "Finance",
+  "price": 1000,
+  "desc": "Day-to-day bookkeeping: transactions, reconciliation, and basic reports.",
+  "useCases": [
+   "Transactions",
+   "Reconciliation",
+   "Basic reports"
+  ]
+ }
+]
