@@ -121,6 +121,9 @@ ${field("description", "Short Business Description", `<textarea id="description"
 <form class="form" hidden novalidate data-fm="Demo Booking"><h3>Complete Your Booking</h3><p data-picked></p><div class="two">${field("bookingFirstName", "First Name", `<input id="bookingFirstName" name="firstName" autocomplete="given-name" required>`)}${field("bookingLastName", "Last Name", `<input id="bookingLastName" name="lastName" autocomplete="family-name" required>`)}</div>
 <div class="two">${field("bookingEmail", "Email", `<input id="bookingEmail" name="email" type="email" autocomplete="email" required>`)}${field("bookingPhone", "Phone", `<input id="bookingPhone" name="phone" type="tel" autocomplete="tel" required>`)}</div>
 ${field("bookingNotes", "What are your main goals with CasperPortal?", `<textarea id="bookingNotes" name="notes"></textarea>`)}${consentBox("booking-terms")}<p><button class="btn" type="submit">Confirm Booking</button></p>${status}</form></div>`,
+  // Home page: compact maps of the feature and industry clusters (same data as the pages).
+  featuremap: () => `<div class="fmap">${grouped("features", "group", GROUPS).map(([l, ps]) => `<div><h3>${esc(l)}</h3><ul>${ps.map((p) => `<li><a href="${p}">${esc(PAGES[p].data?.name || nameOf(p))}</a></li>`).join("")}</ul></div>`).join("")}</div>`,
+  nichelist: () => `<ul class="pills">${family("niches").map((p) => `<li><a href="${p}">${esc(PAGES[p].data?.name || nameOf(p))}</a></li>`).join("")}</ul>`,
   // Hub pages: always-complete, grouped cards for a page family.
   cluster: (a) => {
     const fam = a["data-family"];
@@ -158,7 +161,7 @@ const fixLinks = (html) => html.replace(/href="(\/[^"#?]*)([#?][^"]*)?"/g, (m, p
 // ── family templates ──
 const faqHtml = (name, faqs = []) => faqs.length ? `<section id="faq"><h2>${esc(name)} FAQ</h2><div class="faq">${faqs.map(([q, a]) => `<details><summary>${esc(q)}</summary><p>${esc(a)}</p></details>`).join("")}</div></section>` : "";
 const steps = (xs) => `<ol class="steps">${xs.map((s) => `<li><p>${esc(s)}</p></li>`).join("")}</ol>`;
-const blocks = (xs) => `<div class="grid">${xs.map(({ h, p }) => `<div class="card"><h3>${esc(h)}</h3><p>${esc(p)}</p></div>`).join("")}</div>`;
+const blocks = (xs) => `<div class="grid${xs.length % 2 === 0 && xs.length % 3 !== 0 ? " g2" : ""}">${xs.map(({ h, p }) => `<div class="card"><h3>${esc(h)}</h3><p>${esc(p)}</p></div>`).join("")}</div>`;
 const ctaRow = (cta) => { const [ph, pl] = CTA[cta], [sh, sl] = CTA[cta === "trial" ? "demo" : "trial"]; return `<p class="ctas"><a class="btn" href="${ph}">${pl}</a><a class="btn ghost" href="${sh}">${sl}</a></p>`; };
 const TRIAL_NOTE = `<p class="note">14-day free trial · then $297/month · cancel during the trial and you pay nothing</p>`;
 const hero = (eyebrow, d, cta, art = "") => `<section class="lead-block"><div class="${art ? "hero" : ""}"><div><p class="eyebrow">${esc(eyebrow)}</p><h1>${esc(d.h1)}</h1><p class="lede">${esc(d.intro)}</p>${ctaRow(cta)}${cta === "trial" ? TRIAL_NOTE : ""}</div>${art}</div></section>`;

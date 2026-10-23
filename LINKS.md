@@ -8,12 +8,12 @@ Every page header also has **Book a demo** (/demo) and **Start free trial** (/st
 
 - **Features** (hub: /features)
   - Get more leads: [AI Chat Tools](/features/ai-chat-tools), [Funnel & Landing Page Builder](/features/funnel-landing-page-builder), [Google Call Tracking](/features/google-call-tracking), [Lead Capture Forms](/features/lead-capture-forms), [Missed Call Text Back](/features/missed-call-text-back), [Website Live Chat](/features/website-live-chat)
-  - Follow up automatically: [Automation Triggers](/features/automation-triggers), [Email & SMS Marketing](/features/email-sms-marketing), [Facebook Messenger](/features/facebook-messenger), [Marketing Campaigns](/features/marketing-campaigns), [Omnichannel Messaging](/features/omnichannel-messaging), [SMS & Email Templates](/features/sms-and-email-templates), [Trigger Links](/features/trigger-links), [Workflow Automations](/features/workflow-automations)
+  - Follow up automatically: [Email & SMS Marketing](/features/email-sms-marketing), [Facebook Messenger](/features/facebook-messenger), [Marketing Campaigns](/features/marketing-campaigns), [Omnichannel Messaging](/features/omnichannel-messaging), [SMS & Email Templates](/features/sms-and-email-templates), [Trigger Links](/features/trigger-links), [Workflow Automations](/features/workflow-automations)
   - Book jobs & get paid: [Appointment Booking](/features/appointment-booking), [Invoicing](/features/invoicing), [Proposals & Estimates](/features/proposals-and-estimates), [Text To Pay](/features/text-to-pay)
   - Manage & grow: [CRM & Contact Management](/features/crm-contact-management), [Customer Surveys](/features/customer-surveys), [Mobile App](/features/mobile-app), [Reporting & Analytics](/features/reporting-analytics), [Reputation Management](/features/reputation-management), [Sales Pipelines](/features/sales-pipelines)
   - Content & community: [Blog Publishing](/features/blog-publishing), [Communities](/features/communities), [Memberships](/features/memberships), [Social Media Planner](/features/social-media-planner)
 - **Who it's for** (hub: /niches)
-  - Home services & trades: [Construction Companies](/niches/construction-companies)
+  - Home services & trades: [Construction Companies](/niches/construction-companies), [Home Service Businesses](/niches/home-services), [HVAC Companies](/niches/hvac), [Landscaping Companies](/niches/landscaping)
   - Health & wellness: [Beauty Salons](/niches/beauty-salons), [Daycare Centers](/niches/daycare-centers), [Dental Clinics](/niches/dental-clinics), [Fitness Centers & Gyms](/niches/fitness-centers-gyms)
   - Retail stores: [Clothing Boutiques](/niches/clothing-boutiques), [Furniture Stores](/niches/furniture-stores), [Jewelry Stores](/niches/jewelry-stores), [Pet Stores](/niches/pet-stores), [Pharmacies](/niches/pharmacies)
   - Hospitality & events: [Breweries](/niches/breweries), [Event Planners](/niches/event-planners), [Hotels](/niches/hotels), [Restaurants](/niches/restaurants), [Travel Agencies](/niches/travel-agencies)
@@ -34,8 +34,8 @@ Every page header also has **Book a demo** (/demo) and **Start free trial** (/st
 
 ## Cluster hubs
 
-- /features: 28 pages, grouped (cards rendered from the same data as the pages)
-- /niches: 23 pages, grouped (cards rendered from the same data as the pages)
+- /features: 27 pages, grouped (cards rendered from the same data as the pages)
+- /niches: 26 pages, grouped (cards rendered from the same data as the pages)
 - /problems: 6 pages, grouped (cards rendered from the same data as the pages)
 - /compare: 5 pages, grouped (cards rendered from the same data as the pages)
 - /locations: 17 pages, grouped (cards rendered from the same data as the pages)
@@ -98,9 +98,8 @@ CTA = the page's one primary call to action (trial = /start → Stripe checkout;
 | /features/memberships | trial | /features/communities | /compare/gohighlevel | /marketing-automation-for-small-business |
 | /features/lead-capture-forms | trial | /features/workflow-automations | /compare/hubspot | /blog/ultimate-b2b-follow-ups |
 | /features/customer-surveys | trial | /features/reputation-management | /compare/hubspot | /blog/reputation-management-guide |
-| /features/trigger-links | trial | /features/automation-triggers | /compare/activecampaign | /blog/multi-channel-marketing |
+| /features/trigger-links | trial | /features/workflow-automations | /compare/activecampaign | /blog/multi-channel-marketing |
 | /features/sms-and-email-templates | trial | /features/email-sms-marketing | /compare/activecampaign | /blog/ultimate-b2b-follow-ups |
-| /features/automation-triggers | trial | /features/workflow-automations | /compare/activecampaign | /blog/5-essential-automations |
 | /features/marketing-campaigns | trial | /features/social-media-planner | /compare/activecampaign | /blog/multi-channel-marketing |
 | /features/social-media-planner | trial | /features/blog-publishing | /compare/hubspot | /blog/mastering-local-seo |
 | /features/invoicing | trial | /features/proposals-and-estimates | /compare/hubspot | /blog/economics-of-crm-roi |
@@ -110,7 +109,7 @@ CTA = the page's one primary call to action (trial = /start → Stripe checkout;
 | /features/mobile-app | trial | /features/omnichannel-messaging | /compare/salesforce | /crm-for-local-businesses |
 | /features/crm-contact-management | trial | /features/sales-pipelines | /compare/hubspot | /crm-for-local-businesses |
 | /features/email-sms-marketing | trial | /features/sms-and-email-templates | /compare/activecampaign | /blog/ultimate-b2b-follow-ups |
-| /features/workflow-automations | trial | /features/automation-triggers | /compare/activecampaign | /blog/setup-first-automation |
+| /features/workflow-automations | trial | /features/trigger-links | /compare/activecampaign | /blog/setup-first-automation |
 | /features/sales-pipelines | trial | /features/proposals-and-estimates | /compare/salesforce | /crm-for-local-businesses |
 | /features/appointment-booking | trial | /features/workflow-automations | /compare/calendly | /blog/5-essential-automations |
 | /features/omnichannel-messaging | trial | /features/mobile-app | /compare/hubspot | /blog/why-unified-crm |
@@ -140,6 +139,9 @@ CTA = the page's one primary call to action (trial = /start → Stripe checkout;
 | /niches/consulting-firms | trial | /features/proposals-and-estimates | /compare/hubspot | /blog/ultimate-b2b-follow-ups |
 | /niches/it-services | trial | /features/sales-pipelines | /compare/hubspot | /blog/ultimate-b2b-follow-ups |
 | /niches/marketing-agencies | trial | /features/sales-pipelines | /compare/gohighlevel | /blog/economics-of-crm-roi |
+| /niches/hvac | trial | /features/missed-call-text-back | /compare/hubspot | /blog/stop-missing-calls |
+| /niches/landscaping | trial | /features/proposals-and-estimates | /compare/hubspot | /blog/5-essential-automations |
+| /niches/home-services | trial | /features/appointment-booking | /compare/gohighlevel | /blog/reputation-management-guide |
 | /problems/missed-calls | trial | /features/missed-call-text-back | /compare/gohighlevel | /blog/stop-missing-calls |
 | /problems/slow-follow-up | trial | /features/workflow-automations | /compare/activecampaign | /blog/5-essential-automations |
 | /problems/disconnected-tools | trial | /features/crm-contact-management | /compare/hubspot | /blog/why-unified-crm |

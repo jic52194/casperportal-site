@@ -52,7 +52,6 @@ https://casperportal.com/features/lead-capture-forms
 https://casperportal.com/features/customer-surveys
 https://casperportal.com/features/trigger-links
 https://casperportal.com/features/sms-and-email-templates
-https://casperportal.com/features/automation-triggers
 https://casperportal.com/features/marketing-campaigns
 https://casperportal.com/features/social-media-planner
 https://casperportal.com/features/invoicing
@@ -92,6 +91,9 @@ https://casperportal.com/niches/legal-firms
 https://casperportal.com/niches/consulting-firms
 https://casperportal.com/niches/it-services
 https://casperportal.com/niches/marketing-agencies
+https://casperportal.com/niches/hvac
+https://casperportal.com/niches/landscaping
+https://casperportal.com/niches/home-services
 https://casperportal.com/problems/missed-calls
 https://casperportal.com/problems/slow-follow-up
 https://casperportal.com/problems/disconnected-tools

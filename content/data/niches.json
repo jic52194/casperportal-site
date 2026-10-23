@@ -1,1447 +1,1627 @@
 {
-  "dental-clinics": {
-    "name": "Dental Clinics",
-    "kw": "CRM for dental practices",
-    "cluster": "health-wellness",
-    "title": "CRM for Dental Practices: Reminders & Reviews | CasperPortal",
-    "desc": "CRM for dental practices: text back missed calls, let patients book online, send reminders and ask for Google reviews. Try CasperPortal free for 14 days.",
-    "h1": "CRM for Dental Practices",
-    "intro": "A CRM for dental practices keeps every new-patient inquiry, appointment and review request in one place. CasperPortal texts back calls the front desk misses, lets patients book online, sends text and email reminders before each visit, and asks for a Google review afterward, so fewer chairs sit empty and fewer new patients slip away.",
-    "summary": "Fill the schedule: missed-call text back, online booking, reminders and review requests for dental offices.",
-    "pains": [
-      {
-        "h": "The front desk cannot answer every call",
-        "p": "When the team is checking patients in or on another line, new-patient calls go to voicemail. Many of those callers simply try the next practice on the list."
-      },
-      {
-        "h": "No-shows and late cancellations leave gaps",
-        "p": "A forgotten cleaning is an empty chair you cannot fill at the last minute. Reminder calls by hand take staff time the desk rarely has."
-      },
-      {
-        "h": "Happy patients rarely leave reviews unprompted",
-        "p": "Most satisfied patients never think to post a review. Without a simple, timely ask, your Google profile does not reflect the care you give."
-      }
-    ],
-    "workflow": [
-      "A new patient calls during a busy check-in and nobody picks up",
-      "CasperPortal texts them back automatically with a link to your booking calendar",
-      "They pick a time and get a confirmation by text and email",
-      "Reminders go out before the visit at the times you choose",
-      "After the appointment is marked complete, a Google review request is sent"
-    ],
-    "features": [
-      "missed-call-text-back",
-      "appointment-booking",
-      "reputation-management",
-      "omnichannel-messaging"
-    ],
-    "faqs": [
-      [
-        "How can dental clinics automate appointment reminders?",
-        "Connect your services to the CasperPortal booking calendar and set reminder messages by text and email. They send automatically before each appointment at the times you choose, with no manual calls."
-      ],
-      [
-        "Can CasperPortal help a dental practice get more Google reviews?",
-        "Yes. When an appointment is marked complete, CasperPortal can text and email the patient a direct link to your Google review page."
-      ],
-      [
-        "Does CasperPortal replace my practice management software?",
-        "No. Keep clinical charts and treatment records in your practice management system. CasperPortal handles the patient communication around them: calls, texts, booking, reminders and reviews."
-      ],
-      [
-        "Can we keep our existing office phone number?",
-        "Yes. You can port your existing number into CasperPortal or use a local tracking number that forwards to your office line."
-      ]
-    ],
-    "next": {
-      "feature": "/features/appointment-booking",
-      "compare": "/compare/calendly",
-      "guide": "/blog/stop-missing-calls"
-    },
-    "image": {
-      "src": "/img/8e295edd-6a86-4f30-b4bc-3b70d00f5f0c-3dd741.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Dental Clinics"
-    }
+ "dental-clinics": {
+  "name": "Dental Clinics",
+  "kw": "CRM for dental practices",
+  "cluster": "health-wellness",
+  "title": "CRM for Dental Practices: Reminders & Reviews | CasperPortal",
+  "desc": "CRM for dental practices: text back missed calls, let patients book online, send reminders and ask for Google reviews. Try CasperPortal free for 14 days.",
+  "h1": "CRM for Dental Practices",
+  "intro": "A CRM for dental practices keeps every new-patient inquiry, appointment and review request in one place. CasperPortal texts back calls the front desk misses, lets patients book online, sends text and email reminders before each visit, and asks for a Google review afterward, so fewer chairs sit empty and fewer new patients slip away.",
+  "summary": "Fill the schedule: missed-call text back, online booking, reminders and review requests for dental offices.",
+  "pains": [
+   {
+    "h": "The front desk cannot answer every call",
+    "p": "When the team is checking patients in or on another line, new-patient calls go to voicemail. Many of those callers simply try the next practice on the list."
+   },
+   {
+    "h": "No-shows and late cancellations leave gaps",
+    "p": "A forgotten cleaning is an empty chair you cannot fill at the last minute. Reminder calls by hand take staff time the desk rarely has."
+   },
+   {
+    "h": "Happy patients rarely leave reviews unprompted",
+    "p": "Most satisfied patients never think to post a review. Without a simple, timely ask, your Google profile does not reflect the care you give."
+   }
+  ],
+  "workflow": [
+   "A new patient calls during a busy check-in and nobody picks up",
+   "CasperPortal texts them back automatically with a link to your booking calendar",
+   "They pick a time and get a confirmation by text and email",
+   "Reminders go out before the visit at the times you choose",
+   "After the appointment is marked complete, a Google review request is sent"
+  ],
+  "features": [
+   "missed-call-text-back",
+   "appointment-booking",
+   "reputation-management",
+   "omnichannel-messaging"
+  ],
+  "faqs": [
+   [
+    "How can dental clinics automate appointment reminders?",
+    "Connect your services to the CasperPortal booking calendar and set reminder messages by text and email. They send automatically before each appointment at the times you choose, with no manual calls."
+   ],
+   [
+    "Can CasperPortal help a dental practice get more Google reviews?",
+    "Yes. When an appointment is marked complete, CasperPortal can text and email the patient a direct link to your Google review page."
+   ],
+   [
+    "Does CasperPortal replace my practice management software?",
+    "No. Keep clinical charts and treatment records in your practice management system. CasperPortal handles the patient communication around them: calls, texts, booking, reminders and reviews."
+   ],
+   [
+    "Can we keep our existing office phone number?",
+    "Yes. You can port your existing number into CasperPortal or use a local tracking number that forwards to your office line."
+   ]
+  ],
+  "next": {
+   "feature": "/features/appointment-booking",
+   "compare": "/compare/calendly",
+   "guide": "/blog/stop-missing-calls"
   },
-  "beauty-salons": {
-    "name": "Beauty Salons",
-    "kw": "CRM for salons",
-    "cluster": "health-wellness",
-    "title": "CRM for Salons: Booking, Reminders & Reviews | CasperPortal",
-    "desc": "CRM for salons: online booking, text reminders, missed-call text back and automatic review requests in one app. Start a 14-day free trial of CasperPortal.",
-    "h1": "CRM for Salons and Beauty Studios",
-    "intro": "A CRM for salons books clients, reminds them before their appointment and brings them back for the next one. CasperPortal gives your salon online booking, automatic text reminders, missed-call text back while you are with a client, and a review request after each visit, all in one inbox you can run from your phone.",
-    "summary": "Online booking, text reminders, rebooking nudges and review requests for hair, nail and skin salons.",
-    "pains": [
-      {
-        "h": "Your hands are busy when the phone rings",
-        "p": "Stylists and technicians cannot stop mid-service to answer. A caller who reaches voicemail often books somewhere else instead of waiting."
-      },
-      {
-        "h": "No-shows cost you a whole time slot",
-        "p": "A missed appointment is time you cannot resell on short notice. Without reminders, forgotten bookings add up over a week."
-      },
-      {
-        "h": "Clients drift away between visits",
-        "p": "Regulars who are not reminded to rebook slowly stretch the time between appointments or try another salon."
-      }
-    ],
-    "workflow": [
-      "A client calls while you are mid-color and the call goes unanswered",
-      "CasperPortal texts back with your online booking link",
-      "They book a service and get reminders by text before the visit",
-      "After the appointment, a review request goes out automatically",
-      "A few weeks later, a rebooking text invites them back"
-    ],
-    "features": [
-      "appointment-booking",
-      "missed-call-text-back",
-      "reputation-management",
-      "email-sms-marketing"
-    ],
-    "faqs": [
-      [
-        "How do salons reduce no-shows with CasperPortal?",
-        "Clients who book through your CasperPortal calendar get automatic text and email reminders before the appointment, at the times you set. They can reply to the text if they need to reschedule."
-      ],
-      [
-        "Can we automate review requests after a hair or skin service?",
-        "Yes. When an appointment is marked complete, CasperPortal can send the client a text with a direct link to leave a Google review."
-      ],
-      [
-        "Can clients pay or leave a deposit by text?",
-        "CasperPortal includes text-to-pay, so you can send a payment link by text. Set your own deposit and cancellation policy and send the link when you need it."
-      ],
-      [
-        "Can I run the salon from my phone?",
-        "Yes. The CasperPortal iOS and Android app lets you reply to clients, check the calendar and send payment links from anywhere."
-      ]
-    ],
-    "next": {
-      "feature": "/features/appointment-booking",
-      "compare": "/compare/calendly",
-      "guide": "/blog/reputation-management-guide"
-    },
-    "image": {
-      "src": "/img/0df13cbf-9012-42a5-af3e-93d4d86b64b7-58cf64.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Beauty Salons"
-    }
-  },
-  "fitness-centers-gyms": {
-    "name": "Fitness Centers & Gyms",
-    "kw": "CRM for gyms",
-    "cluster": "health-wellness",
-    "title": "CRM for Gyms: Trial Follow-Up & Class Booking | CasperPortal",
-    "desc": "CRM for gyms and fitness studios: text free-trial leads right away, book intro sessions and classes, and turn prospects into members. Try it free.",
-    "h1": "CRM for Gyms and Fitness Studios",
-    "intro": "A CRM for gyms turns free-trial signups and walk-in inquiries into paying members. CasperPortal texts new leads as soon as they fill out your trial form, lets them book an intro session or class from a link, and follows up by text and email until they join, so prospects do not go cold after their first visit.",
-    "summary": "Turn trial signups into members with instant texts, class and session booking, and automated follow-up.",
-    "pains": [
-      {
-        "h": "Trial leads go cold fast",
-        "p": "Someone who signs up for a free pass is motivated today. If nobody reaches out until next week, the motivation and the lead are often gone."
-      },
-      {
-        "h": "Booking intro sessions takes back-and-forth",
-        "p": "Texting and calling to find a time for a tour or first class eats staff time and loses people who are not willing to wait."
-      },
-      {
-        "h": "Members quietly stop showing up",
-        "p": "Without regular check-ins, members who skip a few weeks tend to cancel rather than come back."
-      }
-    ],
-    "workflow": [
-      "A prospect fills out the free-trial form on your website",
-      "CasperPortal texts them right away with a link to book their first visit",
-      "They pick an intro session or class on your calendar",
-      "A follow-up sequence by text and email shares classes, schedule and membership options",
-      "Trainers see every lead and member in one pipeline and inbox"
-    ],
-    "features": [
-      "lead-capture-forms",
-      "appointment-booking",
-      "workflow-automations",
-      "memberships"
-    ],
-    "faqs": [
-      [
-        "How do gyms automate membership inquiries?",
-        "When someone fills out a free-trial form on your site, CasperPortal can text them right away to book their first visit, then follow up with a series of emails and texts about your classes and membership options."
-      ],
-      [
-        "Can members book classes and personal training through CasperPortal?",
-        "Yes. The built-in calendar lets members book personal training sessions or group classes from your website or from a link in a text message."
-      ],
-      [
-        "Can we re-engage members who stop coming in?",
-        "Yes. You can tag members and send check-in texts or emails to people who have not booked in a while, using the automation timing you choose."
-      ]
-    ],
-    "next": {
-      "feature": "/features/lead-capture-forms",
-      "compare": "/compare/gohighlevel",
-      "guide": "/blog/5-essential-automations"
-    },
-    "image": {
-      "src": "/img/174d162d-3fc9-455b-8b78-fa1ecda2d6a8-7d71e9.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Fitness Centers/Gyms"
-    }
-  },
-  "daycare-centers": {
-    "name": "Daycare Centers",
-    "kw": "CRM for daycare centers",
-    "cluster": "health-wellness",
-    "title": "CRM for Daycare Centers: Enrollment & Tours | CasperPortal",
-    "desc": "CRM for daycare centers: track every enrollment inquiry from first call to tour to start date, and send parent updates by text and email. Try it free.",
-    "h1": "CRM for Daycare Centers and Child Care Programs",
-    "intro": "A CRM for daycare centers tracks every family from first inquiry to tour to enrollment. CasperPortal captures inquiries from your website and phone, lets parents book a tour online, follows up automatically while they decide, and sends announcements and closure alerts to enrolled families by text and email.",
-    "summary": "Track enrollment from inquiry to tour to start date, and keep parents informed by text and email.",
-    "pains": [
-      {
-        "h": "Inquiries arrive while staff are with children",
-        "p": "Directors and teachers cannot always step away to answer the phone or reply to a web form, so parents wait or keep shopping."
-      },
-      {
-        "h": "Waitlists and tours live on paper",
-        "p": "When inquiries, tour dates and waitlist spots are tracked in notebooks or spreadsheets, families get forgotten between steps."
-      },
-      {
-        "h": "Urgent updates are hard to send quickly",
-        "p": "Closures, schedule changes and reminders need to reach every parent at once, not through a chain of individual calls."
-      }
-    ],
-    "workflow": [
-      "A parent submits an inquiry form or calls after hours",
-      "CasperPortal replies by text with a link to book a tour",
-      "The family moves through your enrollment pipeline: inquiry, tour, application, enrolled",
-      "Automated follow-ups answer common questions while they decide",
-      "Enrolled families receive announcements and closure alerts by text and email"
-    ],
-    "features": [
-      "sales-pipelines",
-      "appointment-booking",
-      "lead-capture-forms",
-      "email-sms-marketing"
-    ],
-    "faqs": [
-      [
-        "How do daycare centers manage enrollment inquiries in CasperPortal?",
-        "Each inquiry becomes a contact in an enrollment pipeline, from first website visit or call to tour and final enrollment. Automated follow-ups make sure parents get the information they need to decide."
-      ],
-      [
-        "Can we automate parent communication?",
-        "Yes. You can send announcements, holiday reminders and weather-related closure alerts to all parents, or to one classroom group, by text and email."
-      ],
-      [
-        "Can parents book a tour online?",
-        "Yes. Share a CasperPortal booking link on your website or in a text so parents can pick a tour time that fits your schedule."
-      ]
-    ],
-    "next": {
-      "feature": "/features/sales-pipelines",
-      "compare": "/compare/hubspot",
-      "guide": "/crm-for-local-businesses"
-    },
-    "image": {
-      "src": "/img/37ba94e4-a995-4934-a982-94d55c0a2532-21cb64.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Daycare Centers"
-    }
-  },
-  "pharmacies": {
-    "name": "Pharmacies",
-    "kw": "CRM for pharmacies",
-    "cluster": "retail",
-    "title": "CRM for Pharmacies: Reminders & Outreach | CasperPortal",
-    "desc": "CRM for pharmacies: send vaccine-clinic and service reminders, answer customer texts in one inbox and grow repeat visits. Start a 14-day free trial.",
-    "h1": "CRM for Pharmacies and Independent Drugstores",
-    "intro": "A CRM for pharmacies helps an independent store stay in touch with customers between visits. CasperPortal lets you announce flu-shot clinics and new in-store services, book consultation or vaccine appointments online, answer customer texts and messages from one inbox, and ask for reviews, while dispensing records stay in your pharmacy system.",
-    "summary": "Service announcements, vaccine-clinic booking and one inbox for customer messages at independent pharmacies.",
-    "pains": [
-      {
-        "h": "The phone line is always busy",
-        "p": "Counter staff juggle prescriptions, insurance calls and walk-ins. General questions and service inquiries often go unanswered."
-      },
-      {
-        "h": "Customers do not know about your services",
-        "p": "Vaccine clinics, consultations and wellness services only fill up if customers hear about them at the right time."
-      },
-      {
-        "h": "Chain stores compete on convenience",
-        "p": "An independent pharmacy wins on personal service, but that is hard to deliver at scale without a system to remember each customer."
-      }
-    ],
-    "workflow": [
-      "You schedule a seasonal flu-shot clinic on your calendar",
-      "A text and email announcement goes to customers who opted in",
-      "They book a time slot from the link",
-      "Reminders go out before the appointment",
-      "Afterward, a review request invites them to share their experience"
-    ],
-    "features": [
-      "email-sms-marketing",
-      "appointment-booking",
-      "omnichannel-messaging",
-      "reputation-management"
-    ],
-    "faqs": [
-      [
-        "How can pharmacies use automated reminders?",
-        "Pharmacies use CasperPortal to send wellness tips, flu-shot clinic reminders and notices about new in-store services by text and email to customers who have opted in."
-      ],
-      [
-        "Should prescription records be stored in CasperPortal?",
-        "Keep prescription and dispensing records in your pharmacy management system. Use CasperPortal for marketing, appointment booking and general customer communication. See our security page for how data is handled."
-      ],
-      [
-        "Can we track customer preferences in the CRM?",
-        "Yes. Custom fields and tags let you note preferences and interests so you can send relevant offers for over-the-counter products or consultations."
-      ]
-    ],
-    "next": {
-      "feature": "/features/email-sms-marketing",
-      "compare": "/compare/activecampaign",
-      "guide": "/blog/multi-channel-marketing"
-    },
-    "image": {
-      "src": "/img/23254c0a-15eb-4b5d-b6a1-662da016cade-b15118.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Pharmacies"
-    }
-  },
-  "construction-companies": {
-    "name": "Construction Companies",
-    "kw": "CRM for construction companies",
-    "cluster": "home-trades",
-    "title": "CRM for Construction Companies: Bids & Leads | CasperPortal",
-    "desc": "CRM for construction companies and contractors: text back missed calls from the job site, track every bid in a pipeline and send estimates. Try it free.",
-    "h1": "CRM for Construction Companies and Contractors",
-    "intro": "A CRM for construction companies tracks every lead and bid from first call to signed contract. CasperPortal texts back calls you miss on the job site, puts each estimate in a visual pipeline, sends proposals and invoices, and follows up automatically, so jobs are not lost because you were too busy building to answer.",
-    "summary": "Missed-call text back from the job site, bid pipelines, estimates and invoicing for contractors.",
-    "pains": [
-      {
-        "h": "You miss calls on the job site",
-        "p": "When you are running a saw or up a ladder, you cannot pick up. A homeowner who hits voicemail often calls the next contractor."
-      },
-      {
-        "h": "Bids disappear after you send them",
-        "p": "Without a follow-up system, estimates sit unanswered and you never learn whether the customer chose someone else or just got busy."
-      },
-      {
-        "h": "Paperwork happens at night",
-        "p": "Writing proposals, chasing payments and returning messages after a full day on site eats into time you do not have."
-      }
-    ],
-    "workflow": [
-      "A homeowner calls while you are on a job and the call is missed",
-      "CasperPortal texts them back so they know you will respond",
-      "The lead lands in your pipeline and you book a site visit",
-      "You send a proposal or estimate, and follow-up texts go out if it is not signed",
-      "When the job is done, you send an invoice with a pay link and a review request"
-    ],
-    "features": [
-      "missed-call-text-back",
-      "sales-pipelines",
-      "proposals-and-estimates",
-      "invoicing"
-    ],
-    "faqs": [
-      [
-        "How does a CRM help construction companies?",
-        "Construction companies use CasperPortal to track bids, manage project pipelines and keep up follow-up with clients. You can see which stage every quote is in and who needs a call today."
-      ],
-      [
-        "Can contractors use missed call text-back?",
-        "Yes. If you miss a call on a job site, CasperPortal automatically texts the caller back so they can tell you what they need instead of calling another contractor."
-      ],
-      [
-        "Can I send estimates and invoices from CasperPortal?",
-        "Yes. You can send proposals and estimates, then invoices with a payment link, from the same system that holds the customer record."
-      ],
-      [
-        "Does it work from my phone?",
-        "Yes. The CasperPortal iOS and Android app lets you reply to leads, check your calendar and send invoices from the truck."
-      ]
-    ],
-    "next": {
-      "feature": "/features/missed-call-text-back",
-      "compare": "/compare/hubspot",
-      "guide": "/blog/stop-missing-calls"
-    },
-    "image": {
-      "src": "/img/373efd41-2b58-4cf2-a7f1-6ca7ca1a21b7-7a7dae.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Construction Companies"
-    }
-  },
-  "restaurants": {
-    "name": "Restaurants",
-    "kw": "CRM for restaurants",
-    "cluster": "hospitality-events",
-    "title": "CRM for Restaurants: Texts, Offers & Reviews | CasperPortal",
-    "desc": "CRM for restaurants: text back calls missed during the rush, send birthday and slow-night offers, and ask diners for reviews. Try it free for 14 days.",
-    "h1": "CRM for Restaurants",
-    "intro": "A CRM for restaurants turns one-time diners into regulars. CasperPortal texts back calls missed during the dinner rush with a link to your menu or reservations, stores guest contacts and birthdays, sends text offers on slow nights, and asks guests for a Google review after their visit, all from one inbox and mobile app.",
-    "summary": "Missed-call text back during the rush, guest lists, slow-night text offers and review requests.",
-    "pains": [
-      {
-        "h": "Nobody can answer during the rush",
-        "p": "At peak hours the host stand and kitchen are slammed, so reservation and takeout calls ring out. Those guests may order elsewhere."
-      },
-      {
-        "h": "You do not own a guest list",
-        "p": "If your diners only exist inside third-party apps, you have no direct way to invite them back on a quiet Tuesday."
-      },
-      {
-        "h": "Reviews come mostly from unhappy guests",
-        "p": "Satisfied diners rarely post on their own, so a few complaints can shape what new customers see."
-      }
-    ],
-    "workflow": [
-      "A guest calls for a table during the dinner rush and nobody answers",
-      "CasperPortal texts back with your reservation link or online menu",
-      "The guest is saved as a contact with opt-in for offers",
-      "On a slow night, you send a text offer to your guest list",
-      "After the visit, a review request goes out by text"
-    ],
-    "features": [
-      "missed-call-text-back",
-      "email-sms-marketing",
-      "reputation-management",
-      "social-media-planner"
-    ],
-    "faqs": [
-      [
-        "How does missed call text-back help restaurants?",
-        "During a busy dinner rush, hosts miss calls for reservations or takeout. Missed call text-back automatically texts the caller a link to your reservation system or menu, so the order is not lost."
-      ],
-      [
-        "Can restaurants use CasperPortal for loyalty offers?",
-        "Yes. You can build automated text campaigns for birthday offers, slow-day promotions and review requests to guests who have opted in."
-      ],
-      [
-        "Can we schedule social posts too?",
-        "Yes. The social media planner lets you schedule posts ahead of time so specials and events go out without someone posting by hand each day."
-      ]
-    ],
-    "next": {
-      "feature": "/features/missed-call-text-back",
-      "compare": "/compare/activecampaign",
-      "guide": "/blog/multi-channel-marketing"
-    },
-    "image": {
-      "src": "/img/06aedf77-71c6-4560-89e4-f33bac5747e4-67ea1c.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Restaurants"
-    }
-  },
-  "breweries": {
-    "name": "Breweries",
-    "kw": "CRM for breweries",
-    "cluster": "hospitality-events",
-    "title": "CRM for Breweries: Taproom Events & Texts | CasperPortal",
-    "desc": "CRM for breweries and taprooms: text regulars about new releases and events, book private events online and collect reviews. Start a 14-day free trial.",
-    "h1": "CRM for Breweries and Taprooms",
-    "intro": "A CRM for breweries helps a taproom build a list of regulars and bring them back. CasperPortal sends text and email alerts about new releases, food trucks and live music, takes private event and table bookings online, keeps all messages in one inbox, and asks visitors for reviews after they stop in.",
-    "summary": "Release and event alerts by text, private-event booking and review requests for taprooms.",
-    "pains": [
-      {
-        "h": "Regulars miss your announcements",
-        "p": "Social posts reach only part of your followers. A new release or event can come and go before your best customers hear about it."
-      },
-      {
-        "h": "Private event inquiries get lost",
-        "p": "Requests arrive by phone, email, website and social messages, and it is easy to drop one when the bar is busy."
-      },
-      {
-        "h": "Mid-week traffic is slow",
-        "p": "Without a direct way to reach locals, quiet weeknights stay quiet."
-      }
-    ],
-    "workflow": [
-      "A visitor scans a QR code at the bar and joins your text list",
-      "You announce a new release or trivia night by text and email",
-      "A group requests a private event through your booking link",
-      "The inquiry lands in a pipeline so you track deposit, date and details",
-      "After the event, a review request goes out automatically"
-    ],
-    "features": [
-      "email-sms-marketing",
-      "appointment-booking",
-      "lead-capture-forms",
-      "social-media-planner"
-    ],
-    "faqs": [
-      [
-        "How do breweries use SMS for taproom events?",
-        "Breweries use CasperPortal to text opted-in regulars about new beer releases, food truck schedules and live music, which gives you a direct line to locals without relying on social media reach."
-      ],
-      [
-        "Can we manage event bookings for the taproom?",
-        "Yes. Use the CasperPortal calendar so customers can book private events or table reservations from your website."
-      ],
-      [
-        "How do we grow our text list?",
-        "Put a CasperPortal form or QR code at the bar or on your website so visitors can opt in to texts and emails."
-      ]
-    ],
-    "next": {
-      "feature": "/features/email-sms-marketing",
-      "compare": "/compare/activecampaign",
-      "guide": "/blog/multi-channel-marketing"
-    },
-    "image": {
-      "src": "/img/0060a5e3-0467-475a-8c5f-9e8e362b5e88-175dda.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Breweries"
-    }
-  },
-  "hotels": {
-    "name": "Hotels",
-    "kw": "CRM for hotels",
-    "cluster": "hospitality-events",
-    "title": "CRM for Hotels and Inns: Guest Messaging | CasperPortal",
-    "desc": "CRM for hotels, inns and B&Bs: answer guest messages from every channel in one inbox, automate confirmations and pre-arrival texts, and request reviews.",
-    "h1": "CRM for Hotels, Inns and B&Bs",
-    "intro": "A CRM for hotels keeps every guest conversation and booking follow-up in one place. CasperPortal pulls messages from your website, Facebook and text into a single inbox, sends confirmation and pre-arrival messages automatically, and asks guests for a review after checkout, which helps smaller hotels and inns compete on service.",
-    "summary": "One inbox for guest messages, automated confirmations and pre-arrival texts, and post-stay review requests.",
-    "pains": [
-      {
-        "h": "Guest questions arrive everywhere",
-        "p": "Questions come by phone, email, website chat and Facebook. Without one inbox, some go unanswered until the guest has booked elsewhere."
-      },
-      {
-        "h": "Pre-arrival details take staff time",
-        "p": "Directions, parking, check-in times and local tips get typed out again and again for each reservation."
-      },
-      {
-        "h": "Reviews do not keep pace with stays",
-        "p": "Most guests check out and forget to review, so your listing does not reflect your recent stays."
-      }
-    ],
-    "workflow": [
-      "A traveler asks about availability through website chat",
-      "The message lands in your shared inbox and staff reply in one place",
-      "Once they book, a confirmation goes out by text and email",
-      "A pre-arrival message shares check-in details and local tips",
-      "After checkout, a review request is sent automatically"
-    ],
-    "features": [
-      "omnichannel-messaging",
-      "website-live-chat",
-      "workflow-automations",
-      "reputation-management"
-    ],
-    "faqs": [
-      [
-        "How can hotels use CasperPortal for guest communication?",
-        "Hotels use the unified inbox to handle inquiries from Facebook, website chat, text and email in one place. Automated messages before arrival and review requests after checkout help keep guests informed and happy."
-      ],
-      [
-        "Can we automate booking confirmations?",
-        "Yes. CasperPortal can send text and email confirmations when a guest books, followed by pre-arrival tips to help them plan their stay."
-      ],
-      [
-        "Does CasperPortal replace our booking engine?",
-        "No. Keep your property management system or booking engine for reservations and rates. CasperPortal handles guest messaging, follow-up and reviews around it."
-      ]
-    ],
-    "next": {
-      "feature": "/features/omnichannel-messaging",
-      "compare": "/compare/hubspot",
-      "guide": "/blog/reputation-management-guide"
-    },
-    "image": {
-      "src": "/img/06aedf77-71c6-4560-89e4-f33bac5747e4-67ea1c.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Hotels"
-    }
-  },
-  "event-planners": {
-    "name": "Event Planners",
-    "kw": "CRM for event planners",
-    "cluster": "hospitality-events",
-    "title": "CRM for Event Planners: Inquiries & Proposals | CasperPortal",
-    "desc": "CRM for event planners: capture inquiries, book consultations, send proposals and invoices, and track every event in its own pipeline. Try it 14 days free.",
-    "h1": "CRM for Event Planners",
-    "intro": "A CRM for event planners tracks every inquiry, proposal and event date in one system. CasperPortal captures leads from your website and social messages, lets couples and clients book a consultation, sends proposals and invoices with payment links, and follows up after the event for feedback and reviews.",
-    "summary": "Inquiry capture, consultation booking, proposals, payment links and post-event feedback for planners.",
-    "pains": [
-      {
-        "h": "Inquiries pile up in different inboxes",
-        "p": "Leads come from your website, Instagram, Facebook and referrals. Tracking them across apps means slow replies and lost bookings."
-      },
-      {
-        "h": "Every event has its own moving parts",
-        "p": "Contracts, deposits, deadlines and vendor details are hard to keep straight across several events at once."
-      },
-      {
-        "h": "Feedback and reviews are an afterthought",
-        "p": "After a big event you are already onto the next one, so asking for testimonials and reviews slips."
-      }
-    ],
-    "workflow": [
-      "A client fills out your inquiry form with date and guest count",
-      "CasperPortal replies right away with a link to book a consultation",
-      "You send a proposal, then an invoice with a pay link for the deposit",
-      "The event moves through your pipeline with tasks for each deadline",
-      "After the event, a survey and review request go out automatically"
-    ],
-    "features": [
-      "lead-capture-forms",
-      "proposals-and-estimates",
-      "sales-pipelines",
-      "customer-surveys"
-    ],
-    "faqs": [
-      [
-        "How do event planners manage client communication?",
-        "Planners use CasperPortal to keep client messages from text, email and social channels in one inbox. You can create pipelines to track each event through contract, payment and deadlines."
-      ],
-      [
-        "Can we automate feedback collection after an event?",
-        "Yes. Set up a workflow that sends a survey to the client after the event to gather feedback, followed by a review request."
-      ],
-      [
-        "Can clients pay deposits online?",
-        "Yes. You can send invoices with a payment link, or a text-to-pay link, so deposits and final balances are easy to collect."
-      ]
-    ],
-    "next": {
-      "feature": "/features/proposals-and-estimates",
-      "compare": "/compare/hubspot",
-      "guide": "/blog/5-essential-automations"
-    },
-    "image": {
-      "src": "/img/0e674ed4-31c4-457c-a91d-370952b37a9e-394bb1.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Event Planners"
-    }
-  },
-  "travel-agencies": {
-    "name": "Travel Agencies",
-    "kw": "CRM for travel agencies",
-    "cluster": "hospitality-events",
-    "title": "CRM for Travel Agencies and Advisors | CasperPortal",
-    "desc": "CRM for travel agencies and advisors: tag clients by destination interest, send targeted trip ideas and automate pre-trip reminders. Try CasperPortal free.",
-    "h1": "CRM for Travel Agencies and Travel Advisors",
-    "intro": "A CRM for travel agencies remembers what each client wants and follows up at the right moment. CasperPortal lets you tag clients by interest, such as cruises or Europe, send targeted email and text campaigns, book planning calls online, and send pre-trip reminders automatically, so past travelers come back for their next trip.",
-    "summary": "Tag clients by destination interest, send targeted trip ideas and automate pre-trip reminders.",
-    "pains": [
-      {
-        "h": "Client interests live in your head",
-        "p": "Who wanted a river cruise, who travels every spring break? Without a record, those opportunities are easy to forget."
-      },
-      {
-        "h": "Quotes go out and go quiet",
-        "p": "Travelers compare options for days. Without timely follow-up, they book online or with another advisor."
-      },
-      {
-        "h": "Past clients are not invited back",
-        "p": "A happy traveler is your best lead for the next trip, but only if you stay in touch between bookings."
-      }
-    ],
-    "workflow": [
-      "A traveler fills out your trip-request form",
-      "CasperPortal tags them by destination and travel style",
-      "They book a planning call from a link in the reply text",
-      "If the quote is not accepted, follow-up messages go out on your schedule",
-      "Before departure, automated emails share reminders and packing tips"
-    ],
-    "features": [
-      "crm-contact-management",
-      "email-sms-marketing",
-      "workflow-automations",
-      "appointment-booking"
-    ],
-    "faqs": [
-      [
-        "How do travel agents manage inquiries for different destinations?",
-        "Use tags and custom fields to track client interests, such as Europe, cruises or family trips. Then send targeted emails that match the right trip to the right client."
-      ],
-      [
-        "Can we automate itinerary reminders?",
-        "Yes. Set up workflows that send pre-trip emails with packing lists, travel tips and reminders ahead of each departure date."
-      ],
-      [
-        "Can clients book a planning call online?",
-        "Yes. Share your CasperPortal booking link so clients can choose a time for a planning call without back-and-forth emails."
-      ]
-    ],
-    "next": {
-      "feature": "/features/email-sms-marketing",
-      "compare": "/compare/activecampaign",
-      "guide": "/blog/multi-channel-marketing"
-    },
-    "image": {
-      "src": "/img/262b333c-57ec-4c07-976a-92fe19ac9e33-8a829d.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Travel Agencies"
-    }
-  },
-  "clothing-boutiques": {
-    "name": "Clothing Boutiques",
-    "kw": "CRM for clothing boutiques",
-    "cluster": "retail",
-    "title": "CRM for Clothing Boutiques: VIP Lists & Texts | CasperPortal",
-    "desc": "CRM for clothing boutiques: build a VIP text list, track sizes and style preferences, and announce new arrivals and events. Start a 14-day free trial.",
-    "h1": "CRM for Clothing Boutiques",
-    "intro": "A CRM for clothing boutiques helps you know your best customers and bring them back when new stock arrives. CasperPortal stores sizes, style preferences and purchase notes, sends text and email announcements for new arrivals and VIP events, answers Instagram and Facebook messages in one inbox, and asks shoppers for reviews.",
-    "summary": "VIP text lists, size and style notes, new-arrival alerts and one inbox for social messages.",
-    "pains": [
-      {
-        "h": "Social posts do not reach everyone",
-        "p": "New arrivals posted on Instagram are seen by only part of your followers. Your best customers can miss the pieces they would have bought."
-      },
-      {
-        "h": "Customer preferences are not written down",
-        "p": "Staff remember regulars, but sizes and favorite brands are lost when that person is off or leaves."
-      },
-      {
-        "h": "Slow days stay slow",
-        "p": "Without a direct line to shoppers, there is no quick way to drive foot traffic on a quiet afternoon."
-      }
-    ],
-    "workflow": [
-      "A shopper joins your VIP list at checkout or through a website form",
-      "Staff note sizes and style preferences on their contact record",
-      "When new stock arrives, a text goes to customers tagged for that style",
-      "Messages and replies from Instagram, Facebook and text land in one inbox",
-      "After a purchase, a review request goes out"
-    ],
-    "features": [
-      "email-sms-marketing",
-      "crm-contact-management",
-      "omnichannel-messaging",
-      "social-media-planner"
-    ],
-    "faqs": [
-      [
-        "How do boutiques use SMS marketing?",
-        "Boutiques text opted-in customers to announce new arrivals, sales and VIP events. It gives you a direct way to reach regulars and bring people in on slow days."
-      ],
-      [
-        "Can I track customer preferences in the CRM?",
-        "Yes. Use custom fields and tags to track sizes, style preferences and purchase history, so you can send offers that match what each customer likes."
-      ],
-      [
-        "Can I answer Instagram and Facebook messages in CasperPortal?",
-        "Yes. The omnichannel inbox brings Facebook Messenger and Instagram DMs together with text and email so your team replies from one place."
-      ]
-    ],
-    "next": {
-      "feature": "/features/email-sms-marketing",
-      "compare": "/compare/activecampaign",
-      "guide": "/blog/multi-channel-marketing"
-    },
-    "image": {
-      "src": "/img/23ed27a7-d225-4022-b187-44d177d4011b-a8359d.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Clothing Boutiques"
-    }
-  },
-  "furniture-stores": {
-    "name": "Furniture Stores",
-    "kw": "CRM for furniture stores",
-    "cluster": "retail",
-    "title": "CRM for Furniture Stores: Leads & Delivery | CasperPortal",
-    "desc": "CRM for furniture stores: capture showroom and website leads, follow up on big-ticket shoppers and text delivery updates and review requests. Try it free.",
-    "h1": "CRM for Furniture Stores",
-    "intro": "A CRM for furniture stores follows up with shoppers who are not ready to buy on the first visit. CasperPortal captures leads from your website and showroom, nurtures them with text and email until they come back, sends delivery-window updates by text, and requests a review once the furniture is in their home.",
-    "summary": "Follow up with big-ticket shoppers, send delivery updates by text and request reviews after delivery.",
-    "pains": [
-      {
-        "h": "Big purchases take time",
-        "p": "Shoppers measure, compare and think it over. If nobody follows up, they finish their decision at another store."
-      },
-      {
-        "h": "Showroom visitors leave no trace",
-        "p": "Walk-ins who browse and leave are gone unless someone captures their name and number."
-      },
-      {
-        "h": "Delivery questions flood the phone",
-        "p": "Customers call to ask when their order will arrive, tying up staff who could be selling."
-      }
-    ],
-    "workflow": [
-      "A shopper requests a catalog or offer through a landing page",
-      "CasperPortal follows up by text and email with the pieces they viewed",
-      "They book a showroom appointment from the link",
-      "After purchase, delivery-window updates go out by text",
-      "Once delivered, a review request is sent automatically"
-    ],
-    "features": [
-      "funnel-landing-page-builder",
-      "email-sms-marketing",
-      "workflow-automations",
-      "reputation-management"
-    ],
-    "faqs": [
-      [
-        "How do furniture stores use funnels for sales?",
-        "Stores use CasperPortal funnels to capture leads for big-ticket items like sofas or bedroom sets, offering a digital catalog or discount code in exchange for contact details, then following up until the shopper is ready to visit."
-      ],
-      [
-        "Can we automate delivery notifications?",
-        "Yes. Send text updates about the delivery window, followed by a review request after the furniture is in the home."
-      ],
-      [
-        "Can sales staff capture showroom visitors?",
-        "Yes. Staff can add a contact from the mobile app or have visitors fill out a quick form on a tablet, which starts the follow-up sequence."
-      ]
-    ],
-    "next": {
-      "feature": "/features/funnel-landing-page-builder",
-      "compare": "/compare/activecampaign",
-      "guide": "/marketing-automation-for-small-business"
-    },
-    "image": {
-      "src": "/img/586b7ea6-a6a7-4615-8f7e-c72f1d82279f-b80dab.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Furniture Stores"
-    }
-  },
-  "jewelry-stores": {
-    "name": "Jewelry Stores",
-    "kw": "CRM for jewelry stores",
-    "cluster": "retail",
-    "title": "CRM for Jewelry Stores: Occasions & Repairs | CasperPortal",
-    "desc": "CRM for jewelry stores: remember anniversaries and birthdays, send timely gift reminders and track repairs with text updates. Start a 14-day free trial.",
-    "h1": "CRM for Jewelry Stores",
-    "intro": "A CRM for jewelry stores remembers the dates that matter to your customers and keeps repair jobs on track. CasperPortal stores anniversaries, birthdays and ring sizes, sends gift reminders ahead of each occasion, tracks every repair from intake to pickup with text updates, and asks for a review after each sale.",
-    "summary": "Occasion reminders, ring-size and preference notes, and repair tracking with pickup texts.",
-    "pains": [
-      {
-        "h": "Important dates go unused",
-        "p": "An anniversary or birthday is a natural reason to visit, but only if you remember it and reach out in time."
-      },
-      {
-        "h": "Repair status calls interrupt sales",
-        "p": "Customers call to ask whether a repair is ready, and staff stop helping shoppers to look it up."
-      },
-      {
-        "h": "High-consideration buyers need follow-up",
-        "p": "Engagement ring shoppers often visit several stores. A thoughtful follow-up keeps you in the running."
-      }
-    ],
-    "workflow": [
-      "A customer buys an anniversary gift and you note the date",
-      "CasperPortal sends a reminder with gift ideas a few weeks before next year",
-      "Repairs move through a pipeline: received, in progress, ready",
-      "When a repair is ready, a pickup text goes out automatically",
-      "After each sale, a review request is sent"
-    ],
-    "features": [
-      "crm-contact-management",
-      "workflow-automations",
-      "sales-pipelines",
-      "email-sms-marketing"
-    ],
-    "faqs": [
-      [
-        "How do jewelry stores use a CRM for special occasions?",
-        "Track anniversaries and birthdays as custom fields in CasperPortal. Automated reminders can go to the customer a few weeks before each date with personalized gift ideas."
-      ],
-      [
-        "Can we manage repair tracking in CasperPortal?",
-        "Yes. Use a repairs pipeline to track each piece from intake to cleaning, repair and pickup, and keep the customer updated by text at each step."
-      ],
-      [
-        "Can we follow up with engagement ring shoppers?",
-        "Yes. Add shoppers as contacts and enroll them in a follow-up sequence by text and email so you stay in touch while they decide."
-      ]
-    ],
-    "next": {
-      "feature": "/features/workflow-automations",
-      "compare": "/compare/activecampaign",
-      "guide": "/blog/5-essential-automations"
-    },
-    "image": {
-      "src": "/img/f0edf125-d882-4667-84ae-8d835663ec55-1cf18e.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Jewelry Stores"
-    }
-  },
-  "pet-stores": {
-    "name": "Pet Stores",
-    "kw": "CRM for pet stores",
-    "cluster": "retail",
-    "title": "CRM for Pet Stores and Groomers | CasperPortal",
-    "desc": "CRM for pet stores and grooming salons: book grooming online, send reminders and restock texts, and ask for reviews. Try CasperPortal free for 14 days.",
-    "h1": "CRM for Pet Stores and Grooming",
-    "intro": "A CRM for pet stores keeps owners coming back for food, supplies and grooming. CasperPortal books grooming and training appointments online with automatic reminders, sends restock texts when it is time to buy food again, answers messages from one inbox, and asks for reviews, helping a local shop compete with online retailers.",
-    "summary": "Grooming booking with reminders, restock texts and review requests for local pet shops.",
-    "pains": [
-      {
-        "h": "Online retailers make reordering easy",
-        "p": "If buying food from you means remembering to stop by, many owners default to an online subscription instead."
-      },
-      {
-        "h": "Grooming no-shows waste the schedule",
-        "p": "A forgotten grooming appointment is an empty slot your groomer cannot fill at short notice."
-      },
-      {
-        "h": "Calls interrupt the counter",
-        "p": "Staff ringing up customers cannot also answer every booking or stock question on the phone."
-      }
-    ],
-    "workflow": [
-      "A pet owner books a grooming appointment from your website",
-      "Reminders go out by text before the appointment",
-      "Staff note the pet and the food they buy on the contact record",
-      "When it is time to restock, a reminder text goes out with an offer",
-      "After grooming, a review request is sent"
-    ],
-    "features": [
-      "appointment-booking",
-      "email-sms-marketing",
-      "workflow-automations",
-      "reputation-management"
-    ],
-    "faqs": [
-      [
-        "How do pet stores use texts for repeat sales?",
-        "Track when a customer last bought food or supplies in CasperPortal. Automated reminders can go out when it is time to restock, with a link or offer."
-      ],
-      [
-        "Can we manage grooming appointments in CasperPortal?",
-        "Yes. The built-in calendar handles grooming or training bookings, with automatic reminders to pet owners before each appointment."
-      ],
-      [
-        "Can owners text us questions?",
-        "Yes. Texts, website chat and social messages land in one inbox so staff can reply when they have a moment, from the desktop or mobile app."
-      ]
-    ],
-    "next": {
-      "feature": "/features/appointment-booking",
-      "compare": "/compare/calendly",
-      "guide": "/blog/5-essential-automations"
-    },
-    "image": {
-      "src": "/img/5e8bb9c4-585c-47ed-9ae1-bb3a8454b215-1b9d9a.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Pet Stores"
-    }
-  },
-  "automotive-parts-stores": {
-    "name": "Automotive Parts Stores",
-    "kw": "CRM for auto parts stores",
-    "cluster": "auto",
-    "title": "CRM for Auto Parts Stores: Order-Ready Texts | CasperPortal",
-    "desc": "CRM for auto parts stores: text customers when special orders arrive, send vehicle-based seasonal offers and track repair-shop accounts. Try it free.",
-    "h1": "CRM for Auto Parts Stores",
-    "intro": "A CRM for auto parts stores keeps retail customers and repair-shop accounts informed and coming back. CasperPortal sends order-ready texts when a special-order part arrives, segments customers by vehicle or past purchase for seasonal offers, tracks commercial accounts in a pipeline, and answers calls and messages from one inbox.",
-    "summary": "Special-order arrival texts, vehicle-based seasonal offers and commercial account tracking.",
-    "pains": [
-      {
-        "h": "Special orders sit on the shelf",
-        "p": "When customers are not told a part has arrived, it waits on the shelf and the counter fields calls asking about it."
-      },
-      {
-        "h": "Seasonal demand is not planned for",
-        "p": "Batteries, tires and winter supplies sell when customers are reminded at the right time."
-      },
-      {
-        "h": "Shop accounts need attention too",
-        "p": "Repair shops and fleet buyers bring repeat volume, but only if someone keeps in touch."
-      }
-    ],
-    "workflow": [
-      "A customer special-orders a part at the counter",
-      "The order is logged on their contact record",
-      "When the part arrives, an order-ready text goes out automatically",
-      "Customers are tagged by vehicle type for seasonal campaigns",
-      "Commercial accounts sit in a pipeline with follow-up tasks"
-    ],
-    "features": [
-      "email-sms-marketing",
-      "workflow-automations",
-      "crm-contact-management",
-      "sales-pipelines"
-    ],
-    "faqs": [
-      [
-        "How do auto parts stores use SMS for orders?",
-        "Stores use CasperPortal to text customers when a special-order part has arrived or an order is ready for pickup, which cuts down on status calls and shelf time."
-      ],
-      [
-        "Can we run seasonal promotions by email and text?",
-        "Yes. Segment your list by vehicle type or past purchases and send relevant seasonal offers for tires, batteries or winter supplies."
-      ],
-      [
-        "Can we track repair-shop and fleet accounts?",
-        "Yes. Put commercial accounts in their own pipeline with notes and follow-up tasks so no account goes quiet."
-      ]
-    ],
-    "next": {
-      "feature": "/features/email-sms-marketing",
-      "compare": "/compare/activecampaign",
-      "guide": "/marketing-automation-for-small-business"
-    },
-    "image": {
-      "src": "/img/61cd4ec2-bb4f-41d8-bb6d-493db1ce8fd4-a411ad.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Automotive Parts Stores"
-    }
-  },
-  "car-dealerships": {
-    "name": "Car Dealerships",
-    "kw": "CRM for car dealerships",
-    "cluster": "auto",
-    "title": "CRM for Car Dealerships: Leads & Trade-Ins | CasperPortal",
-    "desc": "CRM for car dealerships: text back missed calls, track trade-in and sales leads in pipelines and follow up until the deal closes. Try it free.",
-    "h1": "CRM for Car Dealerships",
-    "intro": "A CRM for car dealerships makes sure every buyer inquiry gets a fast reply and steady follow-up. CasperPortal texts back calls the sales floor misses, puts sales and trade-in leads in visual pipelines, follows up by text and email until the buyer is ready, and asks for a review after delivery.",
-    "summary": "Missed-call text back, sales and trade-in pipelines, and follow-up until the buyer is ready.",
-    "pains": [
-      {
-        "h": "Calls are missed on a busy lot",
-        "p": "Salespeople are on test drives and with customers. A buyer who cannot get through moves on to the next listing."
-      },
-      {
-        "h": "Buyers shop for weeks",
-        "p": "Car buyers compare inventory and financing. Without consistent follow-up, they buy where someone stayed in touch."
-      },
-      {
-        "h": "Trade-in inquiries get forgotten",
-        "p": "Appraisal requests come in through forms and calls and slip between salespeople without a shared pipeline."
-      }
-    ],
-    "workflow": [
-      "A buyer calls about a vehicle while the sales team is busy",
-      "CasperPortal texts them back so the conversation continues by text",
-      "The lead lands in your sales pipeline and gets a test-drive booking link",
-      "Follow-up texts and emails go out until they visit or buy",
-      "After delivery, a review request is sent"
-    ],
-    "features": [
-      "missed-call-text-back",
-      "sales-pipelines",
-      "omnichannel-messaging",
-      "google-call-tracking"
-    ],
-    "faqs": [
-      [
-        "How does missed call text-back help dealerships?",
-        "On a busy lot, a missed call can be a lost sale. Missed call text-back automatically texts the caller so they can keep the conversation going by text."
-      ],
-      [
-        "Can we track trade-in inquiries in the CRM?",
-        "Yes. Create a trade-in pipeline to track every inquiry from first valuation request to inspection and final offer."
-      ],
-      [
-        "Can we see which ads make the phone ring?",
-        "Yes. Google call tracking ties calls to their source so you can see which campaigns bring in buyers."
-      ]
-    ],
-    "next": {
-      "feature": "/features/sales-pipelines",
-      "compare": "/compare/salesforce",
-      "guide": "/blog/stop-missing-calls"
-    },
-    "image": {
-      "src": "/img/9ed07e15-a416-4a1d-8e0e-3b36abab03ba-ee4d65.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Car Dealerships"
-    }
-  },
-  "real-estate-agents": {
-    "name": "Real Estate Agents & Developers",
-    "kw": "CRM for real estate",
-    "cluster": "professional",
-    "title": "CRM for Real Estate Agents and Developers | CasperPortal",
-    "desc": "CRM for real estate agents, teams and developers: capture leads, automate open house follow-up and track every deal to closing. Try it 14 days free.",
-    "h1": "CRM for Real Estate Agents, Teams and Developers",
-    "intro": "A CRM for real estate captures every buyer and seller lead and follows up until they are ready to move. CasperPortal pulls leads from your website forms, landing pages and Facebook ads into one pipeline, sends automated text and email follow-up after showings and open houses, and tracks each deal from first contact to closing, for agents and new-development sales teams alike.",
-    "summary": "Lead capture, open house follow-up and deal pipelines for agents, teams and new-development sales.",
-    "pains": [
-      {
-        "h": "Leads are rarely ready today",
-        "p": "Buyers and sellers often take months to act. Without long-term follow-up, they work with whoever stayed in touch."
-      },
-      {
-        "h": "Open house sign-ins go nowhere",
-        "p": "A paper sign-in sheet is easy to lose and slow to follow up on, so warm visitors cool off."
-      },
-      {
-        "h": "Deadlines hide in email threads",
-        "p": "Showings, offers, inspections and closings involve many dates. Missing one can put a deal at risk."
-      }
-    ],
-    "workflow": [
-      "An open house visitor scans a QR code that opens a CasperPortal form",
-      "A thank-you text goes out right away with the listing details",
-      "A follow-up sequence by email and text shares similar listings or project updates",
-      "When they are ready, they book a showing or consultation from a link",
-      "The deal moves through your pipeline from showing to offer, inspection and closing"
-    ],
-    "features": [
-      "lead-capture-forms",
-      "workflow-automations",
-      "sales-pipelines",
-      "funnel-landing-page-builder"
-    ],
-    "faqs": [
-      [
-        "How can realtors automate open house follow-up?",
-        "Put a QR code at the open house that links to a CasperPortal form. Attendees are captured as contacts, get a thank-you text right away, and then receive a series of follow-up emails about the property."
-      ],
-      [
-        "Can I manage my entire buyer and seller pipeline?",
-        "Yes. CasperPortal shows where every client stands, from first showing to offer, inspection and closing, so critical deadlines are not missed."
-      ],
-      [
-        "How can real estate developers use CRM automation?",
-        "Developers use CasperPortal to nurture buyers for new projects with automated email and text campaigns, keeping them engaged from first inquiry through construction updates and final sales phases."
-      ],
-      [
-        "Where can CasperPortal capture real estate leads from?",
-        "Leads can come from your CasperPortal web forms, landing pages and funnels, Facebook ads, website chat and calls. Ask on a demo about connecting any other lead source you use."
-      ]
-    ],
-    "next": {
-      "feature": "/features/sales-pipelines",
-      "compare": "/compare/hubspot",
-      "guide": "/blog/ultimate-b2b-follow-ups"
-    },
-    "image": {
-      "src": "/img/c8dd295a-0c16-42e7-bbe8-9b1076cf5ad6-4a2d42.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Real Estate Agents/Realtors"
-    }
-  },
-  "insurance-agencies": {
-    "name": "Insurance Agencies",
-    "kw": "CRM for insurance agencies",
-    "cluster": "professional",
-    "title": "CRM for Insurance Agencies: Renewals & Leads | CasperPortal",
-    "desc": "CRM for insurance agencies: automate renewal reminders by policy date, respond to quote requests fast and nurture prospects by text and email. Try it free.",
-    "h1": "CRM for Insurance Agencies",
-    "intro": "A CRM for insurance agencies helps you respond to quote requests quickly and never miss a renewal. CasperPortal collects leads from your website, Facebook and Google Business Profile in one inbox, sends follow-up sequences to prospects who are not ready yet, and triggers renewal reminders and check-ins based on each policy date.",
-    "summary": "Fast quote follow-up, renewal reminders by policy date and long-term prospect nurturing.",
-    "pains": [
-      {
-        "h": "Quote requests are a race",
-        "p": "Shoppers often request quotes from several agencies at once. The agency that replies first tends to get the conversation."
-      },
-      {
-        "h": "Renewals slip through",
-        "p": "Tracking expiration dates in a spreadsheet makes it easy to miss a check-in before a client shops around."
-      },
-      {
-        "h": "Not-yet prospects are forgotten",
-        "p": "A prospect whose policy renews in six months needs a reminder then, not just a quote today."
-      }
-    ],
-    "workflow": [
-      "A prospect requests a quote on your website",
-      "CasperPortal texts and emails them right away to book a call",
-      "The lead moves through a quote pipeline with tasks for each step",
-      "Prospects who are not ready get a nurture sequence until their renewal date",
-      "Clients get reminders and check-ins ahead of each policy renewal"
-    ],
-    "features": [
-      "workflow-automations",
-      "sales-pipelines",
-      "omnichannel-messaging",
-      "lead-capture-forms"
-    ],
-    "faqs": [
-      [
-        "Can insurance agents automate policy renewal reminders?",
-        "Yes. Store the policy expiration date on the contact and set a workflow to send a series of reminders and check-in messages ahead of each renewal."
-      ],
-      [
-        "How does CasperPortal help agents with lead follow-up?",
-        "Leads from your website, Facebook and Google Business Profile land in one place, so agents can respond quickly and use automated sequences to nurture leads who are not ready to buy."
-      ],
-      [
-        "Does CasperPortal replace our agency management system?",
-        "No. Keep policies and carrier data in your agency management system. CasperPortal handles lead capture, follow-up, reminders and client messaging."
-      ]
-    ],
-    "next": {
-      "feature": "/features/workflow-automations",
-      "compare": "/compare/salesforce",
-      "guide": "/blog/ultimate-b2b-follow-ups"
-    },
-    "image": {
-      "src": "/img/8b8eca1d-9f3e-4849-b1aa-221cbdaf7558-6b0124.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Insurance Agencies"
-    }
-  },
-  "legal-firms": {
-    "name": "Law Firms",
-    "kw": "CRM for law firms",
-    "cluster": "professional",
-    "title": "CRM for Law Firms: Client Intake & Follow-Up | CasperPortal",
-    "desc": "CRM for law firms: structured intake forms, routing by practice area, consultation booking and automated follow-up for prospective clients. Try it free.",
-    "h1": "CRM for Law Firms and Solo Attorneys",
-    "intro": "A CRM for law firms organizes intake so every prospective client gets a timely response. CasperPortal collects case details through intake forms, tags each lead by practice area and assigns it to the right attorney, lets prospects book a consultation online, and follows up automatically until they retain you or decide not to.",
-    "summary": "Intake forms, practice-area routing, consultation booking and follow-up for prospective clients.",
-    "pains": [
-      {
-        "h": "Attorneys are in court or meetings",
-        "p": "Prospective clients call when they need help. If nobody answers, they keep calling other firms."
-      },
-      {
-        "h": "Intake is inconsistent",
-        "p": "When intake details are scribbled on notes or in emails, conflicts checks and follow-up get delayed."
-      },
-      {
-        "h": "Consultations do not convert",
-        "p": "People often need time after a consultation. Without a follow-up process, they go quiet."
-      }
-    ],
-    "workflow": [
-      "A prospective client fills out an intake form on your website",
-      "CasperPortal tags the lead by practice area and assigns it to the right attorney",
-      "They receive a text with a link to book a consultation",
-      "Reminders go out before the consultation",
-      "If they have not retained the firm, follow-up messages go out on your schedule"
-    ],
-    "features": [
-      "lead-capture-forms",
-      "workflow-automations",
-      "appointment-booking",
-      "missed-call-text-back"
-    ],
-    "faqs": [
-      [
-        "How do law firms use automated intake?",
-        "Firms use CasperPortal forms to collect initial case details. Based on the answers, the system can tag the lead by practice area and assign it to the right attorney for follow-up."
-      ],
-      [
-        "Is CasperPortal a case management system?",
-        "No. Keep matters, documents and billing in your practice management software. CasperPortal handles intake, consultations and prospective-client communication."
-      ],
-      [
-        "How is client data protected?",
-        "See our security page for how CasperPortal handles data. Ask on a demo if your firm has specific requirements."
-      ]
-    ],
-    "next": {
-      "feature": "/features/lead-capture-forms",
-      "compare": "/compare/hubspot",
-      "guide": "/crm-for-local-businesses"
-    },
-    "image": {
-      "src": "/img/8150be89-4c1e-4200-b61d-e0889e0d45f0-119788.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Legal Firms"
-    }
-  },
-  "consulting-firms": {
-    "name": "Consulting Firms",
-    "kw": "CRM for consultants",
-    "cluster": "professional",
-    "title": "CRM for Consultants and Consulting Firms | CasperPortal",
-    "desc": "CRM for consultants: track long sales cycles from discovery call to signed contract, send proposals and stay top of mind with email. Try CasperPortal free.",
-    "h1": "CRM for Consultants and Consulting Firms",
-    "intro": "A CRM for consultants tracks long sales cycles and keeps you in front of your network between projects. CasperPortal puts every opportunity in a multi-stage pipeline from discovery call to proposal and signed contract, lets prospects book calls online, sends proposals and invoices, and runs email newsletters and blog posts from the same system.",
-    "summary": "Pipelines for long sales cycles, discovery-call booking, proposals and email to your network.",
-    "pains": [
-      {
-        "h": "Sales cycles are long",
-        "p": "Engagements can take months to close. Opportunities are easy to lose track of when they live in an inbox."
-      },
-      {
-        "h": "Feast-or-famine pipeline",
-        "p": "When you are busy delivering, marketing stops, and the pipeline is empty when the project ends."
-      },
-      {
-        "h": "Proposals and invoices take time",
-        "p": "Assembling documents and chasing payments pulls you away from billable work."
-      }
-    ],
-    "workflow": [
-      "A prospect downloads a guide from your landing page",
-      "CasperPortal adds them to your newsletter and a follow-up sequence",
-      "They book a discovery call from a link",
-      "You send a proposal and track it in your pipeline",
-      "Once signed, invoices go out with a payment link"
-    ],
-    "features": [
-      "sales-pipelines",
-      "proposals-and-estimates",
-      "email-sms-marketing",
-      "blog-publishing"
-    ],
-    "faqs": [
-      [
-        "Can I manage complex sales cycles in the CRM?",
-        "Yes. Multi-stage pipelines track long engagements from first discovery call to proposal and final contract signing."
-      ],
-      [
-        "How do consultants use CasperPortal for thought leadership?",
-        "Consultants use the blog and email marketing tools to share insights and guides, which keeps them top of mind with their professional network."
-      ],
-      [
-        "Can I send proposals and invoices from CasperPortal?",
-        "Yes. Proposals, estimates and invoices are built in, so the paperwork sits on the same record as the conversation."
-      ]
-    ],
-    "next": {
-      "feature": "/features/proposals-and-estimates",
-      "compare": "/compare/hubspot",
-      "guide": "/blog/ultimate-b2b-follow-ups"
-    },
-    "image": {
-      "src": "/img/6de9aae5-14c8-445b-8c36-7751f6c1c905-9bdd3f.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Consulting Firms"
-    }
-  },
-  "it-services": {
-    "name": "IT Services Companies",
-    "kw": "CRM for IT service companies",
-    "cluster": "professional",
-    "title": "CRM for IT Service Companies and MSPs | CasperPortal",
-    "desc": "CRM for IT service companies and MSPs: track service requests in pipelines, automate contract renewal reminders and send proposals. Try CasperPortal free.",
-    "h1": "CRM for IT Service Companies and MSPs",
-    "intro": "A CRM for IT service companies tracks new business and renewals alongside the customer conversations behind them. CasperPortal puts service requests and sales opportunities in pipelines, sends reminders before contracts or registrations expire, delivers proposals and invoices, and keeps client messages in one inbox, so nothing gets lost in a busy support mailbox.",
-    "summary": "Pipelines for service requests and deals, renewal reminders, proposals and invoicing for IT firms.",
-    "pains": [
-      {
-        "h": "Requests get buried in email",
-        "p": "Sales inquiries and small service requests mix with everything else in a shared inbox, and some never get a reply."
-      },
-      {
-        "h": "Renewals sneak up",
-        "p": "Contract, license and domain expiration dates tracked in spreadsheets are easy to miss."
-      },
-      {
-        "h": "Selling takes a back seat to support",
-        "p": "Technical staff are busy fixing problems, so follow-up on proposals stalls."
-      }
-    ],
-    "workflow": [
-      "A business submits a service request or quote form",
-      "CasperPortal creates the contact and opens a card in your pipeline",
-      "You send a proposal, with follow-up reminders if it is not signed",
-      "Renewal dates trigger reminders to your team and the client",
-      "Invoices go out with a payment link"
-    ],
-    "features": [
-      "sales-pipelines",
-      "workflow-automations",
-      "proposals-and-estimates",
-      "invoicing"
-    ],
-    "faqs": [
-      [
-        "How can IT companies manage service requests in CasperPortal?",
-        "IT firms use pipelines to track a service request from first inquiry through troubleshooting and resolution, so requests do not get lost in a busy inbox."
-      ],
-      [
-        "Can we automate follow-ups for expiring contracts?",
-        "Yes. Store the expiration date on the record and set a workflow that reminds your team and the client before a service contract or domain registration expires."
-      ],
-      [
-        "Is CasperPortal a ticketing or RMM tool?",
-        "No. Keep your ticketing and remote monitoring tools for technical work. Use CasperPortal for sales, renewals, client messaging and invoicing."
-      ]
-    ],
-    "next": {
-      "feature": "/features/sales-pipelines",
-      "compare": "/compare/hubspot",
-      "guide": "/blog/ultimate-b2b-follow-ups"
-    },
-    "image": {
-      "src": "/img/96b5ad47-fc3a-46cb-8baf-9916e4538375-6c719a.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "IT Services Companies"
-    }
-  },
-  "marketing-agencies": {
-    "name": "Marketing Agencies",
-    "kw": "CRM for marketing agencies",
-    "cluster": "professional",
-    "title": "CRM for Marketing Agencies: Win More Clients | CasperPortal",
-    "desc": "CRM for marketing agencies: track prospects from discovery call to signed retainer, send proposals and automate follow-up. Try CasperPortal free.",
-    "h1": "CRM for Marketing Agencies",
-    "intro": "A CRM for marketing agencies keeps your own new-business pipeline as organized as your client work. CasperPortal tracks prospects from first inquiry to discovery call, proposal and signed retainer, automates follow-up by text and email, sends invoices with payment links, and shows which lead sources bring in your best clients.",
-    "summary": "Track prospects to signed retainer, automate follow-up and invoice clients from one system.",
-    "pains": [
-      {
-        "h": "The cobbler has no shoes",
-        "p": "Agencies build systems for clients but often run their own sales from an inbox and memory."
-      },
-      {
-        "h": "Proposals stall",
-        "p": "A sent proposal with no structured follow-up can sit for weeks without an answer."
-      },
-      {
-        "h": "Hard to see which channels work",
-        "p": "Without reporting on lead sources, it is hard to know where your best clients came from."
-      }
-    ],
-    "workflow": [
-      "A prospect fills out the contact form on your agency site",
-      "CasperPortal replies with a link to book a discovery call",
-      "The opportunity moves through your pipeline to proposal",
-      "Follow-up messages go out if the proposal is not signed",
-      "Once signed, recurring invoices go out with a payment link"
-    ],
-    "features": [
-      "sales-pipelines",
-      "proposals-and-estimates",
-      "reporting-analytics",
-      "invoicing"
-    ],
-    "faqs": [
-      [
-        "How can agencies use CasperPortal for their own sales?",
-        "Agencies use pipelines, booking links and automated follow-up to move prospects from inquiry to signed retainer, with proposals and invoices in the same system."
-      ],
-      [
-        "Can I see which lead sources bring in clients?",
-        "Yes. Reporting and analytics show lead sources and pipeline performance so you can see which channels produce clients."
-      ],
-      [
-        "Can prospects book a discovery call online?",
-        "Yes. Share a CasperPortal booking link on your site or in a reply so prospects pick a time on your calendar and get reminders before the call."
-      ]
-    ],
-    "next": {
-      "feature": "/features/sales-pipelines",
-      "compare": "/compare/gohighlevel",
-      "guide": "/blog/economics-of-crm-roi"
-    },
-    "image": {
-      "src": "/img/968774c9-c887-42bc-9e88-02cdd72d706b-2d498e.webp",
-      "w": 64,
-      "h": 64,
-      "alt": "Marketing Agencies"
-    }
-  },
-  "_merge": {
-    "real-estate-development": "real-estate-agents"
+  "image": {
+   "src": "/img/8e295edd-6a86-4f30-b4bc-3b70d00f5f0c-3dd741.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Dental Clinics"
   }
+ },
+ "beauty-salons": {
+  "name": "Beauty Salons",
+  "kw": "CRM for salons",
+  "cluster": "health-wellness",
+  "title": "CRM for Salons: Booking, Reminders & Reviews | CasperPortal",
+  "desc": "CRM for salons: online booking, text reminders, missed-call text back and automatic review requests in one app. Start a 14-day free trial of CasperPortal.",
+  "h1": "CRM for Salons and Beauty Studios",
+  "intro": "A CRM for salons books clients, reminds them before their appointment and brings them back for the next one. CasperPortal gives your salon online booking, automatic text reminders, missed-call text back while you are with a client, and a review request after each visit, all in one inbox you can run from your phone.",
+  "summary": "Online booking, text reminders, rebooking nudges and review requests for hair, nail and skin salons.",
+  "pains": [
+   {
+    "h": "Your hands are busy when the phone rings",
+    "p": "Stylists and technicians cannot stop mid-service to answer. A caller who reaches voicemail often books somewhere else instead of waiting."
+   },
+   {
+    "h": "No-shows cost you a whole time slot",
+    "p": "A missed appointment is time you cannot resell on short notice. Without reminders, forgotten bookings add up over a week."
+   },
+   {
+    "h": "Clients drift away between visits",
+    "p": "Regulars who are not reminded to rebook slowly stretch the time between appointments or try another salon."
+   }
+  ],
+  "workflow": [
+   "A client calls while you are mid-color and the call goes unanswered",
+   "CasperPortal texts back with your online booking link",
+   "They book a service and get reminders by text before the visit",
+   "After the appointment, a review request goes out automatically",
+   "A few weeks later, a rebooking text invites them back"
+  ],
+  "features": [
+   "appointment-booking",
+   "missed-call-text-back",
+   "reputation-management",
+   "email-sms-marketing"
+  ],
+  "faqs": [
+   [
+    "How do salons reduce no-shows with CasperPortal?",
+    "Clients who book through your CasperPortal calendar get automatic text and email reminders before the appointment, at the times you set. They can reply to the text if they need to reschedule."
+   ],
+   [
+    "Can we automate review requests after a hair or skin service?",
+    "Yes. When an appointment is marked complete, CasperPortal can send the client a text with a direct link to leave a Google review."
+   ],
+   [
+    "Can clients pay or leave a deposit by text?",
+    "CasperPortal includes text-to-pay, so you can send a payment link by text. Set your own deposit and cancellation policy and send the link when you need it."
+   ],
+   [
+    "Can I run the salon from my phone?",
+    "Yes. The CasperPortal iOS and Android app lets you reply to clients, check the calendar and send payment links from anywhere."
+   ]
+  ],
+  "next": {
+   "feature": "/features/appointment-booking",
+   "compare": "/compare/calendly",
+   "guide": "/blog/reputation-management-guide"
+  },
+  "image": {
+   "src": "/img/0df13cbf-9012-42a5-af3e-93d4d86b64b7-58cf64.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Beauty Salons"
+  }
+ },
+ "fitness-centers-gyms": {
+  "name": "Fitness Centers & Gyms",
+  "kw": "CRM for gyms",
+  "cluster": "health-wellness",
+  "title": "CRM for Gyms: Trial Follow-Up & Class Booking | CasperPortal",
+  "desc": "CRM for gyms and fitness studios: text free-trial leads right away, book intro sessions and classes, and turn prospects into members. Try it free.",
+  "h1": "CRM for Gyms and Fitness Studios",
+  "intro": "A CRM for gyms turns free-trial signups and walk-in inquiries into paying members. CasperPortal texts new leads as soon as they fill out your trial form, lets them book an intro session or class from a link, and follows up by text and email until they join, so prospects do not go cold after their first visit.",
+  "summary": "Turn trial signups into members with instant texts, class and session booking, and automated follow-up.",
+  "pains": [
+   {
+    "h": "Trial leads go cold fast",
+    "p": "Someone who signs up for a free pass is motivated today. If nobody reaches out until next week, the motivation and the lead are often gone."
+   },
+   {
+    "h": "Booking intro sessions takes back-and-forth",
+    "p": "Texting and calling to find a time for a tour or first class eats staff time and loses people who are not willing to wait."
+   },
+   {
+    "h": "Members quietly stop showing up",
+    "p": "Without regular check-ins, members who skip a few weeks tend to cancel rather than come back."
+   }
+  ],
+  "workflow": [
+   "A prospect fills out the free-trial form on your website",
+   "CasperPortal texts them right away with a link to book their first visit",
+   "They pick an intro session or class on your calendar",
+   "A follow-up sequence by text and email shares classes, schedule and membership options",
+   "Trainers see every lead and member in one pipeline and inbox"
+  ],
+  "features": [
+   "lead-capture-forms",
+   "appointment-booking",
+   "workflow-automations",
+   "memberships"
+  ],
+  "faqs": [
+   [
+    "How do gyms automate membership inquiries?",
+    "When someone fills out a free-trial form on your site, CasperPortal can text them right away to book their first visit, then follow up with a series of emails and texts about your classes and membership options."
+   ],
+   [
+    "Can members book classes and personal training through CasperPortal?",
+    "Yes. The built-in calendar lets members book personal training sessions or group classes from your website or from a link in a text message."
+   ],
+   [
+    "Can we re-engage members who stop coming in?",
+    "Yes. You can tag members and send check-in texts or emails to people who have not booked in a while, using the automation timing you choose."
+   ]
+  ],
+  "next": {
+   "feature": "/features/lead-capture-forms",
+   "compare": "/compare/gohighlevel",
+   "guide": "/blog/5-essential-automations"
+  },
+  "image": {
+   "src": "/img/174d162d-3fc9-455b-8b78-fa1ecda2d6a8-7d71e9.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Fitness Centers/Gyms"
+  }
+ },
+ "daycare-centers": {
+  "name": "Daycare Centers",
+  "kw": "CRM for daycare centers",
+  "cluster": "health-wellness",
+  "title": "CRM for Daycare Centers: Enrollment & Tours | CasperPortal",
+  "desc": "CRM for daycare centers: track every enrollment inquiry from first call to tour to start date, and send parent updates by text and email. Try it free.",
+  "h1": "CRM for Daycare Centers and Child Care Programs",
+  "intro": "A CRM for daycare centers tracks every family from first inquiry to tour to enrollment. CasperPortal captures inquiries from your website and phone, lets parents book a tour online, follows up automatically while they decide, and sends announcements and closure alerts to enrolled families by text and email.",
+  "summary": "Track enrollment from inquiry to tour to start date, and keep parents informed by text and email.",
+  "pains": [
+   {
+    "h": "Inquiries arrive while staff are with children",
+    "p": "Directors and teachers cannot always step away to answer the phone or reply to a web form, so parents wait or keep shopping."
+   },
+   {
+    "h": "Waitlists and tours live on paper",
+    "p": "When inquiries, tour dates and waitlist spots are tracked in notebooks or spreadsheets, families get forgotten between steps."
+   },
+   {
+    "h": "Urgent updates are hard to send quickly",
+    "p": "Closures, schedule changes and reminders need to reach every parent at once, not through a chain of individual calls."
+   }
+  ],
+  "workflow": [
+   "A parent submits an inquiry form or calls after hours",
+   "CasperPortal replies by text with a link to book a tour",
+   "The family moves through your enrollment pipeline: inquiry, tour, application, enrolled",
+   "Automated follow-ups answer common questions while they decide",
+   "Enrolled families receive announcements and closure alerts by text and email"
+  ],
+  "features": [
+   "sales-pipelines",
+   "appointment-booking",
+   "lead-capture-forms",
+   "email-sms-marketing"
+  ],
+  "faqs": [
+   [
+    "How do daycare centers manage enrollment inquiries in CasperPortal?",
+    "Each inquiry becomes a contact in an enrollment pipeline, from first website visit or call to tour and final enrollment. Automated follow-ups make sure parents get the information they need to decide."
+   ],
+   [
+    "Can we automate parent communication?",
+    "Yes. You can send announcements, holiday reminders and weather-related closure alerts to all parents, or to one classroom group, by text and email."
+   ],
+   [
+    "Can parents book a tour online?",
+    "Yes. Share a CasperPortal booking link on your website or in a text so parents can pick a tour time that fits your schedule."
+   ]
+  ],
+  "next": {
+   "feature": "/features/sales-pipelines",
+   "compare": "/compare/hubspot",
+   "guide": "/crm-for-local-businesses"
+  },
+  "image": {
+   "src": "/img/37ba94e4-a995-4934-a982-94d55c0a2532-21cb64.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Daycare Centers"
+  }
+ },
+ "pharmacies": {
+  "name": "Pharmacies",
+  "kw": "CRM for pharmacies",
+  "cluster": "retail",
+  "title": "CRM for Pharmacies: Reminders & Outreach | CasperPortal",
+  "desc": "CRM for pharmacies: send vaccine-clinic and service reminders, answer customer texts in one inbox and grow repeat visits. Start a 14-day free trial.",
+  "h1": "CRM for Pharmacies and Independent Drugstores",
+  "intro": "A CRM for pharmacies helps an independent store stay in touch with customers between visits. CasperPortal lets you announce flu-shot clinics and new in-store services, book consultation or vaccine appointments online, answer customer texts and messages from one inbox, and ask for reviews, while dispensing records stay in your pharmacy system.",
+  "summary": "Service announcements, vaccine-clinic booking and one inbox for customer messages at independent pharmacies.",
+  "pains": [
+   {
+    "h": "The phone line is always busy",
+    "p": "Counter staff juggle prescriptions, insurance calls and walk-ins. General questions and service inquiries often go unanswered."
+   },
+   {
+    "h": "Customers do not know about your services",
+    "p": "Vaccine clinics, consultations and wellness services only fill up if customers hear about them at the right time."
+   },
+   {
+    "h": "Chain stores compete on convenience",
+    "p": "An independent pharmacy wins on personal service, but that is hard to deliver at scale without a system to remember each customer."
+   }
+  ],
+  "workflow": [
+   "You schedule a seasonal flu-shot clinic on your calendar",
+   "A text and email announcement goes to customers who opted in",
+   "They book a time slot from the link",
+   "Reminders go out before the appointment",
+   "Afterward, a review request invites them to share their experience"
+  ],
+  "features": [
+   "email-sms-marketing",
+   "appointment-booking",
+   "omnichannel-messaging",
+   "reputation-management"
+  ],
+  "faqs": [
+   [
+    "How can pharmacies use automated reminders?",
+    "Pharmacies use CasperPortal to send wellness tips, flu-shot clinic reminders and notices about new in-store services by text and email to customers who have opted in."
+   ],
+   [
+    "Should prescription records be stored in CasperPortal?",
+    "Keep prescription and dispensing records in your pharmacy management system. Use CasperPortal for marketing, appointment booking and general customer communication. See our security page for how data is handled."
+   ],
+   [
+    "Can we track customer preferences in the CRM?",
+    "Yes. Custom fields and tags let you note preferences and interests so you can send relevant offers for over-the-counter products or consultations."
+   ]
+  ],
+  "next": {
+   "feature": "/features/email-sms-marketing",
+   "compare": "/compare/activecampaign",
+   "guide": "/blog/multi-channel-marketing"
+  },
+  "image": {
+   "src": "/img/23254c0a-15eb-4b5d-b6a1-662da016cade-b15118.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Pharmacies"
+  }
+ },
+ "construction-companies": {
+  "name": "Construction Companies",
+  "kw": "CRM for construction companies",
+  "cluster": "home-trades",
+  "title": "CRM for Construction Companies: Bids & Leads | CasperPortal",
+  "desc": "CRM for construction companies and contractors: text back missed calls from the job site, track every bid in a pipeline and send estimates. Try it free.",
+  "h1": "CRM for Construction Companies and Contractors",
+  "intro": "A CRM for construction companies tracks every lead and bid from first call to signed contract. CasperPortal texts back calls you miss on the job site, puts each estimate in a visual pipeline, sends proposals and invoices, and follows up automatically, so jobs are not lost because you were too busy building to answer.",
+  "summary": "Missed-call text back from the job site, bid pipelines, estimates and invoicing for contractors.",
+  "pains": [
+   {
+    "h": "You miss calls on the job site",
+    "p": "When you are running a saw or up a ladder, you cannot pick up. A homeowner who hits voicemail often calls the next contractor."
+   },
+   {
+    "h": "Bids disappear after you send them",
+    "p": "Without a follow-up system, estimates sit unanswered and you never learn whether the customer chose someone else or just got busy."
+   },
+   {
+    "h": "Paperwork happens at night",
+    "p": "Writing proposals, chasing payments and returning messages after a full day on site eats into time you do not have."
+   }
+  ],
+  "workflow": [
+   "A homeowner calls while you are on a job and the call is missed",
+   "CasperPortal texts them back so they know you will respond",
+   "The lead lands in your pipeline and you book a site visit",
+   "You send a proposal or estimate, and follow-up texts go out if it is not signed",
+   "When the job is done, you send an invoice with a pay link and a review request"
+  ],
+  "features": [
+   "missed-call-text-back",
+   "sales-pipelines",
+   "proposals-and-estimates",
+   "invoicing"
+  ],
+  "faqs": [
+   [
+    "How does a CRM help construction companies?",
+    "Construction companies use CasperPortal to track bids, manage project pipelines and keep up follow-up with clients. You can see which stage every quote is in and who needs a call today."
+   ],
+   [
+    "Can contractors use missed call text-back?",
+    "Yes. If you miss a call on a job site, CasperPortal automatically texts the caller back so they can tell you what they need instead of calling another contractor."
+   ],
+   [
+    "Can I send estimates and invoices from CasperPortal?",
+    "Yes. You can send proposals and estimates, then invoices with a payment link, from the same system that holds the customer record."
+   ],
+   [
+    "Does it work from my phone?",
+    "Yes. The CasperPortal iOS and Android app lets you reply to leads, check your calendar and send invoices from the truck."
+   ]
+  ],
+  "next": {
+   "feature": "/features/missed-call-text-back",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/stop-missing-calls"
+  },
+  "image": {
+   "src": "/img/373efd41-2b58-4cf2-a7f1-6ca7ca1a21b7-7a7dae.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Construction Companies"
+  }
+ },
+ "restaurants": {
+  "name": "Restaurants",
+  "kw": "CRM for restaurants",
+  "cluster": "hospitality-events",
+  "title": "CRM for Restaurants: Texts, Offers & Reviews | CasperPortal",
+  "desc": "CRM for restaurants: text back calls missed during the rush, send birthday and slow-night offers, and ask diners for reviews. Try it free for 14 days.",
+  "h1": "CRM for Restaurants",
+  "intro": "A CRM for restaurants turns one-time diners into regulars. CasperPortal texts back calls missed during the dinner rush with a link to your menu or reservations, stores guest contacts and birthdays, sends text offers on slow nights, and asks guests for a Google review after their visit, all from one inbox and mobile app.",
+  "summary": "Missed-call text back during the rush, guest lists, slow-night text offers and review requests.",
+  "pains": [
+   {
+    "h": "Nobody can answer during the rush",
+    "p": "At peak hours the host stand and kitchen are slammed, so reservation and takeout calls ring out. Those guests may order elsewhere."
+   },
+   {
+    "h": "You do not own a guest list",
+    "p": "If your diners only exist inside third-party apps, you have no direct way to invite them back on a quiet Tuesday."
+   },
+   {
+    "h": "Reviews come mostly from unhappy guests",
+    "p": "Satisfied diners rarely post on their own, so a few complaints can shape what new customers see."
+   }
+  ],
+  "workflow": [
+   "A guest calls for a table during the dinner rush and nobody answers",
+   "CasperPortal texts back with your reservation link or online menu",
+   "The guest is saved as a contact with opt-in for offers",
+   "On a slow night, you send a text offer to your guest list",
+   "After the visit, a review request goes out by text"
+  ],
+  "features": [
+   "missed-call-text-back",
+   "email-sms-marketing",
+   "reputation-management",
+   "social-media-planner"
+  ],
+  "faqs": [
+   [
+    "How does missed call text-back help restaurants?",
+    "During a busy dinner rush, hosts miss calls for reservations or takeout. Missed call text-back automatically texts the caller a link to your reservation system or menu, so the order is not lost."
+   ],
+   [
+    "Can restaurants use CasperPortal for loyalty offers?",
+    "Yes. You can build automated text campaigns for birthday offers, slow-day promotions and review requests to guests who have opted in."
+   ],
+   [
+    "Can we schedule social posts too?",
+    "Yes. The social media planner lets you schedule posts ahead of time so specials and events go out without someone posting by hand each day."
+   ]
+  ],
+  "next": {
+   "feature": "/features/missed-call-text-back",
+   "compare": "/compare/activecampaign",
+   "guide": "/blog/multi-channel-marketing"
+  },
+  "image": {
+   "src": "/img/06aedf77-71c6-4560-89e4-f33bac5747e4-67ea1c.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Restaurants"
+  }
+ },
+ "breweries": {
+  "name": "Breweries",
+  "kw": "CRM for breweries",
+  "cluster": "hospitality-events",
+  "title": "CRM for Breweries: Taproom Events & Texts | CasperPortal",
+  "desc": "CRM for breweries and taprooms: text regulars about new releases and events, book private events online and collect reviews. Start a 14-day free trial.",
+  "h1": "CRM for Breweries and Taprooms",
+  "intro": "A CRM for breweries helps a taproom build a list of regulars and bring them back. CasperPortal sends text and email alerts about new releases, food trucks and live music, takes private event and table bookings online, keeps all messages in one inbox, and asks visitors for reviews after they stop in.",
+  "summary": "Release and event alerts by text, private-event booking and review requests for taprooms.",
+  "pains": [
+   {
+    "h": "Regulars miss your announcements",
+    "p": "Social posts reach only part of your followers. A new release or event can come and go before your best customers hear about it."
+   },
+   {
+    "h": "Private event inquiries get lost",
+    "p": "Requests arrive by phone, email, website and social messages, and it is easy to drop one when the bar is busy."
+   },
+   {
+    "h": "Mid-week traffic is slow",
+    "p": "Without a direct way to reach locals, quiet weeknights stay quiet."
+   }
+  ],
+  "workflow": [
+   "A visitor scans a QR code at the bar and joins your text list",
+   "You announce a new release or trivia night by text and email",
+   "A group requests a private event through your booking link",
+   "The inquiry lands in a pipeline so you track deposit, date and details",
+   "After the event, a review request goes out automatically"
+  ],
+  "features": [
+   "email-sms-marketing",
+   "appointment-booking",
+   "lead-capture-forms",
+   "social-media-planner"
+  ],
+  "faqs": [
+   [
+    "How do breweries use SMS for taproom events?",
+    "Breweries use CasperPortal to text opted-in regulars about new beer releases, food truck schedules and live music, which gives you a direct line to locals without relying on social media reach."
+   ],
+   [
+    "Can we manage event bookings for the taproom?",
+    "Yes. Use the CasperPortal calendar so customers can book private events or table reservations from your website."
+   ],
+   [
+    "How do we grow our text list?",
+    "Put a CasperPortal form or QR code at the bar or on your website so visitors can opt in to texts and emails."
+   ]
+  ],
+  "next": {
+   "feature": "/features/email-sms-marketing",
+   "compare": "/compare/activecampaign",
+   "guide": "/blog/multi-channel-marketing"
+  },
+  "image": {
+   "src": "/img/0060a5e3-0467-475a-8c5f-9e8e362b5e88-175dda.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Breweries"
+  }
+ },
+ "hotels": {
+  "name": "Hotels",
+  "kw": "CRM for hotels",
+  "cluster": "hospitality-events",
+  "title": "CRM for Hotels and Inns: Guest Messaging | CasperPortal",
+  "desc": "CRM for hotels, inns and B&Bs: answer guest messages from every channel in one inbox, automate confirmations and pre-arrival texts, and request reviews.",
+  "h1": "CRM for Hotels, Inns and B&Bs",
+  "intro": "A CRM for hotels keeps every guest conversation and booking follow-up in one place. CasperPortal pulls messages from your website, Facebook and text into a single inbox, sends confirmation and pre-arrival messages automatically, and asks guests for a review after checkout, which helps smaller hotels and inns compete on service.",
+  "summary": "One inbox for guest messages, automated confirmations and pre-arrival texts, and post-stay review requests.",
+  "pains": [
+   {
+    "h": "Guest questions arrive everywhere",
+    "p": "Questions come by phone, email, website chat and Facebook. Without one inbox, some go unanswered until the guest has booked elsewhere."
+   },
+   {
+    "h": "Pre-arrival details take staff time",
+    "p": "Directions, parking, check-in times and local tips get typed out again and again for each reservation."
+   },
+   {
+    "h": "Reviews do not keep pace with stays",
+    "p": "Most guests check out and forget to review, so your listing does not reflect your recent stays."
+   }
+  ],
+  "workflow": [
+   "A traveler asks about availability through website chat",
+   "The message lands in your shared inbox and staff reply in one place",
+   "Once they book, a confirmation goes out by text and email",
+   "A pre-arrival message shares check-in details and local tips",
+   "After checkout, a review request is sent automatically"
+  ],
+  "features": [
+   "omnichannel-messaging",
+   "website-live-chat",
+   "workflow-automations",
+   "reputation-management"
+  ],
+  "faqs": [
+   [
+    "How can hotels use CasperPortal for guest communication?",
+    "Hotels use the unified inbox to handle inquiries from Facebook, website chat, text and email in one place. Automated messages before arrival and review requests after checkout help keep guests informed and happy."
+   ],
+   [
+    "Can we automate booking confirmations?",
+    "Yes. CasperPortal can send text and email confirmations when a guest books, followed by pre-arrival tips to help them plan their stay."
+   ],
+   [
+    "Does CasperPortal replace our booking engine?",
+    "No. Keep your property management system or booking engine for reservations and rates. CasperPortal handles guest messaging, follow-up and reviews around it."
+   ]
+  ],
+  "next": {
+   "feature": "/features/omnichannel-messaging",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/reputation-management-guide"
+  },
+  "image": {
+   "src": "/img/06aedf77-71c6-4560-89e4-f33bac5747e4-67ea1c.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Hotels"
+  }
+ },
+ "event-planners": {
+  "name": "Event Planners",
+  "kw": "CRM for event planners",
+  "cluster": "hospitality-events",
+  "title": "CRM for Event Planners: Inquiries & Proposals | CasperPortal",
+  "desc": "CRM for event planners: capture inquiries, book consultations, send proposals and invoices, and track every event in its own pipeline. Try it 14 days free.",
+  "h1": "CRM for Event Planners",
+  "intro": "A CRM for event planners tracks every inquiry, proposal and event date in one system. CasperPortal captures leads from your website and social messages, lets couples and clients book a consultation, sends proposals and invoices with payment links, and follows up after the event for feedback and reviews.",
+  "summary": "Inquiry capture, consultation booking, proposals, payment links and post-event feedback for planners.",
+  "pains": [
+   {
+    "h": "Inquiries pile up in different inboxes",
+    "p": "Leads come from your website, Instagram, Facebook and referrals. Tracking them across apps means slow replies and lost bookings."
+   },
+   {
+    "h": "Every event has its own moving parts",
+    "p": "Contracts, deposits, deadlines and vendor details are hard to keep straight across several events at once."
+   },
+   {
+    "h": "Feedback and reviews are an afterthought",
+    "p": "After a big event you are already onto the next one, so asking for testimonials and reviews slips."
+   }
+  ],
+  "workflow": [
+   "A client fills out your inquiry form with date and guest count",
+   "CasperPortal replies right away with a link to book a consultation",
+   "You send a proposal, then an invoice with a pay link for the deposit",
+   "The event moves through your pipeline with tasks for each deadline",
+   "After the event, a survey and review request go out automatically"
+  ],
+  "features": [
+   "lead-capture-forms",
+   "proposals-and-estimates",
+   "sales-pipelines",
+   "customer-surveys"
+  ],
+  "faqs": [
+   [
+    "How do event planners manage client communication?",
+    "Planners use CasperPortal to keep client messages from text, email and social channels in one inbox. You can create pipelines to track each event through contract, payment and deadlines."
+   ],
+   [
+    "Can we automate feedback collection after an event?",
+    "Yes. Set up a workflow that sends a survey to the client after the event to gather feedback, followed by a review request."
+   ],
+   [
+    "Can clients pay deposits online?",
+    "Yes. You can send invoices with a payment link, or a text-to-pay link, so deposits and final balances are easy to collect."
+   ]
+  ],
+  "next": {
+   "feature": "/features/proposals-and-estimates",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/5-essential-automations"
+  },
+  "image": {
+   "src": "/img/0e674ed4-31c4-457c-a91d-370952b37a9e-394bb1.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Event Planners"
+  }
+ },
+ "travel-agencies": {
+  "name": "Travel Agencies",
+  "kw": "CRM for travel agencies",
+  "cluster": "hospitality-events",
+  "title": "CRM for Travel Agencies and Advisors | CasperPortal",
+  "desc": "CRM for travel agencies and advisors: tag clients by destination interest, send targeted trip ideas and automate pre-trip reminders. Try CasperPortal free.",
+  "h1": "CRM for Travel Agencies and Travel Advisors",
+  "intro": "A CRM for travel agencies remembers what each client wants and follows up at the right moment. CasperPortal lets you tag clients by interest, such as cruises or Europe, send targeted email and text campaigns, book planning calls online, and send pre-trip reminders automatically, so past travelers come back for their next trip.",
+  "summary": "Tag clients by destination interest, send targeted trip ideas and automate pre-trip reminders.",
+  "pains": [
+   {
+    "h": "Client interests live in your head",
+    "p": "Who wanted a river cruise, who travels every spring break? Without a record, those opportunities are easy to forget."
+   },
+   {
+    "h": "Quotes go out and go quiet",
+    "p": "Travelers compare options for days. Without timely follow-up, they book online or with another advisor."
+   },
+   {
+    "h": "Past clients are not invited back",
+    "p": "A happy traveler is your best lead for the next trip, but only if you stay in touch between bookings."
+   }
+  ],
+  "workflow": [
+   "A traveler fills out your trip-request form",
+   "CasperPortal tags them by destination and travel style",
+   "They book a planning call from a link in the reply text",
+   "If the quote is not accepted, follow-up messages go out on your schedule",
+   "Before departure, automated emails share reminders and packing tips"
+  ],
+  "features": [
+   "crm-contact-management",
+   "email-sms-marketing",
+   "workflow-automations",
+   "appointment-booking"
+  ],
+  "faqs": [
+   [
+    "How do travel agents manage inquiries for different destinations?",
+    "Use tags and custom fields to track client interests, such as Europe, cruises or family trips. Then send targeted emails that match the right trip to the right client."
+   ],
+   [
+    "Can we automate itinerary reminders?",
+    "Yes. Set up workflows that send pre-trip emails with packing lists, travel tips and reminders ahead of each departure date."
+   ],
+   [
+    "Can clients book a planning call online?",
+    "Yes. Share your CasperPortal booking link so clients can choose a time for a planning call without back-and-forth emails."
+   ]
+  ],
+  "next": {
+   "feature": "/features/email-sms-marketing",
+   "compare": "/compare/activecampaign",
+   "guide": "/blog/multi-channel-marketing"
+  },
+  "image": {
+   "src": "/img/262b333c-57ec-4c07-976a-92fe19ac9e33-8a829d.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Travel Agencies"
+  }
+ },
+ "clothing-boutiques": {
+  "name": "Clothing Boutiques",
+  "kw": "CRM for clothing boutiques",
+  "cluster": "retail",
+  "title": "CRM for Clothing Boutiques: VIP Lists & Texts | CasperPortal",
+  "desc": "CRM for clothing boutiques: build a VIP text list, track sizes and style preferences, and announce new arrivals and events. Start a 14-day free trial.",
+  "h1": "CRM for Clothing Boutiques",
+  "intro": "A CRM for clothing boutiques helps you know your best customers and bring them back when new stock arrives. CasperPortal stores sizes, style preferences and purchase notes, sends text and email announcements for new arrivals and VIP events, answers Instagram and Facebook messages in one inbox, and asks shoppers for reviews.",
+  "summary": "VIP text lists, size and style notes, new-arrival alerts and one inbox for social messages.",
+  "pains": [
+   {
+    "h": "Social posts do not reach everyone",
+    "p": "New arrivals posted on Instagram are seen by only part of your followers. Your best customers can miss the pieces they would have bought."
+   },
+   {
+    "h": "Customer preferences are not written down",
+    "p": "Staff remember regulars, but sizes and favorite brands are lost when that person is off or leaves."
+   },
+   {
+    "h": "Slow days stay slow",
+    "p": "Without a direct line to shoppers, there is no quick way to drive foot traffic on a quiet afternoon."
+   }
+  ],
+  "workflow": [
+   "A shopper joins your VIP list at checkout or through a website form",
+   "Staff note sizes and style preferences on their contact record",
+   "When new stock arrives, a text goes to customers tagged for that style",
+   "Messages and replies from Instagram, Facebook and text land in one inbox",
+   "After a purchase, a review request goes out"
+  ],
+  "features": [
+   "email-sms-marketing",
+   "crm-contact-management",
+   "omnichannel-messaging",
+   "social-media-planner"
+  ],
+  "faqs": [
+   [
+    "How do boutiques use SMS marketing?",
+    "Boutiques text opted-in customers to announce new arrivals, sales and VIP events. It gives you a direct way to reach regulars and bring people in on slow days."
+   ],
+   [
+    "Can I track customer preferences in the CRM?",
+    "Yes. Use custom fields and tags to track sizes, style preferences and purchase history, so you can send offers that match what each customer likes."
+   ],
+   [
+    "Can I answer Instagram and Facebook messages in CasperPortal?",
+    "Yes. The omnichannel inbox brings Facebook Messenger and Instagram DMs together with text and email so your team replies from one place."
+   ]
+  ],
+  "next": {
+   "feature": "/features/email-sms-marketing",
+   "compare": "/compare/activecampaign",
+   "guide": "/blog/multi-channel-marketing"
+  },
+  "image": {
+   "src": "/img/23ed27a7-d225-4022-b187-44d177d4011b-a8359d.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Clothing Boutiques"
+  }
+ },
+ "furniture-stores": {
+  "name": "Furniture Stores",
+  "kw": "CRM for furniture stores",
+  "cluster": "retail",
+  "title": "CRM for Furniture Stores: Leads & Delivery | CasperPortal",
+  "desc": "CRM for furniture stores: capture showroom and website leads, follow up on big-ticket shoppers and text delivery updates and review requests. Try it free.",
+  "h1": "CRM for Furniture Stores",
+  "intro": "A CRM for furniture stores follows up with shoppers who are not ready to buy on the first visit. CasperPortal captures leads from your website and showroom, nurtures them with text and email until they come back, sends delivery-window updates by text, and requests a review once the furniture is in their home.",
+  "summary": "Follow up with big-ticket shoppers, send delivery updates by text and request reviews after delivery.",
+  "pains": [
+   {
+    "h": "Big purchases take time",
+    "p": "Shoppers measure, compare and think it over. If nobody follows up, they finish their decision at another store."
+   },
+   {
+    "h": "Showroom visitors leave no trace",
+    "p": "Walk-ins who browse and leave are gone unless someone captures their name and number."
+   },
+   {
+    "h": "Delivery questions flood the phone",
+    "p": "Customers call to ask when their order will arrive, tying up staff who could be selling."
+   }
+  ],
+  "workflow": [
+   "A shopper requests a catalog or offer through a landing page",
+   "CasperPortal follows up by text and email with the pieces they viewed",
+   "They book a showroom appointment from the link",
+   "After purchase, delivery-window updates go out by text",
+   "Once delivered, a review request is sent automatically"
+  ],
+  "features": [
+   "funnel-landing-page-builder",
+   "email-sms-marketing",
+   "workflow-automations",
+   "reputation-management"
+  ],
+  "faqs": [
+   [
+    "How do furniture stores use funnels for sales?",
+    "Stores use CasperPortal funnels to capture leads for big-ticket items like sofas or bedroom sets, offering a digital catalog or discount code in exchange for contact details, then following up until the shopper is ready to visit."
+   ],
+   [
+    "Can we automate delivery notifications?",
+    "Yes. Send text updates about the delivery window, followed by a review request after the furniture is in the home."
+   ],
+   [
+    "Can sales staff capture showroom visitors?",
+    "Yes. Staff can add a contact from the mobile app or have visitors fill out a quick form on a tablet, which starts the follow-up sequence."
+   ]
+  ],
+  "next": {
+   "feature": "/features/funnel-landing-page-builder",
+   "compare": "/compare/activecampaign",
+   "guide": "/marketing-automation-for-small-business"
+  },
+  "image": {
+   "src": "/img/586b7ea6-a6a7-4615-8f7e-c72f1d82279f-b80dab.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Furniture Stores"
+  }
+ },
+ "jewelry-stores": {
+  "name": "Jewelry Stores",
+  "kw": "CRM for jewelry stores",
+  "cluster": "retail",
+  "title": "CRM for Jewelry Stores: Occasions & Repairs | CasperPortal",
+  "desc": "CRM for jewelry stores: remember anniversaries and birthdays, send timely gift reminders and track repairs with text updates. Start a 14-day free trial.",
+  "h1": "CRM for Jewelry Stores",
+  "intro": "A CRM for jewelry stores remembers the dates that matter to your customers and keeps repair jobs on track. CasperPortal stores anniversaries, birthdays and ring sizes, sends gift reminders ahead of each occasion, tracks every repair from intake to pickup with text updates, and asks for a review after each sale.",
+  "summary": "Occasion reminders, ring-size and preference notes, and repair tracking with pickup texts.",
+  "pains": [
+   {
+    "h": "Important dates go unused",
+    "p": "An anniversary or birthday is a natural reason to visit, but only if you remember it and reach out in time."
+   },
+   {
+    "h": "Repair status calls interrupt sales",
+    "p": "Customers call to ask whether a repair is ready, and staff stop helping shoppers to look it up."
+   },
+   {
+    "h": "High-consideration buyers need follow-up",
+    "p": "Engagement ring shoppers often visit several stores. A thoughtful follow-up keeps you in the running."
+   }
+  ],
+  "workflow": [
+   "A customer buys an anniversary gift and you note the date",
+   "CasperPortal sends a reminder with gift ideas a few weeks before next year",
+   "Repairs move through a pipeline: received, in progress, ready",
+   "When a repair is ready, a pickup text goes out automatically",
+   "After each sale, a review request is sent"
+  ],
+  "features": [
+   "crm-contact-management",
+   "workflow-automations",
+   "sales-pipelines",
+   "email-sms-marketing"
+  ],
+  "faqs": [
+   [
+    "How do jewelry stores use a CRM for special occasions?",
+    "Track anniversaries and birthdays as custom fields in CasperPortal. Automated reminders can go to the customer a few weeks before each date with personalized gift ideas."
+   ],
+   [
+    "Can we manage repair tracking in CasperPortal?",
+    "Yes. Use a repairs pipeline to track each piece from intake to cleaning, repair and pickup, and keep the customer updated by text at each step."
+   ],
+   [
+    "Can we follow up with engagement ring shoppers?",
+    "Yes. Add shoppers as contacts and enroll them in a follow-up sequence by text and email so you stay in touch while they decide."
+   ]
+  ],
+  "next": {
+   "feature": "/features/workflow-automations",
+   "compare": "/compare/activecampaign",
+   "guide": "/blog/5-essential-automations"
+  },
+  "image": {
+   "src": "/img/f0edf125-d882-4667-84ae-8d835663ec55-1cf18e.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Jewelry Stores"
+  }
+ },
+ "pet-stores": {
+  "name": "Pet Stores",
+  "kw": "CRM for pet stores",
+  "cluster": "retail",
+  "title": "CRM for Pet Stores and Groomers | CasperPortal",
+  "desc": "CRM for pet stores and grooming salons: book grooming online, send reminders and restock texts, and ask for reviews. Try CasperPortal free for 14 days.",
+  "h1": "CRM for Pet Stores and Grooming",
+  "intro": "A CRM for pet stores keeps owners coming back for food, supplies and grooming. CasperPortal books grooming and training appointments online with automatic reminders, sends restock texts when it is time to buy food again, answers messages from one inbox, and asks for reviews, helping a local shop compete with online retailers.",
+  "summary": "Grooming booking with reminders, restock texts and review requests for local pet shops.",
+  "pains": [
+   {
+    "h": "Online retailers make reordering easy",
+    "p": "If buying food from you means remembering to stop by, many owners default to an online subscription instead."
+   },
+   {
+    "h": "Grooming no-shows waste the schedule",
+    "p": "A forgotten grooming appointment is an empty slot your groomer cannot fill at short notice."
+   },
+   {
+    "h": "Calls interrupt the counter",
+    "p": "Staff ringing up customers cannot also answer every booking or stock question on the phone."
+   }
+  ],
+  "workflow": [
+   "A pet owner books a grooming appointment from your website",
+   "Reminders go out by text before the appointment",
+   "Staff note the pet and the food they buy on the contact record",
+   "When it is time to restock, a reminder text goes out with an offer",
+   "After grooming, a review request is sent"
+  ],
+  "features": [
+   "appointment-booking",
+   "email-sms-marketing",
+   "workflow-automations",
+   "reputation-management"
+  ],
+  "faqs": [
+   [
+    "How do pet stores use texts for repeat sales?",
+    "Track when a customer last bought food or supplies in CasperPortal. Automated reminders can go out when it is time to restock, with a link or offer."
+   ],
+   [
+    "Can we manage grooming appointments in CasperPortal?",
+    "Yes. The built-in calendar handles grooming or training bookings, with automatic reminders to pet owners before each appointment."
+   ],
+   [
+    "Can owners text us questions?",
+    "Yes. Texts, website chat and social messages land in one inbox so staff can reply when they have a moment, from the desktop or mobile app."
+   ]
+  ],
+  "next": {
+   "feature": "/features/appointment-booking",
+   "compare": "/compare/calendly",
+   "guide": "/blog/5-essential-automations"
+  },
+  "image": {
+   "src": "/img/5e8bb9c4-585c-47ed-9ae1-bb3a8454b215-1b9d9a.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Pet Stores"
+  }
+ },
+ "automotive-parts-stores": {
+  "name": "Automotive Parts Stores",
+  "kw": "CRM for auto parts stores",
+  "cluster": "auto",
+  "title": "CRM for Auto Parts Stores: Order-Ready Texts | CasperPortal",
+  "desc": "CRM for auto parts stores: text customers when special orders arrive, send vehicle-based seasonal offers and track repair-shop accounts. Try it free.",
+  "h1": "CRM for Auto Parts Stores",
+  "intro": "A CRM for auto parts stores keeps retail customers and repair-shop accounts informed and coming back. CasperPortal sends order-ready texts when a special-order part arrives, segments customers by vehicle or past purchase for seasonal offers, tracks commercial accounts in a pipeline, and answers calls and messages from one inbox.",
+  "summary": "Special-order arrival texts, vehicle-based seasonal offers and commercial account tracking.",
+  "pains": [
+   {
+    "h": "Special orders sit on the shelf",
+    "p": "When customers are not told a part has arrived, it waits on the shelf and the counter fields calls asking about it."
+   },
+   {
+    "h": "Seasonal demand is not planned for",
+    "p": "Batteries, tires and winter supplies sell when customers are reminded at the right time."
+   },
+   {
+    "h": "Shop accounts need attention too",
+    "p": "Repair shops and fleet buyers bring repeat volume, but only if someone keeps in touch."
+   }
+  ],
+  "workflow": [
+   "A customer special-orders a part at the counter",
+   "The order is logged on their contact record",
+   "When the part arrives, an order-ready text goes out automatically",
+   "Customers are tagged by vehicle type for seasonal campaigns",
+   "Commercial accounts sit in a pipeline with follow-up tasks"
+  ],
+  "features": [
+   "email-sms-marketing",
+   "workflow-automations",
+   "crm-contact-management",
+   "sales-pipelines"
+  ],
+  "faqs": [
+   [
+    "How do auto parts stores use SMS for orders?",
+    "Stores use CasperPortal to text customers when a special-order part has arrived or an order is ready for pickup, which cuts down on status calls and shelf time."
+   ],
+   [
+    "Can we run seasonal promotions by email and text?",
+    "Yes. Segment your list by vehicle type or past purchases and send relevant seasonal offers for tires, batteries or winter supplies."
+   ],
+   [
+    "Can we track repair-shop and fleet accounts?",
+    "Yes. Put commercial accounts in their own pipeline with notes and follow-up tasks so no account goes quiet."
+   ]
+  ],
+  "next": {
+   "feature": "/features/email-sms-marketing",
+   "compare": "/compare/activecampaign",
+   "guide": "/marketing-automation-for-small-business"
+  },
+  "image": {
+   "src": "/img/61cd4ec2-bb4f-41d8-bb6d-493db1ce8fd4-a411ad.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Automotive Parts Stores"
+  }
+ },
+ "car-dealerships": {
+  "name": "Car Dealerships",
+  "kw": "CRM for car dealerships",
+  "cluster": "auto",
+  "title": "CRM for Car Dealerships: Leads & Trade-Ins | CasperPortal",
+  "desc": "CRM for car dealerships: text back missed calls, track trade-in and sales leads in pipelines and follow up until the deal closes. Try it free.",
+  "h1": "CRM for Car Dealerships",
+  "intro": "A CRM for car dealerships makes sure every buyer inquiry gets a fast reply and steady follow-up. CasperPortal texts back calls the sales floor misses, puts sales and trade-in leads in visual pipelines, follows up by text and email until the buyer is ready, and asks for a review after delivery.",
+  "summary": "Missed-call text back, sales and trade-in pipelines, and follow-up until the buyer is ready.",
+  "pains": [
+   {
+    "h": "Calls are missed on a busy lot",
+    "p": "Salespeople are on test drives and with customers. A buyer who cannot get through moves on to the next listing."
+   },
+   {
+    "h": "Buyers shop for weeks",
+    "p": "Car buyers compare inventory and financing. Without consistent follow-up, they buy where someone stayed in touch."
+   },
+   {
+    "h": "Trade-in inquiries get forgotten",
+    "p": "Appraisal requests come in through forms and calls and slip between salespeople without a shared pipeline."
+   }
+  ],
+  "workflow": [
+   "A buyer calls about a vehicle while the sales team is busy",
+   "CasperPortal texts them back so the conversation continues by text",
+   "The lead lands in your sales pipeline and gets a test-drive booking link",
+   "Follow-up texts and emails go out until they visit or buy",
+   "After delivery, a review request is sent"
+  ],
+  "features": [
+   "missed-call-text-back",
+   "sales-pipelines",
+   "omnichannel-messaging",
+   "google-call-tracking"
+  ],
+  "faqs": [
+   [
+    "How does missed call text-back help dealerships?",
+    "On a busy lot, a missed call can be a lost sale. Missed call text-back automatically texts the caller so they can keep the conversation going by text."
+   ],
+   [
+    "Can we track trade-in inquiries in the CRM?",
+    "Yes. Create a trade-in pipeline to track every inquiry from first valuation request to inspection and final offer."
+   ],
+   [
+    "Can we see which ads make the phone ring?",
+    "Yes. Google call tracking ties calls to their source so you can see which campaigns bring in buyers."
+   ]
+  ],
+  "next": {
+   "feature": "/features/sales-pipelines",
+   "compare": "/compare/salesforce",
+   "guide": "/blog/stop-missing-calls"
+  },
+  "image": {
+   "src": "/img/9ed07e15-a416-4a1d-8e0e-3b36abab03ba-ee4d65.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Car Dealerships"
+  }
+ },
+ "real-estate-agents": {
+  "name": "Real Estate Agents & Developers",
+  "kw": "CRM for real estate",
+  "cluster": "professional",
+  "title": "CRM for Real Estate Agents and Developers | CasperPortal",
+  "desc": "CRM for real estate agents, teams and developers: capture leads, automate open house follow-up and track every deal to closing. Try it 14 days free.",
+  "h1": "CRM for Real Estate Agents, Teams and Developers",
+  "intro": "A CRM for real estate captures every buyer and seller lead and follows up until they are ready to move. CasperPortal pulls leads from your website forms, landing pages and Facebook ads into one pipeline, sends automated text and email follow-up after showings and open houses, and tracks each deal from first contact to closing, for agents and new-development sales teams alike.",
+  "summary": "Lead capture, open house follow-up and deal pipelines for agents, teams and new-development sales.",
+  "pains": [
+   {
+    "h": "Leads are rarely ready today",
+    "p": "Buyers and sellers often take months to act. Without long-term follow-up, they work with whoever stayed in touch."
+   },
+   {
+    "h": "Open house sign-ins go nowhere",
+    "p": "A paper sign-in sheet is easy to lose and slow to follow up on, so warm visitors cool off."
+   },
+   {
+    "h": "Deadlines hide in email threads",
+    "p": "Showings, offers, inspections and closings involve many dates. Missing one can put a deal at risk."
+   }
+  ],
+  "workflow": [
+   "An open house visitor scans a QR code that opens a CasperPortal form",
+   "A thank-you text goes out right away with the listing details",
+   "A follow-up sequence by email and text shares similar listings or project updates",
+   "When they are ready, they book a showing or consultation from a link",
+   "The deal moves through your pipeline from showing to offer, inspection and closing"
+  ],
+  "features": [
+   "lead-capture-forms",
+   "workflow-automations",
+   "sales-pipelines",
+   "funnel-landing-page-builder"
+  ],
+  "faqs": [
+   [
+    "How can realtors automate open house follow-up?",
+    "Put a QR code at the open house that links to a CasperPortal form. Attendees are captured as contacts, get a thank-you text right away, and then receive a series of follow-up emails about the property."
+   ],
+   [
+    "Can I manage my entire buyer and seller pipeline?",
+    "Yes. CasperPortal shows where every client stands, from first showing to offer, inspection and closing, so critical deadlines are not missed."
+   ],
+   [
+    "How can real estate developers use CRM automation?",
+    "Developers use CasperPortal to nurture buyers for new projects with automated email and text campaigns, keeping them engaged from first inquiry through construction updates and final sales phases."
+   ],
+   [
+    "Where can CasperPortal capture real estate leads from?",
+    "Leads can come from your CasperPortal web forms, landing pages and funnels, Facebook ads, website chat and calls. Ask on a demo about connecting any other lead source you use."
+   ]
+  ],
+  "next": {
+   "feature": "/features/sales-pipelines",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/ultimate-b2b-follow-ups"
+  },
+  "image": {
+   "src": "/img/c8dd295a-0c16-42e7-bbe8-9b1076cf5ad6-4a2d42.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Real Estate Agents/Realtors"
+  }
+ },
+ "insurance-agencies": {
+  "name": "Insurance Agencies",
+  "kw": "CRM for insurance agencies",
+  "cluster": "professional",
+  "title": "CRM for Insurance Agencies: Renewals & Leads | CasperPortal",
+  "desc": "CRM for insurance agencies: automate renewal reminders by policy date, respond to quote requests fast and nurture prospects by text and email. Try it free.",
+  "h1": "CRM for Insurance Agencies",
+  "intro": "A CRM for insurance agencies helps you respond to quote requests quickly and never miss a renewal. CasperPortal collects leads from your website, Facebook and Google Business Profile in one inbox, sends follow-up sequences to prospects who are not ready yet, and triggers renewal reminders and check-ins based on each policy date.",
+  "summary": "Fast quote follow-up, renewal reminders by policy date and long-term prospect nurturing.",
+  "pains": [
+   {
+    "h": "Quote requests are a race",
+    "p": "Shoppers often request quotes from several agencies at once. The agency that replies first tends to get the conversation."
+   },
+   {
+    "h": "Renewals slip through",
+    "p": "Tracking expiration dates in a spreadsheet makes it easy to miss a check-in before a client shops around."
+   },
+   {
+    "h": "Not-yet prospects are forgotten",
+    "p": "A prospect whose policy renews in six months needs a reminder then, not just a quote today."
+   }
+  ],
+  "workflow": [
+   "A prospect requests a quote on your website",
+   "CasperPortal texts and emails them right away to book a call",
+   "The lead moves through a quote pipeline with tasks for each step",
+   "Prospects who are not ready get a nurture sequence until their renewal date",
+   "Clients get reminders and check-ins ahead of each policy renewal"
+  ],
+  "features": [
+   "workflow-automations",
+   "sales-pipelines",
+   "omnichannel-messaging",
+   "lead-capture-forms"
+  ],
+  "faqs": [
+   [
+    "Can insurance agents automate policy renewal reminders?",
+    "Yes. Store the policy expiration date on the contact and set a workflow to send a series of reminders and check-in messages ahead of each renewal."
+   ],
+   [
+    "How does CasperPortal help agents with lead follow-up?",
+    "Leads from your website, Facebook and Google Business Profile land in one place, so agents can respond quickly and use automated sequences to nurture leads who are not ready to buy."
+   ],
+   [
+    "Does CasperPortal replace our agency management system?",
+    "No. Keep policies and carrier data in your agency management system. CasperPortal handles lead capture, follow-up, reminders and client messaging."
+   ]
+  ],
+  "next": {
+   "feature": "/features/workflow-automations",
+   "compare": "/compare/salesforce",
+   "guide": "/blog/ultimate-b2b-follow-ups"
+  },
+  "image": {
+   "src": "/img/8b8eca1d-9f3e-4849-b1aa-221cbdaf7558-6b0124.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Insurance Agencies"
+  }
+ },
+ "legal-firms": {
+  "name": "Law Firms",
+  "kw": "CRM for law firms",
+  "cluster": "professional",
+  "title": "CRM for Law Firms: Client Intake & Follow-Up | CasperPortal",
+  "desc": "CRM for law firms: structured intake forms, routing by practice area, consultation booking and automated follow-up for prospective clients. Try it free.",
+  "h1": "CRM for Law Firms and Solo Attorneys",
+  "intro": "A CRM for law firms organizes intake so every prospective client gets a timely response. CasperPortal collects case details through intake forms, tags each lead by practice area and assigns it to the right attorney, lets prospects book a consultation online, and follows up automatically until they retain you or decide not to.",
+  "summary": "Intake forms, practice-area routing, consultation booking and follow-up for prospective clients.",
+  "pains": [
+   {
+    "h": "Attorneys are in court or meetings",
+    "p": "Prospective clients call when they need help. If nobody answers, they keep calling other firms."
+   },
+   {
+    "h": "Intake is inconsistent",
+    "p": "When intake details are scribbled on notes or in emails, conflicts checks and follow-up get delayed."
+   },
+   {
+    "h": "Consultations do not convert",
+    "p": "People often need time after a consultation. Without a follow-up process, they go quiet."
+   }
+  ],
+  "workflow": [
+   "A prospective client fills out an intake form on your website",
+   "CasperPortal tags the lead by practice area and assigns it to the right attorney",
+   "They receive a text with a link to book a consultation",
+   "Reminders go out before the consultation",
+   "If they have not retained the firm, follow-up messages go out on your schedule"
+  ],
+  "features": [
+   "lead-capture-forms",
+   "workflow-automations",
+   "appointment-booking",
+   "missed-call-text-back"
+  ],
+  "faqs": [
+   [
+    "How do law firms use automated intake?",
+    "Firms use CasperPortal forms to collect initial case details. Based on the answers, the system can tag the lead by practice area and assign it to the right attorney for follow-up."
+   ],
+   [
+    "Is CasperPortal a case management system?",
+    "No. Keep matters, documents and billing in your practice management software. CasperPortal handles intake, consultations and prospective-client communication."
+   ],
+   [
+    "How is client data protected?",
+    "See our security page for how CasperPortal handles data. Ask on a demo if your firm has specific requirements."
+   ]
+  ],
+  "next": {
+   "feature": "/features/lead-capture-forms",
+   "compare": "/compare/hubspot",
+   "guide": "/crm-for-local-businesses"
+  },
+  "image": {
+   "src": "/img/8150be89-4c1e-4200-b61d-e0889e0d45f0-119788.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Legal Firms"
+  }
+ },
+ "consulting-firms": {
+  "name": "Consulting Firms",
+  "kw": "CRM for consultants",
+  "cluster": "professional",
+  "title": "CRM for Consultants and Consulting Firms | CasperPortal",
+  "desc": "CRM for consultants: track long sales cycles from discovery call to signed contract, send proposals and stay top of mind with email. Try CasperPortal free.",
+  "h1": "CRM for Consultants and Consulting Firms",
+  "intro": "A CRM for consultants tracks long sales cycles and keeps you in front of your network between projects. CasperPortal puts every opportunity in a multi-stage pipeline from discovery call to proposal and signed contract, lets prospects book calls online, sends proposals and invoices, and runs email newsletters and blog posts from the same system.",
+  "summary": "Pipelines for long sales cycles, discovery-call booking, proposals and email to your network.",
+  "pains": [
+   {
+    "h": "Sales cycles are long",
+    "p": "Engagements can take months to close. Opportunities are easy to lose track of when they live in an inbox."
+   },
+   {
+    "h": "Feast-or-famine pipeline",
+    "p": "When you are busy delivering, marketing stops, and the pipeline is empty when the project ends."
+   },
+   {
+    "h": "Proposals and invoices take time",
+    "p": "Assembling documents and chasing payments pulls you away from billable work."
+   }
+  ],
+  "workflow": [
+   "A prospect downloads a guide from your landing page",
+   "CasperPortal adds them to your newsletter and a follow-up sequence",
+   "They book a discovery call from a link",
+   "You send a proposal and track it in your pipeline",
+   "Once signed, invoices go out with a payment link"
+  ],
+  "features": [
+   "sales-pipelines",
+   "proposals-and-estimates",
+   "email-sms-marketing",
+   "blog-publishing"
+  ],
+  "faqs": [
+   [
+    "Can I manage complex sales cycles in the CRM?",
+    "Yes. Multi-stage pipelines track long engagements from first discovery call to proposal and final contract signing."
+   ],
+   [
+    "How do consultants use CasperPortal for thought leadership?",
+    "Consultants use the blog and email marketing tools to share insights and guides, which keeps them top of mind with their professional network."
+   ],
+   [
+    "Can I send proposals and invoices from CasperPortal?",
+    "Yes. Proposals, estimates and invoices are built in, so the paperwork sits on the same record as the conversation."
+   ]
+  ],
+  "next": {
+   "feature": "/features/proposals-and-estimates",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/ultimate-b2b-follow-ups"
+  },
+  "image": {
+   "src": "/img/6de9aae5-14c8-445b-8c36-7751f6c1c905-9bdd3f.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Consulting Firms"
+  }
+ },
+ "it-services": {
+  "name": "IT Services Companies",
+  "kw": "CRM for IT service companies",
+  "cluster": "professional",
+  "title": "CRM for IT Service Companies and MSPs | CasperPortal",
+  "desc": "CRM for IT service companies and MSPs: track service requests in pipelines, automate contract renewal reminders and send proposals. Try CasperPortal free.",
+  "h1": "CRM for IT Service Companies and MSPs",
+  "intro": "A CRM for IT service companies tracks new business and renewals alongside the customer conversations behind them. CasperPortal puts service requests and sales opportunities in pipelines, sends reminders before contracts or registrations expire, delivers proposals and invoices, and keeps client messages in one inbox, so nothing gets lost in a busy support mailbox.",
+  "summary": "Pipelines for service requests and deals, renewal reminders, proposals and invoicing for IT firms.",
+  "pains": [
+   {
+    "h": "Requests get buried in email",
+    "p": "Sales inquiries and small service requests mix with everything else in a shared inbox, and some never get a reply."
+   },
+   {
+    "h": "Renewals sneak up",
+    "p": "Contract, license and domain expiration dates tracked in spreadsheets are easy to miss."
+   },
+   {
+    "h": "Selling takes a back seat to support",
+    "p": "Technical staff are busy fixing problems, so follow-up on proposals stalls."
+   }
+  ],
+  "workflow": [
+   "A business submits a service request or quote form",
+   "CasperPortal creates the contact and opens a card in your pipeline",
+   "You send a proposal, with follow-up reminders if it is not signed",
+   "Renewal dates trigger reminders to your team and the client",
+   "Invoices go out with a payment link"
+  ],
+  "features": [
+   "sales-pipelines",
+   "workflow-automations",
+   "proposals-and-estimates",
+   "invoicing"
+  ],
+  "faqs": [
+   [
+    "How can IT companies manage service requests in CasperPortal?",
+    "IT firms use pipelines to track a service request from first inquiry through troubleshooting and resolution, so requests do not get lost in a busy inbox."
+   ],
+   [
+    "Can we automate follow-ups for expiring contracts?",
+    "Yes. Store the expiration date on the record and set a workflow that reminds your team and the client before a service contract or domain registration expires."
+   ],
+   [
+    "Is CasperPortal a ticketing or RMM tool?",
+    "No. Keep your ticketing and remote monitoring tools for technical work. Use CasperPortal for sales, renewals, client messaging and invoicing."
+   ]
+  ],
+  "next": {
+   "feature": "/features/sales-pipelines",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/ultimate-b2b-follow-ups"
+  },
+  "image": {
+   "src": "/img/96b5ad47-fc3a-46cb-8baf-9916e4538375-6c719a.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "IT Services Companies"
+  }
+ },
+ "marketing-agencies": {
+  "name": "Marketing Agencies",
+  "kw": "CRM for marketing agencies",
+  "cluster": "professional",
+  "title": "CRM for Marketing Agencies: Win More Clients | CasperPortal",
+  "desc": "CRM for marketing agencies: track prospects from discovery call to signed retainer, send proposals and automate follow-up. Try CasperPortal free.",
+  "h1": "CRM for Marketing Agencies",
+  "intro": "A CRM for marketing agencies keeps your own new-business pipeline as organized as your client work. CasperPortal tracks prospects from first inquiry to discovery call, proposal and signed retainer, automates follow-up by text and email, sends invoices with payment links, and shows which lead sources bring in your best clients.",
+  "summary": "Track prospects to signed retainer, automate follow-up and invoice clients from one system.",
+  "pains": [
+   {
+    "h": "The cobbler has no shoes",
+    "p": "Agencies build systems for clients but often run their own sales from an inbox and memory."
+   },
+   {
+    "h": "Proposals stall",
+    "p": "A sent proposal with no structured follow-up can sit for weeks without an answer."
+   },
+   {
+    "h": "Hard to see which channels work",
+    "p": "Without reporting on lead sources, it is hard to know where your best clients came from."
+   }
+  ],
+  "workflow": [
+   "A prospect fills out the contact form on your agency site",
+   "CasperPortal replies with a link to book a discovery call",
+   "The opportunity moves through your pipeline to proposal",
+   "Follow-up messages go out if the proposal is not signed",
+   "Once signed, recurring invoices go out with a payment link"
+  ],
+  "features": [
+   "sales-pipelines",
+   "proposals-and-estimates",
+   "reporting-analytics",
+   "invoicing"
+  ],
+  "faqs": [
+   [
+    "How can agencies use CasperPortal for their own sales?",
+    "Agencies use pipelines, booking links and automated follow-up to move prospects from inquiry to signed retainer, with proposals and invoices in the same system."
+   ],
+   [
+    "Can I see which lead sources bring in clients?",
+    "Yes. Reporting and analytics show lead sources and pipeline performance so you can see which channels produce clients."
+   ],
+   [
+    "Can prospects book a discovery call online?",
+    "Yes. Share a CasperPortal booking link on your site or in a reply so prospects pick a time on your calendar and get reminders before the call."
+   ]
+  ],
+  "next": {
+   "feature": "/features/sales-pipelines",
+   "compare": "/compare/gohighlevel",
+   "guide": "/blog/economics-of-crm-roi"
+  },
+  "image": {
+   "src": "/img/968774c9-c887-42bc-9e88-02cdd72d706b-2d498e.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Marketing Agencies"
+  }
+ },
+ "_merge": {
+  "real-estate-development": "real-estate-agents"
+ },
+ "hvac": {
+  "name": "HVAC Companies",
+  "kw": "CRM for HVAC companies",
+  "cluster": "home-trades",
+  "title": "CRM for HVAC Companies: Calls, Quotes & Tune-Ups",
+  "desc": "CRM for HVAC companies: text back missed calls in busy seasons, track install quotes, book service visits and send tune-up reminders. Try it free.",
+  "h1": "CRM for HVAC Companies",
+  "intro": "A CRM for HVAC companies keeps every service call, install quote and maintenance customer in one place. CasperPortal texts back calls you miss while techs are on a job, tracks quotes in a pipeline, books visits online and sends reminders for seasonal tune-ups, so busy weeks don't cost you jobs.",
+  "summary": "Missed-call text back in peak season, install-quote pipelines, online booking and tune-up reminders.",
+  "pains": [
+   {
+    "h": "Peak-season calls pile up",
+    "p": "On the first hot or cold week of the year the phone rings nonstop. Callers who reach voicemail often try the next company on the list."
+   },
+   {
+    "h": "Install quotes go quiet",
+    "p": "A system replacement is a big decision. Without steady follow-up, quotes sit unanswered and you never hear whether the customer chose someone else."
+   },
+   {
+    "h": "Maintenance customers drift away",
+    "p": "Tune-up customers who aren't reminded each season book with whoever reaches them first."
+   }
+  ],
+  "workflow": [
+   "A homeowner calls about a broken system while every tech is out",
+   "CasperPortal texts them back and sends a link to book a service visit",
+   "After the visit, the install quote goes into your pipeline",
+   "Follow-up texts and emails go out until the quote is accepted or closed",
+   "Each season, maintenance customers get a tune-up reminder with a booking link"
+  ],
+  "features": [
+   "missed-call-text-back",
+   "appointment-booking",
+   "sales-pipelines",
+   "marketing-campaigns"
+  ],
+  "faqs": [
+   [
+    "How does a CRM help an HVAC company?",
+    "It puts every call, quote and customer in one system. You can see which install quotes need follow-up, who is due for a tune-up and which calls were missed, and CasperPortal handles the routine texts and emails."
+   ],
+   [
+    "Can CasperPortal text back missed calls during busy season?",
+    "Yes. When a call goes unanswered, CasperPortal texts the caller so they can describe the problem by text instead of calling another company."
+   ],
+   [
+    "Can I send seasonal tune-up reminders?",
+    "Yes. You can send a text or email campaign to your maintenance customers each season with a link to book a visit."
+   ],
+   [
+    "Can my techs use it in the field?",
+    "Yes. The iOS and Android app lets your team reply to customers, check the calendar and see customer history from a job site."
+   ]
+  ],
+  "next": {
+   "feature": "/features/missed-call-text-back",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/stop-missing-calls"
+  }
+ },
+ "landscaping": {
+  "name": "Landscaping Companies",
+  "kw": "CRM for landscaping companies",
+  "cluster": "home-trades",
+  "title": "CRM for Landscaping Companies: Estimates & Rebooking",
+  "desc": "CRM for landscaping companies: capture spring inquiries, text back missed calls, send estimates, follow up on bids and rebook seasonal customers.",
+  "h1": "CRM for Landscaping Companies",
+  "intro": "A CRM for landscaping companies tracks every inquiry, estimate and recurring customer through the season. CasperPortal texts back calls you miss while crews are working, sends estimates and follows up on them, and reminds past customers when it's time to book spring cleanups or fall work.",
+  "summary": "Seasonal inquiry capture, estimates with follow-up, and rebooking reminders for recurring customers.",
+  "pains": [
+   {
+    "h": "Spring brings a flood of inquiries",
+    "p": "Requests arrive by phone, web form and Facebook at the same time your crews are busiest, and some never get an answer."
+   },
+   {
+    "h": "Estimates without follow-up",
+    "p": "You walk the property and send a price, then the customer goes quiet. Without a reminder system, many bids simply expire."
+   },
+   {
+    "h": "Recurring customers need a nudge",
+    "p": "Cleanups, mulching and fall work repeat every year, but customers who aren't reminded may book someone else."
+   }
+  ],
+  "workflow": [
+   "A homeowner fills out your web form or calls while crews are on site",
+   "CasperPortal replies by text and offers a time for a property visit",
+   "You send the estimate, and the job moves into your pipeline",
+   "Automatic follow-ups go out until the estimate is accepted or closed",
+   "Next season, past customers get a reminder to book again"
+  ],
+  "features": [
+   "lead-capture-forms",
+   "missed-call-text-back",
+   "proposals-and-estimates",
+   "marketing-campaigns"
+  ],
+  "faqs": [
+   [
+    "Why do landscaping companies need a CRM?",
+    "Landscaping is seasonal and busy. A CRM keeps inquiries, estimates and returning customers organized so nothing is lost when crews are working long days."
+   ],
+   [
+    "Can I follow up on estimates automatically?",
+    "Yes. After you send an estimate, CasperPortal can send follow-up texts and emails on a schedule you choose until the customer replies."
+   ],
+   [
+    "Can I remind last year's customers to book again?",
+    "Yes. You can send a text or email campaign to past customers before each season with a link to request service."
+   ],
+   [
+    "Do I need a new phone number?",
+    "No. You can port your existing business number or add a local number that forwards to your phone."
+   ]
+  ],
+  "next": {
+   "feature": "/features/proposals-and-estimates",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/5-essential-automations"
+  }
+ },
+ "home-services": {
+  "name": "Home Service Businesses",
+  "kw": "CRM for home service businesses",
+  "cluster": "home-trades",
+  "title": "CRM for Home Service Businesses | CasperPortal",
+  "desc": "CRM for home service businesses like plumbers, electricians and cleaners: text back missed calls, book jobs online, invoice by text, get more reviews.",
+  "h1": "CRM for Home Service Businesses",
+  "intro": "A CRM for home service businesses helps plumbers, electricians, cleaners and other in-home pros answer every lead, book the job and get paid. CasperPortal texts back missed calls, lets customers book online, sends reminders and invoices with a pay link, and asks for a Google review when the work is done.",
+  "summary": "For plumbers, electricians, cleaners and other in-home pros: answer every call, book, invoice and get reviews.",
+  "pains": [
+   {
+    "h": "You can't answer while you're working",
+    "p": "Most calls come in while you're under a sink or in a panel. Callers who reach voicemail often move on to the next listing."
+   },
+   {
+    "h": "Scheduling by phone tag",
+    "p": "Going back and forth to find a time wastes your evenings and loses customers who want an answer now."
+   },
+   {
+    "h": "Few reviews despite good work",
+    "p": "Happy customers rarely leave a review unless you ask at the right moment, and asking by hand is easy to forget."
+   }
+  ],
+  "workflow": [
+   "A customer calls while you're on another job",
+   "CasperPortal texts them back with a link to book a time",
+   "They pick a slot and get an automatic reminder before the visit",
+   "When the job is done you send an invoice with a pay-by-text link",
+   "A review request goes out with a direct link to your Google profile"
+  ],
+  "features": [
+   "missed-call-text-back",
+   "appointment-booking",
+   "text-to-pay",
+   "reputation-management"
+  ],
+  "faqs": [
+   [
+    "Which home service businesses use CasperPortal?",
+    "Any business that works in customers' homes, such as plumbers, electricians, cleaners, handymen, painters and pest control companies. The setup is the same: answer every lead, book, invoice and ask for a review."
+   ],
+   [
+    "Can customers book a job online?",
+    "Yes. You can share a booking link by text, on your website or in your Google profile, and customers get automatic reminders before the visit."
+   ],
+   [
+    "Can I get paid by text?",
+    "Yes. You can send an invoice or a text-to-pay link so the customer pays from their phone when the job is done."
+   ],
+   [
+    "How do review requests work?",
+    "When you mark a job complete, CasperPortal can send a text and email asking the customer to leave a review, with a direct link to your Google profile."
+   ]
+  ],
+  "next": {
+   "feature": "/features/appointment-booking",
+   "compare": "/compare/gohighlevel",
+   "guide": "/blog/reputation-management-guide"
+  }
+ }
 }

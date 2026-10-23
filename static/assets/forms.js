@@ -84,7 +84,11 @@
     d.querySelector(".x").addEventListener("click", function () { d.remove(); try { sessionStorage.setItem("casperportal_personalization_dismissed", "true"); } catch (e) {} });
     document.body.appendChild(d);
   }
-  setTimeout(personalizePopup, 12000);
+  // Less intrusive than the live site (12s on every first page): desktop only, from the 2nd page view, after 40s.
+  (function () {
+    var n = 0; try { n = Number(sessionStorage.getItem("cp_pv") || 0) + 1; sessionStorage.setItem("cp_pv", String(n)); } catch (e) {}
+    if (n >= 2 && window.matchMedia && window.matchMedia("(min-width: 1080px)").matches) setTimeout(personalizePopup, 40000);
+  })();
 
   // ── Demo booking calendar (GHL calendar, same endpoints as the live site) ──
   document.querySelectorAll("[data-booking]").forEach(function (root) {

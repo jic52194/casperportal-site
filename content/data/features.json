@@ -1,870 +1,1827 @@
 {
-  "website-live-chat": {
-    "group": "capture",
-    "name": "Website Live Chat",
-    "kw": "website live chat software",
-    "title": "Website Live Chat Software for Local Business | CasperPortal",
-    "desc": "Website live chat software that turns quiet visitors into text conversations you can answer from your phone. See how CasperPortal chat works.",
-    "h1": "Website live chat software that keeps the conversation going by text",
-    "intro": "Website live chat software adds a chat widget to your site so visitors can ask a question without calling. In CasperPortal, the widget collects the visitor's name and phone number, then moves the conversation to SMS, so you can keep replying from your phone after they leave your website.",
-    "summary": "A chat widget for your website that captures the visitor's number and continues the conversation by text.",
-    "blocks": [
-      {"h": "Add a chat widget to any website", "p": "Place the CasperPortal chat widget on your existing site. Visitors type a question instead of filling out a long form or picking up the phone."},
-      {"h": "Continue the chat over SMS", "p": "The widget captures the visitor's phone number and routes the conversation to text messaging. Your reply reaches them as a text even after they close the browser tab."},
-      {"h": "Automated greetings and answers", "p": "Set a greeting and common answers so every visitor gets a response, or turn on an AI bot to qualify the lead and offer a booking."},
-      {"h": "Every chat lands in the CRM", "p": "Each chat creates or updates a contact record, so the conversation sits next to that person's calls, texts and emails."}
-    ],
-    "steps": [
-      "Copy the chat widget code into your website",
-      "A visitor types a question and leaves their name and number",
-      "The conversation moves to SMS and appears in your inbox",
-      "You reply from the web app or mobile app",
-      "Book the job or add the lead to a pipeline"
-    ],
-    "for": ["dental-clinics", "beauty-salons", "construction-companies"],
-    "faqs": [
-      ["Does the live chat connect to SMS?", "Yes. When a visitor leaves a message in the web chat widget, CasperPortal captures their phone number and routes the conversation to SMS. You can reply from your phone, and the customer receives your reply as a text message after they've left your website."],
-      ["Can I automate responses in the live chat?", "Yes. You can set up automated greetings, FAQ responses, or an AI bot that qualifies the lead and books an appointment directly through the chat widget."],
-      ["Will the chat widget work on my current website?", "Yes. The widget is added with a snippet of code, so it works on most website platforms without rebuilding your site."],
-      ["Where do I answer chat messages?", "Chats arrive in the same CasperPortal inbox as your texts, emails and social messages, on the web app and the iOS and Android mobile app."]
-    ],
-    "next": {"feature": "/features/ai-chat-tools", "compare": "/compare/hubspot", "guide": "/blog/ultimate-b2b-follow-ups"},
-    "image": {"src": "/img/9084498a-794e-407e-9f8e-1e5ad4750078-59fd17.webp", "w": 64, "h": 64, "alt": "Website live chat and visitor messaging"}
+ "website-live-chat": {
+  "group": "capture",
+  "name": "Website Live Chat",
+  "kw": "website live chat software",
+  "title": "Website Live Chat Software for Local Business | CasperPortal",
+  "desc": "Website live chat software that turns quiet visitors into text conversations you can answer from your phone. See how CasperPortal chat works.",
+  "h1": "Website live chat software that keeps the conversation going by text",
+  "intro": "Website live chat software adds a chat widget to your site so visitors can ask a question without calling. In CasperPortal, the widget collects the visitor's name and phone number, then moves the conversation to SMS, so you can keep replying from your phone after they leave your website.",
+  "summary": "A chat widget for your website that captures the visitor's number and continues the conversation by text.",
+  "blocks": [
+   {
+    "h": "Add a chat widget to any website",
+    "p": "Place the CasperPortal chat widget on your existing site. Visitors type a question instead of filling out a long form or picking up the phone."
+   },
+   {
+    "h": "Continue the chat over SMS",
+    "p": "The widget captures the visitor's phone number and routes the conversation to text messaging. Your reply reaches them as a text even after they close the browser tab."
+   },
+   {
+    "h": "Automated greetings and answers",
+    "p": "Set a greeting and common answers so every visitor gets a response, or turn on an AI bot to qualify the lead and offer a booking."
+   },
+   {
+    "h": "Every chat lands in the CRM",
+    "p": "Each chat creates or updates a contact record, so the conversation sits next to that person's calls, texts and emails."
+   }
+  ],
+  "steps": [
+   "Copy the chat widget code into your website",
+   "A visitor types a question and leaves their name and number",
+   "The conversation moves to SMS and appears in your inbox",
+   "You reply from the web app or mobile app",
+   "Book the job or add the lead to a pipeline"
+  ],
+  "for": [
+   "dental-clinics",
+   "beauty-salons",
+   "construction-companies"
+  ],
+  "faqs": [
+   [
+    "Does the live chat connect to SMS?",
+    "Yes. When a visitor leaves a message in the web chat widget, CasperPortal captures their phone number and routes the conversation to SMS. You can reply from your phone, and the customer receives your reply as a text message after they've left your website."
+   ],
+   [
+    "Can I automate responses in the live chat?",
+    "Yes. You can set up automated greetings, FAQ responses, or an AI bot that qualifies the lead and books an appointment directly through the chat widget."
+   ],
+   [
+    "Will the chat widget work on my current website?",
+    "Yes. The widget is added with a snippet of code, so it works on most website platforms without rebuilding your site."
+   ],
+   [
+    "Where do I answer chat messages?",
+    "Chats arrive in the same CasperPortal inbox as your texts, emails and social messages, on the web app and the iOS and Android mobile app."
+   ]
+  ],
+  "next": {
+   "feature": "/features/ai-chat-tools",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/ultimate-b2b-follow-ups"
   },
-  "reputation-management": {
-    "group": "manage",
-    "name": "Reputation Management",
-    "kw": "reputation management software",
-    "title": "Reputation Management Software for Reviews | CasperPortal",
-    "desc": "Reputation management software that asks every finished customer for a Google review and alerts you to new reviews. See how it works in CasperPortal.",
-    "h1": "Reputation management software that asks for reviews at the right moment",
-    "intro": "Reputation management software helps you collect more online reviews and respond to the ones you get. CasperPortal sends a review request by text and email when you mark a job complete or a customer won, links straight to your Google Business Profile, and alerts you when a negative review is posted so you can respond quickly.",
-    "summary": "Automatic review requests after each job, plus alerts so you can answer new reviews quickly.",
-    "blocks": [
-      {"h": "Automatic review requests", "p": "When a job is marked complete or a customer is marked won, CasperPortal sends a text and email asking about their experience. The message includes a direct link to your Google Business Profile."},
-      {"h": "Alerts for new reviews", "p": "You are notified when a negative review is posted, so you can reach out, fix the problem and reply publicly while it still matters."},
-      {"h": "Requests tied to real customers", "p": "Review requests go out from the contact record, so you can see who was asked and follow up with anyone who hasn't responded yet."}
-    ],
-    "steps": [
-      "Connect your Google Business Profile",
-      "Finish a job and mark it complete in the CRM",
-      "The customer gets a review request by text and email",
-      "You are alerted to new reviews and respond"
-    ],
-    "for": ["restaurants", "dental-clinics", "beauty-salons"],
-    "faqs": [
-      ["How does automated review collection work?", "When you mark a job as complete or a customer as won in the CRM, CasperPortal triggers an SMS and email sequence asking the customer about their experience and giving them a direct link to your Google Business Profile to leave a review."],
-      ["Can I dispute negative reviews through the platform?", "You cannot delete a customer's Google review from the platform. CasperPortal alerts you when a negative review is posted, so you can respond, resolve the issue and ask the customer whether they would update their review."],
-      ["Can I change the wording of the review request?", "Yes. The request is a regular text and email message, so you can write it in your own voice and include the customer's name."],
-      ["Is reputation management included in the Growth Plan?", "Yes. The Growth Plan is $297 per month with unlimited users and unlimited contacts, and you can try it with a 14-day free trial."]
-    ],
-    "next": {"feature": "/features/customer-surveys", "compare": "/compare/gohighlevel", "guide": "/blog/reputation-management-guide"},
-    "image": {"src": "/img/3b940985-3893-49b6-98e9-a911a545241e-18edb1.webp", "w": 64, "h": 64, "alt": "Online review and reputation management platform"}
-  },
-  "facebook-messenger": {
-    "group": "follow-up",
-    "name": "Facebook Messenger",
-    "kw": "Facebook Messenger CRM integration",
-    "title": "Facebook Messenger CRM Integration | CasperPortal",
-    "desc": "A Facebook Messenger CRM integration that pulls page messages into CasperPortal so social leads get tracked, answered and followed up. See how.",
-    "h1": "Facebook Messenger CRM integration for local businesses",
-    "intro": "A Facebook Messenger CRM integration brings messages sent to your Facebook page into your customer database. CasperPortal connects your page so each Messenger conversation becomes a contact you can answer, tag and move through your sales pipeline, with automated greetings and FAQ replies for after-hours messages.",
-    "summary": "Bring Facebook page messages into your CRM so social leads are answered and followed up like any other lead.",
-    "blocks": [
-      {"h": "Connect your Facebook page", "p": "Link your business page once, and new Messenger conversations show up in CasperPortal instead of a separate app."},
-      {"h": "Turn messages into contacts", "p": "Each person who messages your page gets a contact record, so you can tag them, add notes and add them to a pipeline."},
-      {"h": "Automated greetings and FAQ replies", "p": "Set greetings and answers to common questions so people who message after hours still hear back from you."},
-      {"h": "Follow up on other channels", "p": "Once you have a contact's details, continue the conversation by text or email from the same record."}
-    ],
-    "steps": [
-      "Connect your Facebook business page",
-      "A customer sends your page a message",
-      "The message arrives in CasperPortal as a contact conversation",
-      "An automated greeting replies if you're away",
-      "You answer and move the lead into your pipeline"
-    ],
-    "for": ["restaurants", "fitness-centers-gyms", "event-planners"],
-    "faqs": [
-      ["Why should I connect Facebook Messenger to my CRM?", "Customers often reach out on the platform where they found you. Centralizing Facebook messages in your CRM means social leads are tracked, followed up and moved through your sales pipeline just like web leads."],
-      ["Can I automate replies on Facebook?", "Yes. You can set up automated greetings and FAQ responses for Facebook Messenger, so after-hours inquiries still get a reply."],
-      ["Can an AI bot answer Messenger conversations?", "Yes. CasperPortal's AI chat tools can be configured to respond on Facebook Messenger as well as SMS, web chat and Instagram."],
-      ["Do I still need to check the Facebook app?", "No. Messenger conversations appear in your CasperPortal inbox, so you can read and reply from the web app or the CasperPortal mobile app."]
-    ],
-    "next": {"feature": "/features/omnichannel-messaging", "compare": "/compare/gohighlevel", "guide": "/blog/multi-channel-marketing"},
-    "image": {"src": "/img/c2fc1cf1-8e3e-4404-8612-4b729c9e876e-3abd36.webp", "w": 64, "h": 64, "alt": "Facebook Messenger CRM communication"}
-  },
-  "google-call-tracking": {
-    "group": "capture",
-    "name": "Google Call Tracking",
-    "kw": "call tracking software",
-    "title": "Call Tracking Software for Google Ads | CasperPortal",
-    "desc": "Call tracking software that gives each ad or listing its own number so you can see which marketing makes your phone ring. Keep your business number.",
-    "h1": "Call tracking software that shows which ads make your phone ring",
-    "intro": "Call tracking software assigns a separate phone number to each ad, campaign or listing so you can see which ones produce calls. In CasperPortal, tracking numbers forward to your existing business line, and every call is logged on the caller's contact record with its source, so you can spend more on what works.",
-    "summary": "Separate tracking numbers for each ad or listing, forwarding to your phone, so you know where calls come from.",
-    "blocks": [
-      {"h": "A number for each source", "p": "Give your Google Ads, Google Business Profile, flyers or truck signs their own local tracking number. Each call is tagged with the source it came from."},
-      {"h": "Keep your main number", "p": "Tracking numbers forward to your existing business line. Your main number stays the same, or you can port it into CasperPortal."},
-      {"h": "Calls logged on the contact", "p": "Every tracked call is attached to the caller's contact record, next to their texts, emails and pipeline stage."},
-      {"h": "See results in your reports", "p": "Call volume by source shows up in CasperPortal reporting, so you can cut spending on ads that don't ring your phone."}
-    ],
-    "steps": [
-      "Pick a local tracking number for each ad or listing",
-      "Set each number to forward to your business line",
-      "A customer calls from an ad and you answer as usual",
-      "The call is logged with its source on the contact",
-      "Compare sources in your reports and adjust spend"
-    ],
-    "for": ["construction-companies", "legal-firms", "car-dealerships"],
-    "faqs": [
-      ["How does call tracking help me save money on ads?", "By assigning unique tracking numbers to different ad campaigns, you can see which keywords or ads are driving phone calls. You can then cut spending on ads that don't perform and put more into the ones that do."],
-      ["Do I lose my original business number?", "No. Tracking numbers forward to your existing business line. Your main number stays as it is, and you can also port it into CasperPortal if you want everything in one place."],
-      ["What happens if I miss a tracked call?", "Missed call text back can send the caller an automatic text, so the lead from that ad is not lost while you're on a job."],
-      ["Can I track calls from my Google Business Profile?", "Yes. You can place a tracking number on your Google Business Profile listing and see those calls separately from your ad calls."]
-    ],
-    "next": {"feature": "/features/reporting-analytics", "compare": "/compare/hubspot", "guide": "/blog/mastering-local-seo"},
-    "image": {"src": "/img/32efb704-b2b0-4e95-a94b-951dd40ff129-5186fd.webp", "w": 64, "h": 64, "alt": "Google Business Profile call tracking software"}
-  },
-  "missed-call-text-back": {
-    "group": "capture",
-    "name": "Missed Call Text Back",
-    "kw": "missed call text back",
-    "title": "Missed Call Text Back for Local Businesses | CasperPortal",
-    "desc": "Missed call text back sends an automatic text to anyone whose call you can't answer, so the lead stays with you. Set your own message in CasperPortal.",
-    "h1": "Missed call text back that replies when you can't pick up",
-    "intro": "Missed call text back automatically sends a text message to a caller when you miss their call. CasperPortal sends your custom message right after the call ends or goes to voicemail, and the reply lands in your inbox so you can pick up the conversation by text from the job site.",
-    "summary": "An automatic text to every caller you miss, so they hear from you before they call someone else.",
-    "blocks": [
-      {"h": "Automatic text on every missed call", "p": "When a call goes unanswered or to voicemail, CasperPortal texts the caller right away so they know you got their call."},
-      {"h": "Write the message your way", "p": "Customize the text with your business name and a simple question, such as asking how you can help today."},
-      {"h": "Works with your landline", "p": "Landlines can't send texts, so CasperPortal can give you a local tracking number that forwards to your landline. Missed calls to that number get a text back from it."},
-      {"h": "Replies go to one inbox", "p": "When the caller texts back, the conversation shows up in your CasperPortal inbox and on the mobile app, attached to their contact record."}
-    ],
-    "steps": [
-      "Port your number or set up a local forwarding number",
-      "Write your missed call text",
-      "A customer calls while you're busy",
-      "CasperPortal texts them right after the call ends",
-      "You reply by text and book the job"
-    ],
-    "for": ["construction-companies", "beauty-salons", "dental-clinics"],
-    "faqs": [
-      ["How fast does the missed call text go out?", "The text is sent automatically right after the call ends or goes to voicemail, so the caller hears from you before they dial the next business in their search results."],
-      ["Can I customize the missed call message?", "Yes. You can fully customize the text. A common template is: 'Hi, this is [Your Business Name]. We're helping another customer right now, but how can we help you today?'"],
-      ["Does this work with landlines?", "Landlines cannot send text messages, but CasperPortal can provide a local tracking number that forwards to your landline. When someone calls that number and you miss it, the system texts their mobile phone back."],
-      ["Do I have to change my business phone number?", "No. You can keep your existing business number by porting it, or use a local tracking number that forwards to your phone."]
-    ],
-    "next": {"feature": "/features/omnichannel-messaging", "compare": "/compare/gohighlevel", "guide": "/blog/stop-missing-calls"},
-    "image": {"src": "/img/71e35662-d145-4a4d-9579-5875d923bc7a-458c4a.webp", "w": 64, "h": 64, "alt": "Missed call text back automation"}
-  },
-  "text-to-pay": {
-    "group": "book-pay",
-    "name": "Text To Pay",
-    "kw": "text to pay",
-    "title": "Text to Pay: Get Paid by Text Message | CasperPortal",
-    "desc": "Text to pay lets you send a payment link by text so customers can pay from their phone in a few taps. Stop chasing checks. See how it works.",
-    "h1": "Text to pay: send a payment link, get paid from the customer's phone",
-    "intro": "Text to pay is a way to collect payment by sending the customer a payment link in a text message. With CasperPortal, you send the link from the customer's conversation or contact record, they pay on their phone through your connected payment processor, and the payment is recorded on their contact.",
-    "summary": "Send a payment link by text so customers can pay from their phone without a call or a check.",
-    "blocks": [
-      {"h": "Send a payment link by text", "p": "Request payment from the same conversation where you talk to the customer. They tap the link and pay from their phone."},
-      {"h": "Uses your connected payment processor", "p": "Payments run through the payment processor you connect to CasperPortal, so funds go to your account."},
-      {"h": "Payments recorded on the contact", "p": "Each payment shows on the customer's record, so you can see who has paid without checking another system."}
-    ],
-    "steps": [
-      "Connect your payment processor",
-      "Finish the job and open the customer's conversation",
-      "Send a payment request by text",
-      "The customer taps the link and pays",
-      "The payment appears on their contact record"
-    ],
-    "for": ["construction-companies", "beauty-salons", "pet-stores"],
-    "faqs": [
-      ["Is text-to-pay secure?", "Payments are handled by the payment processor you connect, such as Stripe, rather than by text message, so card details are entered on the processor's checkout page."],
-      ["What does text to pay cost?", "You pay your connected payment provider's standard processing fees. Ask on a demo for how fees work with your processor."],
-      ["What's the difference between text to pay and invoicing?", "Text to pay is a quick payment link sent in a conversation. Invoicing is for itemized bills, recurring invoices and partial payments."],
-      ["Can customers pay without downloading an app?", "Yes. The customer opens the link from the text in their phone's browser and pays there."]
-    ],
-    "next": {"feature": "/features/invoicing", "compare": "/compare/gohighlevel", "guide": "/blog/why-unified-crm"},
-    "image": {"src": "/img/592b04a2-88bc-4d07-8c09-e7fdb8e7dce3-c1653f.webp", "w": 1024, "h": 1024, "alt": "Text to pay payment collection software"}
-  },
-  "memberships": {
-    "group": "content",
-    "name": "Memberships",
-    "kw": "membership site software",
-    "title": "Membership Site Software for Local Business | CasperPortal",
-    "desc": "Membership site software for hosting courses, videos and resources behind a login, with recurring billing that controls access. Try it in CasperPortal.",
-    "h1": "Membership site software for courses, resources and paid access",
-    "intro": "Membership site software lets you put videos, courses and documents behind a login and control who can see them. CasperPortal hosts the membership area and can charge a monthly or annual subscription that grants or removes access automatically based on payment status.",
-    "summary": "Host courses, videos and documents behind a login and charge recurring fees for access.",
-    "blocks": [
-      {"h": "Host videos, courses and documents", "p": "Build a members-only area for training videos, how-to guides and downloadable resources for clients or your own team."},
-      {"h": "Charge a recurring subscription", "p": "Set monthly or annual billing for access. Access is granted when payment succeeds and revoked when it stops."},
-      {"h": "Members are contacts in your CRM", "p": "Each member has a contact record, so you can tag them, message them and see their history alongside everyone else."}
-    ],
-    "steps": [
-      "Create a membership area and add your content",
-      "Choose free access or a monthly or annual price",
-      "Share the signup link with customers",
-      "Members pay and get access automatically"
-    ],
-    "for": ["fitness-centers-gyms", "consulting-firms", "real-estate-agents"],
-    "faqs": [
-      ["Can I host video courses in the membership area?", "Yes. CasperPortal's membership area can host training videos, documents and resources for your clients or team."],
-      ["Can I charge a recurring subscription for access?", "Yes. You can set up monthly or annual recurring billing that automatically grants or revokes access based on payment status."],
-      ["Can I use memberships for staff training?", "Yes. Many businesses use a private membership area to keep onboarding videos and procedures in one place for their team."],
-      ["How is a membership different from a community?", "A membership holds your content behind a login. A community is a discussion space where members post and talk with each other."]
-    ],
-    "next": {"feature": "/features/communities", "compare": "/compare/gohighlevel", "guide": "/marketing-automation-for-small-business"},
-    "image": {"src": "/img/83446290-77d1-453b-914f-765794bad099-2f6c6a.webp", "w": 64, "h": 64, "alt": "Membership platform and subscription tools"}
-  },
-  "lead-capture-forms": {
-    "group": "capture",
-    "name": "Lead Capture Forms",
-    "kw": "lead capture form builder",
-    "title": "Lead Capture Form Builder for Your Website | CasperPortal",
-    "desc": "A lead capture form builder that embeds on WordPress, Squarespace or Wix and creates a CRM contact on every submit. Start follow-up automatically.",
-    "h1": "Lead capture form builder that sends every submission to your CRM",
-    "intro": "A lead capture form builder lets you create forms that collect a visitor's name, phone and request. CasperPortal forms embed on the website you already have, and every submission creates a contact record and can start an automated follow-up, so you reach the lead while they are still interested.",
-    "summary": "Forms that embed on your current website and turn every submission into a CRM contact with follow-up.",
-    "blocks": [
-      {"h": "Embed on the site you already have", "p": "Copy and paste the form code into WordPress, Squarespace, Wix or any other platform. No rebuild needed."},
-      {"h": "Every submission becomes a contact", "p": "Each form fill creates a contact record with the answers saved, so nothing sits in an email inbox."},
-      {"h": "Start follow-up automatically", "p": "A submission can trigger a text, an email, a task for your team or a booking link, using workflow automations."},
-      {"h": "Ask the questions you need", "p": "Collect the details that matter for your work, such as service needed, address or preferred time."}
-    ],
-    "steps": [
-      "Build a form with the fields you need",
-      "Embed it on your website with copy-paste code",
-      "A visitor submits the form",
-      "A contact is created and follow-up starts",
-      "You call or text the lead back"
-    ],
-    "for": ["insurance-agencies", "legal-firms", "real-estate-agents"],
-    "faqs": [
-      ["Can I embed these forms on my existing website?", "Yes. You can embed CasperPortal forms on WordPress, Squarespace, Wix or any other platform with copy-paste code."],
-      ["Do forms connect to the CRM automatically?", "Yes. Every form submission creates a contact record and can trigger automated follow-up sequences."],
-      ["Do I need a new website to use the forms?", "No. Forms work on your current site. If you want standalone pages built around a form, use the funnel and landing page builder."],
-      ["Can my team get notified of new form submissions?", "Yes. A submission can trigger an internal notification or task so the right person follows up."]
-    ],
-    "next": {"feature": "/features/workflow-automations", "compare": "/compare/hubspot", "guide": "/blog/ultimate-b2b-follow-ups"},
-    "image": {"src": "/img/6b33c84d-394a-4c5d-90a4-db6a895a0976-a06673.webp", "w": 64, "h": 64, "alt": "Online forms and lead capture software"}
-  },
-  "customer-surveys": {
-    "group": "manage",
-    "name": "Customer Surveys",
-    "kw": "customer survey software",
-    "title": "Customer Survey Software for Feedback | CasperPortal",
-    "desc": "Customer survey software that sends a short survey by text or email after each job and saves answers to the contact. Learn what customers think.",
-    "h1": "Customer survey software that asks for feedback after every job",
-    "intro": "Customer survey software lets you ask customers questions and collect their answers in one place. In CasperPortal, you build a survey, send it by SMS or email automatically after a service or appointment, and the responses are saved to each customer's contact record so you can act on them.",
-    "summary": "Send short surveys by text or email after a job and keep every answer on the customer's record.",
-    "blocks": [
-      {"h": "Build a simple survey", "p": "Create a short set of questions about service quality, what the customer needs next, or how they found you."},
-      {"h": "Send automatically after service", "p": "Trigger a survey by SMS or email right after a service is completed or an appointment ends."},
-      {"h": "Answers saved to the contact", "p": "Responses are stored on the contact record, so you can tag unhappy customers for a call or happy ones for a review request."},
-      {"h": "Qualify new leads", "p": "Use survey questions to learn what a new lead needs before you call them back."}
-    ],
-    "steps": [
-      "Write your survey questions",
-      "Set the survey to send when a job is marked complete",
-      "The customer answers from a text or email link",
-      "Responses appear on their contact record",
-      "Follow up based on what they said"
-    ],
-    "for": ["dental-clinics", "hotels", "daycare-centers"],
-    "faqs": [
-      ["How do surveys help my business grow?", "Surveys give you direct feedback on what you're doing right and where you can improve. They can also qualify leads or gather details for an example you share with future customers."],
-      ["Can I automate survey delivery?", "Yes. You can trigger a survey by SMS or email right after a service is completed or an appointment ends."],
-      ["Can a survey answer start an automation?", "Yes. You can use responses to tag the contact or start a workflow, such as a review request for a positive answer or a call task for a negative one."],
-      ["How is a survey different from a lead capture form?", "A form collects a new lead's details. A survey asks existing customers or leads a set of questions and saves their answers."]
-    ],
-    "next": {"feature": "/features/reputation-management", "compare": "/compare/hubspot", "guide": "/blog/reputation-management-guide"},
-    "image": {"src": "/img/db3d4788-6be6-4d75-8728-a1d8224d4993-50de12.webp", "w": 64, "h": 64, "alt": "Customer survey and feedback software"}
-  },
-  "trigger-links": {
-    "group": "follow-up",
-    "name": "Trigger Links",
-    "kw": "trigger links",
-    "title": "Trigger Links: Act on What Contacts Click | CasperPortal",
-    "desc": "Trigger links tag a contact, move a lead or start an automation when someone clicks a link in your text or email. Send follow-up that fits their interest.",
-    "h1": "Trigger links that act on what each contact clicks",
-    "intro": "Trigger links are tracked links you put in a text or email that perform an action in your CRM when clicked. In CasperPortal, a click can add a tag, move the lead to a new pipeline stage or start an automation, so your next message matches what that person showed interest in.",
-    "summary": "Tracked links in texts and emails that tag the contact or start an automation when clicked.",
-    "blocks": [
-      {"h": "Tag contacts by interest", "p": "When a contact clicks a link about a specific service, CasperPortal adds a tag so you know what they care about."},
-      {"h": "Move leads through your pipeline", "p": "A click can move a lead to a new pipeline stage, such as from contacted to interested."},
-      {"h": "Start the right automation", "p": "Kick off a follow-up sequence for the service they clicked, instead of sending everyone the same message."}
-    ],
-    "steps": [
-      "Create a trigger link for a page or offer",
-      "Choose what happens when it's clicked",
-      "Add the link to a text, email or campaign",
-      "A contact clicks and the action runs"
-    ],
-    "for": ["real-estate-agents", "insurance-agencies", "travel-agencies"],
-    "faqs": [
-      ["What is a trigger link?", "A trigger link is a special link that, when clicked, performs an action in your CRM, such as adding a tag, moving a lead to a new pipeline stage or starting an automation."],
-      ["How do trigger links improve conversion?", "They let you segment your audience by their actual interests. If a lead clicks a link about plumbing repair, you can automatically send them more information about that specific service."],
-      ["Can I see who clicked a trigger link?", "Yes. The click is recorded on the contact, and any tag it adds shows on their record."],
-      ["How are trigger links different from automation triggers?", "A trigger link is one specific trigger: a click on a tracked link. Automation triggers are the full list of events, such as form submissions, calls and tags, that can start a workflow."]
-    ],
-    "next": {"feature": "/features/automation-triggers", "compare": "/compare/activecampaign", "guide": "/blog/multi-channel-marketing"},
-    "image": {"src": "/img/6c0033e3-8080-4bde-9600-86bcecc91c99-a4b299.webp", "w": 64, "h": 64, "alt": "Trigger links marketing automation tools"}
-  },
-  "sms-and-email-templates": {
-    "group": "follow-up",
-    "name": "SMS & Email Templates",
-    "kw": "SMS and email templates",
-    "title": "SMS and Email Templates for Local Business | CasperPortal",
-    "desc": "Save SMS and email templates for follow-ups, reminders and review requests, with custom fields that fill in each name. Reply faster in CasperPortal.",
-    "h1": "SMS and email templates that fill in the details for you",
-    "intro": "SMS and email templates are saved messages you can reuse instead of retyping the same reply. CasperPortal stores your texts and emails as templates with custom values, such as the contact's name and appointment time, and includes starter templates for follow-ups, reminders and review requests.",
-    "summary": "Saved texts and emails with custom fields, so routine replies take one click and stay consistent.",
-    "blocks": [
-      {"h": "Save your best messages", "p": "Turn the replies you send every day into templates your whole team can use from the inbox."},
-      {"h": "Custom values for a personal touch", "p": "Insert the contact's name, your business name, appointment times and other fields automatically."},
-      {"h": "Starter templates included", "p": "Begin with pre-written templates for common local business moments like follow-ups, reminders and review requests, then edit them in your own words."},
-      {"h": "Use templates in automations", "p": "The same templates can be sent by your workflows and campaigns, so automated and manual messages match."}
-    ],
-    "steps": [
-      "Pick a starter template or write your own",
-      "Add custom values like first name",
-      "Save it to your template library",
-      "Insert it from the inbox or an automation"
-    ],
-    "for": ["real-estate-agents", "insurance-agencies", "dental-clinics"],
-    "faqs": [
-      ["Can I use custom values in templates?", "Yes. You can pull in the contact's name, your business name, appointment times and more, so every message feels personal even though it's a template."],
-      ["Do you provide pre-written templates?", "Yes. CasperPortal comes with pre-written templates for common local business scenarios like follow-ups, reminders and review requests."],
-      ["Can my whole team use the same templates?", "Yes. Templates are shared across your account, and the Growth Plan includes unlimited users."],
-      ["What's the difference between templates and campaigns?", "A template is a single saved message. A campaign is a scheduled series of messages sent to a group of contacts."]
-    ],
-    "next": {"feature": "/features/email-sms-marketing", "compare": "/compare/activecampaign", "guide": "/blog/ultimate-b2b-follow-ups"},
-    "image": {"src": "/img/a0c6ec62-7fde-4246-b25e-436f34bcbe40-06b7da.webp", "w": 64, "h": 64, "alt": "SMS and email template library"}
-  },
-  "automation-triggers": {
-    "group": "follow-up",
-    "name": "Automation Triggers",
-    "kw": "automation triggers",
-    "title": "Automation Triggers for Local Business | CasperPortal",
-    "desc": "Automation triggers start follow-up when a form is submitted, a call comes in, a tag is added or a link is clicked. See the events CasperPortal can use.",
-    "h1": "Automation triggers that start the right action at the right time",
-    "intro": "Automation triggers are the events that start an automated workflow. In CasperPortal, a trigger can be a form submission, an incoming call, a link click, a calendar booking, a tag being added or a customer's birthday, and you can add delays between the steps that follow.",
-    "summary": "The events, from form fills to birthdays, that start an automated follow-up in CasperPortal.",
-    "blocks": [
-      {"h": "Lead activity triggers", "p": "Start a workflow when someone submits a form, calls your number, books on your calendar or clicks a trigger link."},
-      {"h": "CRM change triggers", "p": "Fire an action when a tag is added or a deal moves to a new pipeline stage, so your team doesn't have to remember."},
-      {"h": "Date-based triggers", "p": "Use dates like a customer's birthday to send a timely message without a calendar reminder."},
-      {"h": "Delays between steps", "p": "Add waits, such as a few hours or a few days, between the actions that a trigger starts."}
-    ],
-    "steps": [
-      "Choose the event that should start the workflow",
-      "Add filters so it only fires for the right contacts",
-      "Pick the actions and any delays between them",
-      "Turn it on and let it run"
-    ],
-    "for": ["fitness-centers-gyms", "dental-clinics", "real-estate-agents"],
-    "faqs": [
-      ["What triggers an automation?", "Triggers can be anything from a form submission, an incoming call, a link click or a tag being added to a customer's birthday."],
-      ["Can I set delays between actions?", "Yes. You can set delays, such as wait two hours or wait three days, between different steps in your automation sequence."],
-      ["Can one event start more than one automation?", "Yes. Several workflows can listen for the same trigger, such as one that texts the lead and another that notifies your team."],
-      ["Do I need to code to set up triggers?", "No. You pick triggers from a list in the visual workflow builder."]
-    ],
-    "next": {"feature": "/features/workflow-automations", "compare": "/compare/activecampaign", "guide": "/blog/5-essential-automations"},
-    "image": {"src": "/img/0a770670-5670-4bb6-bb84-fe94a6134a12-cc30b4.webp", "w": 64, "h": 64, "alt": "Automation triggers for customer actions"}
-  },
-  "marketing-campaigns": {
-    "group": "follow-up",
-    "name": "Marketing Campaigns",
-    "kw": "multi-channel marketing campaigns",
-    "title": "Multi-Channel Marketing Campaigns | CasperPortal",
-    "desc": "Plan multi-channel marketing campaigns that combine SMS, email, voice drops and social messages, and schedule a month of promotions in one sitting.",
-    "h1": "Multi-channel marketing campaigns you can plan once and schedule ahead",
-    "intro": "Multi-channel marketing campaigns reach the same audience through several channels in a planned sequence. CasperPortal lets you combine SMS, email, voice drops and social messaging into one campaign, choose who receives it, and schedule your promotions ahead of time so they go out while you work.",
-    "summary": "Plan promotions that combine SMS, email, voice drops and social messages, scheduled in advance.",
-    "blocks": [
-      {"h": "Combine channels in one sequence", "p": "Build a campaign that sends an email, follows up by text, and adds a voice drop or social message, all in planned order."},
-      {"h": "Schedule in advance", "p": "Plan a month of seasonal offers or reminders in one sitting and let them send on their dates."},
-      {"h": "Target the right contacts", "p": "Send to contacts filtered by tags, pipeline stage or past activity, so a promotion only goes to people it fits."}
-    ],
-    "steps": [
-      "Pick the offer and the audience",
-      "Lay out the channels and timing for each touch",
-      "Write each message or start from a template",
-      "Schedule the campaign and track replies"
-    ],
-    "for": ["restaurants", "furniture-stores", "breweries"],
-    "faqs": [
-      ["Can I run multi-channel campaigns?", "Yes. You can build campaigns that combine SMS, email, voice drops and social messaging into one sequence."],
-      ["Can I schedule campaigns in advance?", "Yes. You can plan and schedule a month of marketing in one sitting, then let it send on schedule."],
-      ["How is a campaign different from email and SMS marketing?", "Email and SMS marketing covers sending broadcasts and drips on those two channels. A marketing campaign is a planned promotion that can mix several channels, including voice drops and social."],
-      ["Where do campaign replies go?", "Replies arrive in your CasperPortal inbox on the contact's record, so you can answer them like any other conversation."]
-    ],
-    "next": {"feature": "/features/social-media-planner", "compare": "/compare/activecampaign", "guide": "/blog/multi-channel-marketing"},
-    "image": {"src": "/img/b75fa911-11d8-4c0d-b1e2-94dcee82718c-b23c23.webp", "w": 64, "h": 64, "alt": "Marketing campaign management platform"}
-  },
-  "social-media-planner": {
-    "group": "content",
-    "name": "Social Media Planner",
-    "kw": "social media scheduling tool",
-    "title": "Social Media Scheduling Tool | CasperPortal",
-    "desc": "A social media scheduling tool for Facebook, Instagram, LinkedIn, X, TikTok and Google Business Profile, with previews before posts go live.",
-    "h1": "Social media scheduling tool that keeps you posting while you work",
-    "intro": "A social media scheduling tool lets you write posts ahead of time and publish them automatically on a set date. CasperPortal's planner posts to Facebook, Instagram, LinkedIn, X, Google Business Profile and TikTok, and shows a preview for each platform before anything is scheduled.",
-    "summary": "Write posts ahead, preview them for each network, and schedule them to Facebook, Instagram and more.",
-    "blocks": [
-      {"h": "Post to several networks at once", "p": "Schedule one post to Facebook, Instagram, LinkedIn, X, Google Business Profile and TikTok from a single planner."},
-      {"h": "Preview before it goes live", "p": "See how each post will look on each platform so you can fix cropping or wording before it's scheduled."},
-      {"h": "Plan your calendar ahead", "p": "Batch a week or month of posts in one sitting, so your business stays visible during busy seasons."}
-    ],
-    "steps": [
-      "Connect your social accounts",
-      "Write a post and add images",
-      "Preview it for each platform",
-      "Pick a date and time to publish"
-    ],
-    "for": ["restaurants", "clothing-boutiques", "breweries"],
-    "faqs": [
-      ["Which social platforms are supported?", "CasperPortal supports posting to Facebook, Instagram, LinkedIn, X (Twitter), Google Business Profile and TikTok."],
-      ["Can I preview my posts before they go live?", "Yes. The planner includes a visual preview for each platform so you can check your content before it's scheduled."],
-      ["Can more than one person schedule posts?", "Yes. The Growth Plan includes unlimited users, so staff can draft and schedule posts in the same account."],
-      ["Does posting to Google Business Profile help local search?", "Regular posts keep your Google Business Profile active and current. Our local SEO guide explains how your profile fits into local rankings."]
-    ],
-    "next": {"feature": "/features/blog-publishing", "compare": "/compare/hubspot", "guide": "/blog/mastering-local-seo"},
-    "image": {"src": "/img/afcfea9e-e8b9-40dd-818b-17330eb64c2d-4d3551.webp", "w": 64, "h": 64, "alt": "Social media planner and content scheduler"}
-  },
-  "invoicing": {
-    "group": "book-pay",
-    "name": "Invoicing",
-    "kw": "invoicing software for small business",
-    "title": "Invoicing Software for Small Business | CasperPortal",
-    "desc": "Invoicing software for small business that sends online invoices, sets up recurring billing and accepts deposits or partial payments. See it in action.",
-    "h1": "Invoicing software for small business that makes paying you easy",
-    "intro": "Invoicing software for small business lets you create and send itemized bills that customers can pay online. CasperPortal sends invoices from the customer's record, supports recurring invoices for maintenance plans and subscriptions, and lets customers pay a deposit or make partial payments toward a larger job.",
-    "summary": "Send online invoices, set up recurring billing and accept deposits or partial payments.",
-    "blocks": [
-      {"h": "Send online invoices", "p": "Create an itemized invoice from the customer's record and send it by email or text with a link to pay."},
-      {"h": "Recurring invoices", "p": "Bill monthly maintenance plans or subscription services automatically on a schedule you set."},
-      {"h": "Deposits and partial payments", "p": "Let customers pay a deposit up front or make partial payments toward a larger invoice."},
-      {"h": "Convert estimates to invoices", "p": "When a customer signs a proposal, turn it into a live invoice instead of retyping the line items."}
-    ],
-    "steps": [
-      "Create an invoice or convert a signed estimate",
-      "Send it by email or text",
-      "The customer pays online in full or in part",
-      "Payment is recorded on their contact record"
-    ],
-    "for": ["construction-companies", "consulting-firms", "it-services"],
-    "faqs": [
-      ["Can I send recurring invoices?", "Yes. You can set up automated recurring invoices for monthly maintenance plans or subscription services."],
-      ["Do you support partial payments?", "Yes. You can let customers pay a deposit or make partial payments toward a larger invoice."],
-      ["Can I send an invoice from my phone?", "Yes. You can send invoices from the CasperPortal mobile app for iOS and Android."],
-      ["When should I use text to pay instead of an invoice?", "Use text to pay for a quick one-off payment link in a conversation. Use invoicing when you need itemized line items, recurring billing or partial payments."]
-    ],
-    "next": {"feature": "/features/proposals-and-estimates", "compare": "/compare/hubspot", "guide": "/blog/economics-of-crm-roi"},
-    "image": {"src": "/img/65b236f67450226df131e543-d118c8.webp", "w": 64, "h": 64, "alt": "Online invoicing and payment requests"}
-  },
-  "blog-publishing": {
-    "group": "content",
-    "name": "Blog Publishing",
-    "kw": "blogging platform for small business",
-    "title": "Blogging Platform for Small Business SEO | CasperPortal",
-    "desc": "A blogging platform for small business with custom meta titles, descriptions, clean URLs and scheduled posts. Answer customer questions in search.",
-    "h1": "A blogging platform for small business that's built for search",
-    "intro": "A blogging platform for small business lets you publish articles that answer the questions your customers search for. CasperPortal's blog tool gives you custom meta titles, meta descriptions and clean URLs for each post, and lets you write ahead and schedule posts to go live on any date and time.",
-    "summary": "Publish and schedule blog posts with custom meta titles, descriptions and clean URLs.",
-    "blocks": [
-      {"h": "SEO settings on every post", "p": "Set a custom meta title, meta description and clean URL for each article so search engines know what it covers."},
-      {"h": "Schedule posts ahead", "p": "Write in advance and pick the date and time each post goes live."},
-      {"h": "Turn readers into leads", "p": "Add a lead capture form or booking link to a post so readers can reach you without leaving the page."}
-    ],
-    "steps": [
-      "Pick a question your customers ask often",
-      "Write the post and set its meta title and URL",
-      "Add a form or booking link",
-      "Schedule it to publish"
-    ],
-    "for": ["legal-firms", "real-estate-agents", "consulting-firms"],
-    "faqs": [
-      ["Is the blog SEO-friendly?", "Yes. CasperPortal's blog tool lets you set custom meta titles, descriptions and clean URL structures for each post."],
-      ["Can I schedule blog posts?", "Yes. You can write content in advance and schedule it to go live on any date and time."],
-      ["What should a local business blog about?", "Answer the questions customers ask you on the phone, such as costs, timelines and how to choose a provider. Our local SEO guide covers how to plan topics."],
-      ["Can my team write posts too?", "Yes. The Growth Plan includes unlimited users, so staff can draft posts in the same account."]
-    ],
-    "next": {"feature": "/features/social-media-planner", "compare": "/compare/hubspot", "guide": "/blog/mastering-local-seo"},
-    "image": {"src": "/img/3e6f4aef-645e-4d1a-a5b1-a5d2a7ce94b1-879c0a.webp", "w": 64, "h": 64, "alt": "Business blogging and SEO content tools"}
-  },
-  "proposals-and-estimates": {
-    "group": "book-pay",
-    "name": "Proposals & Estimates",
-    "kw": "estimate and proposal software",
-    "title": "Estimate and Proposal Software with E-Sign | CasperPortal",
-    "desc": "Estimate and proposal software with e-signatures, so customers approve your quote from any device and you convert it to an invoice in one click.",
-    "h1": "Estimate and proposal software that gets quotes signed sooner",
-    "intro": "Estimate and proposal software helps you build a professional quote and get the customer's approval online. CasperPortal sends proposals customers can sign with an e-signature from any device, and once a proposal is signed you can convert it into a live invoice with one click.",
-    "summary": "Send quotes customers sign online, then turn the signed proposal into an invoice in one click.",
-    "blocks": [
-      {"h": "Build a professional quote", "p": "Create a proposal or estimate with your line items and terms from the customer's record."},
-      {"h": "Integrated e-signatures", "p": "Customers review and sign the proposal from their phone, tablet or computer, with no printing or scanning."},
-      {"h": "One-click conversion to invoice", "p": "Turn a signed proposal into a live invoice so you can collect a deposit right away."},
-      {"h": "Follow up on unsigned quotes", "p": "Use a pipeline stage or automation to remind customers who haven't signed yet."}
-    ],
-    "steps": [
-      "Visit the customer and gather job details",
-      "Build the estimate in CasperPortal",
-      "Send it for e-signature",
-      "Convert the signed proposal into an invoice"
-    ],
-    "for": ["construction-companies", "event-planners", "it-services"],
-    "faqs": [
-      ["Can customers sign proposals digitally?", "Yes. CasperPortal includes integrated e-signatures, so customers can approve and sign your proposals from any device."],
-      ["Can I convert an estimate into an invoice?", "Yes. Once a proposal is signed, you can convert it into a live invoice with a single click."],
-      ["Can I send estimates from the job site?", "Yes. The CasperPortal mobile app for iOS and Android lets you work with customer records and payments from your phone."],
-      ["How do I follow up on quotes that haven't been signed?", "Add the deal to a sales pipeline stage and set an automation to send a reminder text or email if it stays unsigned."]
-    ],
-    "next": {"feature": "/features/invoicing", "compare": "/compare/salesforce", "guide": "/blog/ultimate-b2b-follow-ups"},
-    "image": {"src": "/img/356cd270-219c-4cdc-906f-e4e181b14fa2-649e4c.webp", "w": 64, "h": 64, "alt": "Sales proposals and estimate software"}
-  },
-  "communities": {
-    "group": "content",
-    "name": "Communities",
-    "kw": "online community platform",
-    "title": "Online Community Platform for Your Customers | CasperPortal",
-    "desc": "An online community platform for private, branded groups where clients discuss, get support and stay engaged, in a space you own instead of social media.",
-    "h1": "An online community platform for your customers, owned by you",
-    "intro": "An online community platform gives your customers a private space to post, ask questions and talk with each other. CasperPortal's communities feature lets you build branded groups for discussion, support and engagement, so your audience gathers somewhere you control rather than on a social network.",
-    "summary": "Private, branded discussion groups for clients, in a space you own and control.",
-    "blocks": [
-      {"h": "Private, branded groups", "p": "Create a community with your branding where only the people you invite can join."},
-      {"h": "Discussion and support in one place", "p": "Members post questions, share tips and get answers from you and from each other."},
-      {"h": "Pair with memberships", "p": "Combine a community with a membership area so paying members get both your content and a place to talk."}
-    ],
-    "steps": [
-      "Create your community space",
-      "Set up topics or channels for discussion",
-      "Invite customers or members",
-      "Post updates and answer questions"
-    ],
-    "for": ["fitness-centers-gyms", "consulting-firms", "daycare-centers"],
-    "faqs": [
-      ["Can I host a private forum for my clients?", "Yes. CasperPortal's community feature lets you build private, branded spaces for discussion, support and engagement."],
-      ["Is this a replacement for Facebook Groups?", "Many businesses use it to move their audience away from social media distractions and into a space they own and control."],
-      ["How is a community different from a membership?", "A membership area holds your courses and resources behind a login. A community is where members talk with you and each other."],
-      ["Who can join my community?", "You decide. Communities are private, so you choose who is invited."]
-    ],
-    "next": {"feature": "/features/memberships", "compare": "/compare/gohighlevel", "guide": "/marketing-automation-for-small-business"},
-    "image": {"src": "/img/dabcd51b-4b37-4756-aab3-bc708fe7bc8c-90a3ad.webp", "w": 64, "h": 64, "alt": "Online communities and customer groups"}
-  },
-  "mobile-app": {
-    "group": "manage",
-    "name": "Mobile App",
-    "kw": "CRM mobile app",
-    "title": "CRM Mobile App for iOS and Android | CasperPortal",
-    "desc": "The CasperPortal CRM mobile app for iOS and Android lets you reply to leads, manage your calendar and send invoices from the job site. See what's in it.",
-    "h1": "A CRM mobile app for running your business from your phone",
-    "intro": "A CRM mobile app puts your contacts, conversations and calendar on your phone. CasperPortal has iOS and Android apps where you can reply to leads, manage appointments and send invoices, with push notifications for new leads, incoming texts and appointment updates, and permission levels for each team member.",
-    "summary": "iOS and Android apps for replying to leads, managing your calendar and sending invoices on the go.",
-    "blocks": [
-      {"h": "Reply to leads anywhere", "p": "Answer texts, chats and social messages from the same inbox you use on the web app."},
-      {"h": "Push notifications", "p": "Get alerts for new leads, incoming texts and appointment updates so you can respond between jobs."},
-      {"h": "Calendar and invoices on the go", "p": "Check and manage your appointments and send invoices from the job site."},
-      {"h": "Team access with permissions", "p": "Give staff different permission levels so they can manage their own leads and conversations from their phones."}
-    ],
-    "steps": [
-      "Download the CasperPortal app for iOS or Android",
-      "Sign in with your CasperPortal account",
-      "Turn on notifications for leads and messages",
-      "Reply, book and invoice from your phone"
-    ],
-    "for": ["construction-companies", "real-estate-agents", "event-planners"],
-    "faqs": [
-      ["Does the app have push notifications?", "Yes. You get alerts for new leads, incoming texts and appointment updates, so you can respond quickly."],
-      ["Can my team use the mobile app too?", "Yes. You can grant different permission levels to your staff so they can manage their own leads and conversations from their phones."],
-      ["Is the mobile app included in the plan?", "Yes. The app comes with your CasperPortal account, and the Growth Plan includes unlimited users."],
-      ["Which phones does the app support?", "CasperPortal has apps for both iOS and Android, alongside the web app."]
-    ],
-    "next": {"feature": "/features/omnichannel-messaging", "compare": "/compare/salesforce", "guide": "/crm-for-local-businesses"},
-    "image": {"src": "/img/afcfea9e-e8b9-40dd-818b-17330eb64c2d-4d3551.webp", "w": 64, "h": 64, "alt": "CasperPortal mobile app for iOS and Android"}
-  },
-  "crm-contact-management": {
-    "group": "manage",
-    "name": "CRM & Contact Management",
-    "kw": "contact management software",
-    "title": "Contact Management Software | CasperPortal",
-    "desc": "Contact management software that puts every text, email, call and note on one timeline per customer, with unlimited contacts. Import from a CSV.",
-    "h1": "Contact management software that keeps every customer's history in one place",
-    "intro": "Contact management software stores your leads and customers along with every interaction you've had with them. CasperPortal puts each contact's texts, emails, calls and notes on one timeline, lets you filter by tags, behavior and pipeline stage, and includes unlimited contacts on the Growth Plan.",
-    "summary": "One timeline per customer for texts, emails, calls and notes, with unlimited contacts.",
-    "blocks": [
-      {"h": "Unified contact records", "p": "See every text, email, call and note for a contact on a single timeline, so anyone on your team can pick up where the last person left off."},
-      {"h": "Smart segmentation", "p": "Filter your database by tags, behaviors and pipeline stages to send offers only to the people they fit."},
-      {"h": "Unlimited contacts", "p": "The Growth Plan includes unlimited contacts and unlimited users, so you don't pay more as your list grows."},
-      {"h": "Easy import", "p": "Bring in your existing customers from a CSV file or from your previous CRM."}
-    ],
-    "steps": [
-      "Import your contacts from a CSV or old CRM",
-      "Tag customers by service, town or status",
-      "Calls, texts and emails log to each record",
-      "Filter lists to follow up or send offers"
-    ],
-    "for": ["insurance-agencies", "real-estate-agents", "dental-clinics"],
-    "faqs": [
-      ["Can I import my existing contacts?", "Yes. You can bulk import contacts from a CSV file or bring them over from your previous CRM."],
-      ["Is there a limit to how many contacts I can store?", "No. The Growth Plan includes unlimited contacts, so you can grow without paying per contact."],
-      ["How much does CasperPortal cost?", "The Growth Plan is $297 per month, or $2,970 per year, with unlimited users and unlimited contacts. There is no setup fee and no long-term contract."],
-      ["Can I try it before I pay?", "Yes. You can start a 14-day free trial and cancel anytime during the trial."]
-    ],
-    "next": {"feature": "/features/sales-pipelines", "compare": "/compare/hubspot", "guide": "/crm-for-local-businesses"},
-    "image": {"src": "/img/735ba661-b09c-44fd-9b7a-696b3d10fdd2-eb7dba.webp", "w": 64, "h": 64, "alt": "CRM and contact management software"}
-  },
-  "email-sms-marketing": {
-    "group": "follow-up",
-    "name": "Email & SMS Marketing",
-    "kw": "email and SMS marketing software",
-    "title": "Email and SMS Marketing Software | CasperPortal",
-    "desc": "Email and SMS marketing software with a drag-and-drop email editor, two-way text broadcasts and drip sequences, all on the same platform as your CRM.",
-    "h1": "Email and SMS marketing software that lives inside your CRM",
-    "intro": "Email and SMS marketing software sends promotional and follow-up messages to your contacts by email and text. CasperPortal includes a drag-and-drop email editor, two-way bulk texting you can reply to, and automated drip sequences, all built on the same contact list you use to manage leads.",
-    "summary": "Drag-and-drop emails, two-way text broadcasts and drip sequences, sent from your CRM contact list.",
-    "blocks": [
-      {"h": "Drag-and-drop email builder", "p": "Design responsive emails visually, without code, and send them to any segment of your contacts."},
-      {"h": "Two-way SMS broadcasts", "p": "Send bulk texts that read like personal messages, then reply directly when customers text back."},
-      {"h": "Automated drip sequences", "p": "Nurture leads with multi-step email and text sequences that send on a schedule."},
-      {"h": "Send from your own domain", "p": "Connect your custom domain so emails come from your business name."}
-    ],
-    "steps": [
-      "Choose a segment of contacts",
-      "Write your email or text, or start from a template",
-      "Send now or set it as a drip sequence",
-      "Answer replies from your inbox"
-    ],
-    "for": ["restaurants", "beauty-salons", "pet-stores"],
-    "faqs": [
-      ["How are SMS messages billed?", "Text message costs can depend on how many messages you send. Ask on a demo how SMS usage works on your plan."],
-      ["Can I use my own domain for emails?", "Yes. You can connect your custom domain so your emails are sent under your brand."],
-      ["Can customers reply to my text broadcasts?", "Yes. SMS campaigns are two-way, so replies come into your inbox and you can answer them one to one."],
-      ["What's the difference between this and marketing campaigns?", "Email and SMS marketing is for broadcasts and drips on those two channels. Marketing campaigns plan a promotion across more channels, including voice drops and social messages."]
-    ],
-    "next": {"feature": "/features/sms-and-email-templates", "compare": "/compare/activecampaign", "guide": "/blog/ultimate-b2b-follow-ups"},
-    "image": {"src": "/img/a2eadec3-ae36-4814-9826-09f5672b67db-df6871.webp", "w": 64, "h": 64, "alt": "Email and SMS marketing automation"}
-  },
-  "workflow-automations": {
-    "group": "follow-up",
-    "name": "Workflow Automations",
-    "kw": "workflow automation software",
-    "title": "Workflow Automation Software, No Code | CasperPortal",
-    "desc": "Workflow automation software with a visual drag-and-drop builder and ready-made templates, so follow-up runs itself when leads take action. No code.",
-    "h1": "Workflow automation software that handles follow-up for you",
-    "intro": "Workflow automation software runs a series of actions automatically when something happens, such as a new lead or a booking. CasperPortal's visual builder lets you create multi-step workflows with if/then logic, without code, and includes templates for common local business follow-ups like new lead replies and appointment reminders.",
-    "summary": "A visual, no-code builder for multi-step follow-up with if/then logic and ready-made templates.",
-    "blocks": [
-      {"h": "Visual automation builder", "p": "Build multi-step workflows with if/then branches using a drag-and-drop interface designed for non-technical users."},
-      {"h": "Start from templates", "p": "Use pre-built automation templates for common local business scenarios, then adjust the messages and timing."},
-      {"h": "Act across every channel", "p": "A single workflow can send texts and emails, assign tasks, update pipeline stages and notify your team."},
-      {"h": "Starts on real customer events", "p": "Workflows begin from form submissions, incoming calls, link clicks or calendar bookings."}
-    ],
-    "steps": [
-      "Pick a template or start a blank workflow",
-      "Choose the trigger that starts it",
-      "Add actions, waits and if/then branches",
-      "Test it on a sample contact",
-      "Publish and let it run"
-    ],
-    "for": ["dental-clinics", "insurance-agencies", "marketing-agencies"],
-    "faqs": [
-      ["Do I need to know how to code to build automations?", "No. The workflow builder is fully visual and designed for non-technical users."],
-      ["Are there pre-built automation templates?", "Yes. CasperPortal includes a library of automation templates for common local business scenarios."],
-      ["What should my first automation be?", "A common first automation is an automatic reply to new leads and a reminder before each appointment. Our step-by-step guide walks through setting up your first one."],
-      ["Can someone build my automations for me?", "Yes. Optional done-for-you setup is available if you'd rather not build workflows yourself. See the pricing page for setup options."]
-    ],
-    "next": {"feature": "/features/automation-triggers", "compare": "/compare/activecampaign", "guide": "/blog/setup-first-automation"},
-    "image": {"src": "/img/60af926a-2d44-454c-93f0-8e92d718be52-5b0e71.webp", "w": 64, "h": 64, "alt": "Business workflow automation software"}
-  },
-  "sales-pipelines": {
-    "group": "manage",
-    "name": "Sales Pipelines",
-    "kw": "sales pipeline software",
-    "title": "Sales Pipeline Software for Local Business | CasperPortal",
-    "desc": "Sales pipeline software with drag-and-drop stages, automatic actions when deals move, and a running total of open deal value. See every lead at a glance.",
-    "h1": "Sales pipeline software that shows where every lead stands",
-    "intro": "Sales pipeline software tracks each lead through the stages of your sales process, from first contact to won job. CasperPortal gives you drag-and-drop pipelines with custom stages, sends texts, emails or team notifications automatically when a deal changes stage, and shows the total value of open deals.",
-    "summary": "Drag-and-drop deal stages with automatic actions and a running total of pipeline value.",
-    "blocks": [
-      {"h": "Drag-and-drop stages", "p": "Move deals between stages with your mouse or finger. Each stage matches a step in how you actually sell."},
-      {"h": "Automated stage actions", "p": "Send an email, a text or an internal notification automatically when a deal moves to a new stage."},
-      {"h": "Pipeline value at a glance", "p": "See the total potential value of open deals so you know what's on the table this month."},
-      {"h": "Multiple custom pipelines", "p": "Create separate pipelines for different services, departments or locations."}
-    ],
-    "steps": [
-      "Name your stages, such as new lead, quoted and won",
-      "Add deals from calls, forms and chats",
-      "Drag each deal forward as it progresses",
-      "Automations follow up at each stage"
-    ],
-    "for": ["real-estate-agents", "car-dealerships", "construction-companies"],
-    "faqs": [
-      ["Can I customize the pipeline stages?", "Yes. You can create custom pipelines with stages that match your exact sales process."],
-      ["Can I have multiple pipelines for different services?", "Yes. You can create separate pipelines for different departments, services or locations."],
-      ["Can a stage change send a message automatically?", "Yes. You can trigger emails, texts or internal notifications when a deal moves to a new stage."],
-      ["Can I see pipelines on my phone?", "Yes. Pipelines are available in the CasperPortal mobile app for iOS and Android as well as the web app."]
-    ],
-    "next": {"feature": "/features/proposals-and-estimates", "compare": "/compare/salesforce", "guide": "/crm-for-local-businesses"},
-    "image": {"src": "/img/73101585-19b2-4fe9-80c2-f6b86cba1c49-b72088.webp", "w": 64, "h": 64, "alt": "Sales pipeline tracking software"}
-  },
-  "appointment-booking": {
-    "group": "book-pay",
-    "name": "Appointment Booking",
-    "kw": "appointment booking software",
-    "title": "Appointment Booking Software with Reminders | CasperPortal",
-    "desc": "Appointment booking software with Google and Outlook sync, text and email reminders, and deposits at booking. Let customers book you online.",
-    "h1": "Appointment booking software that fills your calendar without phone tag",
-    "intro": "Appointment booking software lets customers pick an open time and book it themselves online. CasperPortal syncs with Google Calendar and Outlook to prevent double-booking, sends text and email reminders before each appointment, and can require a deposit or full payment when the customer books.",
-    "summary": "Online booking with Google and Outlook sync, automatic reminders and deposits at booking.",
-    "blocks": [
-      {"h": "Two-way calendar sync", "p": "Connect Google Calendar or Outlook so booked times block your calendar and personal events block your booking page."},
-      {"h": "Automated reminders", "p": "Send text and email reminders before each appointment to cut down on no-shows."},
-      {"h": "Deposits at booking", "p": "Require a deposit or full payment when the customer books to secure the time slot."},
-      {"h": "Your rules for availability", "p": "Set working hours, buffer times between appointments and minimum scheduling notice."}
-    ],
-    "steps": [
-      "Connect your Google or Outlook calendar",
-      "Set your hours, buffers and appointment types",
-      "Share your booking link or embed it on your site",
-      "Customers book and get automatic reminders"
-    ],
-    "for": ["beauty-salons", "dental-clinics", "fitness-centers-gyms"],
-    "faqs": [
-      ["Can I embed the calendar on my website?", "Yes. You can embed your booking widget on any website or share it with a direct link."],
-      ["Can I set buffer times between appointments?", "Yes. You can configure custom buffer times, minimum scheduling notice and specific working hours."],
-      ["Can I take a deposit when someone books?", "Yes. You can require a deposit or full payment at the time of booking."],
-      ["How is this different from a standalone scheduling tool?", "Bookings in CasperPortal land on the customer's contact record and can start follow-up, reminders and review requests in the same system."]
-    ],
-    "next": {"feature": "/features/workflow-automations", "compare": "/compare/calendly", "guide": "/blog/5-essential-automations"},
-    "image": {"src": "/img/3b965981-7925-488d-a524-4d3dc393af77-54e88c.webp", "w": 64, "h": 64, "alt": "Appointment booking and scheduling software"}
-  },
-  "omnichannel-messaging": {
-    "group": "follow-up",
-    "name": "Omnichannel Messaging",
-    "kw": "unified inbox for business messaging",
-    "title": "Unified Inbox for Business Messaging | CasperPortal",
-    "desc": "A unified inbox for business messaging that brings SMS, email, Facebook Messenger and Instagram DMs into one team thread per customer. Stop app-hopping.",
-    "h1": "A unified inbox for business messaging across every channel",
-    "intro": "A unified inbox for business messaging collects texts, emails and social messages in one place. CasperPortal shows SMS, email, Facebook Messenger and Instagram DMs in a single thread per customer, lets you assign conversations and leave internal notes, and works the same on the web and the iOS and Android apps.",
-    "summary": "One team inbox for SMS, email, Messenger and Instagram, with assignments and internal notes.",
-    "blocks": [
-      {"h": "One thread per customer", "p": "Read and reply to texts, emails, Facebook Messenger and Instagram DMs in a single continuous conversation."},
-      {"h": "Team collaboration", "p": "Assign conversations to specific team members and leave internal notes the customer never sees."},
-      {"h": "Use a business number", "p": "Text and call from a dedicated business number, either your ported existing number or a local number, and keep your personal number private."},
-      {"h": "Inbox on your phone", "p": "Reply from the CasperPortal iOS and Android apps with the same conversations you see on the web."}
-    ],
-    "steps": [
-      "Connect your phone number, email and social accounts",
-      "Messages from every channel land in one inbox",
-      "Assign each conversation to the right person",
-      "Reply on whichever channel the customer used"
-    ],
-    "for": ["dental-clinics", "hotels", "car-dealerships"],
-    "faqs": [
-      ["Does this replace my personal phone number?", "It can. You can use a dedicated business number for calls and texts, keeping your personal number private."],
-      ["Can multiple team members use the inbox at once?", "Yes. Your whole team can work out of the unified inbox at the same time, and the Growth Plan includes unlimited users."],
-      ["Which channels are included?", "The inbox brings together SMS, email, Facebook Messenger, Instagram DMs and website live chat."],
-      ["Can I keep my existing business number?", "Yes. You can port your existing business number or use a local tracking number that forwards to your phone."]
-    ],
-    "next": {"feature": "/features/mobile-app", "compare": "/compare/hubspot", "guide": "/blog/why-unified-crm"},
-    "image": {"src": "/img/03a496a0-84f8-4c5b-ad6f-442a55251545-cc63fb.webp", "w": 64, "h": 64, "alt": "Omnichannel messaging unified inbox"}
-  },
-  "reporting-analytics": {
-    "group": "manage",
-    "name": "Reporting & Analytics",
-    "kw": "marketing attribution reporting",
-    "title": "Marketing Attribution Reporting | CasperPortal",
-    "desc": "Marketing attribution reporting that connects Google Ads and Facebook Ads to leads and revenue, with call metrics and custom dashboards. Stop guessing.",
-    "h1": "Marketing attribution reporting that shows what actually brings in work",
-    "intro": "Marketing attribution reporting shows which ads and lead sources produce leads and revenue. CasperPortal connects to Google Ads and Facebook Ads to track ROI from ad to customer, reports call volume, missed calls and team response times, and lets you build custom dashboards for the numbers you care about.",
-    "summary": "Ad attribution, call metrics and custom dashboards that tie your marketing to real leads and revenue.",
-    "blocks": [
-      {"h": "Ad attribution", "p": "See which Facebook or Google ads are generating leads and revenue, using the native Google Ads and Facebook Ads integrations."},
-      {"h": "Call tracking metrics", "p": "Monitor call volume, missed calls and team response times alongside your other lead sources."},
-      {"h": "Custom dashboards", "p": "Choose the widgets and metrics that matter to your business and arrange them on your own dashboard."}
-    ],
-    "steps": [
-      "Connect your Google Ads and Facebook Ads accounts",
-      "Add tracking numbers to your ads and listings",
-      "Leads and calls are tied to their source",
-      "Review your dashboard and shift budget"
-    ],
-    "for": ["car-dealerships", "legal-firms", "marketing-agencies"],
-    "faqs": [
-      ["Can I connect my Google Ads account?", "Yes. Native integrations with Google Ads and Facebook Ads provide end-to-end ROI tracking."],
-      ["Are reports customizable?", "Yes. You can customize dashboard widgets to display the metrics you need."],
-      ["Can I see how fast my team responds to leads?", "Yes. Call tracking metrics include missed calls and team response times."],
-      ["How do I work out whether CasperPortal pays for itself?", "Compare the jobs you can trace back to the platform with its cost. Our CRM ROI guide and ROI calculator walk through the math with your own numbers."]
-    ],
-    "next": {"feature": "/features/google-call-tracking", "compare": "/compare/salesforce", "guide": "/blog/economics-of-crm-roi"},
-    "image": {"src": "/img/d454a8e3-4d93-4126-b80b-38aab1f537d2-504c3c.webp", "w": 64, "h": 64, "alt": "Business reporting and analytics dashboard"}
-  },
-  "funnel-landing-page-builder": {
-    "group": "capture",
-    "name": "Funnel & Landing Page Builder",
-    "kw": "landing page and funnel builder",
-    "title": "Landing Page and Funnel Builder | CasperPortal",
-    "desc": "A landing page and funnel builder with drag-and-drop editing, A/B testing, local business templates and hosting included. Use your own domain.",
-    "h1": "A landing page and funnel builder for turning ad traffic into leads",
-    "intro": "A landing page and funnel builder lets you create standalone pages and multi-step sequences that turn visitors into leads, without code. CasperPortal includes a drag-and-drop editor, templates made for local service businesses, A/B testing for headlines and offers, and hosting on your own domain.",
-    "summary": "Drag-and-drop landing pages and multi-step funnels with A/B testing and hosting included.",
-    "blocks": [
-      {"h": "Drag-and-drop editor", "p": "Design pages visually by dragging in headlines, images, forms and booking calendars."},
-      {"h": "Multi-step funnels", "p": "Chain pages together, such as an offer page, a form and a booking page, so visitors move toward a booked job."},
-      {"h": "A/B testing", "p": "Test different headlines, images and offers to see which version brings in more leads."},
-      {"h": "Hosting and your own domain", "p": "Hosting is included, and you can connect your own domain name to your pages."}
-    ],
-    "steps": [
-      "Choose a template for your service or offer",
-      "Edit the page with the drag-and-drop editor",
-      "Connect your domain and publish",
-      "Send ad or email traffic to the page",
-      "Test variations and keep the winner"
-    ],
-    "for": ["real-estate-development", "fitness-centers-gyms", "marketing-agencies"],
-    "faqs": [
-      ["Do I need separate web hosting?", "No. Hosting is included with CasperPortal."],
-      ["Can I use my own domain name?", "Yes. You can connect your own custom domains to your funnels and landing pages."],
-      ["When should I use a funnel instead of a form on my website?", "Use a lead capture form to add a form to the site you have. Use a funnel when you want a dedicated page for one ad or offer, or a multi-step path from offer to booking."],
-      ["Do leads from my pages go into the CRM?", "Yes. Forms and bookings on your pages create contact records and can start automated follow-up."]
-    ],
-    "next": {"feature": "/features/lead-capture-forms", "compare": "/compare/gohighlevel", "guide": "/blog/multi-channel-marketing"},
-    "image": {"src": "/img/c0ce42fd-f947-4edf-8cd8-f0bc47043533-b81e9c.webp", "w": 64, "h": 64, "alt": "Sales funnel and landing page builder"}
-  },
-  "ai-chat-tools": {
-    "group": "capture",
-    "name": "AI Chat Tools",
-    "kw": "AI chatbot for small business",
-    "title": "AI Chatbot for Small Business Lead Booking | CasperPortal",
-    "desc": "An AI chatbot for small business that answers questions, qualifies leads and books appointments on SMS, web chat, Messenger and Instagram, day or night.",
-    "h1": "An AI chatbot for small business that answers, qualifies and books",
-    "intro": "An AI chatbot for small business answers customer questions in conversation without a person typing each reply. CasperPortal's AI learns from your website and FAQ documents, replies on SMS, web chat, Facebook Messenger and Instagram, checks your calendar to book appointments, and hands the conversation to your team when needed.",
-    "summary": "An AI assistant trained on your FAQs that answers, qualifies leads and books appointments across channels.",
-    "blocks": [
-      {"h": "Trained on your business", "p": "Give the AI links to your website or upload a document with your FAQs, pricing and service details."},
-      {"h": "Books appointments itself", "p": "The AI checks your calendar availability and schedules appointments directly."},
-      {"h": "Human handoff", "p": "When a question needs a person, the AI passes the conversation to a team member in your inbox."},
-      {"h": "Works across channels", "p": "Turn the AI on for SMS, web chat, Facebook Messenger and Instagram."}
-    ],
-    "steps": [
-      "Add your website links or FAQ document",
-      "Choose the channels the AI should answer",
-      "Connect your booking calendar",
-      "Review conversations and step in when needed"
-    ],
-    "for": ["dental-clinics", "hotels", "legal-firms"],
-    "faqs": [
-      ["Is the AI hard to train?", "No. You can give it links to your website or upload a document with your FAQs."],
-      ["Does the AI work on SMS as well as web chat?", "Yes. The AI can be configured to respond via SMS, web chat, Facebook Messenger and Instagram."],
-      ["Can the AI book appointments?", "Yes. It can check your calendar availability and schedule appointments for you."],
-      ["What happens when the AI can't answer?", "It hands the conversation to a human team member, who can pick it up in the CasperPortal inbox."]
-    ],
-    "next": {"feature": "/features/website-live-chat", "compare": "/compare/gohighlevel", "guide": "/blog/ai-automation-support"},
-    "image": {"src": "/img/9084498a-794e-407e-9f8e-1e5ad4750078-59fd17.webp", "w": 64, "h": 64, "alt": "AI chatbot and conversational AI tools"}
+  "image": {
+   "src": "/img/9084498a-794e-407e-9f8e-1e5ad4750078-59fd17.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Website live chat and visitor messaging"
   }
+ },
+ "reputation-management": {
+  "group": "manage",
+  "name": "Reputation Management",
+  "kw": "reputation management software",
+  "title": "Reputation Management Software for Reviews | CasperPortal",
+  "desc": "Reputation management software that asks every finished customer for a Google review and alerts you to new reviews. See how it works in CasperPortal.",
+  "h1": "Reputation management software that asks for reviews at the right moment",
+  "intro": "Reputation management software helps you collect more online reviews and respond to the ones you get. CasperPortal sends a review request by text and email when you mark a job complete or a customer won, links straight to your Google Business Profile, and alerts you when a negative review is posted so you can respond quickly.",
+  "summary": "Automatic review requests after each job, plus alerts so you can answer new reviews quickly.",
+  "blocks": [
+   {
+    "h": "Automatic review requests",
+    "p": "When a job is marked complete or a customer is marked won, CasperPortal sends a text and email asking about their experience. The message includes a direct link to your Google Business Profile."
+   },
+   {
+    "h": "Alerts for new reviews",
+    "p": "You are notified when a negative review is posted, so you can reach out, fix the problem and reply publicly while it still matters."
+   },
+   {
+    "h": "Requests tied to real customers",
+    "p": "Review requests go out from the contact record, so you can see who was asked and follow up with anyone who hasn't responded yet."
+   }
+  ],
+  "steps": [
+   "Connect your Google Business Profile",
+   "Finish a job and mark it complete in the CRM",
+   "The customer gets a review request by text and email",
+   "You are alerted to new reviews and respond"
+  ],
+  "for": [
+   "restaurants",
+   "dental-clinics",
+   "beauty-salons"
+  ],
+  "faqs": [
+   [
+    "How does automated review collection work?",
+    "When you mark a job as complete or a customer as won in the CRM, CasperPortal triggers an SMS and email sequence asking the customer about their experience and giving them a direct link to your Google Business Profile to leave a review."
+   ],
+   [
+    "Can I dispute negative reviews through the platform?",
+    "You cannot delete a customer's Google review from the platform. CasperPortal alerts you when a negative review is posted, so you can respond, resolve the issue and ask the customer whether they would update their review."
+   ],
+   [
+    "Can I change the wording of the review request?",
+    "Yes. The request is a regular text and email message, so you can write it in your own voice and include the customer's name."
+   ],
+   [
+    "Is reputation management included in the Growth Plan?",
+    "Yes. The Growth Plan is $297 per month with unlimited users and unlimited contacts, and you can try it with a 14-day free trial."
+   ]
+  ],
+  "next": {
+   "feature": "/features/customer-surveys",
+   "compare": "/compare/gohighlevel",
+   "guide": "/blog/reputation-management-guide"
+  },
+  "image": {
+   "src": "/img/3b940985-3893-49b6-98e9-a911a545241e-18edb1.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Online review and reputation management platform"
+  }
+ },
+ "facebook-messenger": {
+  "group": "follow-up",
+  "name": "Facebook Messenger",
+  "kw": "Facebook Messenger CRM integration",
+  "title": "Facebook Messenger CRM Integration | CasperPortal",
+  "desc": "A Facebook Messenger CRM integration that pulls page messages into CasperPortal so social leads get tracked, answered and followed up. See how.",
+  "h1": "Facebook Messenger CRM integration for local businesses",
+  "intro": "A Facebook Messenger CRM integration brings messages sent to your Facebook page into your customer database. CasperPortal connects your page so each Messenger conversation becomes a contact you can answer, tag and move through your sales pipeline, with automated greetings and FAQ replies for after-hours messages.",
+  "summary": "Bring Facebook page messages into your CRM so social leads are answered and followed up like any other lead.",
+  "blocks": [
+   {
+    "h": "Connect your Facebook page",
+    "p": "Link your business page once, and new Messenger conversations show up in CasperPortal instead of a separate app."
+   },
+   {
+    "h": "Turn messages into contacts",
+    "p": "Each person who messages your page gets a contact record, so you can tag them, add notes and add them to a pipeline."
+   },
+   {
+    "h": "Automated greetings and FAQ replies",
+    "p": "Set greetings and answers to common questions so people who message after hours still hear back from you."
+   },
+   {
+    "h": "Follow up on other channels",
+    "p": "Once you have a contact's details, continue the conversation by text or email from the same record."
+   }
+  ],
+  "steps": [
+   "Connect your Facebook business page",
+   "A customer sends your page a message",
+   "The message arrives in CasperPortal as a contact conversation",
+   "An automated greeting replies if you're away",
+   "You answer and move the lead into your pipeline"
+  ],
+  "for": [
+   "restaurants",
+   "fitness-centers-gyms",
+   "event-planners"
+  ],
+  "faqs": [
+   [
+    "Why should I connect Facebook Messenger to my CRM?",
+    "Customers often reach out on the platform where they found you. Centralizing Facebook messages in your CRM means social leads are tracked, followed up and moved through your sales pipeline just like web leads."
+   ],
+   [
+    "Can I automate replies on Facebook?",
+    "Yes. You can set up automated greetings and FAQ responses for Facebook Messenger, so after-hours inquiries still get a reply."
+   ],
+   [
+    "Can an AI bot answer Messenger conversations?",
+    "Yes. CasperPortal's AI chat tools can be configured to respond on Facebook Messenger as well as SMS, web chat and Instagram."
+   ],
+   [
+    "Do I still need to check the Facebook app?",
+    "No. Messenger conversations appear in your CasperPortal inbox, so you can read and reply from the web app or the CasperPortal mobile app."
+   ]
+  ],
+  "next": {
+   "feature": "/features/omnichannel-messaging",
+   "compare": "/compare/gohighlevel",
+   "guide": "/blog/multi-channel-marketing"
+  },
+  "image": {
+   "src": "/img/c2fc1cf1-8e3e-4404-8612-4b729c9e876e-3abd36.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Facebook Messenger CRM communication"
+  }
+ },
+ "google-call-tracking": {
+  "group": "capture",
+  "name": "Google Call Tracking",
+  "kw": "call tracking software",
+  "title": "Call Tracking Software for Google Ads | CasperPortal",
+  "desc": "Call tracking software that gives each ad or listing its own number so you can see which marketing makes your phone ring. Keep your business number.",
+  "h1": "Call tracking software that shows which ads make your phone ring",
+  "intro": "Call tracking software assigns a separate phone number to each ad, campaign or listing so you can see which ones produce calls. In CasperPortal, tracking numbers forward to your existing business line, and every call is logged on the caller's contact record with its source, so you can spend more on what works.",
+  "summary": "Separate tracking numbers for each ad or listing, forwarding to your phone, so you know where calls come from.",
+  "blocks": [
+   {
+    "h": "A number for each source",
+    "p": "Give your Google Ads, Google Business Profile, flyers or truck signs their own local tracking number. Each call is tagged with the source it came from."
+   },
+   {
+    "h": "Keep your main number",
+    "p": "Tracking numbers forward to your existing business line. Your main number stays the same, or you can port it into CasperPortal."
+   },
+   {
+    "h": "Calls logged on the contact",
+    "p": "Every tracked call is attached to the caller's contact record, next to their texts, emails and pipeline stage."
+   },
+   {
+    "h": "See results in your reports",
+    "p": "Call volume by source shows up in CasperPortal reporting, so you can cut spending on ads that don't ring your phone."
+   }
+  ],
+  "steps": [
+   "Pick a local tracking number for each ad or listing",
+   "Set each number to forward to your business line",
+   "A customer calls from an ad and you answer as usual",
+   "The call is logged with its source on the contact",
+   "Compare sources in your reports and adjust spend"
+  ],
+  "for": [
+   "construction-companies",
+   "legal-firms",
+   "car-dealerships"
+  ],
+  "faqs": [
+   [
+    "How does call tracking help me save money on ads?",
+    "By assigning unique tracking numbers to different ad campaigns, you can see which keywords or ads are driving phone calls. You can then cut spending on ads that don't perform and put more into the ones that do."
+   ],
+   [
+    "Do I lose my original business number?",
+    "No. Tracking numbers forward to your existing business line. Your main number stays as it is, and you can also port it into CasperPortal if you want everything in one place."
+   ],
+   [
+    "What happens if I miss a tracked call?",
+    "Missed call text back can send the caller an automatic text, so the lead from that ad is not lost while you're on a job."
+   ],
+   [
+    "Can I track calls from my Google Business Profile?",
+    "Yes. You can place a tracking number on your Google Business Profile listing and see those calls separately from your ad calls."
+   ]
+  ],
+  "next": {
+   "feature": "/features/reporting-analytics",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/mastering-local-seo"
+  },
+  "image": {
+   "src": "/img/32efb704-b2b0-4e95-a94b-951dd40ff129-5186fd.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Google Business Profile call tracking software"
+  }
+ },
+ "missed-call-text-back": {
+  "group": "capture",
+  "name": "Missed Call Text Back",
+  "kw": "missed call text back",
+  "title": "Missed Call Text Back for Local Businesses | CasperPortal",
+  "desc": "Missed call text back sends an automatic text to anyone whose call you can't answer, so the lead stays with you. Set your own message in CasperPortal.",
+  "h1": "Missed call text back that replies when you can't pick up",
+  "intro": "Missed call text back automatically sends a text message to a caller when you miss their call. CasperPortal sends your custom message right after the call ends or goes to voicemail, and the reply lands in your inbox so you can pick up the conversation by text from the job site.",
+  "summary": "An automatic text to every caller you miss, so they hear from you before they call someone else.",
+  "blocks": [
+   {
+    "h": "Automatic text on every missed call",
+    "p": "When a call goes unanswered or to voicemail, CasperPortal texts the caller right away so they know you got their call."
+   },
+   {
+    "h": "Write the message your way",
+    "p": "Customize the text with your business name and a simple question, such as asking how you can help today."
+   },
+   {
+    "h": "Works with your landline",
+    "p": "Landlines can't send texts, so CasperPortal can give you a local tracking number that forwards to your landline. Missed calls to that number get a text back from it."
+   },
+   {
+    "h": "Replies go to one inbox",
+    "p": "When the caller texts back, the conversation shows up in your CasperPortal inbox and on the mobile app, attached to their contact record."
+   }
+  ],
+  "steps": [
+   "Port your number or set up a local forwarding number",
+   "Write your missed call text",
+   "A customer calls while you're busy",
+   "CasperPortal texts them right after the call ends",
+   "You reply by text and book the job"
+  ],
+  "for": [
+   "construction-companies",
+   "beauty-salons",
+   "dental-clinics"
+  ],
+  "faqs": [
+   [
+    "How fast does the missed call text go out?",
+    "The text is sent automatically right after the call ends or goes to voicemail, so the caller hears from you before they dial the next business in their search results."
+   ],
+   [
+    "Can I customize the missed call message?",
+    "Yes. You can fully customize the text. A common template is: 'Hi, this is [Your Business Name]. We're helping another customer right now, but how can we help you today?'"
+   ],
+   [
+    "Does this work with landlines?",
+    "Landlines cannot send text messages, but CasperPortal can provide a local tracking number that forwards to your landline. When someone calls that number and you miss it, the system texts their mobile phone back."
+   ],
+   [
+    "Do I have to change my business phone number?",
+    "No. You can keep your existing business number by porting it, or use a local tracking number that forwards to your phone."
+   ]
+  ],
+  "next": {
+   "feature": "/features/omnichannel-messaging",
+   "compare": "/compare/gohighlevel",
+   "guide": "/blog/stop-missing-calls"
+  },
+  "image": {
+   "src": "/img/71e35662-d145-4a4d-9579-5875d923bc7a-458c4a.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Missed call text back automation"
+  }
+ },
+ "text-to-pay": {
+  "group": "book-pay",
+  "name": "Text To Pay",
+  "kw": "text to pay",
+  "title": "Text to Pay: Get Paid by Text Message | CasperPortal",
+  "desc": "Text to pay lets you send a payment link by text so customers can pay from their phone in a few taps. Stop chasing checks. See how it works.",
+  "h1": "Text to pay: send a payment link, get paid from the customer's phone",
+  "intro": "Text to pay is a way to collect payment by sending the customer a payment link in a text message. With CasperPortal, you send the link from the customer's conversation or contact record, they pay on their phone through your connected payment processor, and the payment is recorded on their contact.",
+  "summary": "Send a payment link by text so customers can pay from their phone without a call or a check.",
+  "blocks": [
+   {
+    "h": "Send a payment link by text",
+    "p": "Request payment from the same conversation where you talk to the customer. They tap the link and pay from their phone."
+   },
+   {
+    "h": "Uses your connected payment processor",
+    "p": "Payments run through the payment processor you connect to CasperPortal, so funds go to your account."
+   },
+   {
+    "h": "Payments recorded on the contact",
+    "p": "Each payment shows on the customer's record, so you can see who has paid without checking another system."
+   }
+  ],
+  "steps": [
+   "Connect your payment processor",
+   "Finish the job and open the customer's conversation",
+   "Send a payment request by text",
+   "The customer taps the link and pays",
+   "The payment appears on their contact record"
+  ],
+  "for": [
+   "construction-companies",
+   "beauty-salons",
+   "pet-stores"
+  ],
+  "faqs": [
+   [
+    "Is text-to-pay secure?",
+    "Payments are handled by the payment processor you connect, such as Stripe, rather than by text message, so card details are entered on the processor's checkout page."
+   ],
+   [
+    "What does text to pay cost?",
+    "You pay your connected payment provider's standard processing fees. Ask on a demo for how fees work with your processor."
+   ],
+   [
+    "What's the difference between text to pay and invoicing?",
+    "Text to pay is a quick payment link sent in a conversation. Invoicing is for itemized bills, recurring invoices and partial payments."
+   ],
+   [
+    "Can customers pay without downloading an app?",
+    "Yes. The customer opens the link from the text in their phone's browser and pays there."
+   ]
+  ],
+  "next": {
+   "feature": "/features/invoicing",
+   "compare": "/compare/gohighlevel",
+   "guide": "/blog/why-unified-crm"
+  },
+  "image": {
+   "src": "/img/592b04a2-88bc-4d07-8c09-e7fdb8e7dce3-c1653f.webp",
+   "w": 1024,
+   "h": 1024,
+   "alt": "Text to pay payment collection software"
+  }
+ },
+ "memberships": {
+  "group": "content",
+  "name": "Memberships",
+  "kw": "membership site software",
+  "title": "Membership Site Software for Local Business | CasperPortal",
+  "desc": "Membership site software for hosting courses, videos and resources behind a login, with recurring billing that controls access. Try it in CasperPortal.",
+  "h1": "Membership site software for courses, resources and paid access",
+  "intro": "Membership site software lets you put videos, courses and documents behind a login and control who can see them. CasperPortal hosts the membership area and can charge a monthly or annual subscription that grants or removes access automatically based on payment status.",
+  "summary": "Host courses, videos and documents behind a login and charge recurring fees for access.",
+  "blocks": [
+   {
+    "h": "Host videos, courses and documents",
+    "p": "Build a members-only area for training videos, how-to guides and downloadable resources for clients or your own team."
+   },
+   {
+    "h": "Charge a recurring subscription",
+    "p": "Set monthly or annual billing for access. Access is granted when payment succeeds and revoked when it stops."
+   },
+   {
+    "h": "Members are contacts in your CRM",
+    "p": "Each member has a contact record, so you can tag them, message them and see their history alongside everyone else."
+   }
+  ],
+  "steps": [
+   "Create a membership area and add your content",
+   "Choose free access or a monthly or annual price",
+   "Share the signup link with customers",
+   "Members pay and get access automatically"
+  ],
+  "for": [
+   "fitness-centers-gyms",
+   "consulting-firms",
+   "real-estate-agents"
+  ],
+  "faqs": [
+   [
+    "Can I host video courses in the membership area?",
+    "Yes. CasperPortal's membership area can host training videos, documents and resources for your clients or team."
+   ],
+   [
+    "Can I charge a recurring subscription for access?",
+    "Yes. You can set up monthly or annual recurring billing that automatically grants or revokes access based on payment status."
+   ],
+   [
+    "Can I use memberships for staff training?",
+    "Yes. Many businesses use a private membership area to keep onboarding videos and procedures in one place for their team."
+   ],
+   [
+    "How is a membership different from a community?",
+    "A membership holds your content behind a login. A community is a discussion space where members post and talk with each other."
+   ]
+  ],
+  "next": {
+   "feature": "/features/communities",
+   "compare": "/compare/gohighlevel",
+   "guide": "/marketing-automation-for-small-business"
+  },
+  "image": {
+   "src": "/img/83446290-77d1-453b-914f-765794bad099-2f6c6a.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Membership platform and subscription tools"
+  }
+ },
+ "lead-capture-forms": {
+  "group": "capture",
+  "name": "Lead Capture Forms",
+  "kw": "lead capture form builder",
+  "title": "Lead Capture Form Builder for Your Website | CasperPortal",
+  "desc": "A lead capture form builder that embeds on WordPress, Squarespace or Wix and creates a CRM contact on every submit. Start follow-up automatically.",
+  "h1": "Lead capture form builder that sends every submission to your CRM",
+  "intro": "A lead capture form builder lets you create forms that collect a visitor's name, phone and request. CasperPortal forms embed on the website you already have, and every submission creates a contact record and can start an automated follow-up, so you reach the lead while they are still interested.",
+  "summary": "Forms that embed on your current website and turn every submission into a CRM contact with follow-up.",
+  "blocks": [
+   {
+    "h": "Embed on the site you already have",
+    "p": "Copy and paste the form code into WordPress, Squarespace, Wix or any other platform. No rebuild needed."
+   },
+   {
+    "h": "Every submission becomes a contact",
+    "p": "Each form fill creates a contact record with the answers saved, so nothing sits in an email inbox."
+   },
+   {
+    "h": "Start follow-up automatically",
+    "p": "A submission can trigger a text, an email, a task for your team or a booking link, using workflow automations."
+   },
+   {
+    "h": "Ask the questions you need",
+    "p": "Collect the details that matter for your work, such as service needed, address or preferred time."
+   }
+  ],
+  "steps": [
+   "Build a form with the fields you need",
+   "Embed it on your website with copy-paste code",
+   "A visitor submits the form",
+   "A contact is created and follow-up starts",
+   "You call or text the lead back"
+  ],
+  "for": [
+   "insurance-agencies",
+   "legal-firms",
+   "real-estate-agents"
+  ],
+  "faqs": [
+   [
+    "Can I embed these forms on my existing website?",
+    "Yes. You can embed CasperPortal forms on WordPress, Squarespace, Wix or any other platform with copy-paste code."
+   ],
+   [
+    "Do forms connect to the CRM automatically?",
+    "Yes. Every form submission creates a contact record and can trigger automated follow-up sequences."
+   ],
+   [
+    "Do I need a new website to use the forms?",
+    "No. Forms work on your current site. If you want standalone pages built around a form, use the funnel and landing page builder."
+   ],
+   [
+    "Can my team get notified of new form submissions?",
+    "Yes. A submission can trigger an internal notification or task so the right person follows up."
+   ]
+  ],
+  "next": {
+   "feature": "/features/workflow-automations",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/ultimate-b2b-follow-ups"
+  },
+  "image": {
+   "src": "/img/6b33c84d-394a-4c5d-90a4-db6a895a0976-a06673.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Online forms and lead capture software"
+  }
+ },
+ "customer-surveys": {
+  "group": "manage",
+  "name": "Customer Surveys",
+  "kw": "customer survey software",
+  "title": "Customer Survey Software for Feedback | CasperPortal",
+  "desc": "Customer survey software that sends a short survey by text or email after each job and saves answers to the contact. Learn what customers think.",
+  "h1": "Customer survey software that asks for feedback after every job",
+  "intro": "Customer survey software lets you ask customers questions and collect their answers in one place. In CasperPortal, you build a survey, send it by SMS or email automatically after a service or appointment, and the responses are saved to each customer's contact record so you can act on them.",
+  "summary": "Send short surveys by text or email after a job and keep every answer on the customer's record.",
+  "blocks": [
+   {
+    "h": "Build a simple survey",
+    "p": "Create a short set of questions about service quality, what the customer needs next, or how they found you."
+   },
+   {
+    "h": "Send automatically after service",
+    "p": "Trigger a survey by SMS or email right after a service is completed or an appointment ends."
+   },
+   {
+    "h": "Answers saved to the contact",
+    "p": "Responses are stored on the contact record, so you can tag unhappy customers for a call or happy ones for a review request."
+   },
+   {
+    "h": "Qualify new leads",
+    "p": "Use survey questions to learn what a new lead needs before you call them back."
+   }
+  ],
+  "steps": [
+   "Write your survey questions",
+   "Set the survey to send when a job is marked complete",
+   "The customer answers from a text or email link",
+   "Responses appear on their contact record",
+   "Follow up based on what they said"
+  ],
+  "for": [
+   "dental-clinics",
+   "hotels",
+   "daycare-centers"
+  ],
+  "faqs": [
+   [
+    "How do surveys help my business grow?",
+    "Surveys give you direct feedback on what you're doing right and where you can improve. They can also qualify leads or gather details for an example you share with future customers."
+   ],
+   [
+    "Can I automate survey delivery?",
+    "Yes. You can trigger a survey by SMS or email right after a service is completed or an appointment ends."
+   ],
+   [
+    "Can a survey answer start an automation?",
+    "Yes. You can use responses to tag the contact or start a workflow, such as a review request for a positive answer or a call task for a negative one."
+   ],
+   [
+    "How is a survey different from a lead capture form?",
+    "A form collects a new lead's details. A survey asks existing customers or leads a set of questions and saves their answers."
+   ]
+  ],
+  "next": {
+   "feature": "/features/reputation-management",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/reputation-management-guide"
+  },
+  "image": {
+   "src": "/img/db3d4788-6be6-4d75-8728-a1d8224d4993-50de12.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Customer survey and feedback software"
+  }
+ },
+ "trigger-links": {
+  "group": "follow-up",
+  "name": "Trigger Links",
+  "kw": "trigger links",
+  "title": "Trigger Links: Act on What Contacts Click | CasperPortal",
+  "desc": "Trigger links tag a contact, move a lead or start an automation when someone clicks a link in your text or email. Send follow-up that fits their interest.",
+  "h1": "Trigger links that act on what each contact clicks",
+  "intro": "Trigger links are tracked links you put in a text or email that perform an action in your CRM when clicked. In CasperPortal, a click can add a tag, move the lead to a new pipeline stage or start an automation, so your next message matches what that person showed interest in.",
+  "summary": "Tracked links in texts and emails that tag the contact or start an automation when clicked.",
+  "blocks": [
+   {
+    "h": "Tag contacts by interest",
+    "p": "When a contact clicks a link about a specific service, CasperPortal adds a tag so you know what they care about."
+   },
+   {
+    "h": "Move leads through your pipeline",
+    "p": "A click can move a lead to a new pipeline stage, such as from contacted to interested."
+   },
+   {
+    "h": "Start the right automation",
+    "p": "Kick off a follow-up sequence for the service they clicked, instead of sending everyone the same message."
+   }
+  ],
+  "steps": [
+   "Create a trigger link for a page or offer",
+   "Choose what happens when it's clicked",
+   "Add the link to a text, email or campaign",
+   "A contact clicks and the action runs"
+  ],
+  "for": [
+   "real-estate-agents",
+   "insurance-agencies",
+   "travel-agencies"
+  ],
+  "faqs": [
+   [
+    "What is a trigger link?",
+    "A trigger link is a special link that, when clicked, performs an action in your CRM, such as adding a tag, moving a lead to a new pipeline stage or starting an automation."
+   ],
+   [
+    "How do trigger links improve conversion?",
+    "They let you segment your audience by their actual interests. If a lead clicks a link about plumbing repair, you can automatically send them more information about that specific service."
+   ],
+   [
+    "Can I see who clicked a trigger link?",
+    "Yes. The click is recorded on the contact, and any tag it adds shows on their record."
+   ],
+   [
+    "How are trigger links different from automation triggers?",
+    "A trigger link is one specific trigger: a click on a tracked link. Automation triggers are the full list of events, such as form submissions, calls and tags, that can start a workflow."
+   ]
+  ],
+  "next": {
+   "feature": "/features/workflow-automations",
+   "compare": "/compare/activecampaign",
+   "guide": "/blog/multi-channel-marketing"
+  },
+  "image": {
+   "src": "/img/6c0033e3-8080-4bde-9600-86bcecc91c99-a4b299.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Trigger links marketing automation tools"
+  }
+ },
+ "sms-and-email-templates": {
+  "group": "follow-up",
+  "name": "SMS & Email Templates",
+  "kw": "SMS and email templates",
+  "title": "SMS and Email Templates for Local Business | CasperPortal",
+  "desc": "Save SMS and email templates for follow-ups, reminders and review requests, with custom fields that fill in each name. Reply faster in CasperPortal.",
+  "h1": "SMS and email templates that fill in the details for you",
+  "intro": "SMS and email templates are saved messages you can reuse instead of retyping the same reply. CasperPortal stores your texts and emails as templates with custom values, such as the contact's name and appointment time, and includes starter templates for follow-ups, reminders and review requests.",
+  "summary": "Saved texts and emails with custom fields, so routine replies take one click and stay consistent.",
+  "blocks": [
+   {
+    "h": "Save your best messages",
+    "p": "Turn the replies you send every day into templates your whole team can use from the inbox."
+   },
+   {
+    "h": "Custom values for a personal touch",
+    "p": "Insert the contact's name, your business name, appointment times and other fields automatically."
+   },
+   {
+    "h": "Starter templates included",
+    "p": "Begin with pre-written templates for common local business moments like follow-ups, reminders and review requests, then edit them in your own words."
+   },
+   {
+    "h": "Use templates in automations",
+    "p": "The same templates can be sent by your workflows and campaigns, so automated and manual messages match."
+   }
+  ],
+  "steps": [
+   "Pick a starter template or write your own",
+   "Add custom values like first name",
+   "Save it to your template library",
+   "Insert it from the inbox or an automation"
+  ],
+  "for": [
+   "real-estate-agents",
+   "insurance-agencies",
+   "dental-clinics"
+  ],
+  "faqs": [
+   [
+    "Can I use custom values in templates?",
+    "Yes. You can pull in the contact's name, your business name, appointment times and more, so every message feels personal even though it's a template."
+   ],
+   [
+    "Do you provide pre-written templates?",
+    "Yes. CasperPortal comes with pre-written templates for common local business scenarios like follow-ups, reminders and review requests."
+   ],
+   [
+    "Can my whole team use the same templates?",
+    "Yes. Templates are shared across your account, and the Growth Plan includes unlimited users."
+   ],
+   [
+    "What's the difference between templates and campaigns?",
+    "A template is a single saved message. A campaign is a scheduled series of messages sent to a group of contacts."
+   ]
+  ],
+  "next": {
+   "feature": "/features/email-sms-marketing",
+   "compare": "/compare/activecampaign",
+   "guide": "/blog/ultimate-b2b-follow-ups"
+  },
+  "image": {
+   "src": "/img/a0c6ec62-7fde-4246-b25e-436f34bcbe40-06b7da.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "SMS and email template library"
+  }
+ },
+ "marketing-campaigns": {
+  "group": "follow-up",
+  "name": "Marketing Campaigns",
+  "kw": "multi-channel marketing campaigns",
+  "title": "Multi-Channel Marketing Campaigns | CasperPortal",
+  "desc": "Plan multi-channel marketing campaigns that combine SMS, email, voice drops and social messages, and schedule a month of promotions in one sitting.",
+  "h1": "Multi-channel marketing campaigns you can plan once and schedule ahead",
+  "intro": "Multi-channel marketing campaigns reach the same audience through several channels in a planned sequence. CasperPortal lets you combine SMS, email, voice drops and social messaging into one campaign, choose who receives it, and schedule your promotions ahead of time so they go out while you work.",
+  "summary": "Plan promotions that combine SMS, email, voice drops and social messages, scheduled in advance.",
+  "blocks": [
+   {
+    "h": "Combine channels in one sequence",
+    "p": "Build a campaign that sends an email, follows up by text, and adds a voice drop or social message, all in planned order."
+   },
+   {
+    "h": "Schedule in advance",
+    "p": "Plan a month of seasonal offers or reminders in one sitting and let them send on their dates."
+   },
+   {
+    "h": "Target the right contacts",
+    "p": "Send to contacts filtered by tags, pipeline stage or past activity, so a promotion only goes to people it fits."
+   }
+  ],
+  "steps": [
+   "Pick the offer and the audience",
+   "Lay out the channels and timing for each touch",
+   "Write each message or start from a template",
+   "Schedule the campaign and track replies"
+  ],
+  "for": [
+   "restaurants",
+   "furniture-stores",
+   "breweries"
+  ],
+  "faqs": [
+   [
+    "Can I run multi-channel campaigns?",
+    "Yes. You can build campaigns that combine SMS, email, voice drops and social messaging into one sequence."
+   ],
+   [
+    "Can I schedule campaigns in advance?",
+    "Yes. You can plan and schedule a month of marketing in one sitting, then let it send on schedule."
+   ],
+   [
+    "How is a campaign different from email and SMS marketing?",
+    "Email and SMS marketing covers sending broadcasts and drips on those two channels. A marketing campaign is a planned promotion that can mix several channels, including voice drops and social."
+   ],
+   [
+    "Where do campaign replies go?",
+    "Replies arrive in your CasperPortal inbox on the contact's record, so you can answer them like any other conversation."
+   ]
+  ],
+  "next": {
+   "feature": "/features/social-media-planner",
+   "compare": "/compare/activecampaign",
+   "guide": "/blog/multi-channel-marketing"
+  },
+  "image": {
+   "src": "/img/b75fa911-11d8-4c0d-b1e2-94dcee82718c-b23c23.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Marketing campaign management platform"
+  }
+ },
+ "social-media-planner": {
+  "group": "content",
+  "name": "Social Media Planner",
+  "kw": "social media scheduling tool",
+  "title": "Social Media Scheduling Tool | CasperPortal",
+  "desc": "A social media scheduling tool for Facebook, Instagram, LinkedIn, X, TikTok and Google Business Profile, with previews before posts go live.",
+  "h1": "Social media scheduling tool that keeps you posting while you work",
+  "intro": "A social media scheduling tool lets you write posts ahead of time and publish them automatically on a set date. CasperPortal's planner posts to Facebook, Instagram, LinkedIn, X, Google Business Profile and TikTok, and shows a preview for each platform before anything is scheduled.",
+  "summary": "Write posts ahead, preview them for each network, and schedule them to Facebook, Instagram and more.",
+  "blocks": [
+   {
+    "h": "Post to several networks at once",
+    "p": "Schedule one post to Facebook, Instagram, LinkedIn, X, Google Business Profile and TikTok from a single planner."
+   },
+   {
+    "h": "Preview before it goes live",
+    "p": "See how each post will look on each platform so you can fix cropping or wording before it's scheduled."
+   },
+   {
+    "h": "Plan your calendar ahead",
+    "p": "Batch a week or month of posts in one sitting, so your business stays visible during busy seasons."
+   }
+  ],
+  "steps": [
+   "Connect your social accounts",
+   "Write a post and add images",
+   "Preview it for each platform",
+   "Pick a date and time to publish"
+  ],
+  "for": [
+   "restaurants",
+   "clothing-boutiques",
+   "breweries"
+  ],
+  "faqs": [
+   [
+    "Which social platforms are supported?",
+    "CasperPortal supports posting to Facebook, Instagram, LinkedIn, X (Twitter), Google Business Profile and TikTok."
+   ],
+   [
+    "Can I preview my posts before they go live?",
+    "Yes. The planner includes a visual preview for each platform so you can check your content before it's scheduled."
+   ],
+   [
+    "Can more than one person schedule posts?",
+    "Yes. The Growth Plan includes unlimited users, so staff can draft and schedule posts in the same account."
+   ],
+   [
+    "Does posting to Google Business Profile help local search?",
+    "Regular posts keep your Google Business Profile active and current. Our local SEO guide explains how your profile fits into local rankings."
+   ]
+  ],
+  "next": {
+   "feature": "/features/blog-publishing",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/mastering-local-seo"
+  },
+  "image": {
+   "src": "/img/afcfea9e-e8b9-40dd-818b-17330eb64c2d-4d3551.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Social media planner and content scheduler"
+  }
+ },
+ "invoicing": {
+  "group": "book-pay",
+  "name": "Invoicing",
+  "kw": "invoicing software for small business",
+  "title": "Invoicing Software for Small Business | CasperPortal",
+  "desc": "Invoicing software for small business that sends online invoices, sets up recurring billing and accepts deposits or partial payments. See it in action.",
+  "h1": "Invoicing software for small business that makes paying you easy",
+  "intro": "Invoicing software for small business lets you create and send itemized bills that customers can pay online. CasperPortal sends invoices from the customer's record, supports recurring invoices for maintenance plans and subscriptions, and lets customers pay a deposit or make partial payments toward a larger job.",
+  "summary": "Send online invoices, set up recurring billing and accept deposits or partial payments.",
+  "blocks": [
+   {
+    "h": "Send online invoices",
+    "p": "Create an itemized invoice from the customer's record and send it by email or text with a link to pay."
+   },
+   {
+    "h": "Recurring invoices",
+    "p": "Bill monthly maintenance plans or subscription services automatically on a schedule you set."
+   },
+   {
+    "h": "Deposits and partial payments",
+    "p": "Let customers pay a deposit up front or make partial payments toward a larger invoice."
+   },
+   {
+    "h": "Convert estimates to invoices",
+    "p": "When a customer signs a proposal, turn it into a live invoice instead of retyping the line items."
+   }
+  ],
+  "steps": [
+   "Create an invoice or convert a signed estimate",
+   "Send it by email or text",
+   "The customer pays online in full or in part",
+   "Payment is recorded on their contact record"
+  ],
+  "for": [
+   "construction-companies",
+   "consulting-firms",
+   "it-services"
+  ],
+  "faqs": [
+   [
+    "Can I send recurring invoices?",
+    "Yes. You can set up automated recurring invoices for monthly maintenance plans or subscription services."
+   ],
+   [
+    "Do you support partial payments?",
+    "Yes. You can let customers pay a deposit or make partial payments toward a larger invoice."
+   ],
+   [
+    "Can I send an invoice from my phone?",
+    "Yes. You can send invoices from the CasperPortal mobile app for iOS and Android."
+   ],
+   [
+    "When should I use text to pay instead of an invoice?",
+    "Use text to pay for a quick one-off payment link in a conversation. Use invoicing when you need itemized line items, recurring billing or partial payments."
+   ]
+  ],
+  "next": {
+   "feature": "/features/proposals-and-estimates",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/economics-of-crm-roi"
+  },
+  "image": {
+   "src": "/img/65b236f67450226df131e543-d118c8.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Online invoicing and payment requests"
+  }
+ },
+ "blog-publishing": {
+  "group": "content",
+  "name": "Blog Publishing",
+  "kw": "blogging platform for small business",
+  "title": "Blogging Platform for Small Business SEO | CasperPortal",
+  "desc": "A blogging platform for small business with custom meta titles, descriptions, clean URLs and scheduled posts. Answer customer questions in search.",
+  "h1": "A blogging platform for small business that's built for search",
+  "intro": "A blogging platform for small business lets you publish articles that answer the questions your customers search for. CasperPortal's blog tool gives you custom meta titles, meta descriptions and clean URLs for each post, and lets you write ahead and schedule posts to go live on any date and time.",
+  "summary": "Publish and schedule blog posts with custom meta titles, descriptions and clean URLs.",
+  "blocks": [
+   {
+    "h": "SEO settings on every post",
+    "p": "Set a custom meta title, meta description and clean URL for each article so search engines know what it covers."
+   },
+   {
+    "h": "Schedule posts ahead",
+    "p": "Write in advance and pick the date and time each post goes live."
+   },
+   {
+    "h": "Turn readers into leads",
+    "p": "Add a lead capture form or booking link to a post so readers can reach you without leaving the page."
+   }
+  ],
+  "steps": [
+   "Pick a question your customers ask often",
+   "Write the post and set its meta title and URL",
+   "Add a form or booking link",
+   "Schedule it to publish"
+  ],
+  "for": [
+   "legal-firms",
+   "real-estate-agents",
+   "consulting-firms"
+  ],
+  "faqs": [
+   [
+    "Is the blog SEO-friendly?",
+    "Yes. CasperPortal's blog tool lets you set custom meta titles, descriptions and clean URL structures for each post."
+   ],
+   [
+    "Can I schedule blog posts?",
+    "Yes. You can write content in advance and schedule it to go live on any date and time."
+   ],
+   [
+    "What should a local business blog about?",
+    "Answer the questions customers ask you on the phone, such as costs, timelines and how to choose a provider. Our local SEO guide covers how to plan topics."
+   ],
+   [
+    "Can my team write posts too?",
+    "Yes. The Growth Plan includes unlimited users, so staff can draft posts in the same account."
+   ]
+  ],
+  "next": {
+   "feature": "/features/social-media-planner",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/mastering-local-seo"
+  },
+  "image": {
+   "src": "/img/3e6f4aef-645e-4d1a-a5b1-a5d2a7ce94b1-879c0a.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Business blogging and SEO content tools"
+  }
+ },
+ "proposals-and-estimates": {
+  "group": "book-pay",
+  "name": "Proposals & Estimates",
+  "kw": "estimate and proposal software",
+  "title": "Estimate and Proposal Software with E-Sign | CasperPortal",
+  "desc": "Estimate and proposal software with e-signatures, so customers approve your quote from any device and you convert it to an invoice in one click.",
+  "h1": "Estimate and proposal software that gets quotes signed sooner",
+  "intro": "Estimate and proposal software helps you build a professional quote and get the customer's approval online. CasperPortal sends proposals customers can sign with an e-signature from any device, and once a proposal is signed you can convert it into a live invoice with one click.",
+  "summary": "Send quotes customers sign online, then turn the signed proposal into an invoice in one click.",
+  "blocks": [
+   {
+    "h": "Build a professional quote",
+    "p": "Create a proposal or estimate with your line items and terms from the customer's record."
+   },
+   {
+    "h": "Integrated e-signatures",
+    "p": "Customers review and sign the proposal from their phone, tablet or computer, with no printing or scanning."
+   },
+   {
+    "h": "One-click conversion to invoice",
+    "p": "Turn a signed proposal into a live invoice so you can collect a deposit right away."
+   },
+   {
+    "h": "Follow up on unsigned quotes",
+    "p": "Use a pipeline stage or automation to remind customers who haven't signed yet."
+   }
+  ],
+  "steps": [
+   "Visit the customer and gather job details",
+   "Build the estimate in CasperPortal",
+   "Send it for e-signature",
+   "Convert the signed proposal into an invoice"
+  ],
+  "for": [
+   "construction-companies",
+   "event-planners",
+   "it-services"
+  ],
+  "faqs": [
+   [
+    "Can customers sign proposals digitally?",
+    "Yes. CasperPortal includes integrated e-signatures, so customers can approve and sign your proposals from any device."
+   ],
+   [
+    "Can I convert an estimate into an invoice?",
+    "Yes. Once a proposal is signed, you can convert it into a live invoice with a single click."
+   ],
+   [
+    "Can I send estimates from the job site?",
+    "Yes. The CasperPortal mobile app for iOS and Android lets you work with customer records and payments from your phone."
+   ],
+   [
+    "How do I follow up on quotes that haven't been signed?",
+    "Add the deal to a sales pipeline stage and set an automation to send a reminder text or email if it stays unsigned."
+   ]
+  ],
+  "next": {
+   "feature": "/features/invoicing",
+   "compare": "/compare/salesforce",
+   "guide": "/blog/ultimate-b2b-follow-ups"
+  },
+  "image": {
+   "src": "/img/356cd270-219c-4cdc-906f-e4e181b14fa2-649e4c.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Sales proposals and estimate software"
+  }
+ },
+ "communities": {
+  "group": "content",
+  "name": "Communities",
+  "kw": "online community platform",
+  "title": "Online Community Platform for Your Customers | CasperPortal",
+  "desc": "An online community platform for private, branded groups where clients discuss, get support and stay engaged, in a space you own instead of social media.",
+  "h1": "An online community platform for your customers, owned by you",
+  "intro": "An online community platform gives your customers a private space to post, ask questions and talk with each other. CasperPortal's communities feature lets you build branded groups for discussion, support and engagement, so your audience gathers somewhere you control rather than on a social network.",
+  "summary": "Private, branded discussion groups for clients, in a space you own and control.",
+  "blocks": [
+   {
+    "h": "Private, branded groups",
+    "p": "Create a community with your branding where only the people you invite can join."
+   },
+   {
+    "h": "Discussion and support in one place",
+    "p": "Members post questions, share tips and get answers from you and from each other."
+   },
+   {
+    "h": "Pair with memberships",
+    "p": "Combine a community with a membership area so paying members get both your content and a place to talk."
+   }
+  ],
+  "steps": [
+   "Create your community space",
+   "Set up topics or channels for discussion",
+   "Invite customers or members",
+   "Post updates and answer questions"
+  ],
+  "for": [
+   "fitness-centers-gyms",
+   "consulting-firms",
+   "daycare-centers"
+  ],
+  "faqs": [
+   [
+    "Can I host a private forum for my clients?",
+    "Yes. CasperPortal's community feature lets you build private, branded spaces for discussion, support and engagement."
+   ],
+   [
+    "Is this a replacement for Facebook Groups?",
+    "Many businesses use it to move their audience away from social media distractions and into a space they own and control."
+   ],
+   [
+    "How is a community different from a membership?",
+    "A membership area holds your courses and resources behind a login. A community is where members talk with you and each other."
+   ],
+   [
+    "Who can join my community?",
+    "You decide. Communities are private, so you choose who is invited."
+   ]
+  ],
+  "next": {
+   "feature": "/features/memberships",
+   "compare": "/compare/gohighlevel",
+   "guide": "/marketing-automation-for-small-business"
+  },
+  "image": {
+   "src": "/img/dabcd51b-4b37-4756-aab3-bc708fe7bc8c-90a3ad.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Online communities and customer groups"
+  }
+ },
+ "mobile-app": {
+  "group": "manage",
+  "name": "Mobile App",
+  "kw": "CRM mobile app",
+  "title": "CRM Mobile App for iOS and Android | CasperPortal",
+  "desc": "The CasperPortal CRM mobile app for iOS and Android lets you reply to leads, manage your calendar and send invoices from the job site. See what's in it.",
+  "h1": "A CRM mobile app for running your business from your phone",
+  "intro": "A CRM mobile app puts your contacts, conversations and calendar on your phone. CasperPortal has iOS and Android apps where you can reply to leads, manage appointments and send invoices, with push notifications for new leads, incoming texts and appointment updates, and permission levels for each team member.",
+  "summary": "iOS and Android apps for replying to leads, managing your calendar and sending invoices on the go.",
+  "blocks": [
+   {
+    "h": "Reply to leads anywhere",
+    "p": "Answer texts, chats and social messages from the same inbox you use on the web app."
+   },
+   {
+    "h": "Push notifications",
+    "p": "Get alerts for new leads, incoming texts and appointment updates so you can respond between jobs."
+   },
+   {
+    "h": "Calendar and invoices on the go",
+    "p": "Check and manage your appointments and send invoices from the job site."
+   },
+   {
+    "h": "Team access with permissions",
+    "p": "Give staff different permission levels so they can manage their own leads and conversations from their phones."
+   }
+  ],
+  "steps": [
+   "Download the CasperPortal app for iOS or Android",
+   "Sign in with your CasperPortal account",
+   "Turn on notifications for leads and messages",
+   "Reply, book and invoice from your phone"
+  ],
+  "for": [
+   "construction-companies",
+   "real-estate-agents",
+   "event-planners"
+  ],
+  "faqs": [
+   [
+    "Does the app have push notifications?",
+    "Yes. You get alerts for new leads, incoming texts and appointment updates, so you can respond quickly."
+   ],
+   [
+    "Can my team use the mobile app too?",
+    "Yes. You can grant different permission levels to your staff so they can manage their own leads and conversations from their phones."
+   ],
+   [
+    "Is the mobile app included in the plan?",
+    "Yes. The app comes with your CasperPortal account, and the Growth Plan includes unlimited users."
+   ],
+   [
+    "Which phones does the app support?",
+    "CasperPortal has apps for both iOS and Android, alongside the web app."
+   ]
+  ],
+  "next": {
+   "feature": "/features/omnichannel-messaging",
+   "compare": "/compare/salesforce",
+   "guide": "/crm-for-local-businesses"
+  },
+  "image": {
+   "src": "/img/afcfea9e-e8b9-40dd-818b-17330eb64c2d-4d3551.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "CasperPortal mobile app for iOS and Android"
+  }
+ },
+ "crm-contact-management": {
+  "group": "manage",
+  "name": "CRM & Contact Management",
+  "kw": "contact management software",
+  "title": "Contact Management Software | CasperPortal",
+  "desc": "Contact management software that puts every text, email, call and note on one timeline per customer, with unlimited contacts. Import from a CSV.",
+  "h1": "Contact management software that keeps every customer's history in one place",
+  "intro": "Contact management software stores your leads and customers along with every interaction you've had with them. CasperPortal puts each contact's texts, emails, calls and notes on one timeline, lets you filter by tags, behavior and pipeline stage, and includes unlimited contacts on the Growth Plan.",
+  "summary": "One timeline per customer for texts, emails, calls and notes, with unlimited contacts.",
+  "blocks": [
+   {
+    "h": "Unified contact records",
+    "p": "See every text, email, call and note for a contact on a single timeline, so anyone on your team can pick up where the last person left off."
+   },
+   {
+    "h": "Smart segmentation",
+    "p": "Filter your database by tags, behaviors and pipeline stages to send offers only to the people they fit."
+   },
+   {
+    "h": "Unlimited contacts",
+    "p": "The Growth Plan includes unlimited contacts and unlimited users, so you don't pay more as your list grows."
+   },
+   {
+    "h": "Easy import",
+    "p": "Bring in your existing customers from a CSV file or from your previous CRM."
+   }
+  ],
+  "steps": [
+   "Import your contacts from a CSV or old CRM",
+   "Tag customers by service, town or status",
+   "Calls, texts and emails log to each record",
+   "Filter lists to follow up or send offers"
+  ],
+  "for": [
+   "insurance-agencies",
+   "real-estate-agents",
+   "dental-clinics"
+  ],
+  "faqs": [
+   [
+    "Can I import my existing contacts?",
+    "Yes. You can bulk import contacts from a CSV file or bring them over from your previous CRM."
+   ],
+   [
+    "Is there a limit to how many contacts I can store?",
+    "No. The Growth Plan includes unlimited contacts, so you can grow without paying per contact."
+   ],
+   [
+    "How much does CasperPortal cost?",
+    "The Growth Plan is $297 per month, or $2,970 per year, with unlimited users and unlimited contacts. There is no setup fee and no long-term contract."
+   ],
+   [
+    "Can I try it before I pay?",
+    "Yes. You can start a 14-day free trial and cancel anytime during the trial."
+   ]
+  ],
+  "next": {
+   "feature": "/features/sales-pipelines",
+   "compare": "/compare/hubspot",
+   "guide": "/crm-for-local-businesses"
+  },
+  "image": {
+   "src": "/img/735ba661-b09c-44fd-9b7a-696b3d10fdd2-eb7dba.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "CRM and contact management software"
+  }
+ },
+ "email-sms-marketing": {
+  "group": "follow-up",
+  "name": "Email & SMS Marketing",
+  "kw": "email and SMS marketing software",
+  "title": "Email and SMS Marketing Software | CasperPortal",
+  "desc": "Email and SMS marketing software with a drag-and-drop email editor, two-way text broadcasts and drip sequences, all on the same platform as your CRM.",
+  "h1": "Email and SMS marketing software that lives inside your CRM",
+  "intro": "Email and SMS marketing software sends promotional and follow-up messages to your contacts by email and text. CasperPortal includes a drag-and-drop email editor, two-way bulk texting you can reply to, and automated drip sequences, all built on the same contact list you use to manage leads.",
+  "summary": "Drag-and-drop emails, two-way text broadcasts and drip sequences, sent from your CRM contact list.",
+  "blocks": [
+   {
+    "h": "Drag-and-drop email builder",
+    "p": "Design responsive emails visually, without code, and send them to any segment of your contacts."
+   },
+   {
+    "h": "Two-way SMS broadcasts",
+    "p": "Send bulk texts that read like personal messages, then reply directly when customers text back."
+   },
+   {
+    "h": "Automated drip sequences",
+    "p": "Nurture leads with multi-step email and text sequences that send on a schedule."
+   },
+   {
+    "h": "Send from your own domain",
+    "p": "Connect your custom domain so emails come from your business name."
+   }
+  ],
+  "steps": [
+   "Choose a segment of contacts",
+   "Write your email or text, or start from a template",
+   "Send now or set it as a drip sequence",
+   "Answer replies from your inbox"
+  ],
+  "for": [
+   "restaurants",
+   "beauty-salons",
+   "pet-stores"
+  ],
+  "faqs": [
+   [
+    "How are SMS messages billed?",
+    "Text message costs can depend on how many messages you send. Ask on a demo how SMS usage works on your plan."
+   ],
+   [
+    "Can I use my own domain for emails?",
+    "Yes. You can connect your custom domain so your emails are sent under your brand."
+   ],
+   [
+    "Can customers reply to my text broadcasts?",
+    "Yes. SMS campaigns are two-way, so replies come into your inbox and you can answer them one to one."
+   ],
+   [
+    "What's the difference between this and marketing campaigns?",
+    "Email and SMS marketing is for broadcasts and drips on those two channels. Marketing campaigns plan a promotion across more channels, including voice drops and social messages."
+   ]
+  ],
+  "next": {
+   "feature": "/features/sms-and-email-templates",
+   "compare": "/compare/activecampaign",
+   "guide": "/blog/ultimate-b2b-follow-ups"
+  },
+  "image": {
+   "src": "/img/a2eadec3-ae36-4814-9826-09f5672b67db-df6871.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Email and SMS marketing automation"
+  }
+ },
+ "workflow-automations": {
+  "group": "follow-up",
+  "name": "Workflow Automations",
+  "kw": "workflow automation software",
+  "title": "Workflow Automation Software, No Code | CasperPortal",
+  "desc": "Workflow automation software with a visual drag-and-drop builder and ready-made templates, so follow-up runs itself when leads take action. No code.",
+  "h1": "Workflow automation software that handles follow-up for you",
+  "intro": "Workflow automation software runs a series of actions automatically when something happens, such as a new lead or a booking. CasperPortal's visual builder lets you create multi-step workflows with if/then logic, without code, and includes templates for common local business follow-ups like new lead replies and appointment reminders.",
+  "summary": "A visual, no-code builder for multi-step follow-up with if/then logic and ready-made templates.",
+  "blocks": [
+   {
+    "h": "Visual automation builder",
+    "p": "Build multi-step workflows with if/then branches using a drag-and-drop interface designed for non-technical users."
+   },
+   {
+    "h": "Start from templates",
+    "p": "Use pre-built automation templates for common local business scenarios, then adjust the messages and timing."
+   },
+   {
+    "h": "Act across every channel",
+    "p": "A single workflow can send texts and emails, assign tasks, update pipeline stages and notify your team."
+   },
+   {
+    "h": "Triggers from every part of the business",
+    "p": "Start a workflow when someone submits a form, calls your number, books, clicks a trigger link, gets a new tag, moves to a new pipeline stage, or on a date such as a birthday."
+   },
+   {
+    "h": "Waits and delays",
+    "p": "Add delays, such as a few hours or a few days, between the steps a trigger starts, so follow-up feels natural instead of instant and robotic."
+   }
+  ],
+  "steps": [
+   "Pick a template or start a blank workflow",
+   "Choose the trigger that starts it",
+   "Add actions, waits and if/then branches",
+   "Test it on a sample contact",
+   "Publish and let it run"
+  ],
+  "for": [
+   "dental-clinics",
+   "insurance-agencies",
+   "marketing-agencies"
+  ],
+  "faqs": [
+   [
+    "Do I need to know how to code to build automations?",
+    "No. The workflow builder is fully visual and designed for non-technical users."
+   ],
+   [
+    "What can start an automation?",
+    "Triggers can be anything from a form submission, an incoming call, a link click or a tag being added to a customer's birthday."
+   ],
+   [
+    "Can I set delays between actions?",
+    "Yes. You can set delays, such as wait two hours or wait three days, between different steps in your automation sequence."
+   ],
+   [
+    "Can one event start more than one automation?",
+    "Yes. Several workflows can listen for the same trigger, such as one that texts the lead and another that notifies your team."
+   ],
+   [
+    "Are there pre-built automation templates?",
+    "Yes. CasperPortal includes a library of automation templates for common local business scenarios."
+   ],
+   [
+    "What should my first automation be?",
+    "A common first automation is an automatic reply to new leads and a reminder before each appointment. Our step-by-step guide walks through setting up your first one."
+   ],
+   [
+    "Can someone build my automations for me?",
+    "Yes. Optional done-for-you setup is available if you'd rather not build workflows yourself. See the pricing page for setup options."
+   ]
+  ],
+  "next": {
+   "feature": "/features/trigger-links",
+   "compare": "/compare/activecampaign",
+   "guide": "/blog/setup-first-automation"
+  },
+  "image": {
+   "src": "/img/60af926a-2d44-454c-93f0-8e92d718be52-5b0e71.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Business workflow automation software"
+  }
+ },
+ "sales-pipelines": {
+  "group": "manage",
+  "name": "Sales Pipelines",
+  "kw": "sales pipeline software",
+  "title": "Sales Pipeline Software for Local Business | CasperPortal",
+  "desc": "Sales pipeline software with drag-and-drop stages, automatic actions when deals move, and a running total of open deal value. See every lead at a glance.",
+  "h1": "Sales pipeline software that shows where every lead stands",
+  "intro": "Sales pipeline software tracks each lead through the stages of your sales process, from first contact to won job. CasperPortal gives you drag-and-drop pipelines with custom stages, sends texts, emails or team notifications automatically when a deal changes stage, and shows the total value of open deals.",
+  "summary": "Drag-and-drop deal stages with automatic actions and a running total of pipeline value.",
+  "blocks": [
+   {
+    "h": "Drag-and-drop stages",
+    "p": "Move deals between stages with your mouse or finger. Each stage matches a step in how you actually sell."
+   },
+   {
+    "h": "Automated stage actions",
+    "p": "Send an email, a text or an internal notification automatically when a deal moves to a new stage."
+   },
+   {
+    "h": "Pipeline value at a glance",
+    "p": "See the total potential value of open deals so you know what's on the table this month."
+   },
+   {
+    "h": "Multiple custom pipelines",
+    "p": "Create separate pipelines for different services, departments or locations."
+   }
+  ],
+  "steps": [
+   "Name your stages, such as new lead, quoted and won",
+   "Add deals from calls, forms and chats",
+   "Drag each deal forward as it progresses",
+   "Automations follow up at each stage"
+  ],
+  "for": [
+   "real-estate-agents",
+   "car-dealerships",
+   "construction-companies"
+  ],
+  "faqs": [
+   [
+    "Can I customize the pipeline stages?",
+    "Yes. You can create custom pipelines with stages that match your exact sales process."
+   ],
+   [
+    "Can I have multiple pipelines for different services?",
+    "Yes. You can create separate pipelines for different departments, services or locations."
+   ],
+   [
+    "Can a stage change send a message automatically?",
+    "Yes. You can trigger emails, texts or internal notifications when a deal moves to a new stage."
+   ],
+   [
+    "Can I see pipelines on my phone?",
+    "Yes. Pipelines are available in the CasperPortal mobile app for iOS and Android as well as the web app."
+   ]
+  ],
+  "next": {
+   "feature": "/features/proposals-and-estimates",
+   "compare": "/compare/salesforce",
+   "guide": "/crm-for-local-businesses"
+  },
+  "image": {
+   "src": "/img/73101585-19b2-4fe9-80c2-f6b86cba1c49-b72088.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Sales pipeline tracking software"
+  }
+ },
+ "appointment-booking": {
+  "group": "book-pay",
+  "name": "Appointment Booking",
+  "kw": "appointment booking software",
+  "title": "Appointment Booking Software with Reminders | CasperPortal",
+  "desc": "Appointment booking software with Google and Outlook sync, text and email reminders, and deposits at booking. Let customers book you online.",
+  "h1": "Appointment booking software that fills your calendar without phone tag",
+  "intro": "Appointment booking software lets customers pick an open time and book it themselves online. CasperPortal syncs with Google Calendar and Outlook to prevent double-booking, sends text and email reminders before each appointment, and can require a deposit or full payment when the customer books.",
+  "summary": "Online booking with Google and Outlook sync, automatic reminders and deposits at booking.",
+  "blocks": [
+   {
+    "h": "Two-way calendar sync",
+    "p": "Connect Google Calendar or Outlook so booked times block your calendar and personal events block your booking page."
+   },
+   {
+    "h": "Automated reminders",
+    "p": "Send text and email reminders before each appointment to cut down on no-shows."
+   },
+   {
+    "h": "Deposits at booking",
+    "p": "Require a deposit or full payment when the customer books to secure the time slot."
+   },
+   {
+    "h": "Your rules for availability",
+    "p": "Set working hours, buffer times between appointments and minimum scheduling notice."
+   }
+  ],
+  "steps": [
+   "Connect your Google or Outlook calendar",
+   "Set your hours, buffers and appointment types",
+   "Share your booking link or embed it on your site",
+   "Customers book and get automatic reminders"
+  ],
+  "for": [
+   "beauty-salons",
+   "dental-clinics",
+   "fitness-centers-gyms"
+  ],
+  "faqs": [
+   [
+    "Can I embed the calendar on my website?",
+    "Yes. You can embed your booking widget on any website or share it with a direct link."
+   ],
+   [
+    "Can I set buffer times between appointments?",
+    "Yes. You can configure custom buffer times, minimum scheduling notice and specific working hours."
+   ],
+   [
+    "Can I take a deposit when someone books?",
+    "Yes. You can require a deposit or full payment at the time of booking."
+   ],
+   [
+    "How is this different from a standalone scheduling tool?",
+    "Bookings in CasperPortal land on the customer's contact record and can start follow-up, reminders and review requests in the same system."
+   ]
+  ],
+  "next": {
+   "feature": "/features/workflow-automations",
+   "compare": "/compare/calendly",
+   "guide": "/blog/5-essential-automations"
+  },
+  "image": {
+   "src": "/img/3b965981-7925-488d-a524-4d3dc393af77-54e88c.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Appointment booking and scheduling software"
+  }
+ },
+ "omnichannel-messaging": {
+  "group": "follow-up",
+  "name": "Omnichannel Messaging",
+  "kw": "unified inbox for business messaging",
+  "title": "Unified Inbox for Business Messaging | CasperPortal",
+  "desc": "A unified inbox for business messaging that brings SMS, email, Facebook Messenger and Instagram DMs into one team thread per customer. Stop app-hopping.",
+  "h1": "A unified inbox for business messaging across every channel",
+  "intro": "A unified inbox for business messaging collects texts, emails and social messages in one place. CasperPortal shows SMS, email, Facebook Messenger and Instagram DMs in a single thread per customer, lets you assign conversations and leave internal notes, and works the same on the web and the iOS and Android apps.",
+  "summary": "One team inbox for SMS, email, Messenger and Instagram, with assignments and internal notes.",
+  "blocks": [
+   {
+    "h": "One thread per customer",
+    "p": "Read and reply to texts, emails, Facebook Messenger and Instagram DMs in a single continuous conversation."
+   },
+   {
+    "h": "Team collaboration",
+    "p": "Assign conversations to specific team members and leave internal notes the customer never sees."
+   },
+   {
+    "h": "Use a business number",
+    "p": "Text and call from a dedicated business number, either your ported existing number or a local number, and keep your personal number private."
+   },
+   {
+    "h": "Inbox on your phone",
+    "p": "Reply from the CasperPortal iOS and Android apps with the same conversations you see on the web."
+   }
+  ],
+  "steps": [
+   "Connect your phone number, email and social accounts",
+   "Messages from every channel land in one inbox",
+   "Assign each conversation to the right person",
+   "Reply on whichever channel the customer used"
+  ],
+  "for": [
+   "dental-clinics",
+   "hotels",
+   "car-dealerships"
+  ],
+  "faqs": [
+   [
+    "Does this replace my personal phone number?",
+    "It can. You can use a dedicated business number for calls and texts, keeping your personal number private."
+   ],
+   [
+    "Can multiple team members use the inbox at once?",
+    "Yes. Your whole team can work out of the unified inbox at the same time, and the Growth Plan includes unlimited users."
+   ],
+   [
+    "Which channels are included?",
+    "The inbox brings together SMS, email, Facebook Messenger, Instagram DMs and website live chat."
+   ],
+   [
+    "Can I keep my existing business number?",
+    "Yes. You can port your existing business number or use a local tracking number that forwards to your phone."
+   ]
+  ],
+  "next": {
+   "feature": "/features/mobile-app",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/why-unified-crm"
+  },
+  "image": {
+   "src": "/img/03a496a0-84f8-4c5b-ad6f-442a55251545-cc63fb.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Omnichannel messaging unified inbox"
+  }
+ },
+ "reporting-analytics": {
+  "group": "manage",
+  "name": "Reporting & Analytics",
+  "kw": "marketing attribution reporting",
+  "title": "Marketing Attribution Reporting | CasperPortal",
+  "desc": "Marketing attribution reporting that connects Google Ads and Facebook Ads to leads and revenue, with call metrics and custom dashboards. Stop guessing.",
+  "h1": "Marketing attribution reporting that shows what actually brings in work",
+  "intro": "Marketing attribution reporting shows which ads and lead sources produce leads and revenue. CasperPortal connects to Google Ads and Facebook Ads to track ROI from ad to customer, reports call volume, missed calls and team response times, and lets you build custom dashboards for the numbers you care about.",
+  "summary": "Ad attribution, call metrics and custom dashboards that tie your marketing to real leads and revenue.",
+  "blocks": [
+   {
+    "h": "Ad attribution",
+    "p": "See which Facebook or Google ads are generating leads and revenue, using the native Google Ads and Facebook Ads integrations."
+   },
+   {
+    "h": "Call tracking metrics",
+    "p": "Monitor call volume, missed calls and team response times alongside your other lead sources."
+   },
+   {
+    "h": "Custom dashboards",
+    "p": "Choose the widgets and metrics that matter to your business and arrange them on your own dashboard."
+   }
+  ],
+  "steps": [
+   "Connect your Google Ads and Facebook Ads accounts",
+   "Add tracking numbers to your ads and listings",
+   "Leads and calls are tied to their source",
+   "Review your dashboard and shift budget"
+  ],
+  "for": [
+   "car-dealerships",
+   "legal-firms",
+   "marketing-agencies"
+  ],
+  "faqs": [
+   [
+    "Can I connect my Google Ads account?",
+    "Yes. Native integrations with Google Ads and Facebook Ads provide end-to-end ROI tracking."
+   ],
+   [
+    "Are reports customizable?",
+    "Yes. You can customize dashboard widgets to display the metrics you need."
+   ],
+   [
+    "Can I see how fast my team responds to leads?",
+    "Yes. Call tracking metrics include missed calls and team response times."
+   ],
+   [
+    "How do I work out whether CasperPortal pays for itself?",
+    "Compare the jobs you can trace back to the platform with its cost. Our CRM ROI guide and ROI calculator walk through the math with your own numbers."
+   ]
+  ],
+  "next": {
+   "feature": "/features/google-call-tracking",
+   "compare": "/compare/salesforce",
+   "guide": "/blog/economics-of-crm-roi"
+  },
+  "image": {
+   "src": "/img/d454a8e3-4d93-4126-b80b-38aab1f537d2-504c3c.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Business reporting and analytics dashboard"
+  }
+ },
+ "funnel-landing-page-builder": {
+  "group": "capture",
+  "name": "Funnel & Landing Page Builder",
+  "kw": "landing page and funnel builder",
+  "title": "Landing Page and Funnel Builder | CasperPortal",
+  "desc": "A landing page and funnel builder with drag-and-drop editing, A/B testing, local business templates and hosting included. Use your own domain.",
+  "h1": "A landing page and funnel builder for turning ad traffic into leads",
+  "intro": "A landing page and funnel builder lets you create standalone pages and multi-step sequences that turn visitors into leads, without code. CasperPortal includes a drag-and-drop editor, templates made for local service businesses, A/B testing for headlines and offers, and hosting on your own domain.",
+  "summary": "Drag-and-drop landing pages and multi-step funnels with A/B testing and hosting included.",
+  "blocks": [
+   {
+    "h": "Drag-and-drop editor",
+    "p": "Design pages visually by dragging in headlines, images, forms and booking calendars."
+   },
+   {
+    "h": "Multi-step funnels",
+    "p": "Chain pages together, such as an offer page, a form and a booking page, so visitors move toward a booked job."
+   },
+   {
+    "h": "A/B testing",
+    "p": "Test different headlines, images and offers to see which version brings in more leads."
+   },
+   {
+    "h": "Hosting and your own domain",
+    "p": "Hosting is included, and you can connect your own domain name to your pages."
+   }
+  ],
+  "steps": [
+   "Choose a template for your service or offer",
+   "Edit the page with the drag-and-drop editor",
+   "Connect your domain and publish",
+   "Send ad or email traffic to the page",
+   "Test variations and keep the winner"
+  ],
+  "for": [
+   "real-estate-development",
+   "fitness-centers-gyms",
+   "marketing-agencies"
+  ],
+  "faqs": [
+   [
+    "Do I need separate web hosting?",
+    "No. Hosting is included with CasperPortal."
+   ],
+   [
+    "Can I use my own domain name?",
+    "Yes. You can connect your own custom domains to your funnels and landing pages."
+   ],
+   [
+    "When should I use a funnel instead of a form on my website?",
+    "Use a lead capture form to add a form to the site you have. Use a funnel when you want a dedicated page for one ad or offer, or a multi-step path from offer to booking."
+   ],
+   [
+    "Do leads from my pages go into the CRM?",
+    "Yes. Forms and bookings on your pages create contact records and can start automated follow-up."
+   ]
+  ],
+  "next": {
+   "feature": "/features/lead-capture-forms",
+   "compare": "/compare/gohighlevel",
+   "guide": "/blog/multi-channel-marketing"
+  },
+  "image": {
+   "src": "/img/c0ce42fd-f947-4edf-8cd8-f0bc47043533-b81e9c.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "Sales funnel and landing page builder"
+  }
+ },
+ "ai-chat-tools": {
+  "group": "capture",
+  "name": "AI Chat Tools",
+  "kw": "AI chatbot for small business",
+  "title": "AI Chatbot for Small Business Lead Booking | CasperPortal",
+  "desc": "An AI chatbot for small business that answers questions, qualifies leads and books appointments on SMS, web chat, Messenger and Instagram, day or night.",
+  "h1": "An AI chatbot for small business that answers, qualifies and books",
+  "intro": "An AI chatbot for small business answers customer questions in conversation without a person typing each reply. CasperPortal's AI learns from your website and FAQ documents, replies on SMS, web chat, Facebook Messenger and Instagram, checks your calendar to book appointments, and hands the conversation to your team when needed.",
+  "summary": "An AI assistant trained on your FAQs that answers, qualifies leads and books appointments across channels.",
+  "blocks": [
+   {
+    "h": "Trained on your business",
+    "p": "Give the AI links to your website or upload a document with your FAQs, pricing and service details."
+   },
+   {
+    "h": "Books appointments itself",
+    "p": "The AI checks your calendar availability and schedules appointments directly."
+   },
+   {
+    "h": "Human handoff",
+    "p": "When a question needs a person, the AI passes the conversation to a team member in your inbox."
+   },
+   {
+    "h": "Works across channels",
+    "p": "Turn the AI on for SMS, web chat, Facebook Messenger and Instagram."
+   }
+  ],
+  "steps": [
+   "Add your website links or FAQ document",
+   "Choose the channels the AI should answer",
+   "Connect your booking calendar",
+   "Review conversations and step in when needed"
+  ],
+  "for": [
+   "dental-clinics",
+   "hotels",
+   "legal-firms"
+  ],
+  "faqs": [
+   [
+    "Is the AI hard to train?",
+    "No. You can give it links to your website or upload a document with your FAQs."
+   ],
+   [
+    "Does the AI work on SMS as well as web chat?",
+    "Yes. The AI can be configured to respond via SMS, web chat, Facebook Messenger and Instagram."
+   ],
+   [
+    "Can the AI book appointments?",
+    "Yes. It can check your calendar availability and schedule appointments for you."
+   ],
+   [
+    "What happens when the AI can't answer?",
+    "It hands the conversation to a human team member, who can pick it up in the CasperPortal inbox."
+   ]
+  ],
+  "next": {
+   "feature": "/features/website-live-chat",
+   "compare": "/compare/gohighlevel",
+   "guide": "/blog/ai-automation-support"
+  },
+  "image": {
+   "src": "/img/9084498a-794e-407e-9f8e-1e5ad4750078-59fd17.webp",
+   "w": 64,
+   "h": 64,
+   "alt": "AI chatbot and conversational AI tools"
+  }
+ }
 }

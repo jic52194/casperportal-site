@@ -261,3 +261,43 @@ img.ico{width:40px;height:40px;object-fit:contain;border-radius:8px;margin-botto
 @media(max-width:1079px){body:has(.sticky-cta){padding-bottom:72px}body:has(.sticky-cta) .float-contact{bottom:84px}body:has(.sticky-cta) .personalize{bottom:150px}}
 @media(min-width:1080px){.sticky-cta{display:none}}
 @media print{.sticky-cta,.next-step{display:none!important}}
+
+/* ── 2026-10 UI pass: tighter grids, home maps, calmer spacing ── */
+@media(min-width:980px){.content .grid.g2{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.steps{grid-template-columns:repeat(auto-fit,minmax(190px,1fr))}
+@media(min-width:820px){.steps{grid-template-columns:repeat(auto-fit,minmax(190px,1fr))}}
+.steps li p{margin:0}
+.fmap{display:grid;gap:18px;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));margin:18px 0}
+.fmap>div{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:18px}
+.fmap h3{font-size:.8rem;letter-spacing:.14em;text-transform:uppercase;color:var(--orange2);margin-bottom:10px}
+.fmap ul{list-style:none;padding:0!important;margin:0}
+.fmap li{margin:0 0 6px}
+.fmap a{color:var(--text);text-decoration:none;font-weight:700}
+.fmap a:hover{color:var(--green2);text-decoration:underline}
+.pills{list-style:none;padding:0!important;display:flex;flex-wrap:wrap;gap:8px;margin:16px 0}
+.pills a{display:inline-block;border:1px solid var(--line);background:var(--card);border-radius:999px;padding:8px 14px;color:var(--text);text-decoration:none;font-weight:700;font-size:.92rem}
+.pills a:hover{border-color:var(--green);color:var(--green2)}
+.card.plan{border-color:rgba(249,115,22,.55)}
+.content section{padding:48px 0}
+.content>section:first-child{padding-top:24px}
+.lede{max-width:68ch}
+.content section>p{max-width:75ch}
+.cardlink p{margin:0}
+.faq{max-width:880px}
+
+/* ── phone compaction: scan-friendly lists instead of tall card stacks ── */
+.hero h1{font-size:clamp(2rem,5vw,3.1rem)}
+@media(max-width:639px){
+  .content section{padding:32px 0}
+  .content .grid:has(>.cardlink){grid-template-columns:1fr 1fr;gap:10px}
+  .cardlink{padding:12px}.cardlink h3{font-size:.95rem;margin:0}.cardlink p{display:none}.cardlink img.ico{width:28px;height:28px;margin-bottom:6px}
+  .fmap{gap:10px}.fmap>div{padding:12px}.fmap ul{columns:2;column-gap:12px}.fmap li{break-inside:avoid;font-size:.92rem}
+  .trust{grid-template-columns:1fr 1fr}.trust span{display:none}.trust li:last-child{grid-column:1/-1}
+  .next-cards span{display:none}
+  .steps li{padding:14px}
+  .foot .areas ul{display:none}
+  .foot{padding-bottom:100px}
+  .related ul{grid-template-columns:1fr}
+  .related li span{display:none}
+}
+@media(max-width:639px){.pills{gap:6px}.pills a{padding:6px 11px;font-size:.85rem}.pills li:nth-child(n+13){display:none}}

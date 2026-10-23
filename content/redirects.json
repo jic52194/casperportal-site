@@ -1,14 +1,11 @@
 {
- "/niches/home-services": "/niches",
  "/niches/dining": "/niches",
- "/niches/trades": "/niches",
+ "/niches/trades": "/niches/home-services",
  "/niches/healthcare": "/niches",
  "/niches/retail": "/niches",
  "/niches/equestrian": "/niches",
  "/niches/construction": "/niches",
- "/niches/landscaping": "/niches",
  "/niches/agriculture": "/niches",
- "/niches/hvac": "/niches",
  "/niches/marine": "/niches",
  "/niches/tech": "/niches",
  "/niches/manufacturing": "/niches",
@@ -64,5 +61,6 @@
  "/services/crm-software-beverly-ma": "/locations/crm-software-beverly-ma",
  "/solutions/crm-software-beverly-ma": "/locations/crm-software-beverly-ma",
  "/services/crm-software-salem-ma": "/locations/crm-software-salem-ma",
- "/solutions/crm-software-salem-ma": "/locations/crm-software-salem-ma"
+ "/solutions/crm-software-salem-ma": "/locations/crm-software-salem-ma",
+ "/features/automation-triggers": "/features/workflow-automations"
 }
