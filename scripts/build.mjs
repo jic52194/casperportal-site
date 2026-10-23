@@ -118,7 +118,7 @@ for (const [p, m] of Object.entries(META)) {
   const pairs = [...body.matchAll(/<details><summary>([\s\S]*?)<\/summary>([\s\S]*?)<\/details>/g)].map((x) => [strip(x[1]), strip(x[2])]).filter(([q, a]) => q && a);
   if (pairs.length) { schema.push(faqSchema(pairs)); faqPages++; }
   if (/^\/blog\/[^/]+$/.test(p) && !p.startsWith("/blog/topic")) schema.push({ "@context": "https://schema.org", "@type": "BlogPosting", headline: name, description: m.desc, url: SITE + p, ...(m.published ? { datePublished: m.published } : {}), mainEntityOfPage: SITE + p, inLanguage: "en-US", publisher: { "@id": ORG["@id"] }, ...(/href="\/jared-casper"/.test(body) ? { author: { "@type": "Person", name: "Jared Casper", url: SITE + "/jared-casper" } } : {}) });
-  if (p === "/jared-casper" || p === "/mark-casper") schema.push({ "@context": "https://schema.org", "@type": "ProfilePage", mainEntity: { "@type": "Person", name: p === "/jared-casper" ? "Jared Casper" : "Mark Casper", url: SITE + p, worksFor: { "@id": ORG["@id"] } } });
+  if (p === "/jared-casper" || p === "/mark-casper") schema.push({ "@context": "https://schema.org", "@type": "ProfilePage", mainEntity: { "@type": "Person", name: p === "/jared-casper" ? "Jared Casper" : "Mark Casper", ...(p === "/mark-casper" ? { jobTitle: "Co-Founder" } : {}), url: SITE + p, worksFor: { "@id": ORG["@id"] } } });
   const related = m.noindex ? "" : relatedBlock(relatedFor(p), m.relatedTitle || "Related pages");
   write(p, page({ path: p, title: m.title, desc: m.desc, body, schema, noindex: !!m.noindex, crumbs: crumbsFor(p, name), related, ogType: p.startsWith("/blog/") && !p.startsWith("/blog/topic") && p !== "/blog" ? "article" : "website" }));
 }

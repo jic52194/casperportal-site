@@ -1,0 +1,10 @@
+Publishing casperportal.com... 
+Cloning into 'C:\Users\jic52\Desktop\casperportal-site'...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+To https://github.com/jic52194/casperportal-site.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+EXIT 0 
