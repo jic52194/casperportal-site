@@ -1,10 +1,11 @@
 // Downloads the live site's own images (listed in data/image-sources.json) into static/img/ as optimized WebP
 // (SVG copied as-is) and writes data/images.json: { "<original url>": { file, w, h } }. Run once: npm run images.
+import { fileURLToPath } from "node:url";
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
 import { createHash } from "node:crypto";
 import sharp from "sharp";
 
-const ROOT = new URL("../", import.meta.url).pathname;
+const ROOT = fileURLToPath(new URL("../", import.meta.url));
 const OUT = ROOT + "static/img/";
 mkdirSync(OUT, { recursive: true });
 const sources = JSON.parse(readFileSync(ROOT + "data/image-sources.json", "utf8")); // [{ src, max }]

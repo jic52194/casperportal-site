@@ -1,0 +1,477 @@
+{
+ "hubspot": {
+  "name": "HubSpot",
+  "kw": "HubSpot alternative for small business",
+  "title": "HubSpot Alternative for Small Business | CasperPortal",
+  "desc": "Looking for a HubSpot alternative for small business? Compare CasperPortal's one-plan CRM with texting, booking and reviews built in. Try it free.",
+  "h1": "CasperPortal vs HubSpot: A HubSpot Alternative for Small Local Businesses",
+  "intro": "CasperPortal is a HubSpot alternative for small business owners who want CRM, two-way texting, missed-call text-back, booking and review requests in one plan. Pick HubSpot if you run a content-heavy inbound marketing program or want its free CRM tools and large app marketplace. Pick CasperPortal if you run a local service business and want everything unlocked from day one.",
+  "summary": "HubSpot is a broad marketing and sales suite sold as separate Hubs. CasperPortal is one plan for local service work.",
+  "rows": [
+   [
+    "Built for",
+    "Local service businesses",
+    "Companies of many sizes, strong in inbound marketing"
+   ],
+   [
+    "How it's sold",
+    "One plan, every feature unlocked",
+    "Separate Hubs with free and paid tiers"
+   ],
+   [
+    "Users and contacts",
+    "Unlimited users and contacts",
+    "Varies by Hub and tier"
+   ],
+   [
+    "Two-way texting",
+    "Built in",
+    "Marketing SMS is a paid add-on; two-way texting often via marketplace apps"
+   ],
+   [
+    "Missed-call text-back",
+    "Built in",
+    "Usually set up with a third-party app"
+   ],
+   [
+    "Google review requests",
+    "Built in",
+    "Usually handled with a third-party app"
+   ],
+   [
+    "Online booking",
+    "Built-in calendars and reminders",
+    "Meeting scheduling available"
+   ],
+   [
+    "Content and SEO tools",
+    "Funnels, landing pages, blog and social planner",
+    "Extensive content, SEO and marketing tools"
+   ],
+   [
+    "Free option",
+    "14-day free trial of the full plan",
+    "Free CRM tools available"
+   ],
+   [
+    "Mobile app",
+    "iOS and Android",
+    "iOS and Android"
+   ]
+  ],
+  "chooseUs": [
+   "You run a local service business and most of your leads arrive as calls, texts and form fills.",
+   "You want texting, missed-call text-back, booking and review requests in one plan instead of adding them one by one.",
+   "You want unlimited users and contacts so adding staff or growing your list doesn't change your plan.",
+   "You'd like the option of done-for-you setup from CasperB2B instead of building everything yourself."
+  ],
+  "chooseThem": [
+   "You want to start with free CRM tools and grow into paid Hubs over time.",
+   "You have a marketing team running content, SEO and inbound campaigns at scale.",
+   "Your business depends on specific apps in HubSpot's marketplace."
+  ],
+  "switch": [
+   "Export your contacts from HubSpot as a CSV file.",
+   "Import the CSV into CasperPortal and tag contacts so your lists and pipeline stages carry over.",
+   "Rebuild your key automations, such as missed-call text-back, new-lead follow-up and appointment reminders, yourself or with done-for-you setup.",
+   "Port your existing business number into CasperPortal, or use a local tracking number that forwards to your phone."
+  ],
+  "faqs": [
+   [
+    "Is CasperPortal a good HubSpot alternative for a small business?",
+    "Yes, if you run a local service business. CasperPortal puts CRM, two-way texting, missed-call text-back, booking, pipelines and review requests in one plan, so you don't need to assemble separate Hubs or add-ons."
+   ],
+   [
+    "How is CasperPortal priced compared to HubSpot?",
+    "CasperPortal's Growth Plan is $297/month with unlimited users and unlimited contacts, month-to-month. HubSpot sells separate Hubs with free and paid tiers, so check HubSpot's site for its current pricing."
+   ],
+   [
+    "Can I move my contacts from HubSpot to CasperPortal?",
+    "Yes. Export your contacts from HubSpot as a CSV and import them into CasperPortal. Automations need to be rebuilt, which you can do yourself or through optional done-for-you setup from CasperB2B."
+   ],
+   [
+    "Does CasperPortal have a free plan like HubSpot?",
+    "No. CasperPortal offers a 14-day free trial of the full Growth Plan, started at /start, and you can cancel anytime during the trial."
+   ]
+  ],
+  "next": {
+   "feature": "/features/crm-contact-management",
+   "compare": "/compare/salesforce",
+   "guide": "/blog/why-unified-crm"
+  }
+ },
+ "activecampaign": {
+  "name": "ActiveCampaign",
+  "kw": "ActiveCampaign alternative with SMS",
+  "title": "ActiveCampaign Alternative with SMS | CasperPortal",
+  "desc": "Need an ActiveCampaign alternative with SMS built in? CasperPortal adds texting, missed-call text-back, booking and reviews to email automation.",
+  "h1": "CasperPortal vs ActiveCampaign: An ActiveCampaign Alternative with SMS Built In",
+  "intro": "CasperPortal is an ActiveCampaign alternative with SMS, missed-call text-back, booking and review requests built into the same plan as email automation. Pick ActiveCampaign if email marketing is the center of your business and you want deep email automation. Pick CasperPortal if your customers call and text you and you need one place to answer and follow up.",
+  "summary": "ActiveCampaign centers on email automation. CasperPortal is a local business CRM with texting and booking built in.",
+  "rows": [
+   [
+    "Built for",
+    "Local service businesses",
+    "Email marketing and marketing automation"
+   ],
+   [
+    "Email automation",
+    "Built in",
+    "Built in, a core strength"
+   ],
+   [
+    "Two-way texting",
+    "Built in",
+    "SMS is a paid add-on in supported countries"
+   ],
+   [
+    "Missed-call text-back",
+    "Built in",
+    "Not a standard feature"
+   ],
+   [
+    "Google review requests",
+    "Built in",
+    "Not a core feature"
+   ],
+   [
+    "Sales pipeline",
+    "Built in",
+    "Deals pipeline available"
+   ],
+   [
+    "Unified inbox",
+    "SMS, email, Facebook and Instagram in one thread",
+    "Centered on email"
+   ],
+   [
+    "Online booking",
+    "Built-in calendars and reminders",
+    "Usually through an integration"
+   ],
+   [
+    "Pricing model",
+    "One plan, unlimited contacts",
+    "Priced by plan tier and contact count"
+   ]
+  ],
+  "chooseUs": [
+   "Your customers reach you by phone and text as often as by email.",
+   "You want missed calls answered with an automatic text and saved as leads.",
+   "You want booking, reminders and review requests tied to the same contact record.",
+   "You don't want your plan to change as your contact list grows."
+  ],
+  "chooseThem": [
+   "Email newsletters and email automation are most of your marketing.",
+   "You sell online and want email flows tied to an e-commerce store.",
+   "Your team already has detailed email automations built in ActiveCampaign."
+  ],
+  "switch": [
+   "Export your contacts and tags from ActiveCampaign as a CSV file.",
+   "Import the CSV into CasperPortal and map tags to your lists and pipeline stages.",
+   "Recreate your main email sequences and add text steps where they help, yourself or with done-for-you setup.",
+   "Port your business number or use a local tracking number so calls and texts land in the same inbox."
+  ],
+  "faqs": [
+   [
+    "Is CasperPortal an ActiveCampaign alternative with SMS?",
+    "Yes. CasperPortal includes two-way texting, missed-call text-back and text follow-up in the same plan as email automation, plus booking, pipelines and review requests."
+   ],
+   [
+    "Can CasperPortal send email campaigns like ActiveCampaign?",
+    "Yes. You can send email campaigns and build automated email and text sequences from reusable templates. If advanced email-only marketing is your main need, ActiveCampaign may still suit you better."
+   ],
+   [
+    "How do I move my email list from ActiveCampaign?",
+    "Export your contacts as a CSV and import them into CasperPortal. Your automations need to be rebuilt, which you can do yourself or through optional done-for-you setup."
+   ],
+   [
+    "What does CasperPortal cost?",
+    "The Growth Plan is $297/month with unlimited users and unlimited contacts, month-to-month, after a 14-day free trial."
+   ]
+  ],
+  "next": {
+   "feature": "/features/email-sms-marketing",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/multi-channel-marketing"
+  }
+ },
+ "calendly": {
+  "name": "Calendly",
+  "kw": "Calendly alternative with CRM",
+  "title": "Calendly Alternative with CRM Built In | CasperPortal",
+  "desc": "Want a Calendly alternative with CRM built in? CasperPortal handles booking plus the lead follow-up, two-way texting and reviews around each visit.",
+  "h1": "CasperPortal vs Calendly: A Calendly Alternative with CRM and Follow-Up",
+  "intro": "CasperPortal is a Calendly alternative with CRM built in: online booking, reminders, two-way texting, pipelines and review requests share one contact record. Pick Calendly if you only need a simple scheduling link or already have a CRM it connects to. Pick CasperPortal if you want to capture the lead, book the appointment and follow up afterward in one system.",
+  "summary": "Calendly is a scheduling tool. CasperPortal adds the CRM, texting and follow-up around each appointment.",
+  "rows": [
+   [
+    "Built for",
+    "Running a local business's leads and customers",
+    "Scheduling meetings"
+   ],
+   [
+    "Online booking",
+    "Built in",
+    "Built in, its core focus"
+   ],
+   [
+    "Reminders",
+    "Email and text reminders through workflows",
+    "Email and text reminders through Workflows on paid plans"
+   ],
+   [
+    "Two-way texting",
+    "Built in",
+    "Reminder texts are one-way"
+   ],
+   [
+    "CRM and pipeline",
+    "Built in",
+    "Connects to separate CRMs"
+   ],
+   [
+    "Lead capture before booking",
+    "Forms, website chat and missed-call text-back",
+    "Focused on the booking step"
+   ],
+   [
+    "Review requests after a visit",
+    "Built in",
+    "Not part of the scheduling tool"
+   ],
+   [
+    "Payments",
+    "Text-to-pay and invoicing",
+    "Payment collection at booking through integrations"
+   ]
+  ],
+  "chooseUs": [
+   "You want every booking to create or update a contact you can follow up with.",
+   "You need to reach people who haven't booked yet, such as missed callers and form leads.",
+   "You want review requests and rebooking texts to go out automatically after appointments.",
+   "You'd rather pay for one system than a scheduler, a CRM and a texting tool."
+  ],
+  "chooseThem": [
+   "You only need a shareable booking link and nothing else.",
+   "Your team already uses a CRM that Calendly connects to and you're happy with it.",
+   "You mainly book internal or sales meetings rather than customer appointments."
+  ],
+  "switch": [
+   "Create your calendars and appointment types in CasperPortal.",
+   "Replace your Calendly links on your website, email signature and social profiles with CasperPortal booking links.",
+   "Import your existing customer list as a CSV so past clients are in your CRM.",
+   "Turn on reminders and post-appointment follow-up, yourself or with done-for-you setup."
+  ],
+  "faqs": [
+   [
+    "Is CasperPortal a Calendly alternative with a CRM?",
+    "Yes. CasperPortal includes online booking and reminders, and every booking lands on a contact record with your texts, emails, pipeline stage and notes."
+   ],
+   [
+    "Can clients book online and get text reminders?",
+    "Yes. Clients book from your booking link, and workflows send email and text reminders before the appointment and follow-up afterward."
+   ],
+   [
+    "Do I need Zapier to connect booking to my CRM?",
+    "No. Booking, CRM, texting and automation are part of the same CasperPortal plan, so there's nothing to connect between them."
+   ],
+   [
+    "Is CasperPortal overkill if I only need scheduling?",
+    "It can be. If a booking link is all you need, a scheduling tool like Calendly may be enough. CasperPortal makes sense when you also want lead capture, follow-up and reviews."
+   ]
+  ],
+  "next": {
+   "feature": "/features/appointment-booking",
+   "compare": "/compare/activecampaign",
+   "guide": "/blog/5-essential-automations"
+  }
+ },
+ "salesforce": {
+  "name": "Salesforce",
+  "kw": "Salesforce alternative for small business",
+  "title": "Salesforce Alternative for Small Business | CasperPortal",
+  "desc": "Searching for a Salesforce alternative for small business? CasperPortal gives local teams a ready-to-use CRM with texting and booking built in.",
+  "h1": "CasperPortal vs Salesforce: A Salesforce Alternative for Small Local Businesses",
+  "intro": "CasperPortal is a Salesforce alternative for small business owners who want a CRM that is ready to use for local service work, with texting, booking and review requests included. Pick Salesforce if you need a highly customizable sales platform and have an admin or partner to configure it. Pick CasperPortal if you want one plan your team can run without one.",
+  "summary": "Salesforce is a highly customizable CRM platform. CasperPortal is a ready-to-use CRM for local businesses.",
+  "rows": [
+   [
+    "Built for",
+    "Local service businesses",
+    "Sales and service teams of many sizes"
+   ],
+   [
+    "How it's sold",
+    "One plan, every feature unlocked",
+    "Multiple products and editions, licensed per user"
+   ],
+   [
+    "Users",
+    "Unlimited users",
+    "Per-user licensing"
+   ],
+   [
+    "Customization",
+    "Set up for local service workflows",
+    "Highly customizable, often by an admin or partner"
+   ],
+   [
+    "Two-way texting",
+    "Built in",
+    "Through add-on products or AppExchange apps"
+   ],
+   [
+    "Missed-call text-back",
+    "Built in",
+    "Usually through an AppExchange app"
+   ],
+   [
+    "Online booking",
+    "Built-in calendars and reminders",
+    "Through add-on products or apps"
+   ],
+   [
+    "Google review requests",
+    "Built in",
+    "Usually through an AppExchange app"
+   ],
+   [
+    "Setup help",
+    "Optional done-for-you setup from CasperB2B",
+    "Implementation partners"
+   ]
+  ],
+  "chooseUs": [
+   "You don't have, and don't want to hire, a CRM admin.",
+   "You want texting, missed-call text-back, booking and reviews without buying add-ons.",
+   "You want to add your whole team without per-user licenses.",
+   "Your sales process is calls, estimates, appointments and follow-up, not a long multi-stage deal cycle."
+  ],
+  "chooseThem": [
+   "You need deep customization, custom objects and complex reporting across many departments.",
+   "You have an in-house admin or implementation partner to build and maintain the system.",
+   "Your business relies on specific AppExchange apps or other Salesforce products."
+  ],
+  "switch": [
+   "Export your contacts and open deals from Salesforce as CSV files.",
+   "Import the CSVs into CasperPortal and set up pipeline stages that match how you sell.",
+   "Rebuild the automations you actually use, such as lead follow-up and reminders, yourself or with done-for-you setup.",
+   "Port your business number or use a local tracking number so calls and texts are tracked in CasperPortal."
+  ],
+  "faqs": [
+   [
+    "Is CasperPortal a Salesforce alternative for small business?",
+    "Yes, for local service businesses. CasperPortal includes CRM, pipelines, two-way texting, missed-call text-back, booking and review requests in one plan that your team can run without a dedicated admin."
+   ],
+   [
+    "Does CasperPortal charge per user like Salesforce?",
+    "No. The Growth Plan is $297/month with unlimited users and unlimited contacts, month-to-month."
+   ],
+   [
+    "Can I import my Salesforce data?",
+    "Yes. Export contacts and deals as CSV files and import them into CasperPortal. Custom Salesforce automations need to be rebuilt, which CasperB2B can do through optional done-for-you setup."
+   ],
+   [
+    "When should I stay on Salesforce?",
+    "Stay if you need deep customization across many departments and have an admin or partner maintaining it. CasperPortal is designed for local teams who want a ready-to-use system."
+   ]
+  ],
+  "next": {
+   "feature": "/features/sales-pipelines",
+   "compare": "/compare/hubspot",
+   "guide": "/crm-for-local-businesses"
+  }
+ },
+ "gohighlevel": {
+  "name": "GoHighLevel",
+  "kw": "GoHighLevel alternative for local businesses",
+  "title": "GoHighLevel Alternative for Local Businesses | CasperPortal",
+  "desc": "Considering a GoHighLevel alternative for local businesses? CasperPortal offers a similar core toolset, packaged ready to use with local help.",
+  "h1": "CasperPortal vs GoHighLevel: Same Core Tools, Packaged for Local Businesses",
+  "intro": "CasperPortal is a GoHighLevel alternative for local businesses that want a similar core toolset (CRM, texting, automations, booking and reviews) packaged for one business to use directly, with optional done-for-you setup and a Georgetown, MA team. Pick GoHighLevel if you are an agency managing or reselling accounts for clients.",
+  "summary": "A similar core toolset. GoHighLevel is sold mainly to agencies; CasperPortal is packaged for one local business.",
+  "rows": [
+   [
+    "Underlying technology",
+    "All-in-one CRM, messaging, automation and booking",
+    "All-in-one CRM, messaging, automation and booking"
+   ],
+   [
+    "Core features",
+    "CRM, texting, missed-call text-back, booking, pipelines, reviews, payments",
+    "Similar core features"
+   ],
+   [
+    "Built for",
+    "A local business using it directly",
+    "Agencies, often reselling under their own brand"
+   ],
+   [
+    "Agency tools",
+    "Not the focus",
+    "White-labeling and client sub-accounts"
+   ],
+   [
+    "Account setup",
+    "Ready-to-use account for your business",
+    "You or your agency configure each account"
+   ],
+   [
+    "Done-for-you setup",
+    "Optional, from CasperB2B",
+    "Through an agency or your own team"
+   ],
+   [
+    "Support",
+    "Georgetown, MA team by phone, text or live demo",
+    "HighLevel's own support channels"
+   ],
+   [
+    "Mobile app",
+    "iOS and Android",
+    "iOS and Android"
+   ]
+  ],
+  "chooseUs": [
+   "You own a local business and want to use the platform yourself, not run an agency.",
+   "You want an account that's ready for local service work instead of a blank agency setup.",
+   "You want the option of done-for-you setup from CasperB2B.",
+   "You'd like to talk to a team based in Georgetown, MA when you have questions."
+  ],
+  "chooseThem": [
+   "You're an agency that manages marketing for many clients.",
+   "You want to white-label the software and resell it under your own brand.",
+   "You already know HighLevel well and prefer to build everything yourself."
+  ],
+  "switch": [
+   "Export your contacts from your current HighLevel account as a CSV file.",
+   "Import the CSV into CasperPortal; many of the tools will feel familiar.",
+   "Rebuild your workflows, calendars and forms, yourself or with done-for-you setup.",
+   "Port your business number or use a local tracking number that forwards to your phone."
+  ],
+  "faqs": [
+   [
+    "Does CasperPortal have the same features as GoHighLevel?",
+    "The core toolset is similar: CRM, two-way texting, email, workflow automations, booking, pipelines and review requests. The difference is who it is built for: CasperPortal is packaged for a single local business, while GoHighLevel focuses on agencies."
+   ],
+   [
+    "Why choose CasperPortal over GoHighLevel?",
+    "Choose CasperPortal if you're a local business owner rather than an agency and you want a ready-to-use account, optional done-for-you setup from CasperB2B, and a team in Georgetown, MA to call or text."
+   ],
+   [
+    "Is GoHighLevel better for agencies?",
+    "Yes. GoHighLevel is designed for agencies that manage or resell accounts for clients, with white-labeling and sub-accounts. CasperPortal is designed for a single local business."
+   ],
+   [
+    "What does CasperPortal cost?",
+    "The Growth Plan is $297/month with unlimited users and unlimited contacts, month-to-month, after a 14-day free trial."
+   ]
+  ],
+  "next": {
+   "feature": "/features/workflow-automations",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/setup-first-automation"
+  }
+ }
+}

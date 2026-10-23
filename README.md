@@ -13,16 +13,18 @@ npm run check     # fails on links to missing pages or pages with < 3 in-content
 npm run images    # (re)download the live site's images from data/image-sources.json into static/img as WebP
 ```
 
-Preview: `cd dist && python3 -m http.server 8080`.
+Preview: `npm run serve` (http://localhost:8080, resolves URLs like GitHub Pages). `npm run test:browser` loads every page at 360px and 1280px in a local Chrome/Edge and reports JS errors, broken links/images and sideways scroll.
 
 ## Layout
 
-- `content/pages/*.html` — page bodies, imported once from the live site's rendered pages (wording kept). Edit these.
-- `content/meta.json` — per page: title (≤60), description (≤155), `noindex`, blog `published` date.
-- `content/redirects.json` — old URLs → new home (meta refresh + canonical + noindex pages).
+- `content/data/{features,niches,problems,compare,towns}.json` — the page families (28 features, 23 industries, 6 problems, 5 comparisons, 17 town pages), rendered by `scripts/build.mjs`. Each entry holds its primary keyword, title, description, H1, answer-first intro, sections, FAQs and `next` (most relevant feature / comparison / guide).
+- `content/pages/*.html` — hand-written page bodies (home, pricing, start, demo, hubs, guides, blog, company, legal). Their keyword, title, description, primary CTA and `next` live in `content/data/meta-{core,hubs,blog}.json` (overriding `content/meta.json`).
+- `content/redirects.json` — old URLs → new home (meta refresh + canonical + noindex pages). The build adds `/directory/<town>-ma` → `/locations/crm-software-<town>-ma` and niche merges (`_merge` in niches.json).
 - `content/llms.txt` — template for `/llms.txt` (lists are filled in at build).
-- `scripts/lib.mjs` — layout (header, footer, JSON-LD), `scripts/build.mjs` — widgets, related links, sitemap etc.
-- `static/assets/` — `site.css`, `app.js` (menu, ROI calculator, quiz, polls, video), `forms.js` (all form posts + demo calendar), `agreement.js`, `brand.js`, `t.js` (first-party analytics + cookie notice, `data-site="casperportal"`; add GA4 later with `data-ga4="G-…"`).
+- `data/source/*.json` — the old React site's data, imported once with `node scripts/import-source.mjs <unzipped src/data>` (reference only).
+- `scripts/lib.mjs` — layout: grouped header menu, sticky mobile CTA, next-best-step block with a facts-only trust strip, footer, JSON-LD. `scripts/build.mjs` — templates, widgets, one-primary-CTA rule, schema, sitemap, llms.txt, and the generated `KEYWORDS.md` / `LINKS.md`.
+- `npm run check` also fails on duplicate keywords/titles/H1s, a missing next-step block, banned claims (fake stats, "no credit card required", conflicting emails…), more than one casperb2b.com link, or a trial/demo more than 2 clicks away.
+- `static/assets/` — `site.css`, `app.js` (menu, `cta_click` events, ROI calculator, quiz, polls, video, /start terms gate), `forms.js` (all form posts + demo calendar + `lead_form_submit` events), `agreement.js`, `brand.js`, `t.js` (first-party analytics + cookie notice, `data-site="casperportal"`; add GA4 later with `data-ga4="G-…"`).
 - `static/3808756a46524e2fd878c401cb0c664c.txt` — IndexNow key file.
 
 ## Forms, booking and payments (unchanged destinations)
@@ -46,47 +48,9 @@ Every form posts the same JSON the old site sent to GoHighLevel/LeadConnector: `
 - Hero video stays on the owner's GHL media storage (163 MB, not copied); poster image is local.
 - The old site had no app/login links, so none were added.
 
-## Pages (153)
+## Pages and redirects
 
-- **top-level** (38): `/`, `/about-us`, `/affiliate`, `/affiliate-kit`, `/affiliate-terms`, `/agreement-builder`, `/blog`, `/brand-kit`, `/casperb2b`, `/compare`, `/contact`, `/crm-for-local-businesses`, `/demo`, `/development`, `/directory`, `/features`, `/glossary`, `/help`, `/integrations`, `/jared-casper`, `/locations`, `/mark-casper`, `/marketing-automation-for-small-business`, `/niches`, `/our-story`, `/our-team`, `/pricing`, `/privacy`, `/problems`, `/quiz`, `/roi-calculator`, `/security`, `/services`, `/start`, `/terms`, `/thank-you`, `/tools`, `/use-cases`
-- **blog** (16): `/blog/5-essential-automations`, `/blog/ai-automation-support`, `/blog/economics-of-crm-roi`, `/blog/mastering-local-seo`, `/blog/medspa-crm-consolidation`, `/blog/multi-channel-marketing`, `/blog/reputation-management-guide`, `/blog/setup-first-automation`, `/blog/stop-missing-calls`, `/blog/topic/automation`, `/blog/topic/growth`, `/blog/topic/marketing`, `/blog/topic/sales`, `/blog/topic/seo`, `/blog/ultimate-b2b-follow-ups`, `/blog/why-unified-crm`
-- **compare** (5): `/compare/activecampaign`, `/compare/calendly`, `/compare/gohighlevel`, `/compare/hubspot`, `/compare/salesforce`
-- **directory** (19): `/directory/add`, `/directory/amesbury-ma`, `/directory/beverly-ma`, `/directory/boxford-ma`, `/directory/compare`, `/directory/danvers-ma`, `/directory/georgetown-ma`, `/directory/groveland-ma`, `/directory/haverhill-ma`, `/directory/ipswich-ma`, `/directory/lawrence-ma`, `/directory/methuen-ma`, `/directory/newbury-ma`, `/directory/newburyport-ma`, `/directory/north-andover-ma`, `/directory/rowley-ma`, `/directory/salem-ma`, `/directory/salisbury-ma`, `/directory/topsfield-ma`
-- **features** (28): `/features/ai-chat-tools`, `/features/appointment-booking`, `/features/automation-triggers`, `/features/blog-publishing`, `/features/communities`, `/features/crm-contact-management`, `/features/customer-surveys`, `/features/email-sms-marketing`, `/features/facebook-messenger`, `/features/funnel-landing-page-builder`, `/features/google-call-tracking`, `/features/invoicing`, `/features/lead-capture-forms`, `/features/marketing-campaigns`, `/features/memberships`, `/features/missed-call-text-back`, `/features/mobile-app`, `/features/omnichannel-messaging`, `/features/proposals-and-estimates`, `/features/reporting-analytics`, `/features/reputation-management`, `/features/sales-pipelines`, `/features/sms-and-email-templates`, `/features/social-media-planner`, `/features/text-to-pay`, `/features/trigger-links`, `/features/website-live-chat`, `/features/workflow-automations`
-- **locations** (17): `/locations/crm-software-amesbury-ma`, `/locations/crm-software-beverly-ma`, `/locations/crm-software-boxford-ma`, `/locations/crm-software-danvers-ma`, `/locations/crm-software-georgetown-ma`, `/locations/crm-software-groveland-ma`, `/locations/crm-software-haverhill-ma`, `/locations/crm-software-ipswich-ma`, `/locations/crm-software-lawrence-ma`, `/locations/crm-software-methuen-ma`, `/locations/crm-software-newbury-ma`, `/locations/crm-software-newburyport-ma`, `/locations/crm-software-north-andover-ma`, `/locations/crm-software-rowley-ma`, `/locations/crm-software-salem-ma`, `/locations/crm-software-salisbury-ma`, `/locations/crm-software-topsfield-ma`
-- **niches** (24): `/niches/automotive-parts-stores`, `/niches/beauty-salons`, `/niches/breweries`, `/niches/car-dealerships`, `/niches/clothing-boutiques`, `/niches/construction-companies`, `/niches/consulting-firms`, `/niches/daycare-centers`, `/niches/dental-clinics`, `/niches/event-planners`, `/niches/fitness-centers-gyms`, `/niches/furniture-stores`, `/niches/hotels`, `/niches/insurance-agencies`, `/niches/it-services`, `/niches/jewelry-stores`, `/niches/legal-firms`, `/niches/marketing-agencies`, `/niches/pet-stores`, `/niches/pharmacies`, `/niches/real-estate-agents`, `/niches/real-estate-development`, `/niches/restaurants`, `/niches/travel-agencies`
-- **problems** (6): `/problems/disconnected-tools`, `/problems/losing-leads`, `/problems/missed-calls`, `/problems/no-visibility-into-pipeline`, `/problems/reviews-stagnant`, `/problems/slow-follow-up`
-
-`/thank-you` is `noindex` and not in the sitemap. `/404.html` is the not-found page.
-
-## Redirects (26)
-
-- `/niches/home-services` → `/niches`
-- `/niches/dining` → `/niches`
-- `/niches/trades` → `/niches`
-- `/niches/healthcare` → `/niches`
-- `/niches/retail` → `/niches`
-- `/niches/equestrian` → `/niches`
-- `/niches/construction` → `/niches`
-- `/niches/landscaping` → `/niches`
-- `/niches/agriculture` → `/niches`
-- `/niches/hvac` → `/niches`
-- `/niches/marine` → `/niches`
-- `/niches/tech` → `/niches`
-- `/niches/manufacturing` → `/niches`
-- `/niches/automotive` → `/niches`
-- `/niches/professional-services` → `/niches`
-- `/niches/tourism` → `/niches`
-- `/niches/boutique-retail` → `/niches`
-- `/niches/hospitality` → `/niches`
-- `/niches/food-service` → `/niches`
-- `/niches/real-estate` → `/niches`
-- `/niches/legal` → `/niches`
-- `/blog/topic/ai-tech` → `/blog`
-- `/blog/topic/economics` → `/blog`
-- `/blog/topic/how-to` → `/blog`
-- `/problems/no-online-reviews` → `/problems/reviews-stagnant`
-- `/portfolio` → `/casperb2b`
+See KEYWORDS.md (every indexable page with its primary keyword, plus all redirects) and LINKS.md (menu, hubs, next-best-step links); both are regenerated by every build.
 
 ## DNS (GitHub Pages)
 

@@ -1,0 +1,234 @@
+{
+ "/features": {
+  "kw": "CRM features for small business",
+  "title": "CRM Features for Small Business | CasperPortal",
+  "desc": "CRM features for small business in one plan: contacts, pipelines, unified inbox, missed-call text-back, booking, automation and reviews. Try it free.",
+  "cta": "trial",
+  "next": {
+   "feature": "/features/crm-contact-management",
+   "compare": "/compare/hubspot",
+   "guide": "/crm-for-local-businesses"
+  }
+ },
+ "/niches": {
+  "kw": "CRM by industry",
+  "title": "CRM by Industry: Local Business Setups | CasperPortal",
+  "desc": "CRM by industry: see how CasperPortal sets up pipelines, booking, follow-up and review requests for your type of local business. Pick your industry.",
+  "cta": "demo",
+  "next": {
+   "feature": "/features/sales-pipelines",
+   "compare": "/compare/gohighlevel",
+   "guide": "/crm-for-local-businesses"
+  }
+ },
+ "/problems": {
+  "kw": "local business lead problems",
+  "title": "Local Business Lead Problems We Fix | CasperPortal",
+  "desc": "Missed calls, slow follow-up, scattered tools, no pipeline view: the common local business lead problems and the CasperPortal feature that fixes each.",
+  "cta": "trial",
+  "next": {
+   "feature": "/features/missed-call-text-back",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/stop-missing-calls"
+  }
+ },
+ "/compare": {
+  "kw": "CRM comparison for local businesses",
+  "title": "CRM Comparison for Local Businesses | CasperPortal",
+  "desc": "CRM comparison for local businesses: CasperPortal vs HubSpot, Salesforce, ActiveCampaign, GoHighLevel and Calendly, with one flat-priced plan explained.",
+  "cta": "trial",
+  "next": {
+   "feature": "/features/crm-contact-management",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/why-unified-crm"
+  }
+ },
+ "/locations": {
+  "kw": "CRM software North Shore MA",
+  "title": "CRM Software for North Shore MA | CasperPortal",
+  "desc": "CRM software for North Shore MA businesses from Georgetown, MA. Find your town among 17 pages covering Essex County and the Merrimack Valley.",
+  "cta": "demo",
+  "next": {
+   "feature": "/features/missed-call-text-back",
+   "compare": "/compare/gohighlevel",
+   "guide": "/blog/mastering-local-seo"
+  }
+ },
+ "/crm-for-local-businesses": {
+  "kw": "CRM for local businesses",
+  "title": "CRM for Local Businesses: A Practical Guide | CasperPortal",
+  "desc": "CRM for local businesses explained: what it does, what to look for and how CasperPortal combines contacts, pipeline, inbox and booking. Try it free.",
+  "cta": "trial",
+  "next": {
+   "feature": "/features/crm-contact-management",
+   "compare": "/compare/hubspot",
+   "guide": "/marketing-automation-for-small-business"
+  }
+ },
+ "/marketing-automation-for-small-business": {
+  "kw": "marketing automation for small business",
+  "title": "Marketing Automation for Small Business | CasperPortal",
+  "desc": "Marketing automation for small business: the five automations to start with, what to look for in software and how CasperPortal runs them in your CRM.",
+  "cta": "trial",
+  "next": {
+   "feature": "/features/workflow-automations",
+   "compare": "/compare/activecampaign",
+   "guide": "/blog/5-essential-automations"
+  }
+ },
+ "/integrations": {
+  "kw": "CasperPortal integrations",
+  "title": "CasperPortal Integrations: Stripe, Google, Zapier",
+  "desc": "CasperPortal integrations for payments, calendars, social, websites and developer tools, including Stripe, Google Calendar, Facebook, Zapier and webhooks.",
+  "cta": "trial",
+  "next": {
+   "feature": "/features/omnichannel-messaging",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/why-unified-crm"
+  }
+ },
+ "/security": {
+  "kw": "CasperPortal security",
+  "title": "CasperPortal Security and Data Protection",
+  "desc": "CasperPortal security: encrypted connections, team permissions, monitoring, backups and incident response, plus how to report a vulnerability to us.",
+  "cta": "trial",
+  "next": {
+   "feature": "/features/crm-contact-management",
+   "compare": "/compare/salesforce",
+   "guide": "/crm-for-local-businesses"
+  }
+ },
+ "/help": {
+  "kw": "CasperPortal help center",
+  "title": "CasperPortal Help Center: Answers and Guides",
+  "desc": "CasperPortal help center: answers on getting started, contacts, automation, billing and security, with guides and a 30-minute live demo if you need it.",
+  "cta": "demo",
+  "next": {
+   "feature": "/features/workflow-automations",
+   "compare": "/compare/gohighlevel",
+   "guide": "/blog/setup-first-automation"
+  }
+ },
+ "/glossary": {
+  "kw": "CRM glossary",
+  "title": "CRM Glossary: CRM and Marketing Terms | CasperPortal",
+  "desc": "CRM glossary in plain English: pipelines, lead scoring, drip campaigns, webhooks, two-way sync and more CRM and marketing terms for local businesses.",
+  "cta": "demo",
+  "next": {
+   "feature": "/features/crm-contact-management",
+   "compare": "/compare/hubspot",
+   "guide": "/crm-for-local-businesses"
+  }
+ },
+ "/tools": {
+  "kw": "free small business tools",
+  "title": "Free Small Business Tools | CasperPortal",
+  "desc": "Free small business tools: a CRM ROI calculator, a CRM readiness quiz and a service agreement generator. All run in your browser with no account needed.",
+  "cta": "demo",
+  "next": {
+   "feature": "/features/missed-call-text-back",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/economics-of-crm-roi"
+  }
+ },
+ "/roi-calculator": {
+  "kw": "CRM ROI calculator",
+  "title": "CRM ROI Calculator: Missed Calls and Savings",
+  "desc": "CRM ROI calculator: enter your leads, missed-call rate, close rate and tool costs to estimate what missed-call recovery and consolidation could be worth.",
+  "cta": "trial",
+  "next": {
+   "feature": "/features/missed-call-text-back",
+   "compare": "/compare/hubspot",
+   "guide": "/blog/economics-of-crm-roi"
+  }
+ },
+ "/quiz": {
+  "kw": "CRM readiness quiz",
+  "title": "CRM Readiness Quiz: Where to Start | CasperPortal",
+  "desc": "Take the CRM readiness quiz: five questions about your leads and follow-up, then a recommendation on which CasperPortal feature to set up first.",
+  "cta": "trial",
+  "next": {
+   "feature": "/features/missed-call-text-back",
+   "compare": "/compare/gohighlevel",
+   "guide": "/crm-for-local-businesses"
+  }
+ },
+ "/agreement-builder": {
+  "kw": "service agreement generator",
+  "title": "Service Agreement Generator | CasperPortal",
+  "desc": "Free service agreement generator: build a print-ready CasperPortal enrollment packet with billing terms, payment authorization and signature pages.",
+  "cta": "demo",
+  "next": {
+   "feature": "/features/proposals-and-estimates",
+   "compare": "/compare/hubspot",
+   "guide": "/crm-for-local-businesses"
+  },
+  "noindex": true
+ },
+ "/affiliate": {
+  "kw": "CRM affiliate program",
+  "title": "CRM Affiliate Program: $150/mo Per Referral",
+  "desc": "CasperPortal CRM affiliate program: earn $150 per month for each business you enroll while it stays active, with a 365-day cookie and Net-15 payouts.",
+  "cta": "demo",
+  "next": {
+   "feature": "/features/crm-contact-management",
+   "compare": "/compare/gohighlevel",
+   "guide": "/crm-for-local-businesses"
+  }
+ },
+ "/affiliate-kit": {
+  "kw": "CasperPortal affiliate kit",
+  "title": "CasperPortal Affiliate Kit: Logos, Banners, Copy",
+  "desc": "CasperPortal affiliate kit: official logos, banner ads, email swipes, social graphics and brand guidelines for approved partners. Request the files here.",
+  "cta": "demo",
+  "next": {
+   "feature": "/features/crm-contact-management",
+   "compare": "/compare/gohighlevel",
+   "guide": "/crm-for-local-businesses"
+  }
+ },
+ "/affiliate-terms": {
+  "kw": "CasperPortal affiliate terms",
+  "title": "CasperPortal Affiliate Terms and Conditions",
+  "desc": "CasperPortal affiliate terms and conditions: eligibility, commissions, cookie life, payout schedule, prohibited activities and termination for partners.",
+  "cta": "demo",
+  "next": {
+   "feature": "/features/crm-contact-management",
+   "compare": "/compare/gohighlevel",
+   "guide": "/crm-for-local-businesses"
+  }
+ },
+ "/brand-kit": {
+  "kw": "CasperPortal brand kit",
+  "title": "CasperPortal Brand Kit Builder: Fonts and Colors",
+  "desc": "CasperPortal brand kit builder: pick a font and primary color, build a palette with matching colors and preview your brand on a sample page for free.",
+  "cta": "demo",
+  "next": {
+   "feature": "/features/funnel-landing-page-builder",
+   "compare": "/compare/gohighlevel",
+   "guide": "/blog/multi-channel-marketing"
+  }
+ },
+ "/privacy": {
+  "kw": "CasperPortal privacy policy",
+  "title": "CasperPortal Privacy Policy",
+  "desc": "CasperPortal privacy policy: what data the platform collects, how it is used and shared, cookies, SMS, AI data, retention and your privacy rights.",
+  "cta": "demo",
+  "next": {
+   "feature": "/features/crm-contact-management",
+   "compare": "/compare/hubspot",
+   "guide": "/crm-for-local-businesses"
+  }
+ },
+ "/terms": {
+  "kw": "CasperPortal terms of service",
+  "title": "CasperPortal Terms of Service",
+  "desc": "CasperPortal terms of service: subscriptions, acceptable use, messaging compliance, customer data, arbitration and notices for platform customers.",
+  "cta": "demo",
+  "next": {
+   "feature": "/features/crm-contact-management",
+   "compare": "/compare/hubspot",
+   "guide": "/crm-for-local-businesses"
+  }
+ }
+}

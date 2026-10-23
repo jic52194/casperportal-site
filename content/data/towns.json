@@ -1,0 +1,1199 @@
+{
+  "georgetown": {
+    "name": "Georgetown",
+    "kw": "CRM software Georgetown MA",
+    "title": "CRM Software for Georgetown, MA Businesses | CasperPortal",
+    "desc": "CRM software for Georgetown, MA contractors, clinics, salons and landscapers, from a team based right in town. Texting, booking and reviews. Try it free.",
+    "h1": "CRM Software for Georgetown, MA Businesses",
+    "intro": "CasperPortal is CRM software for Georgetown, MA businesses, and Georgetown is where the company is based. Contractors, clinics, salons and landscapers use it to answer missed calls with a text, keep every customer conversation in one inbox, and book appointments online. You can start a 14-day free trial or book a live demo with the local team.",
+    "population": "~8,200",
+    "county": "Essex County",
+    "region": "North Shore",
+    "industries": [
+      "Home Services",
+      "Healthcare",
+      "Retail",
+      "Trades"
+    ],
+    "businessTypes": [
+      "Contractors",
+      "Clinics",
+      "Salons",
+      "Landscapers"
+    ],
+    "localHook": "CasperPortal is based in Georgetown, so the businesses here are its neighbors: contractors, landscapers, salons and clinics that are often too busy with the work in front of them to pick up the phone.",
+    "nearby": [
+      "rowley",
+      "boxford",
+      "groveland",
+      "newbury"
+    ],
+    "useCases": [
+      {
+        "h": "Contractors answering calls from the job site",
+        "p": "When you're on a ladder or under a sink, a missed call gets an automatic text back so the homeowner knows you'll follow up. The request lands in your pipeline instead of your voicemail.",
+        "niche": "/niches/construction-companies"
+      },
+      {
+        "h": "Salons keeping the chair full",
+        "p": "Clients book online, get a text reminder before their appointment, and receive a rebooking text a few weeks later, all without the front desk making calls.",
+        "niche": "/niches/beauty-salons"
+      },
+      {
+        "h": "Clinics confirming tomorrow's patients",
+        "p": "Send appointment confirmations and reminders by text and email, collect intake forms before the visit, and keep every patient message in one shared inbox.",
+        "niche": "/niches/dental-clinics"
+      }
+    ],
+    "faqs": [
+      [
+        "Is CasperPortal based in Georgetown, MA?",
+        "Yes. CasperPortal is based in Georgetown, MA. You can book a 30-minute live demo at /demo or call or text (207) 222-7737."
+      ],
+      [
+        "Can a seasonal landscaping business use CasperPortal?",
+        "Yes. The plan is month-to-month, and you can run winter campaigns that remind past customers to book spring cleanups before the season starts."
+      ],
+      [
+        "Can I keep my current business phone number?",
+        "Yes. You can port your existing business number into CasperPortal, or use a local tracking number that forwards to your phone. Either way, missed-call text-back and two-way texting work on that number."
+      ],
+      [
+        "What does CasperPortal cost for a Georgetown business?",
+        "The Growth Plan is $297/month, month-to-month, with unlimited users and unlimited contacts. Georgetown businesses pay the same as everyone else, and every plan starts with a 14-day free trial."
+      ]
+    ],
+    "next": {
+      "feature": "/features/missed-call-text-back",
+      "compare": "/compare/hubspot",
+      "guide": "/crm-for-local-businesses"
+    }
+  },
+  "rowley": {
+    "name": "Rowley",
+    "kw": "CRM software Rowley MA",
+    "title": "CRM Software for Rowley, MA Businesses | CasperPortal",
+    "desc": "CRM software for Rowley, MA landscapers, contractors, farm stands and shops. Catch every seasonal job request and text your customers. Try it free.",
+    "h1": "CRM Software for Rowley, MA Landscapers, Contractors and Shops",
+    "intro": "CasperPortal is CRM software for Rowley, MA businesses that run on seasons: landscapers, contractors, farm stands and local shops. It answers missed calls with a text, tracks estimates in a pipeline, and lets you text your customer list when the season changes. Everything lives in one app on your phone and computer.",
+    "population": "~6,400",
+    "county": "Essex County",
+    "region": "North Shore",
+    "industries": [
+      "Landscaping",
+      "Construction",
+      "Agriculture",
+      "Trades"
+    ],
+    "businessTypes": [
+      "Landscapers",
+      "Contractors",
+      "Farm Stands",
+      "Shops"
+    ],
+    "localHook": "Work in Rowley comes in waves: spring cleanups, summer builds and fall harvests. The businesses that respond first during each rush tend to win the job.",
+    "nearby": [
+      "georgetown",
+      "newbury",
+      "ipswich",
+      "boxford"
+    ],
+    "useCases": [
+      {
+        "h": "Landscapers handling the spring rush",
+        "p": "Every cleanup or mowing request from a call, form or Facebook message goes into one pipeline, so nothing slips while your crews are out. Missed calls get a text back automatically.",
+        "niche": "/niches/construction-companies"
+      },
+      {
+        "h": "Farm stands texting what's in season",
+        "p": "Build a text and email list of regulars and send a quick message when strawberries, corn or pumpkins come in. Customers can reply and you answer from the same inbox.",
+        "niche": "/niches/restaurants"
+      },
+      {
+        "h": "Shops staying in touch between visits",
+        "p": "Collect contacts at checkout or through a web form, then send occasional offers and event announcements by text or email without a separate marketing tool.",
+        "niche": "/niches/clothing-boutiques"
+      }
+    ],
+    "faqs": [
+      [
+        "Can I text my whole customer list when the season starts?",
+        "Yes. You can send a text or email campaign to a tagged list, and replies come back into your shared inbox so you can answer each person."
+      ],
+      [
+        "Does CasperPortal work if I'm in the field all day?",
+        "Yes. The iOS and Android app lets you reply to texts, see new leads and check your calendar from the truck."
+      ],
+      [
+        "Do I need help setting it up?",
+        "Yes. You can set CasperPortal up yourself, or choose optional done-for-you setup from CasperB2B, which builds your pipelines, automations and booking for your Rowley business."
+      ],
+      [
+        "How much does CasperPortal cost?",
+        "The Growth Plan is $297/month, month-to-month, with unlimited users and unlimited contacts. Rowley businesses pay the same as everyone else, and every plan starts with a 14-day free trial."
+      ]
+    ],
+    "next": {
+      "feature": "/features/marketing-campaigns",
+      "compare": "/compare/activecampaign",
+      "guide": "/blog/5-essential-automations"
+    }
+  },
+  "boxford": {
+    "name": "Boxford",
+    "kw": "CRM software Boxford MA",
+    "title": "CRM Software for Boxford, MA Businesses | CasperPortal",
+    "desc": "CRM software for Boxford, MA home service pros, contractors, equestrian businesses and boutiques. Send polished estimates and reminders. Try it free.",
+    "h1": "CRM Software for Boxford, MA Home Service and Equestrian Businesses",
+    "intro": "CasperPortal is CRM software for Boxford, MA businesses that serve a residential market where clients expect quick, professional replies. Home service pros send estimates and follow up automatically, equestrian businesses schedule lessons and recurring visits, and boutiques keep regulars informed. Calls, texts, email and bookings sit on one contact record.",
+    "population": "~8,000",
+    "county": "Essex County",
+    "region": "North Shore",
+    "industries": [
+      "Home Services",
+      "Equestrian",
+      "Construction",
+      "Retail"
+    ],
+    "businessTypes": [
+      "Home Service Pros",
+      "Contractors",
+      "Equestrian Businesses",
+      "Boutiques"
+    ],
+    "localHook": "Boxford is largely residential, and homeowners here tend to judge a business by how quickly and professionally it communicates, from the first reply to the final invoice.",
+    "nearby": [
+      "georgetown",
+      "topsfield",
+      "north-andover",
+      "rowley"
+    ],
+    "useCases": [
+      {
+        "h": "Home service pros sending polished estimates",
+        "p": "Send a professional estimate or proposal by text or email, get notified when it's viewed, and let an automatic follow-up nudge the homeowner if they haven't replied.",
+        "niche": "/niches/construction-companies"
+      },
+      {
+        "h": "Equestrian businesses scheduling lessons",
+        "p": "Riders book lessons from your calendar link, get reminders, and can pay by text. Recurring students can be set up as memberships so billing doesn't eat your evenings.",
+        "niche": "/niches/fitness-centers-gyms"
+      },
+      {
+        "h": "Boutiques inviting regulars back",
+        "p": "Tag your best customers and send them first notice of new arrivals or private shopping nights by text, then track who replied.",
+        "niche": "/niches/clothing-boutiques"
+      }
+    ],
+    "faqs": [
+      [
+        "Can I send estimates and get paid through CasperPortal?",
+        "Yes. You can send proposals and estimates, then send invoices or a text-to-pay link so clients can pay from their phone."
+      ],
+      [
+        "Can riding lessons or boarding be billed on a schedule?",
+        "Yes. You can use memberships and recurring invoices for regular lessons or services, and send reminders before each appointment."
+      ],
+      [
+        "Can I keep my existing number?",
+        "Yes. You can port your existing business number into CasperPortal, or use a local tracking number that forwards to your phone. Either way, missed-call text-back and two-way texting work on that number."
+      ],
+      [
+        "What does it cost?",
+        "The Growth Plan is $297/month, month-to-month, with unlimited users and unlimited contacts. Boxford businesses pay the same as everyone else, and every plan starts with a 14-day free trial."
+      ]
+    ],
+    "next": {
+      "feature": "/features/proposals-and-estimates",
+      "compare": "/compare/salesforce",
+      "guide": "/blog/ultimate-b2b-follow-ups"
+    }
+  },
+  "groveland": {
+    "name": "Groveland",
+    "kw": "CRM software Groveland MA",
+    "title": "CRM Software for Groveland, MA Businesses | CasperPortal",
+    "desc": "CRM software for Groveland, MA plumbers, electricians, restaurants and shops. Turn word-of-mouth into booked jobs and Google reviews. Try it free.",
+    "h1": "CRM Software for Groveland, MA Trades, Restaurants and Shops",
+    "intro": "CasperPortal is CRM software for Groveland, MA plumbers, electricians, restaurants and shops that grow by word of mouth. It texts back missed calls so referrals don't go cold, follows up on every quote, and asks happy customers for a Google review. You manage it all from one inbox on your phone.",
+    "population": "~6,700",
+    "county": "Essex County",
+    "region": "North Shore",
+    "industries": [
+      "Retail",
+      "Trades",
+      "Home Services",
+      "Dining"
+    ],
+    "businessTypes": [
+      "Shops",
+      "Plumbers",
+      "Electricians",
+      "Restaurants"
+    ],
+    "localHook": "Groveland is a close-knit town where referrals carry a lot of weight. A neighbor's recommendation gets the call; a fast reply and a simple follow-up turn it into a job.",
+    "nearby": [
+      "georgetown",
+      "haverhill"
+    ],
+    "useCases": [
+      {
+        "h": "Plumbers and electricians catching urgent calls",
+        "p": "If you can't pick up, the caller gets a text right away asking what they need, and the conversation shows up in your inbox so you can reply between jobs.",
+        "niche": "/niches/construction-companies"
+      },
+      {
+        "h": "Restaurants handling catering and party requests",
+        "p": "Website chat and form inquiries for catering or private parties go to one inbox, and a pipeline tracks each request from first question to booked date.",
+        "niche": "/niches/restaurants"
+      },
+      {
+        "h": "Shops turning loyal customers into reviews",
+        "p": "After a purchase or service, send an automatic review request so your regulars can say on Google what they already tell their neighbors.",
+        "niche": "/niches/clothing-boutiques"
+      }
+    ],
+    "faqs": [
+      [
+        "How does CasperPortal help with word-of-mouth referrals?",
+        "When a referred customer calls and you miss it, they get a text back right away, and their details are saved in your CRM. After the job, an automatic review request helps turn that referral into a public review."
+      ],
+      [
+        "Can a one-person plumbing or electrical business use it?",
+        "Yes. You can run it from the mobile app, and the plan includes unlimited users if you add a helper or office person later."
+      ],
+      [
+        "Can I keep my business phone number?",
+        "Yes. You can port your existing business number into CasperPortal, or use a local tracking number that forwards to your phone. Either way, missed-call text-back and two-way texting work on that number."
+      ],
+      [
+        "How much does it cost in Groveland?",
+        "The Growth Plan is $297/month, month-to-month, with unlimited users and unlimited contacts. Groveland businesses pay the same as everyone else, and every plan starts with a 14-day free trial."
+      ]
+    ],
+    "next": {
+      "feature": "/features/reputation-management",
+      "compare": "/compare/hubspot",
+      "guide": "/blog/reputation-management-guide"
+    }
+  },
+  "haverhill": {
+    "name": "Haverhill",
+    "kw": "CRM software Haverhill MA",
+    "title": "CRM Software for Haverhill, MA Businesses | CasperPortal",
+    "desc": "CRM software for Haverhill, MA HVAC companies, auto dealers, clinics, contractors and salons. Put every call, text and web lead in one inbox. Try it free.",
+    "h1": "CRM Software for Haverhill, MA HVAC, Auto and Healthcare Businesses",
+    "intro": "CasperPortal is CRM software for Haverhill, MA businesses that handle a steady stream of calls and web leads, from HVAC companies and auto dealers to clinics, contractors and salons. It captures every inquiry into one shared inbox, texts back missed calls, and moves each lead through a pipeline so your team can see who needs a reply.",
+    "population": "~65,000",
+    "county": "Essex County",
+    "region": "Merrimack Valley",
+    "industries": [
+      "HVAC",
+      "Construction",
+      "Healthcare",
+      "Retail",
+      "Automotive"
+    ],
+    "businessTypes": [
+      "HVAC Companies",
+      "Clinics",
+      "Auto Dealers",
+      "Contractors",
+      "Salons"
+    ],
+    "localHook": "Haverhill is a city of about 65,000 with a wide mix of trades, healthcare and automotive businesses, which means a lot of inbound calls and web leads to keep track of.",
+    "nearby": [
+      "groveland",
+      "lawrence",
+      "methuen",
+      "amesbury",
+      "north-andover"
+    ],
+    "useCases": [
+      {
+        "h": "HVAC companies on no-heat days",
+        "p": "When the phones light up on the first cold night, every missed call gets a text back and lands in a pipeline your dispatcher can work through in order.",
+        "niche": "/niches/construction-companies"
+      },
+      {
+        "h": "Auto dealers following up on internet leads",
+        "p": "Web leads and texts go into one inbox with the customer's history, and automatic follow-up keeps each shopper engaged until they book a test drive.",
+        "niche": "/niches/car-dealerships"
+      },
+      {
+        "h": "Clinics reducing manual reminder calls",
+        "p": "Text and email reminders, online intake forms and two-way texting let staff confirm and reschedule patients without spending the morning on the phone.",
+        "niche": "/niches/dental-clinics"
+      }
+    ],
+    "faqs": [
+      [
+        "Can several people in my Haverhill office share one inbox?",
+        "Yes. The Growth Plan includes unlimited users, so dispatchers, front desk staff and technicians can all work from the same shared inbox and pipeline."
+      ],
+      [
+        "Can I see which ads or listings my calls come from?",
+        "Yes. Call tracking numbers let you see which source each call came from, and every call is logged on the contact record."
+      ],
+      [
+        "Can I keep my current number?",
+        "Yes. You can port your existing business number into CasperPortal, or use a local tracking number that forwards to your phone. Either way, missed-call text-back and two-way texting work on that number."
+      ],
+      [
+        "What does CasperPortal cost?",
+        "The Growth Plan is $297/month, month-to-month, with unlimited users and unlimited contacts. Haverhill businesses pay the same as everyone else, and every plan starts with a 14-day free trial."
+      ]
+    ],
+    "next": {
+      "feature": "/features/omnichannel-messaging",
+      "compare": "/compare/salesforce",
+      "guide": "/blog/stop-missing-calls"
+    }
+  },
+  "lawrence": {
+    "name": "Lawrence",
+    "kw": "CRM software Lawrence MA",
+    "title": "CRM Software for Lawrence, MA Businesses | CasperPortal",
+    "desc": "CRM software for Lawrence, MA clinics, contractors, restaurants, auto shops and salons. Text customers in English or Spanish from one inbox. Try it free.",
+    "h1": "CRM Software for Lawrence, MA Clinics, Trades and Restaurants",
+    "intro": "CasperPortal is CRM software for Lawrence, MA businesses such as clinics, contractors, restaurants, auto repair shops and salons. It keeps calls, texts, Facebook messages and web chats in one inbox, sends reminders and follow-ups automatically, and lets you write every message template in English, Spanish or both, so you can reach customers in their language.",
+    "population": "~80,000",
+    "county": "Essex County",
+    "region": "Merrimack Valley",
+    "industries": [
+      "Healthcare",
+      "Trades",
+      "Food Service",
+      "Retail",
+      "Manufacturing"
+    ],
+    "businessTypes": [
+      "Clinics",
+      "Contractors",
+      "Restaurants",
+      "Auto Services",
+      "Salons"
+    ],
+    "localHook": "Lawrence is a city of about 80,000 with many bilingual households, so businesses here often need to communicate clearly in both English and Spanish.",
+    "nearby": [
+      "haverhill",
+      "methuen",
+      "north-andover"
+    ],
+    "useCases": [
+      {
+        "h": "Clinics sending reminders in two languages",
+        "p": "Create appointment reminder templates in English and Spanish, tag each patient with their preferred language, and let workflows send the right version automatically.",
+        "niche": "/niches/dental-clinics"
+      },
+      {
+        "h": "Auto repair shops texting estimates and payment links",
+        "p": "Text the customer a repair estimate, get approval by reply, and send a text-to-pay link when the car is ready so pickup is quick.",
+        "niche": "/niches/automotive-parts-stores"
+      },
+      {
+        "h": "Restaurants answering catering and order questions",
+        "p": "Facebook, Instagram and website chat messages land in one inbox, so staff can answer catering and order questions without switching apps.",
+        "niche": "/niches/restaurants"
+      }
+    ],
+    "faqs": [
+      [
+        "Can I send texts and emails in Spanish?",
+        "Yes. You write your own message templates, so you can create them in Spanish, English or both and choose which version each contact receives."
+      ],
+      [
+        "Can customers pay me by text?",
+        "Yes. You can send a text-to-pay link or an invoice, and the customer pays from their phone."
+      ],
+      [
+        "Is done-for-you setup available?",
+        "Yes. You can set CasperPortal up yourself, or choose optional done-for-you setup from CasperB2B, which builds your pipelines, automations and booking for your Lawrence business."
+      ],
+      [
+        "How much does CasperPortal cost?",
+        "The Growth Plan is $297/month, month-to-month, with unlimited users and unlimited contacts. Lawrence businesses pay the same as everyone else, and every plan starts with a 14-day free trial."
+      ]
+    ],
+    "next": {
+      "feature": "/features/text-to-pay",
+      "compare": "/compare/activecampaign",
+      "guide": "/blog/multi-channel-marketing"
+    }
+  },
+  "methuen": {
+    "name": "Methuen",
+    "kw": "CRM software Methuen MA",
+    "title": "CRM Software for Methuen, MA Businesses | CasperPortal",
+    "desc": "CRM software for Methuen, MA HVAC companies, auto dealers, contractors, medical practices and salons. Automate tune-up and service reminders. Try it free.",
+    "h1": "CRM Software for Methuen, MA Service Businesses",
+    "intro": "CasperPortal is CRM software for Methuen, MA businesses that see heavy call volume, including HVAC companies, auto dealers, contractors, medical practices and salons. It handles intake for you: missed calls get a text back, new leads are logged automatically, and recurring service reminders go out on schedule so your team can focus on the work.",
+    "population": "~53,000",
+    "county": "Essex County",
+    "region": "Merrimack Valley",
+    "industries": [
+      "HVAC",
+      "Construction",
+      "Healthcare",
+      "Automotive",
+      "Retail"
+    ],
+    "businessTypes": [
+      "HVAC Companies",
+      "Auto Dealers",
+      "Contractors",
+      "Medical Practices",
+      "Salons"
+    ],
+    "localHook": "Methuen's dense suburban neighborhoods keep service businesses busy with calls. Automating intake and reminders frees your team to focus on the jobs themselves.",
+    "nearby": [
+      "haverhill",
+      "lawrence",
+      "north-andover"
+    ],
+    "useCases": [
+      {
+        "h": "HVAC companies filling the tune-up schedule",
+        "p": "Before heating and cooling seasons, send past customers a text inviting them to book a tune-up from your calendar link, and track maintenance plan members in your CRM.",
+        "niche": "/niches/construction-companies"
+      },
+      {
+        "h": "Dealership service departments sending reminders",
+        "p": "Automatic texts remind customers when service is due and link them to book, while service advisors reply to questions from a shared inbox.",
+        "niche": "/niches/car-dealerships"
+      },
+      {
+        "h": "Salons cutting down on no-shows",
+        "p": "Booking confirmations and text reminders go out automatically, and clients can reply to reschedule instead of simply not showing up.",
+        "niche": "/niches/beauty-salons"
+      }
+    ],
+    "faqs": [
+      [
+        "Can CasperPortal send recurring service reminders?",
+        "Yes. Workflows can send reminders based on dates you set, such as a seasonal tune-up or a service interval, with a link to book online."
+      ],
+      [
+        "Can my whole team use it?",
+        "Yes. The Growth Plan includes unlimited users, so office staff, technicians and managers can each have their own login."
+      ],
+      [
+        "Can I keep my business number?",
+        "Yes. You can port your existing business number into CasperPortal, or use a local tracking number that forwards to your phone. Either way, missed-call text-back and two-way texting work on that number."
+      ],
+      [
+        "What does it cost?",
+        "The Growth Plan is $297/month, month-to-month, with unlimited users and unlimited contacts. Methuen businesses pay the same as everyone else, and every plan starts with a 14-day free trial."
+      ]
+    ],
+    "next": {
+      "feature": "/features/workflow-automations",
+      "compare": "/compare/gohighlevel",
+      "guide": "/blog/setup-first-automation"
+    }
+  },
+  "newbury": {
+    "name": "Newbury",
+    "kw": "CRM software Newbury MA",
+    "title": "CRM Software for Newbury, MA Businesses | CasperPortal",
+    "desc": "CRM software for Newbury, MA marine contractors, landscapers, farm stands and home pros. Stay organized in the busy season and the slow one. Try it free.",
+    "h1": "CRM Software for Newbury, MA Marine, Farm and Home Service Businesses",
+    "intro": "CasperPortal is CRM software for Newbury, MA businesses that work outdoors, from marine contractors and landscapers to farm stands and home pros. During the busy months it catches every request and texts back missed calls; in the slow months it helps you re-book past customers with simple text and email campaigns.",
+    "population": "~7,000",
+    "county": "Essex County",
+    "region": "North Shore",
+    "industries": [
+      "Agriculture",
+      "Home Services",
+      "Marine",
+      "Equestrian"
+    ],
+    "businessTypes": [
+      "Farm Stands",
+      "Landscapers",
+      "Marine Contractors",
+      "Home Pros"
+    ],
+    "localHook": "Newbury mixes farmland and coastline, so many businesses here are flat out in the warm months and much quieter in winter. The right tools help in both seasons.",
+    "nearby": [
+      "newburyport",
+      "rowley",
+      "ipswich",
+      "georgetown"
+    ],
+    "useCases": [
+      {
+        "h": "Marine contractors booking spring work",
+        "p": "Dock, mooring and boat service requests go into a pipeline by type, and a winter text campaign lets past customers reserve spring work early.",
+        "niche": "/niches/construction-companies"
+      },
+      {
+        "h": "Farm stands promoting pick-your-own days",
+        "p": "Announce pick-your-own days or farm events by text and email, take sign-ups through a form, and send reminders the day before.",
+        "niche": "/niches/event-planners"
+      },
+      {
+        "h": "Riding instructors managing recurring lessons",
+        "p": "Students book from your calendar, receive reminders, and pay by text or through a membership so you're not chasing payments at the barn.",
+        "niche": "/niches/fitness-centers-gyms"
+      }
+    ],
+    "faqs": [
+      [
+        "Is CasperPortal worth it for a seasonal business?",
+        "The plan is month-to-month, and many seasonal businesses use the slow months to run re-booking campaigns to past customers so the busy season starts full."
+      ],
+      [
+        "Can I use it from my phone on the water or in the field?",
+        "Yes. The iOS and Android app lets you answer texts, see new leads and check your calendar wherever you are."
+      ],
+      [
+        "Do you offer setup help?",
+        "Yes. You can set CasperPortal up yourself, or choose optional done-for-you setup from CasperB2B, which builds your pipelines, automations and booking for your Newbury business."
+      ],
+      [
+        "How much does it cost?",
+        "The Growth Plan is $297/month, month-to-month, with unlimited users and unlimited contacts. Newbury businesses pay the same as everyone else, and every plan starts with a 14-day free trial."
+      ]
+    ],
+    "next": {
+      "feature": "/features/mobile-app",
+      "compare": "/compare/calendly",
+      "guide": "/blog/5-essential-automations"
+    }
+  },
+  "newburyport": {
+    "name": "Newburyport",
+    "kw": "CRM software Newburyport MA",
+    "title": "CRM Software for Newburyport, MA Businesses | CasperPortal",
+    "desc": "CRM software for Newburyport, MA boutiques, restaurants, marine services, real estate agents and salons. Give clients fast, personal replies. Try it free.",
+    "h1": "CRM Software for Newburyport, MA Boutiques, Dining and Real Estate",
+    "intro": "CasperPortal is CRM software for Newburyport, MA businesses whose clients expect fast, personal service, including boutiques, restaurants, marine services, real estate agents and salons. It keeps every text, email, chat and social message in one inbox, remembers each client's history, and automates follow-up so you stay personal without adding staff.",
+    "population": "~18,000",
+    "county": "Essex County",
+    "region": "North Shore",
+    "industries": [
+      "Tourism",
+      "Boutique Retail",
+      "Dining",
+      "Marine",
+      "Real Estate"
+    ],
+    "businessTypes": [
+      "Boutiques",
+      "Restaurants",
+      "Marine Services",
+      "Real Estate Agents",
+      "Salons"
+    ],
+    "localHook": "Newburyport's downtown and waterfront draw visitors and longtime residents alike, and both expect quick, personal service from the businesses they choose.",
+    "nearby": [
+      "newbury",
+      "amesbury",
+      "salisbury",
+      "rowley"
+    ],
+    "useCases": [
+      {
+        "h": "Boutiques texting VIP customers",
+        "p": "Tag your best customers and send them early word on new arrivals or events. Replies come back to your inbox so you can hold items or answer questions personally.",
+        "niche": "/niches/clothing-boutiques"
+      },
+      {
+        "h": "Real estate agents following up on open houses",
+        "p": "Open house sign-ins and website inquiries go straight into your pipeline, and an automatic text and email sequence keeps each buyer warm until they're ready.",
+        "niche": "/niches/real-estate-agents"
+      },
+      {
+        "h": "Restaurants handling private dining requests",
+        "p": "Track private dining and event inquiries in a pipeline, send menus and deposits by text, and request a review after the event.",
+        "niche": "/niches/restaurants"
+      }
+    ],
+    "faqs": [
+      [
+        "Can visitors message my Newburyport business from my website?",
+        "Yes. Website live chat sends visitor messages to your inbox, and you can keep the conversation going by text after they leave the site."
+      ],
+      [
+        "Can real estate agents use CasperPortal?",
+        "Yes. Agents use pipelines, automatic follow-up and two-way texting to keep track of buyers and sellers from first inquiry to closing."
+      ],
+      [
+        "Can I keep my existing number?",
+        "Yes. You can port your existing business number into CasperPortal, or use a local tracking number that forwards to your phone. Either way, missed-call text-back and two-way texting work on that number."
+      ],
+      [
+        "What does CasperPortal cost?",
+        "The Growth Plan is $297/month, month-to-month, with unlimited users and unlimited contacts. Newburyport businesses pay the same as everyone else, and every plan starts with a 14-day free trial."
+      ]
+    ],
+    "next": {
+      "feature": "/features/website-live-chat",
+      "compare": "/compare/hubspot",
+      "guide": "/blog/why-unified-crm"
+    }
+  },
+  "north-andover": {
+    "name": "North Andover",
+    "kw": "CRM software North Andover MA",
+    "title": "CRM Software for North Andover, MA Firms | CasperPortal",
+    "desc": "CRM software for North Andover, MA consultants, law firms, clinics, HVAC companies and salons. Book consultations and send proposals. Try it free.",
+    "h1": "CRM Software for North Andover, MA Professional Services",
+    "intro": "CasperPortal is CRM software for North Andover, MA professional and service businesses, including consultants, law firms, clinics, HVAC companies and salons. Prospects book consultations online, intake forms feed straight into your CRM, and proposals and follow-ups go out automatically, so every client gets a prompt, polished reply.",
+    "population": "~30,000",
+    "county": "Essex County",
+    "region": "Merrimack Valley",
+    "industries": [
+      "Professional Services",
+      "Healthcare",
+      "Tech",
+      "Retail",
+      "HVAC"
+    ],
+    "businessTypes": [
+      "Consultants",
+      "Clinics",
+      "HVAC Companies",
+      "Law Firms",
+      "Salons"
+    ],
+    "localHook": "North Andover has a strong base of professional services, and clients here tend to expect prompt, polished communication from the first inquiry.",
+    "nearby": [
+      "lawrence",
+      "haverhill",
+      "boxford"
+    ],
+    "useCases": [
+      {
+        "h": "Law firms booking consultations",
+        "p": "Prospective clients fill out an intake form and book a consultation from your calendar. The details land on their contact record before the call starts.",
+        "niche": "/niches/legal-firms"
+      },
+      {
+        "h": "Consultants moving deals from proposal to signed",
+        "p": "Track each prospect in a sales pipeline, send proposals from the CRM, and let follow-up reminders make sure no open proposal is forgotten.",
+        "niche": "/niches/consulting-firms"
+      },
+      {
+        "h": "IT and tech firms keeping clients informed",
+        "p": "Use pipelines for new projects, a shared inbox for client questions, and surveys after each project to see how you did.",
+        "niche": "/niches/it-services"
+      }
+    ],
+    "faqs": [
+      [
+        "Can clients book consultations online?",
+        "Yes. Clients pick a time from your booking calendar, receive email and text reminders, and can complete an intake form before the meeting."
+      ],
+      [
+        "Can I send proposals from CasperPortal?",
+        "Yes. You can create and send proposals and estimates, then follow up automatically if a client hasn't responded."
+      ],
+      [
+        "Is done-for-you setup available?",
+        "Yes. You can set CasperPortal up yourself, or choose optional done-for-you setup from CasperB2B, which builds your pipelines, automations and booking for your North Andover business."
+      ],
+      [
+        "What does it cost?",
+        "The Growth Plan is $297/month, month-to-month, with unlimited users and unlimited contacts. North Andover businesses pay the same as everyone else, and every plan starts with a 14-day free trial."
+      ]
+    ],
+    "next": {
+      "feature": "/features/appointment-booking",
+      "compare": "/compare/salesforce",
+      "guide": "/blog/ultimate-b2b-follow-ups"
+    }
+  },
+  "topsfield": {
+    "name": "Topsfield",
+    "kw": "CRM software Topsfield MA",
+    "title": "CRM Software for Topsfield, MA Businesses | CasperPortal",
+    "desc": "CRM software for Topsfield, MA landscapers, horse farms, home service pros and boutiques. Keep your pipeline moving through every season. Try it free.",
+    "h1": "CRM Software for Topsfield, MA Farms, Home Services and Boutiques",
+    "intro": "CasperPortal is CRM software for Topsfield, MA businesses that run on seasonal cycles, including landscapers, horse farms, home service pros and boutiques. It keeps estimates moving through a pipeline, handles event and clinic sign-ups, and texts customers when it's time to book again, so work keeps coming in between busy stretches.",
+    "population": "~6,000",
+    "county": "Essex County",
+    "region": "North Shore",
+    "industries": [
+      "Agriculture",
+      "Home Services",
+      "Equestrian",
+      "Retail"
+    ],
+    "businessTypes": [
+      "Landscapers",
+      "Horse Farms",
+      "Home Service Pros",
+      "Boutiques"
+    ],
+    "localHook": "Topsfield's farms, equestrian community and fall fair season mean many local businesses work in seasonal cycles. Steady follow-up keeps the pipeline moving between them.",
+    "nearby": [
+      "boxford",
+      "ipswich",
+      "danvers",
+      "georgetown"
+    ],
+    "useCases": [
+      {
+        "h": "Horse farms running clinics and shows",
+        "p": "Take registrations for clinics or shows through a form, collect payment by text, and send reminders and schedule changes to every rider at once.",
+        "niche": "/niches/event-planners"
+      },
+      {
+        "h": "Landscapers following up on estimates",
+        "p": "Every estimate becomes a pipeline card with an automatic follow-up, so jobs you quoted in spring don't get forgotten once the season gets busy.",
+        "niche": "/niches/construction-companies"
+      },
+      {
+        "h": "Boutiques making the most of fair season",
+        "p": "Collect contacts from visitors during busy fall weekends and stay in touch afterward with occasional texts and emails about new arrivals.",
+        "niche": "/niches/clothing-boutiques"
+      }
+    ],
+    "faqs": [
+      [
+        "Can I take event or clinic registrations?",
+        "Yes. Build a registration form, collect payment, and send automatic confirmations and reminders to everyone who signed up."
+      ],
+      [
+        "How do I keep business coming in during the off-season?",
+        "Use text and email campaigns to past customers, such as early booking offers for spring work, and track replies in your pipeline."
+      ],
+      [
+        "Can I keep my current number?",
+        "Yes. You can port your existing business number into CasperPortal, or use a local tracking number that forwards to your phone. Either way, missed-call text-back and two-way texting work on that number."
+      ],
+      [
+        "How much does it cost?",
+        "The Growth Plan is $297/month, month-to-month, with unlimited users and unlimited contacts. Topsfield businesses pay the same as everyone else, and every plan starts with a 14-day free trial."
+      ]
+    ],
+    "next": {
+      "feature": "/features/lead-capture-forms",
+      "compare": "/compare/calendly",
+      "guide": "/marketing-automation-for-small-business"
+    }
+  },
+  "amesbury": {
+    "name": "Amesbury",
+    "kw": "CRM software Amesbury MA",
+    "title": "CRM Software for Amesbury, MA Businesses | CasperPortal",
+    "desc": "CRM software for Amesbury, MA contractors, plumbers, auto services, clinics and shops. Reply to new job requests first and get paid by text. Try it free.",
+    "h1": "CRM Software for Amesbury, MA Trades and Auto Services",
+    "intro": "CasperPortal is CRM software for Amesbury, MA trade businesses, auto services, clinics and shops that depend on responding to new job requests quickly. Missed calls get a text back, web requests land in your pipeline, and customers can pay by text when the work is done, all from one app.",
+    "population": "~17,500",
+    "county": "Essex County",
+    "region": "North Shore",
+    "industries": [
+      "Manufacturing",
+      "Trades",
+      "Healthcare",
+      "Retail"
+    ],
+    "businessTypes": [
+      "Contractors",
+      "Clinics",
+      "Shops",
+      "Auto Services",
+      "Plumbers"
+    ],
+    "localHook": "Amesbury grew up as a manufacturing town, and trades still make up much of its business community. For a trade business, responding quickly to a new job request is often what wins it.",
+    "nearby": [
+      "newburyport",
+      "salisbury",
+      "haverhill"
+    ],
+    "useCases": [
+      {
+        "h": "Plumbers and contractors replying first",
+        "p": "When a new job request comes in by call, text or web form, CasperPortal replies right away and adds it to your pipeline so you can schedule the estimate.",
+        "niche": "/niches/construction-companies"
+      },
+      {
+        "h": "Auto services sending updates by text",
+        "p": "Text customers when the car is ready, answer questions from a shared inbox, and send a payment link so pickup takes a minute.",
+        "niche": "/niches/automotive-parts-stores"
+      },
+      {
+        "h": "Clinics collecting forms before visits",
+        "p": "Send intake forms and reminders automatically when a patient books, so the front desk spends less time on paperwork at check-in.",
+        "niche": "/niches/dental-clinics"
+      }
+    ],
+    "faqs": [
+      [
+        "Can CasperPortal reply to job requests when I'm busy?",
+        "Yes. Missed calls get an automatic text back, and web form submissions can trigger an immediate text and email reply while the request is added to your pipeline."
+      ],
+      [
+        "Can customers pay by text?",
+        "Yes. You can send a text-to-pay link or an invoice when the job is finished."
+      ],
+      [
+        "Do you offer setup help?",
+        "Yes. You can set CasperPortal up yourself, or choose optional done-for-you setup from CasperB2B, which builds your pipelines, automations and booking for your Amesbury business."
+      ],
+      [
+        "What does it cost?",
+        "The Growth Plan is $297/month, month-to-month, with unlimited users and unlimited contacts. Amesbury businesses pay the same as everyone else, and every plan starts with a 14-day free trial."
+      ]
+    ],
+    "next": {
+      "feature": "/features/missed-call-text-back",
+      "compare": "/compare/gohighlevel",
+      "guide": "/blog/stop-missing-calls"
+    }
+  },
+  "salisbury": {
+    "name": "Salisbury",
+    "kw": "CRM software Salisbury MA",
+    "title": "CRM Software for Salisbury, MA Businesses | CasperPortal",
+    "desc": "CRM software for Salisbury, MA hotels, restaurants, marinas, shops and tour operators. Capture every summer inquiry, day or night. Try it free.",
+    "h1": "CRM Software for Salisbury, MA Hospitality and Tourism Businesses",
+    "intro": "CasperPortal is CRM software for Salisbury, MA hotels, restaurants, marina services, shops and tour operators that get a rush of inquiries in beach season. Website chat, missed-call text-back and automatic replies capture questions day or night, and your guest list stays in one CRM so you can invite people back next summer.",
+    "population": "~9,100",
+    "county": "Essex County",
+    "region": "North Shore",
+    "industries": [
+      "Tourism",
+      "Hospitality",
+      "Marine",
+      "Retail",
+      "Food Service"
+    ],
+    "businessTypes": [
+      "Hotels",
+      "Restaurants",
+      "Marina Services",
+      "Shops",
+      "Tour Operators"
+    ],
+    "localHook": "Salisbury Beach brings a busy summer season, and many inquiries arrive in the evening or on weekends. Capturing them as they come in matters when the season is short.",
+    "nearby": [
+      "amesbury",
+      "newburyport"
+    ],
+    "useCases": [
+      {
+        "h": "Hotels and motels answering direct booking questions",
+        "p": "Website chat and texts from guests come into one inbox, so staff can answer questions about rooms and dates quickly and log each guest for next season.",
+        "niche": "/niches/hotels"
+      },
+      {
+        "h": "Tour and charter operators managing bookings",
+        "p": "Guests book a trip online, get text reminders, and receive a quick text if weather forces a schedule change.",
+        "niche": "/niches/travel-agencies"
+      },
+      {
+        "h": "Beach restaurants and shops collecting reviews",
+        "p": "After a visit, send an automatic review request so summer guests leave a Google review while the trip is fresh.",
+        "niche": "/niches/restaurants"
+      }
+    ],
+    "faqs": [
+      [
+        "Can CasperPortal answer inquiries after hours?",
+        "Yes. Missed calls get an automatic text back and website chat messages are captured with the visitor's contact details, so you can reply the moment you're free."
+      ],
+      [
+        "What do I do with my guest list in the off-season?",
+        "Your guests stay in the CRM, so you can send an early-season email or text in spring inviting them back."
+      ],
+      [
+        "Can I keep my existing phone number?",
+        "Yes. You can port your existing business number into CasperPortal, or use a local tracking number that forwards to your phone. Either way, missed-call text-back and two-way texting work on that number."
+      ],
+      [
+        "How much does it cost?",
+        "The Growth Plan is $297/month, month-to-month, with unlimited users and unlimited contacts. Salisbury businesses pay the same as everyone else, and every plan starts with a 14-day free trial."
+      ]
+    ],
+    "next": {
+      "feature": "/features/website-live-chat",
+      "compare": "/compare/calendly",
+      "guide": "/blog/reputation-management-guide"
+    }
+  },
+  "ipswich": {
+    "name": "Ipswich",
+    "kw": "CRM software Ipswich MA",
+    "title": "CRM Software for Ipswich, MA Businesses | CasperPortal",
+    "desc": "CRM software for Ipswich, MA restaurants, marine services, contractors, clinics and tour operators. Handle peak season and year-round work. Try it free.",
+    "h1": "CRM Software for Ipswich, MA Restaurants, Tours and Trades",
+    "intro": "CasperPortal is CRM software for Ipswich, MA businesses that serve both summer visitors and year-round residents, including farm-to-table restaurants, marine services, contractors, clinics and tour operators. It books reservations and tours online, follows up automatically, and keeps every customer message in one inbox through the peak season and beyond.",
+    "population": "~13,500",
+    "county": "Essex County",
+    "region": "North Shore",
+    "industries": [
+      "Agriculture",
+      "Tourism",
+      "Marine",
+      "Healthcare",
+      "Trades"
+    ],
+    "businessTypes": [
+      "Farm-to-Table Restaurants",
+      "Marine Services",
+      "Contractors",
+      "Clinics",
+      "Tour Operators"
+    ],
+    "localHook": "Ipswich's farms, beaches and historic downtown attract visitors and locals alike, so businesses here need systems that handle peak-season volume and steady year-round work.",
+    "nearby": [
+      "rowley",
+      "topsfield"
+    ],
+    "useCases": [
+      {
+        "h": "Farm-to-table restaurants filling special dinners",
+        "p": "Announce seasonal menus or farm dinners by email and text, take reservations or deposits online, and remind guests the day before.",
+        "niche": "/niches/restaurants"
+      },
+      {
+        "h": "Kayak and boat tour operators",
+        "p": "Customers book tours from your calendar, get reminders with what to bring, and receive a review request after the trip.",
+        "niche": "/niches/travel-agencies"
+      },
+      {
+        "h": "Contractors working on older homes",
+        "p": "Renovation leads often take time to decide. A pipeline and automatic check-ins keep each project inquiry moving from site visit to signed estimate.",
+        "niche": "/niches/construction-companies"
+      }
+    ],
+    "faqs": [
+      [
+        "Can customers book tours or reservations online?",
+        "Yes. You can set up booking calendars for tours, classes or reservations, with automatic text and email reminders."
+      ],
+      [
+        "Can I follow up on long renovation leads?",
+        "Yes. Each lead sits in your pipeline, and you can schedule automatic check-ins so slow-moving projects don't get lost."
+      ],
+      [
+        "Is done-for-you setup available?",
+        "Yes. You can set CasperPortal up yourself, or choose optional done-for-you setup from CasperB2B, which builds your pipelines, automations and booking for your Ipswich business."
+      ],
+      [
+        "What does it cost?",
+        "The Growth Plan is $297/month, month-to-month, with unlimited users and unlimited contacts. Ipswich businesses pay the same as everyone else, and every plan starts with a 14-day free trial."
+      ]
+    ],
+    "next": {
+      "feature": "/features/appointment-booking",
+      "compare": "/compare/activecampaign",
+      "guide": "/blog/mastering-local-seo"
+    }
+  },
+  "danvers": {
+    "name": "Danvers",
+    "kw": "CRM software Danvers MA",
+    "title": "CRM Software for Danvers, MA Businesses | CasperPortal",
+    "desc": "CRM software for Danvers, MA medical practices, auto dealers, HVAC companies, law firms and salons. Follow up faster than the competition. Try it free.",
+    "h1": "CRM Software for Danvers, MA Healthcare, Auto and Service Businesses",
+    "intro": "CasperPortal is CRM software for Danvers, MA medical practices, auto dealers, HVAC companies, law firms and salons competing for customers along Route 1 and Route 128. It routes every new lead to the right person, follows up automatically by text and email, and tracks each opportunity so you know who still needs a reply.",
+    "population": "~28,000",
+    "county": "Essex County",
+    "region": "North Shore",
+    "industries": [
+      "Retail",
+      "Healthcare",
+      "Tech",
+      "HVAC",
+      "Automotive"
+    ],
+    "businessTypes": [
+      "Medical Practices",
+      "Auto Dealers",
+      "HVAC Companies",
+      "Law Firms",
+      "Salons"
+    ],
+    "localHook": "Danvers sits where Route 1 meets Route 128, with a dense mix of retail, healthcare and automotive businesses. With competitors close by, the business that follows up first often wins.",
+    "nearby": [
+      "salem",
+      "beverly",
+      "topsfield"
+    ],
+    "useCases": [
+      {
+        "h": "Auto dealers assigning leads to salespeople",
+        "p": "Workflows assign each new web or text lead to a salesperson, notify them, and start automatic follow-up so no shopper waits for a reply.",
+        "niche": "/niches/car-dealerships"
+      },
+      {
+        "h": "Medical practices filling cancellations",
+        "p": "When an appointment opens up, text patients on your waitlist and let them book the slot from a link.",
+        "niche": "/niches/dental-clinics"
+      },
+      {
+        "h": "Law firms tracking intake",
+        "p": "Track each potential client from first call to consultation to retained in a pipeline, with reminders for every follow-up step.",
+        "niche": "/niches/legal-firms"
+      }
+    ],
+    "faqs": [
+      [
+        "Can CasperPortal assign leads to different staff?",
+        "Yes. Workflows can assign new leads to a specific team member and notify them, and the Growth Plan includes unlimited users."
+      ],
+      [
+        "Can I track which marketing brings in calls?",
+        "Yes. Call tracking numbers show which source each call came from, and reporting shows leads by source."
+      ],
+      [
+        "Can I keep my business number?",
+        "Yes. You can port your existing business number into CasperPortal, or use a local tracking number that forwards to your phone. Either way, missed-call text-back and two-way texting work on that number."
+      ],
+      [
+        "What does it cost?",
+        "The Growth Plan is $297/month, month-to-month, with unlimited users and unlimited contacts. Danvers businesses pay the same as everyone else, and every plan starts with a 14-day free trial."
+      ]
+    ],
+    "next": {
+      "feature": "/features/sales-pipelines",
+      "compare": "/compare/hubspot",
+      "guide": "/blog/economics-of-crm-roi"
+    }
+  },
+  "beverly": {
+    "name": "Beverly",
+    "kw": "CRM software Beverly MA",
+    "title": "CRM Software for Beverly, MA Businesses | CasperPortal",
+    "desc": "CRM software for Beverly, MA medical practices, tech firms, marinas, restaurants and contractors. Automate follow-up and stand out locally. Try it free.",
+    "h1": "CRM Software for Beverly, MA Healthcare, Tech and Hospitality",
+    "intro": "CasperPortal is CRM software for Beverly, MA medical practices, tech firms, marina services, restaurants and contractors. It brings calls, texts, email and social messages into one inbox, automates reminders and follow-ups, and tracks every opportunity in a pipeline, so your team spends less time chasing replies and more time serving clients.",
+    "population": "~43,000",
+    "county": "Essex County",
+    "region": "North Shore",
+    "industries": [
+      "Healthcare",
+      "Tech",
+      "Marine",
+      "Retail",
+      "Hospitality"
+    ],
+    "businessTypes": [
+      "Medical Practices",
+      "Tech Startups",
+      "Marina Services",
+      "Restaurants",
+      "Contractors"
+    ],
+    "localHook": "Beverly's growing healthcare and tech sectors sit alongside a working harbor and a busy downtown, which means plenty of service businesses competing for the same clients.",
+    "nearby": [
+      "salem",
+      "danvers"
+    ],
+    "useCases": [
+      {
+        "h": "Tech and IT firms managing B2B pipelines",
+        "p": "Track prospects from first call to signed proposal, send proposals from the CRM, and use surveys after each project to gather feedback.",
+        "niche": "/niches/it-services"
+      },
+      {
+        "h": "Medical practices keeping patients on schedule",
+        "p": "Recall reminders by text and email bring patients back for follow-up visits, and two-way texting lets them confirm or reschedule.",
+        "niche": "/niches/dental-clinics"
+      },
+      {
+        "h": "Inns and event venues answering inquiries",
+        "p": "Website chat and form inquiries about rooms or events land in one inbox, with a pipeline that tracks each request through to a booked date.",
+        "niche": "/niches/hotels"
+      }
+    ],
+    "faqs": [
+      [
+        "Can a B2B tech firm in Beverly use CasperPortal?",
+        "Yes. Pipelines, proposals, email sequences and a shared inbox work for B2B sales as well as local service work."
+      ],
+      [
+        "Can patients confirm appointments by text?",
+        "Yes. Reminders go out by text and email, and patients can reply to confirm or reschedule from the same thread."
+      ],
+      [
+        "Do you offer setup help?",
+        "Yes. You can set CasperPortal up yourself, or choose optional done-for-you setup from CasperB2B, which builds your pipelines, automations and booking for your Beverly business."
+      ],
+      [
+        "How much does it cost?",
+        "The Growth Plan is $297/month, month-to-month, with unlimited users and unlimited contacts. Beverly businesses pay the same as everyone else, and every plan starts with a 14-day free trial."
+      ]
+    ],
+    "next": {
+      "feature": "/features/customer-surveys",
+      "compare": "/compare/salesforce",
+      "guide": "/blog/ai-automation-support"
+    }
+  },
+  "salem": {
+    "name": "Salem",
+    "kw": "CRM software Salem MA",
+    "title": "CRM Software for Salem, MA Businesses | CasperPortal",
+    "desc": "CRM software for Salem, MA tour operators, restaurants, law firms, boutiques and medical practices. Capture every inquiry, October and beyond. Try free.",
+    "h1": "CRM Software for Salem, MA Tourism, Legal and Retail Businesses",
+    "intro": "CasperPortal is CRM software for Salem, MA businesses such as tour operators, restaurants, law firms, boutiques and medical practices. It puts calls, texts, web chats and social messages in one inbox, books appointments and tours online, and follows up automatically, whether it's the October rush or a quiet week in February.",
+    "population": "~44,000",
+    "county": "Essex County",
+    "region": "North Shore",
+    "industries": [
+      "Tourism",
+      "Healthcare",
+      "Legal",
+      "Retail",
+      "Hospitality"
+    ],
+    "businessTypes": [
+      "Tour Operators",
+      "Restaurants",
+      "Law Firms",
+      "Boutiques",
+      "Medical Practices"
+    ],
+    "localHook": "Salem's visitor season is busiest in October but stays active much of the year, so inquiries can arrive at any hour. Businesses here benefit from capturing each one as it comes in.",
+    "nearby": [
+      "beverly",
+      "danvers"
+    ],
+    "useCases": [
+      {
+        "h": "Tour operators handling October demand",
+        "p": "Guests book tours online, receive reminders with meeting-point details, and get a review request after the tour, even during the busiest weeks.",
+        "niche": "/niches/travel-agencies"
+      },
+      {
+        "h": "Law firms responding to new inquiries",
+        "p": "Intake forms and missed calls become contacts in your pipeline right away, and prospects can book a consultation from a text link.",
+        "niche": "/niches/legal-firms"
+      },
+      {
+        "h": "Gift shops and jewelers staying in touch with visitors",
+        "p": "Collect contact details from visitors and send occasional updates or holiday offers by text and email after they head home.",
+        "niche": "/niches/jewelry-stores"
+      }
+    ],
+    "faqs": [
+      [
+        "How can a Salem business handle the October rush?",
+        "Online booking, automatic reminders and missed-call text-back keep inquiries from slipping through, and the shared inbox lets your whole team answer messages."
+      ],
+      [
+        "Can I keep my existing phone number?",
+        "Yes. You can port your existing business number into CasperPortal, or use a local tracking number that forwards to your phone. Either way, missed-call text-back and two-way texting work on that number."
+      ],
+      [
+        "Do you offer setup services for Salem businesses?",
+        "Yes. You can set CasperPortal up yourself, or choose optional done-for-you setup from CasperB2B, which builds your pipelines, automations and booking for your Salem business."
+      ],
+      [
+        "What does CasperPortal cost?",
+        "The Growth Plan is $297/month, month-to-month, with unlimited users and unlimited contacts. Salem businesses pay the same as everyone else, and every plan starts with a 14-day free trial."
+      ]
+    ],
+    "next": {
+      "feature": "/features/reputation-management",
+      "compare": "/compare/gohighlevel",
+      "guide": "/blog/mastering-local-seo"
+    }
+  }
+}

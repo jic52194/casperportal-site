@@ -1,0 +1,386 @@
+[
+ {
+  "title": "Real Estate Development Companies",
+  "slug": "real-estate-development",
+  "description": "Frequently in need of comprehensive marketing and design services for property and development promotion.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/276b2f53-4089-4eb9-bfdf-9da7c01c5f4f.png",
+  "faqs": [
+   {
+    "question": "How can real estate developers use CRM automation?",
+    "answer": "Developers use CasperPortal to automate lead nurturing for new property developments. By setting up automated email and SMS drip campaigns, they can keep potential buyers engaged from the initial inquiry all the way through construction updates and final sales phases."
+   },
+   {
+    "question": "Does CasperPortal integrate with real estate lead forms?",
+    "answer": "Yes. CasperPortal can capture leads directly from Facebook Ads, Zillow, Realtor.com, and custom landing pages, instantly dropping them into a unified pipeline for the sales team to follow up."
+   }
+  ]
+ },
+ {
+  "title": "Restaurants",
+  "slug": "restaurants",
+  "description": "Highly competitive, they need creative marketing and design for branding and promotions.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/06aedf77-71c6-4560-89e4-f33bac5747e4.png",
+  "faqs": [
+   {
+    "question": "How does missed call text-back help restaurants?",
+    "answer": "During a busy dinner rush, hosts often miss phone calls for reservations or takeout orders. Missed call text-back instantly texts the customer a link to your online reservation system or digital menu, saving the sale."
+   },
+   {
+    "question": "Can restaurants use CasperPortal for loyalty programs?",
+    "answer": "Absolutely. You can build automated text message campaigns to send birthday offers, slow-day promotions, and review requests to your existing customer database."
+   }
+  ]
+ },
+ {
+  "title": "Hotels",
+  "slug": "hotels",
+  "description": "To attract tourists and business travelers, effective marketing and appealing visual designs are crucial.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/06aedf77-71c6-4560-89e4-f33bac5747e4.png",
+  "faqs": [
+   {
+    "question": "How can hotels use CasperPortal for guest communication?",
+    "answer": "Hotels use our unified inbox to manage inquiries from Google, Facebook, and their website in one place. Automated SMS check-ins and review requests after checkout help improve guest satisfaction and online rankings."
+   },
+   {
+    "question": "Can we automate booking confirmations?",
+    "answer": "Yes. CasperPortal can trigger automated SMS and email confirmations the moment a guest books, followed by helpful 'pre-arrival' tips to enhance their stay."
+   }
+  ]
+ },
+ {
+  "title": "Clothing Boutiques",
+  "slug": "clothing-boutiques",
+  "description": "Rely on branding and visual appeal, making graphic design and marketing strategies important.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/23ed27a7-d225-4022-b187-44d177d4011b.png",
+  "faqs": [
+   {
+    "question": "How do boutiques use SMS marketing?",
+    "answer": "Boutiques use SMS to announce new arrivals, flash sales, and exclusive VIP events. With a 98% open rate, it's the most effective way to drive foot traffic on slow days."
+   },
+   {
+    "question": "Can I track customer preferences in the CRM?",
+    "answer": "Absolutely. Use custom fields to track sizes, style preferences, and purchase history, allowing you to send highly personalized offers that convert at a higher rate."
+   }
+  ]
+ },
+ {
+  "title": "IT Services Companies",
+  "slug": "it-services",
+  "description": "Need marketing to differentiate their services in a crowded tech market.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/96b5ad47-fc3a-46cb-8baf-9916e4538375.png",
+  "faqs": [
+   {
+    "question": "How can IT companies manage service tickets in CasperPortal?",
+    "answer": "IT firms use our pipelines to manage the entire lifecycle of a service request, from initial inquiry to troubleshooting and final resolution, ensuring nothing gets lost in a busy inbox."
+   },
+   {
+    "question": "Can we automate follow-ups for expired contracts?",
+    "answer": "Yes. You can set up workflows that trigger automated reminders to both your team and the client when a service contract or domain registration is nearing expiration."
+   }
+  ]
+ },
+ {
+  "title": "Fitness Centers/Gyms",
+  "slug": "fitness-centers-gyms",
+  "description": "Competitive field that often uses visually-driven marketing strategies.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/174d162d-3fc9-455b-8b78-fa1ecda2d6a8.png",
+  "faqs": [
+   {
+    "question": "How do gyms automate membership inquiries?",
+    "answer": "When someone fills out a 'Free Trial' form on your site, CasperPortal can instantly text them to book their first visit, then nurture them with a series of emails about your classes and community."
+   },
+   {
+    "question": "Can we manage class schedules through CasperPortal?",
+    "answer": "Yes. Our integrated calendar allows members to book personal training sessions or group classes directly from your website or a link in a text message."
+   }
+  ]
+ },
+ {
+  "title": "Legal Firms",
+  "slug": "legal-firms",
+  "description": "Increasingly rely on marketing for client outreach and firm differentiation.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/8150be89-4c1e-4200-b61d-e0889e0d45f0.png",
+  "faqs": [
+   {
+    "question": "Is CasperPortal secure for legal client data?",
+    "answer": "Yes. We use enterprise-grade encryption and secure infrastructure to ensure that all client communications and records are protected and handled according to industry standards."
+   },
+   {
+    "question": "How do law firms use automated intake?",
+    "answer": "Firms use CasperPortal forms to collect initial case details. Based on the answers, the system can automatically tag the lead by practice area and assign it to the correct attorney for follow-up."
+   }
+  ]
+ },
+ {
+  "title": "Insurance Agencies",
+  "slug": "insurance-agencies",
+  "description": "Competitive industry where marketing plays a key role in client acquisition.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/8b8eca1d-9f3e-4849-b1aa-221cbdaf7558.png",
+  "faqs": [
+   {
+    "question": "Can insurance agents automate policy renewal reminders?",
+    "answer": "Absolutely. You can set up triggers based on the policy expiration date to automatically send a series of helpful reminders and 'check-in' messages to ensure high retention rates."
+   },
+   {
+    "question": "How does CasperPortal help with lead generation for agents?",
+    "answer": "By centralizing leads from your website, Facebook, and Google Business Profile, agents can respond faster than competitors and use automated sequences to nurture leads who aren't ready to sign yet."
+   }
+  ]
+ },
+ {
+  "title": "Consulting Firms",
+  "slug": "consulting-firms",
+  "description": "Requires strong branding and marketing to establish expertise and reputation.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/6de9aae5-14c8-445b-8c36-7751f6c1c905.png",
+  "faqs": [
+   {
+    "question": "How do consultants use CasperPortal for thought leadership?",
+    "answer": "Consultants use our blog and email marketing tools to distribute whitepapers, case studies, and insights, keeping them top-of-mind with their professional network."
+   },
+   {
+    "question": "Can I manage complex sales cycles in the CRM?",
+    "answer": "Yes. Our multi-stage pipelines are perfect for tracking long-term consulting engagements, from initial discovery calls to proposal delivery and final contract signing."
+   }
+  ]
+ },
+ {
+  "title": "Automotive Parts Stores",
+  "slug": "automotive-parts-stores",
+  "description": "Benefit from marketing campaigns to boost brand visibility and customer reach.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/61cd4ec2-bb4f-41d8-bb6d-493db1ce8fd4.png",
+  "faqs": [
+   {
+    "question": "How do auto parts stores use SMS for orders?",
+    "answer": "Stores use SMS to notify customers when a special-order part has arrived or to send 'order ready for pickup' alerts, improving customer experience and reducing shelf time for parts."
+   },
+   {
+    "question": "Can we run seasonal promotions via email?",
+    "answer": "Yes. CasperPortal makes it easy to segment your list by vehicle type or past purchases to send relevant seasonal offers for tires, batteries, or winterization kits."
+   }
+  ]
+ },
+ {
+  "title": "Car Dealerships",
+  "slug": "car-dealerships",
+  "description": "Heavily reliant on marketing for sales promotions and dealership branding.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/9ed07e15-a416-4a1d-8e0e-3b36abab03ba.png",
+  "faqs": [
+   {
+    "question": "How does missed call text-back help dealerships?",
+    "answer": "In a busy sales environment, missing a call can mean losing a vehicle sale. Missed call text-back ensures that every potential buyer gets an immediate response and can start a conversation by text."
+   },
+   {
+    "question": "Can we track trade-in inquiries in the CRM?",
+    "answer": "Yes. You can create a dedicated 'Trade-In' pipeline to track every inquiry from initial valuation to physical inspection and final offer, ensuring no lead is forgotten."
+   }
+  ]
+ },
+ {
+  "title": "Beauty Salons",
+  "slug": "beauty-salons",
+  "description": "Use graphic design for branding and marketing for local outreach.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/0df13cbf-9012-42a5-af3e-93d4d86b64b7.png",
+  "faqs": [
+   {
+    "question": "How do salons reduce no-shows?",
+    "answer": "Salons use CasperPortal to send automated SMS reminders 24 hours and 2 hours before an appointment. You can also require a credit card on file or a deposit to secure the booking."
+   },
+   {
+    "question": "Can we automate review requests after a hair or skin service?",
+    "answer": "Yes. The system can trigger a review request text 24 hours after an appointment is marked as completed, helping your salon rank higher on Google Maps."
+   }
+  ]
+ },
+ {
+  "title": "Travel Agencies",
+  "slug": "travel-agencies",
+  "description": "Depend on attractive marketing materials to showcase destinations and packages.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/262b333c-57ec-4c07-976a-92fe19ac9e33.png",
+  "faqs": [
+   {
+    "question": "How do travel agents manage inquiries for different destinations?",
+    "answer": "Agents use tags and custom fields to track client interests (e.g., 'Europe', 'Cruises', 'Luxury'). This allows for highly targeted email marketing that matches the right destination to the right client."
+   },
+   {
+    "question": "Can we automate itinerary reminders?",
+    "answer": "Yes. You can set up workflows to send automated 'pre-trip' emails with packing lists, travel tips, and flight reminders, providing a premium experience for your clients."
+   }
+  ]
+ },
+ {
+  "title": "Dental Clinics",
+  "slug": "dental-clinics",
+  "description": "Use marketing to attract and retain patients in a competitive healthcare market.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/8e295edd-6a86-4f30-b4bc-3b70d00f5f0c.png",
+  "faqs": [
+   {
+    "question": "How can dental clinics automate appointment reminders?",
+    "answer": "CasperPortal integrates with your booking calendar to automatically send SMS and email reminders 24 hours and 1 hour before an appointment, drastically reducing no-show rates."
+   },
+   {
+    "question": "Is CasperPortal suitable for generating dental patient reviews?",
+    "answer": "Yes. Once a patient's appointment is completed, the system can automatically text them a link to leave a Google review, helping the clinic rank higher in local search results."
+   }
+  ]
+ },
+ {
+  "title": "Construction Companies",
+  "slug": "construction-companies",
+  "description": "Need marketing to promote their projects and build brand recognition.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/373efd41-2b58-4cf2-a7f1-6ca7ca1a21b7.png",
+  "faqs": [
+   {
+    "question": "How does a CRM help construction companies?",
+    "answer": "Construction companies use CasperPortal to track bids, manage project pipelines, and ensure follow-up with subcontractors and clients. You can see exactly which stage every quote is in."
+   },
+   {
+    "question": "Can contractors use missed call text-back?",
+    "answer": "Yes, this is one of the most popular features for contractors. If you're on a job site or running a loud saw and miss a call, the system instantly texts the lead back so they don't hire another contractor."
+   }
+  ]
+ },
+ {
+  "title": "Event Planners",
+  "slug": "event-planners",
+  "description": "Rely on marketing and design to showcase their event planning services and past successes.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/0e674ed4-31c4-457c-a91d-370952b37a9e.png",
+  "faqs": [
+   {
+    "question": "How do event planners manage vendor communication?",
+    "answer": "Planners use CasperPortal to centralize all communications with vendors and clients. You can create dedicated pipelines for each event to track contracts, payments, and deadlines."
+   },
+   {
+    "question": "Can we automate feedback collection after an event?",
+    "answer": "Yes. Set up a workflow to send an automated survey to the client and attendees after the event to gather testimonials and identify areas for improvement."
+   }
+  ]
+ },
+ {
+  "title": "Marketing Agencies",
+  "slug": "marketing-agencies",
+  "description": "Naturally, they would invest in their own services for promotion and branding.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/968774c9-c887-42bc-9e88-02cdd72d706b.png",
+  "faqs": [
+   {
+    "question": "How can agencies use CasperPortal for client reporting?",
+    "answer": "Agencies use our built-in dashboards to show clients exactly how many leads were generated, the conversion rate of their funnels, and the overall ROI of their marketing spend."
+   },
+   {
+    "question": "Can I manage multiple client sub-accounts?",
+    "answer": "Yes. CasperPortal is built on an agency-ready infrastructure that allows you to manage multiple clients from one central dashboard while keeping their data completely separate."
+   }
+  ]
+ },
+ {
+  "title": "Breweries",
+  "slug": "breweries",
+  "description": "Craft breweries often require creative branding and marketing strategies.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/0060a5e3-0467-475a-8c5f-9e8e362b5e88.png",
+  "faqs": [
+   {
+    "question": "How do breweries use SMS for taproom events?",
+    "answer": "Breweries use SMS to announce new beer releases, food truck schedules, and live music events. It's the fastest way to alert your local regulars and drive mid-week traffic."
+   },
+   {
+    "question": "Can we manage event bookings for the taproom?",
+    "answer": "Yes. Use CasperPortal's calendar to allow customers to book private events or table reservations directly from your website."
+   }
+  ]
+ },
+ {
+  "title": "Pharmacies",
+  "slug": "pharmacies",
+  "description": "Competitive retail space that uses marketing to attract and retain customers.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/23254c0a-15eb-4b5d-b6a1-662da016cade.png",
+  "faqs": [
+   {
+    "question": "How can pharmacies use automated reminders?",
+    "answer": "Pharmacies can use CasperPortal to send helpful wellness tips, flu shot reminders, and notifications about new health services available in-store."
+   },
+   {
+    "question": "Can we track customer loyalty in the CRM?",
+    "answer": "Yes. Use the CRM to track customer preferences and purchase history, allowing you to send targeted offers for over-the-counter products or health consultations."
+   }
+  ]
+ },
+ {
+  "title": "Furniture Stores",
+  "slug": "furniture-stores",
+  "description": "Require effective marketing strategies and graphic design for product catalogs and promotions.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/586b7ea6-a6a7-4615-8f7e-c72f1d82279f.png",
+  "faqs": [
+   {
+    "question": "How do furniture stores use funnels for sales?",
+    "answer": "Stores use funnels to capture leads for high-ticket items like sofas or bedroom sets. By offering a digital catalog or a discount code in exchange for an email/phone number, you can nurture the lead until they're ready to visit the showroom."
+   },
+   {
+    "question": "Can we automate delivery notifications?",
+    "answer": "Yes. Use CasperPortal to send automated SMS updates to customers about their delivery window and a follow-up review request after the furniture is in their home."
+   }
+  ]
+ },
+ {
+  "title": "Jewelry Stores",
+  "slug": "jewelry-stores",
+  "description": "High reliance on visual appeal in marketing and advertising.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/f0edf125-d882-4667-84ae-8d835663ec55.png",
+  "faqs": [
+   {
+    "question": "How do jewelry stores use CRM for special occasions?",
+    "answer": "Stores track important dates like anniversaries and birthdays in the CRM. Automated reminders can be sent to spouses or family members a few weeks before the date with personalized gift ideas."
+   },
+   {
+    "question": "Can we manage repair tracking in CasperPortal?",
+    "answer": "Yes. Use a dedicated 'Repairs' pipeline to track every piece of jewelry from intake to cleaning, repair, and final pickup, keeping the customer updated via SMS at every step."
+   }
+  ]
+ },
+ {
+  "title": "Real Estate Agents/Realtors",
+  "slug": "real-estate-agents",
+  "description": "Heavily dependent on marketing for property listings and personal branding.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/c8dd295a-0c16-42e7-bbe8-9b1076cf5ad6.png",
+  "faqs": [
+   {
+    "question": "How can realtors automate open house follow-up?",
+    "answer": "By using a QR code at the open house that links to a CasperPortal form, you can capture attendee data instantly. The system then fires an automated 'thank you' text and a series of follow-up emails about the property."
+   },
+   {
+    "question": "Can I manage my entire buyer/seller pipeline?",
+    "answer": "Yes. CasperPortal allows you to see exactly where every client is, from initial showing to offer, inspection, and closing, ensuring you never miss a critical deadline."
+   }
+  ]
+ },
+ {
+  "title": "Daycare Centers",
+  "slug": "daycare-centers",
+  "description": "Use marketing to build trust and communicate services to parents.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/37ba94e4-a995-4934-a982-94d55c0a2532.png",
+  "faqs": [
+   {
+    "question": "How do daycare centers manage enrollment inquiries?",
+    "answer": "Centers use CasperPortal to track every inquiry from the first website visit to the tour and final enrollment. Automated follow-ups ensure that parents have all the info they need to make a decision."
+   },
+   {
+    "question": "Can we automate parent communication?",
+    "answer": "Yes. You can use the platform to send automated announcements, holiday reminders, and weather-related closure alerts to all parents via SMS and email instantly."
+   }
+  ]
+ },
+ {
+  "title": "Pet Stores",
+  "slug": "pet-stores",
+  "description": "Need marketing to compete with other local and online retailers.",
+  "icon": "https://storage.googleapis.com/msgsndr/TLBXLD9M7LensL45PB90/media/5e8bb9c4-585c-47ed-9ae1-bb3a8454b215.png",
+  "faqs": [
+   {
+    "question": "How do pet stores use SMS for recurring sales?",
+    "answer": "Stores use the CRM to track when a customer last bought food or supplies. Automated reminders can be sent when it's time to restock, often including a 'buy now' link or a special offer."
+   },
+   {
+    "question": "Can we manage grooming appointments in CasperPortal?",
+    "answer": "Yes. Our integrated calendar is perfect for managing grooming or training schedules, with automated reminders to pet owners to reduce no-shows."
+   }
+  ]
+ }
+]

@@ -1,0 +1,95 @@
+{
+  "/": {
+    "kw": "CRM and marketing automation software for local businesses",
+    "title": "Local Business CRM & Marketing Automation | CasperPortal",
+    "desc": "CRM and marketing automation software for local businesses: missed-call text-back, follow-up, booking and one inbox. $297/mo, try it free for 14 days.",
+    "cta": "trial",
+    "next": { "feature": "/features/missed-call-text-back", "compare": "/compare/gohighlevel", "guide": "/crm-for-local-businesses" }
+  },
+  "/pricing": {
+    "kw": "CasperPortal pricing",
+    "title": "CasperPortal Pricing: $297/mo, Unlimited Users & Contacts",
+    "desc": "CasperPortal pricing: one Growth Plan at $297/month or $2,970/year with unlimited users and contacts, no setup fee, no contract. Start a 14-day free trial.",
+    "cta": "trial",
+    "next": { "feature": "/features/crm-contact-management", "compare": "/compare/hubspot", "guide": "/blog/economics-of-crm-roi" }
+  },
+  "/start": {
+    "kw": "CasperPortal free trial",
+    "title": "Start Your CasperPortal Free Trial (14 Days) | CasperPortal",
+    "desc": "Start your CasperPortal free trial: 14 days of the full Growth Plan with unlimited users and contacts. Secure Stripe checkout, cancel anytime in the trial.",
+    "cta": "trial",
+    "next": { "feature": "/features/workflow-automations", "compare": "/compare/gohighlevel", "guide": "/blog/setup-first-automation" }
+  },
+  "/demo": {
+    "kw": "CasperPortal demo",
+    "title": "Book a CasperPortal Demo (30-Minute Live Walkthrough)",
+    "desc": "Book a CasperPortal demo: a 30-minute live walkthrough of missed-call text-back, follow-up automation, pipelines and booking, built around your business.",
+    "cta": "demo",
+    "next": { "feature": "/features/missed-call-text-back", "compare": "/compare/hubspot", "guide": "/crm-for-local-businesses" }
+  },
+  "/contact": {
+    "kw": "contact CasperPortal",
+    "title": "Contact CasperPortal: Call, Text or Message | CasperPortal",
+    "desc": "Contact CasperPortal by phone or text at (207) 222-7737, send a message, or book a 30-minute demo. Ask about features, pricing or the 14-day free trial.",
+    "cta": "demo",
+    "next": { "feature": "/features/omnichannel-messaging", "compare": "/compare/gohighlevel", "guide": "/crm-for-local-businesses" }
+  },
+  "/thank-you": {
+    "kw": "CasperPortal request received",
+    "title": "Request Received | CasperPortal",
+    "desc": "Thanks for contacting CasperPortal. We received your request. Book a 30-minute demo now or start your 14-day free trial while we review your business.",
+    "cta": "demo",
+    "next": { "feature": "/features/missed-call-text-back", "compare": "/compare/hubspot", "guide": "/crm-for-local-businesses" },
+    "noindex": true
+  },
+  "/about-us": {
+    "kw": "about CasperPortal",
+    "title": "About CasperPortal: CRM Built for Local Operators",
+    "desc": "About CasperPortal: a CRM and marketing automation platform for local service businesses, based in Georgetown, MA. See how we work and who built it.",
+    "cta": "demo",
+    "next": { "feature": "/features/crm-contact-management", "compare": "/compare/gohighlevel", "guide": "/blog/why-unified-crm" }
+  },
+  "/our-story": {
+    "kw": "CasperPortal founder story",
+    "title": "Our Story: The CasperPortal Founder Story | CasperPortal",
+    "desc": "The CasperPortal founder story: how two operators from sales and auto dealerships built one CRM to stop leads dying from missed calls and slow follow-up.",
+    "cta": "demo",
+    "next": { "feature": "/features/missed-call-text-back", "compare": "/compare/hubspot", "guide": "/blog/why-unified-crm" }
+  },
+  "/our-team": {
+    "kw": "CasperPortal team",
+    "title": "Meet the CasperPortal Team | CasperPortal",
+    "desc": "Meet the CasperPortal team: Founder Jared Casper and Co-Founder Mark Casper, operators from sales and auto dealerships who built the CRM they needed.",
+    "cta": "demo",
+    "next": { "feature": "/features/workflow-automations", "compare": "/compare/gohighlevel", "guide": "/crm-for-local-businesses" }
+  },
+  "/mark-casper": {
+    "kw": "Mark Casper",
+    "title": "Mark Casper, Co-Founder of CasperPortal | CasperPortal",
+    "desc": "Mark Casper is the Co-Founder of CasperPortal. See how a career in automotive sales and leadership shaped a relationship-first, follow-up focused CRM.",
+    "cta": "demo",
+    "next": { "feature": "/features/workflow-automations", "compare": "/compare/hubspot", "guide": "/blog/ultimate-b2b-follow-ups" }
+  },
+  "/jared-casper": {
+    "kw": "Jared Casper",
+    "title": "Jared Casper, Founder of CasperPortal | CasperPortal",
+    "desc": "Jared Casper is the Founder of CasperPortal. Learn how direct sales, auto dealerships and his own businesses led him to build an operator-first CRM.",
+    "cta": "demo",
+    "next": { "feature": "/features/missed-call-text-back", "compare": "/compare/gohighlevel", "guide": "/blog/why-unified-crm" }
+  },
+  "/casperb2b": {
+    "kw": "done-for-you CRM setup",
+    "title": "Done-For-You CRM Setup for CasperPortal | CasperPortal",
+    "desc": "Done-for-you CRM setup for CasperPortal by CasperB2B: CRM, pipelines, automations, booking and lead migration built for you. See both options and pricing.",
+    "cta": "demo",
+    "next": { "feature": "/features/workflow-automations", "compare": "/compare/gohighlevel", "guide": "/blog/setup-first-automation" }
+  },
+  "/directory/add": {
+    "kw": "tell us about your local business",
+    "title": "Tell Us About Your Business | CasperPortal",
+    "desc": "Tell CasperPortal about your local business on the North Shore, in Essex County or the Merrimack Valley: name, industry, website and the best contact.",
+    "cta": "demo",
+    "next": { "feature": "/features/crm-contact-management", "compare": "/compare/gohighlevel", "guide": "/crm-for-local-businesses" },
+    "noindex": true
+  }
+}

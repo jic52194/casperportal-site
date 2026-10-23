@@ -1,0 +1,206 @@
+[
+ {
+  "term": "A/B Testing",
+  "definition": "The process of comparing two versions of a webpage, email, or ad to see which one performs better and drives more conversions."
+ },
+ {
+  "term": "API (Application Programming Interface)",
+  "definition": "A software intermediary that allows two different applications to talk to each other. CasperPortal uses APIs to integrate with tools like QuickBooks and Stripe."
+ },
+ {
+  "term": "Call Tracking",
+  "definition": "A system that records and tracks inbound phone calls to trace which marketing campaigns, ads, or web pages are generating phone leads."
+ },
+ {
+  "term": "Campaign",
+  "definition": "A planned sequence of marketing activities (like emails, texts, and ads) designed to achieve a specific goal, such as promoting a new service or re-engaging old leads."
+ },
+ {
+  "term": "Churn Rate",
+  "definition": "The percentage of customers who cancel or stop using your service during a given time period. Lower churn means higher customer retention."
+ },
+ {
+  "term": "Click-Through Rate (CTR)",
+  "definition": "The percentage of people who click on a link out of the total number of people who viewed the email, ad, or page."
+ },
+ {
+  "term": "CRM (Customer Relationship Management)",
+  "definition": "Software that helps businesses manage interactions with current and potential customers, track sales, and organize contact information in one central database."
+ },
+ {
+  "term": "Conversion Rate",
+  "definition": "The percentage of users who take a desired action (like booking an appointment or filling out a form) out of the total number of visitors."
+ },
+ {
+  "term": "Customer Acquisition Cost (CAC)",
+  "definition": "The total cost of acquiring a new customer, including all marketing and sales expenses divided by the number of new customers gained."
+ },
+ {
+  "term": "Customer Lifetime Value (CLV)",
+  "definition": "The total amount of money a customer is expected to spend with your business over the entire duration of your relationship."
+ },
+ {
+  "term": "Drip Campaign",
+  "definition": "A series of automated emails or texts sent out on a specific schedule based on user actions or time delays to nurture leads over time."
+ },
+ {
+  "term": "Email Deliverability",
+  "definition": "The ability of an email to successfully reach a subscriber's inbox without bouncing or being flagged as spam."
+ },
+ {
+  "term": "Funnel",
+  "definition": "The step-by-step journey a potential customer takes from first discovering your business to finally making a purchase or booking a service."
+ },
+ {
+  "term": "Integration",
+  "definition": "Connecting different software applications so they can share data and work together seamlessly (e.g., connecting a CRM to a calendar app)."
+ },
+ {
+  "term": "Landing Page",
+  "definition": "A standalone web page created specifically for a marketing or advertising campaign, designed with a single focus or call to action (CTA)."
+ },
+ {
+  "term": "Lead Capture",
+  "definition": "The process of saving a potential customer's contact information (usually name, email, and phone number) via a form, chat widget, or inbound call."
+ },
+ {
+  "term": "Lead Nurturing",
+  "definition": "Building relationships with potential customers over time through automated emails, SMS messages, and valuable content until they are ready to buy."
+ },
+ {
+  "term": "Lead Scoring",
+  "definition": "A methodology used to rank prospects against a scale that represents the perceived value each lead represents to the organization, helping prioritize follow-ups."
+ },
+ {
+  "term": "Marketing Automation",
+  "definition": "Using software to automate repetitive marketing tasks, such as sending welcome emails, following up with leads, or requesting reviews after a job is done."
+ },
+ {
+  "term": "Missed-Call Text-Back",
+  "definition": "An automated feature that instantly sends a text message to a caller if their phone call goes unanswered, ensuring the lead isn't lost to a competitor."
+ },
+ {
+  "term": "Opt-In",
+  "definition": "When a user explicitly gives permission for a business to send them marketing communications, such as emails or SMS messages."
+ },
+ {
+  "term": "Pipeline",
+  "definition": "A visual representation of your sales process, showing exactly where every lead is in the buying journey (e.g., New Lead, Quote Sent, Job Won)."
+ },
+ {
+  "term": "ROI (Return on Investment)",
+  "definition": "A performance measure used to evaluate the efficiency or profitability of an investment. In marketing, it's how much revenue you generate for every dollar spent."
+ },
+ {
+  "term": "SaaS (Software as a Service)",
+  "definition": "A software distribution model where applications are hosted by a vendor and made available to customers over the internet, typically on a subscription basis (like CasperPortal)."
+ },
+ {
+  "term": "Segmentation",
+  "definition": "Dividing a broad target audience into smaller, more defined groups based on specific criteria (like location, past purchases, or behavior) to send more personalized marketing."
+ },
+ {
+  "term": "SEO (Search Engine Optimization)",
+  "definition": "The practice of improving a website to increase its visibility for relevant searches on search engines like Google."
+ },
+ {
+  "term": "SMS Marketing",
+  "definition": "Sending promotional campaigns, transactional updates, or follow-ups via text messages directly to a customer's mobile phone."
+ },
+ {
+  "term": "Trigger",
+  "definition": "An event or action that automatically starts a workflow or automation (e.g., a customer filling out a form triggers a welcome email)."
+ },
+ {
+  "term": "Two-Way Sync",
+  "definition": "A data integration method where changes made in one system are automatically updated in another connected system, and vice versa (e.g., Google Calendar sync)."
+ },
+ {
+  "term": "Webhook",
+  "definition": "An automated way for apps to communicate. Unlike an API where you have to ask for data, a webhook automatically sends data to another app when a specific event happens."
+ },
+ {
+  "term": "Workflow",
+  "definition": "A series of automated actions or steps that are triggered by a specific event to streamline business processes and save time."
+ },
+ {
+  "term": "Bounce Rate",
+  "definition": "The percentage of visitors who land on your website and leave without interacting with any other pages."
+ },
+ {
+  "term": "Buyer Persona",
+  "definition": "A semi-fictional representation of your ideal customer based on market research and real data about your existing customers."
+ },
+ {
+  "term": "Call to Action (CTA)",
+  "definition": "A prompt on a website or in an email that tells the user to take a specific action, like 'Book Now' or 'Download Free Guide'."
+ },
+ {
+  "term": "Conversion Rate Optimization (CRO)",
+  "definition": "The systematic process of increasing the percentage of website visitors who take a desired action."
+ },
+ {
+  "term": "Cost Per Click (CPC)",
+  "definition": "The actual price you pay for each click in your pay-per-click (PPC) marketing campaigns."
+ },
+ {
+  "term": "Customer Journey",
+  "definition": "The complete sum of experiences that customers go through when interacting with your company and brand."
+ },
+ {
+  "term": "Double Opt-In",
+  "definition": "A process where a user signs up for an email list and then receives an email with a link they must click to confirm their subscription."
+ },
+ {
+  "term": "Engagement Rate",
+  "definition": "A metric that measures the level of interaction (likes, comments, shares, clicks) that a piece of created content receives."
+ },
+ {
+  "term": "Inbound Marketing",
+  "definition": "A methodology designed to draw visitors and potential customers in, rather than outwardly pushing a brand, product or service onto prospects."
+ },
+ {
+  "term": "Key Performance Indicator (KPI)",
+  "definition": "A measurable value that demonstrates how effectively a company is achieving key business objectives."
+ },
+ {
+  "term": "Lead Generation",
+  "definition": "The process of attracting and converting strangers and prospects into someone who has indicated interest in your company's product or service."
+ },
+ {
+  "term": "Lead Magnet",
+  "definition": "A free item or service that is given away for the purpose of gathering contact details; for example, trial subscriptions, samples, or e-newsletters."
+ },
+ {
+  "term": "Net Promoter Score (NPS)",
+  "definition": "A customer loyalty metric that measures how likely customers are to recommend a business to a friend or colleague."
+ },
+ {
+  "term": "Outbound Marketing",
+  "definition": "A traditional method of marketing seeking to push messaging out to potential customers, such as cold calling, cold emailing, and direct mail."
+ },
+ {
+  "term": "Return on Ad Spend (ROAS)",
+  "definition": "A marketing metric that measures the efficacy of a digital advertising campaign by calculating revenue earned for every dollar spent."
+ },
+ {
+  "term": "Sales Funnel",
+  "definition": "The buying process that companies lead customers through when purchasing products. The definition also refers to the process through which a company finds, qualifies, and sells its products to buyers."
+ },
+ {
+  "term": "Social Proof",
+  "definition": "The psychological phenomenon where people assume the actions of others reflect the correct behavior for a given situation, often used in marketing via testimonials and reviews."
+ },
+ {
+  "term": "Touchpoint",
+  "definition": "Any point of contact between a buyer and a seller. It can be a website visit, an email, a phone call, or a social media interaction."
+ },
+ {
+  "term": "User Experience (UX)",
+  "definition": "The overall experience of a person using a product such as a website or computer application, especially in terms of how easy or pleasing it is to use."
+ },
+ {
+  "term": "Value Proposition",
+  "definition": "An innovation, service, or feature intended to make a company or product attractive to customers."
+ }
+]

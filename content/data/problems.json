@@ -1,0 +1,313 @@
+{
+  "missed-calls": {
+    "name": "Missed Calls",
+    "kw": "missed calls losing customers",
+    "title": "Missed Calls Losing Customers? Fix It | CasperPortal",
+    "desc": "Missed calls losing customers? Learn why callers who reach voicemail move on, how to work out what it costs you, and how an automatic text back keeps them.",
+    "h1": "Missed Calls Losing Customers? How to Keep Every Caller",
+    "intro": "Missed calls losing customers is a timing problem: most callers who reach voicemail do not wait for a callback; they call the next business in the search results. CasperPortal fixes this by automatically texting every missed caller, so the conversation keeps going by text and you can book the job without picking up the phone.",
+    "summary": "Callers who hit voicemail call the next business. An automatic text back keeps the conversation going.",
+    "why": "Local business owners and their staff are with customers, on job sites or on another line for much of the day. A caller with an urgent need has other numbers to try, and leaving a voicemail feels slower than calling the next result. By the time you call back, they have often booked someone else.",
+    "cost": "Each missed call from a new customer is a job you paid to generate with ads, signage or referrals and then did not get. Use your own numbers: count the calls you miss in a week, estimate how many would have booked, and multiply by your average job value and by the weeks in a year.",
+    "solution": "CasperPortal detects a missed call and immediately sends the caller a text from your business number, asking how you can help. Their reply lands in your shared inbox and mobile app, where you can answer, send a booking link or hand it to a teammate. You can keep your existing number by porting it, or use a local tracking number that forwards to your phone.",
+    "steps": [
+      "Port your business number or set up a local tracking number that forwards to your phone",
+      "Write the text that goes to every missed caller",
+      "Replies arrive in your shared inbox and the mobile app",
+      "Send a booking link so the caller picks a time"
+    ],
+    "features": [
+      "missed-call-text-back",
+      "omnichannel-messaging",
+      "appointment-booking",
+      "mobile-app"
+    ],
+    "faqs": [
+      [
+        "Why do missed calls lose customers?",
+        "Someone calling a local business usually has a need now. If they reach voicemail, it is often faster for them to call a competitor than to wait for a callback."
+      ],
+      [
+        "What is missed call text-back?",
+        "Missed call text-back automatically sends a text to anyone whose call you miss, for example: \"Hi, this is [Business Name]. Sorry we missed you. How can we help?\" It keeps the caller engaged until you can respond."
+      ],
+      [
+        "Can I use my existing business phone number?",
+        "Yes. CasperPortal can port your existing business number or set up a local tracking number that forwards to your main line, so it can detect missed calls and send the text."
+      ],
+      [
+        "How do I figure out what missed calls cost my business?",
+        "Count missed calls for a typical week, estimate how many would have become customers, and multiply by your average job value. The ROI calculator can help you run the numbers."
+      ]
+    ],
+    "next": {
+      "feature": "/features/missed-call-text-back",
+      "compare": "/compare/gohighlevel",
+      "guide": "/blog/stop-missing-calls"
+    },
+    "image": {
+      "src": "/img/fcbbec77-53f9-44e6-b481-9804f44635c3-b70b43.webp",
+      "w": 1200,
+      "h": 655,
+      "alt": "Missed Calls Illustration"
+    }
+  },
+  "slow-follow-up": {
+    "name": "Slow Follow-Up",
+    "kw": "slow lead follow-up",
+    "title": "Slow Lead Follow-Up: Why Leads Go Cold | CasperPortal",
+    "desc": "Slow lead follow-up lets warm leads go cold. See why it happens in busy local businesses and how automated text and email follow-up keeps leads moving.",
+    "h1": "Slow Lead Follow-Up Is Letting Leads Go Cold",
+    "intro": "Slow lead follow-up lets interested people go cold, because their need does not wait for your schedule and they keep shopping until someone responds. CasperPortal fixes it by replying the moment a lead comes in and then following up automatically by text and email over the following days and weeks.",
+    "summary": "Leads cool off while you are busy. Automated replies and follow-up sequences keep them moving.",
+    "why": "When you are running the business, follow-up happens between jobs, at night or not at all. Leads who do not buy on the first contact need several more touches, and tracking who needs what by memory or sticky notes breaks down quickly. The leads that slip are often the ones who were close to saying yes.",
+    "cost": "Every lead that goes cold is marketing money already spent with nothing to show for it. Look at your own last month: how many inquiries never got a second message, and what would a few of them have been worth?",
+    "solution": "CasperPortal sends an instant reply when a lead submits a form, calls or messages you. Then an automated sequence of texts and emails goes out on the schedule you set, and stops when the lead replies or books. Your team sees every conversation in one inbox and pipeline, so nobody wonders who was supposed to call back.",
+    "steps": [
+      "Connect your forms, calls and messages so every lead enters CasperPortal",
+      "Set an instant reply by text and email",
+      "Build a follow-up sequence spaced over days or weeks",
+      "Stop the sequence automatically when the lead replies or books",
+      "Review stalled leads in your pipeline each week"
+    ],
+    "features": [
+      "workflow-automations",
+      "automation-triggers",
+      "sms-and-email-templates",
+      "sales-pipelines"
+    ],
+    "faqs": [
+      [
+        "Why does slow follow-up lose leads?",
+        "People who reach out to a local business are usually contacting several at once. The ones who respond quickly and keep following up are the ones still in the conversation when the customer decides."
+      ],
+      [
+        "How do you automate lead follow-up?",
+        "In CasperPortal, a new form fill, call or message triggers a sequence of texts and emails spaced over days or weeks. It runs in the background and stops when the lead replies or books."
+      ],
+      [
+        "What follow-up cadence should a service business use?",
+        "An example you can adapt: an immediate text and email, a helpful email the next day, a check-in text a couple of days later, and a final message about a week in. Adjust it to your sales cycle."
+      ]
+    ],
+    "next": {
+      "feature": "/features/workflow-automations",
+      "compare": "/compare/activecampaign",
+      "guide": "/blog/5-essential-automations"
+    },
+    "image": {
+      "src": "/img/22ee88ee-44c9-4e85-9f84-9affd77dd3a0-1060aa.webp",
+      "w": 1200,
+      "h": 655,
+      "alt": "Slow Follow-Up Illustration"
+    }
+  },
+  "disconnected-tools": {
+    "name": "Disconnected Tools",
+    "kw": "too many disconnected software tools",
+    "title": "Too Many Disconnected Software Tools? | CasperPortal",
+    "desc": "Using too many disconnected software tools? See how separate CRM, email and texting apps cause missed follow-ups, and how one platform fixes it.",
+    "h1": "Too Many Disconnected Software Tools",
+    "intro": "Too many disconnected software tools means your customer data is split across apps that do not share it, so follow-ups get missed and the same information is typed in twice. CasperPortal replaces the separate CRM, email, texting, booking, review and payment tools with one platform where every contact and conversation lives in one record.",
+    "summary": "Separate apps split your customer data. One platform keeps contacts, messages and bookings together.",
+    "why": "Most businesses add tools one problem at a time: a scheduler, then an email tool, then a texting app, then a review service. Each has its own login, contact list and bill, and connecting them takes integrations that break when one app changes. Nobody has the full picture of a customer in one place.",
+    "cost": "You pay for each subscription and for the hours spent copying data between them, and you lose leads when a handoff between tools fails. Add up what you pay each month across those apps and compare it with the Growth Plan on our pricing page.",
+    "solution": "CasperPortal puts CRM, pipelines, email and text marketing, an omnichannel inbox, booking, reviews, invoicing and automations in one platform. A booking, a text and an invoice all attach to the same contact, so automations can act on everything you know about that customer. The Growth Plan includes unlimited users and unlimited contacts.",
+    "steps": [
+      "List the tools you pay for today and what each one does",
+      "Import your contacts into CasperPortal",
+      "Move booking, messaging and review requests into the same platform",
+      "Rebuild your follow-ups as automations that use the full contact record",
+      "Cancel the tools you no longer need"
+    ],
+    "features": [
+      "crm-contact-management",
+      "omnichannel-messaging",
+      "workflow-automations",
+      "reporting-analytics"
+    ],
+    "faqs": [
+      [
+        "What is software consolidation?",
+        "Software consolidation means replacing several single-purpose apps with one platform like CasperPortal. It reduces the number of subscriptions, removes fragile integrations and keeps customer data in one place."
+      ],
+      [
+        "Why do disconnected tools hurt a small business?",
+        "When tools do not share data, you get manual data entry, missed follow-ups, double bookings and an inconsistent customer experience. A unified system lets automation run from first contact to final payment."
+      ],
+      [
+        "What does CasperPortal cost compared with separate tools?",
+        "The Growth Plan includes unlimited users and contacts for one monthly price, with a 14-day free trial. Add up what you pay for your current tools and compare on the pricing page."
+      ],
+      [
+        "Can someone set it up for me?",
+        "Yes. Optional done-for-you setup is available if you would rather not migrate on your own. See the pricing page for the setup options."
+      ]
+    ],
+    "next": {
+      "feature": "/features/crm-contact-management",
+      "compare": "/compare/hubspot",
+      "guide": "/blog/why-unified-crm"
+    },
+    "image": {
+      "src": "/img/11483281-52b6-4c8b-b53b-caf143c499b8-9afe2d.webp",
+      "w": 1200,
+      "h": 655,
+      "alt": "Disconnected Tools Illustration"
+    }
+  },
+  "losing-leads": {
+    "name": "Losing Leads",
+    "kw": "website not generating leads",
+    "title": "Website Not Generating Leads? Here Is Why | CasperPortal",
+    "desc": "Website not generating leads? See the common causes, from long forms to no chat or booking, and how to turn more existing visitors into leads.",
+    "h1": "Website Not Generating Leads? Here Is Why",
+    "intro": "A website not generating leads usually has one problem: visitors cannot quickly ask a question, book a time or leave their details, so they leave without a trace. CasperPortal adds website chat, short lead capture forms, landing pages and online booking that feed straight into your CRM and follow-up, so more of the traffic you already have becomes leads.",
+    "summary": "Visitors leave without a trace. Chat, short forms and online booking turn more of them into leads.",
+    "why": "Many local business sites ask visitors to call during business hours or fill out a long contact form, and offer nothing else. Visitors browsing on a phone in the evening will not do either. Even when they do submit a form, it often lands in an email inbox where it waits.",
+    "cost": "You pay for the traffic through ads, search work or your website itself, so every visitor who leaves without contacting you raises the cost of each lead you do get. Check how many visitors your site gets each month against how many inquiries came in.",
+    "solution": "CasperPortal gives visitors easy ways to reach you: website chat, short forms, landing pages and a booking calendar. Every submission becomes a contact in your CRM and triggers an instant reply and follow-up. Chat messages land in the same inbox as your texts and email, on desktop and the mobile app.",
+    "steps": [
+      "Add website chat so visitors can ask a quick question",
+      "Replace long contact forms with short lead capture forms",
+      "Add a booking link so ready buyers can pick a time",
+      "Build a landing page for each offer or ad campaign",
+      "Send every new lead an instant reply and a follow-up sequence"
+    ],
+    "features": [
+      "website-live-chat",
+      "lead-capture-forms",
+      "funnel-landing-page-builder",
+      "appointment-booking"
+    ],
+    "faqs": [
+      [
+        "Why is my website not generating leads?",
+        "Common causes are no quick way to ask a question, long forms, no online booking and slow replies to the inquiries that do come in. Fixing those is often more effective than buying more traffic."
+      ],
+      [
+        "How does website chat help capture leads?",
+        "Chat lets visitors ask a quick question instead of calling or filling out a long form. CasperPortal routes chat messages to your shared inbox and mobile app so you can reply quickly."
+      ],
+      [
+        "Do I need a new website to use CasperPortal?",
+        "No. You can add CasperPortal chat, forms and booking links to your existing site, or build landing pages in CasperPortal for specific offers."
+      ]
+    ],
+    "next": {
+      "feature": "/features/website-live-chat",
+      "compare": "/compare/hubspot",
+      "guide": "/blog/mastering-local-seo"
+    },
+    "image": {
+      "src": "/img/52105359-3eca-4361-b322-7e9ca77f0307-ed001f.webp",
+      "w": 1200,
+      "h": 655,
+      "alt": "Losing Leads Illustration"
+    }
+  },
+  "no-visibility-into-pipeline": {
+    "name": "No Pipeline Visibility",
+    "kw": "losing track of sales leads",
+    "title": "Losing Track of Sales Leads? Get Visibility | CasperPortal",
+    "desc": "Losing track of sales leads? See why deals stall when nobody knows where each lead stands, and how a visual pipeline shows who to call today. Try it free.",
+    "h1": "Losing Track of Sales Leads",
+    "intro": "Losing track of sales leads happens when they live in inboxes, notebooks and memory instead of one shared view, so nobody knows which deals are stalled or who should call next. CasperPortal gives you visual, drag-and-drop pipelines that show every lead, its stage, its value and the next step.",
+    "summary": "Leads scattered across inboxes stall. A visual pipeline shows every deal, its stage and the next step.",
+    "why": "Small teams track leads informally until volume grows. Estimates go out, calls happen, and the status lives in whoever last spoke to the customer. Without a shared pipeline, nobody can see what is pending or which leads have gone quiet.",
+    "cost": "Stalled deals rarely announce themselves; they just never close. You also cannot forecast, because you do not know what is waiting on an answer. Try listing every open estimate or proposal from memory, then check it against your sent items.",
+    "solution": "CasperPortal pipelines show every lead as a card in stages you define, such as New, Contacted, Estimate Sent and Won. Automations can move cards and create tasks when a lead replies, books or pays, and reporting shows where deals get stuck. Your whole team works from the same view, on desktop or mobile.",
+    "steps": [
+      "Define your stages, from new lead to won or lost",
+      "Bring in existing leads and open estimates",
+      "Set automations to move cards when leads book, reply or pay",
+      "Create tasks so every card has a next step",
+      "Review stalled deals and pipeline value each week"
+    ],
+    "features": [
+      "sales-pipelines",
+      "reporting-analytics",
+      "workflow-automations",
+      "proposals-and-estimates"
+    ],
+    "faqs": [
+      [
+        "Why do I need a visual sales pipeline?",
+        "A visual pipeline shows the status of every lead, for example New Lead, Contacted, Estimate Sent or Won. It keeps leads from being forgotten and helps you see what revenue is pending."
+      ],
+      [
+        "How do pipelines help close more deals?",
+        "They show which leads need follow-up so your team can act on the right ones first. Combined with automation, deals move between stages without manual updates."
+      ],
+      [
+        "Can I customize the pipeline stages?",
+        "Yes. You define the stages, and you can run separate pipelines for different services or sales processes."
+      ]
+    ],
+    "next": {
+      "feature": "/features/sales-pipelines",
+      "compare": "/compare/salesforce",
+      "guide": "/blog/economics-of-crm-roi"
+    },
+    "image": {
+      "src": "/img/99fabf88-b989-4521-938f-d3352d72c589-2512cb.webp",
+      "w": 1200,
+      "h": 655,
+      "alt": "No Pipeline Visibility Illustration"
+    }
+  },
+  "reviews-stagnant": {
+    "name": "Reviews Stagnant",
+    "kw": "not getting enough Google reviews",
+    "title": "Not Getting Enough Google Reviews? Why | CasperPortal",
+    "desc": "Not getting enough Google reviews? Most happy customers are never asked at the right moment. See how automatic review requests after each job fix that.",
+    "h1": "Not Getting Enough Google Reviews",
+    "intro": "Most businesses are not getting enough Google reviews because happy customers are never asked, or are asked too late, when the experience is no longer fresh. CasperPortal fixes it by sending a review request by text and email as soon as a job or appointment is complete, with a direct link to your Google review page.",
+    "summary": "Happy customers are rarely asked. Automatic requests right after each job keep new reviews coming.",
+    "why": "Asking for reviews depends on someone remembering to do it, at the end of a busy day, for every customer. When it is left to memory it happens occasionally, and the customers most motivated to post on their own are often the unhappy ones.",
+    "cost": "People comparing local businesses read recent reviews before they call. If your newest reviews are old or few, you can lose those customers to a competitor before they ever contact you, even when your work is better.",
+    "solution": "CasperPortal sends a review request automatically when a job, appointment or invoice is marked complete. The message links straight to your review page, so leaving a review takes one tap. You get alerts when new reviews come in and can reply quickly, including to negative ones.",
+    "steps": [
+      "Connect your Google Business Profile",
+      "Write a short review request message for text and email",
+      "Trigger it when a job or appointment is marked complete",
+      "Send a reminder to customers who have not responded",
+      "Reply to new reviews from your alerts"
+    ],
+    "features": [
+      "reputation-management",
+      "workflow-automations",
+      "sms-and-email-templates",
+      "customer-surveys"
+    ],
+    "faqs": [
+      [
+        "Why am I not getting more Google reviews?",
+        "Usually because customers are not asked consistently or are asked long after the job. A request sent right after the work, with a direct link, makes leaving a review quick."
+      ],
+      [
+        "Why do recent reviews matter?",
+        "Customers comparing local businesses tend to read the newest reviews. A steady flow of recent reviews shows your business is active and doing good work now."
+      ],
+      [
+        "How should I handle negative reviews?",
+        "Reply promptly and professionally, offer to resolve the issue directly, and follow up. CasperPortal alerts you to new reviews so you can respond quickly."
+      ],
+      [
+        "Can I ask every customer for a review automatically?",
+        "Yes. Set a workflow that sends the request by text and email whenever a job or appointment is marked complete."
+      ]
+    ],
+    "next": {
+      "feature": "/features/reputation-management",
+      "compare": "/compare/gohighlevel",
+      "guide": "/blog/reputation-management-guide"
+    },
+    "image": {
+      "src": "/img/568f00cc-4da8-4e2d-a4b4-1a707b5d7642-662c44.webp",
+      "w": 1200,
+      "h": 655,
+      "alt": "Reviews Stagnant Illustration"
+    }
+  }
+}

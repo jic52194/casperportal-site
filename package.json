@@ -7,9 +7,12 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "check": "node scripts/linkcheck.mjs",
-    "images": "node scripts/fetch-images.mjs"
+    "images": "node scripts/fetch-images.mjs",
+    "test:browser": "node scripts/browsertest.mjs",
+    "serve": "node scripts/serve.mjs"
   },
   "devDependencies": {
+    "playwright-core": "^1.48.2",
     "sharp": "^0.33.5"
   }
 }

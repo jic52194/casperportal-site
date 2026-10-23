@@ -1,0 +1,137 @@
+{
+  "/blog": {
+    "kw": "local business marketing blog",
+    "title": "Local Business Marketing Blog | CasperPortal",
+    "desc": "A local business marketing blog with step-by-step guides on missed calls, follow-up, Google reviews, local SEO and choosing a CRM. Read the latest guides.",
+    "cta": "trial",
+    "next": { "feature": "/features/workflow-automations", "compare": "/compare/gohighlevel", "guide": "/marketing-automation-for-small-business" }
+  },
+  "/blog/stop-missing-calls": {
+    "kw": "how to stop missing business calls",
+    "title": "How to Stop Missing Business Calls | CasperPortal",
+    "desc": "How to stop missing business calls: one business number, an automatic text to every caller you miss, and one inbox for replies. A four-step setup guide.",
+    "cta": "demo",
+    "published": "2026-04-04",
+    "next": { "feature": "/features/missed-call-text-back", "compare": "/compare/gohighlevel", "guide": "/blog/5-essential-automations" }
+  },
+  "/blog/ultimate-b2b-follow-ups": {
+    "kw": "B2B follow-up sequence",
+    "title": "B2B Follow-Up Sequence: 7 Touches in 14 Days | CasperPortal",
+    "desc": "A B2B follow-up sequence with 7 touches over 14 days across email, SMS and voicemail. Copy the templates and learn how to automate the whole cadence.",
+    "cta": "demo",
+    "published": "2026-03-28",
+    "next": { "feature": "/features/workflow-automations", "compare": "/compare/activecampaign", "guide": "/blog/setup-first-automation" }
+  },
+  "/blog/why-unified-crm": {
+    "kw": "why use a unified CRM",
+    "title": "Why Use a Unified CRM for Your Local Business | CasperPortal",
+    "desc": "Why use a unified CRM? See what breaks between disconnected tools, total your current stack with a worksheet, and learn what one contact record changes.",
+    "cta": "trial",
+    "published": "2026-03-15",
+    "next": { "feature": "/features/crm-contact-management", "compare": "/compare/hubspot", "guide": "/crm-for-local-businesses" }
+  },
+  "/blog/mastering-local-seo": {
+    "kw": "local SEO for small businesses",
+    "title": "Local SEO for Small Businesses: 5-Step Guide | CasperPortal",
+    "desc": "Local SEO for small businesses in 5 steps: Google Business Profile, NAP consistency, reviews, citations and town pages. A practical North Shore guide.",
+    "cta": "demo",
+    "published": "2026-03-10",
+    "next": { "feature": "/features/reputation-management", "compare": "/compare/gohighlevel", "guide": "/blog/reputation-management-guide" }
+  },
+  "/blog/multi-channel-marketing": {
+    "kw": "multi-channel marketing for local businesses",
+    "title": "Multi-Channel Marketing for Local Businesses | CasperPortal",
+    "desc": "Multi-channel marketing for local businesses: combine Google Business Profile, SMS and email so leads never depend on one source. See the 3-channel loop.",
+    "cta": "demo",
+    "published": "2026-03-02",
+    "next": { "feature": "/features/email-sms-marketing", "compare": "/compare/activecampaign", "guide": "/marketing-automation-for-small-business" }
+  },
+  "/blog/ai-automation-support": {
+    "kw": "AI customer support for small business",
+    "title": "AI Customer Support for Small Business | CasperPortal",
+    "desc": "AI customer support for small business: which client tasks to automate, which to keep human, and the five support workflows worth setting up first.",
+    "cta": "demo",
+    "published": "2026-02-24",
+    "next": { "feature": "/features/ai-chat-tools", "compare": "/compare/gohighlevel", "guide": "/blog/5-essential-automations" }
+  },
+  "/blog/5-essential-automations": {
+    "kw": "small business automation examples",
+    "title": "5 Small Business Automation Examples | CasperPortal",
+    "desc": "Five small business automation examples for service companies: text-back, lead follow-up, reminders, review requests and win-backs, with triggers and copy.",
+    "cta": "demo",
+    "published": "2026-04-10",
+    "next": { "feature": "/features/workflow-automations", "compare": "/compare/gohighlevel", "guide": "/blog/setup-first-automation" }
+  },
+  "/blog/reputation-management-guide": {
+    "kw": "how to get more Google reviews",
+    "title": "How to Get More Google Reviews | CasperPortal",
+    "desc": "How to get more Google reviews: ask every customer at the right moment, text a direct review link, handle unhappy customers properly and reply to all.",
+    "cta": "demo",
+    "published": "2026-04-12",
+    "next": { "feature": "/features/reputation-management", "compare": "/compare/gohighlevel", "guide": "/blog/mastering-local-seo" }
+  },
+  "/blog/medspa-crm-consolidation": {
+    "kw": "med spa CRM",
+    "title": "Med Spa CRM: A Consolidation Walkthrough | CasperPortal",
+    "desc": "What a med spa CRM should include, an example walkthrough of consolidating a med spa's software, a worksheet for your own stack and a safe switching plan.",
+    "cta": "demo",
+    "published": "2026-04-15",
+    "next": { "feature": "/features/crm-contact-management", "compare": "/compare/gohighlevel", "guide": "/blog/why-unified-crm" }
+  },
+  "/blog/economics-of-crm-roi": {
+    "kw": "is a CRM worth it",
+    "title": "Is a CRM Worth It? How to Calculate the ROI | CasperPortal",
+    "desc": "Is a CRM worth it? Use one simple ROI formula with your own numbers for recovered leads, replaced tools, time saved and repeat business to find out.",
+    "cta": "trial",
+    "published": "2026-05-10",
+    "next": { "feature": "/features/reporting-analytics", "compare": "/compare/hubspot", "guide": "/blog/why-unified-crm" }
+  },
+  "/blog/setup-first-automation": {
+    "kw": "how to set up marketing automation",
+    "title": "How to Set Up Marketing Automation in 4 Steps | CasperPortal",
+    "desc": "How to set up marketing automation: choose one workflow, set the trigger, add actions and test it. A 4-step guide built around missed-call text-back.",
+    "cta": "trial",
+    "published": "2026-05-12",
+    "next": { "feature": "/features/workflow-automations", "compare": "/compare/activecampaign", "guide": "/marketing-automation-for-small-business" }
+  },
+  "/blog/topic/automation": {
+    "kw": "automation guides",
+    "title": "Automation Guides for Local Businesses | CasperPortal",
+    "desc": "Automation guides for local service businesses: missed-call text-back, lead follow-up, reminders, review requests and how to build your first workflow.",
+    "cta": "demo",
+    "noindex": true,
+    "next": { "feature": "/features/workflow-automations", "compare": "/compare/gohighlevel", "guide": "/blog/setup-first-automation" }
+  },
+  "/blog/topic/growth": {
+    "kw": "growth guides",
+    "title": "Business Growth Guides for Local Companies | CasperPortal",
+    "desc": "Growth guides for local service companies: consolidating tools into one CRM, calculating whether a CRM is worth it, and building a steady flow of reviews.",
+    "cta": "trial",
+    "noindex": true,
+    "next": { "feature": "/features/crm-contact-management", "compare": "/compare/hubspot", "guide": "/blog/why-unified-crm" }
+  },
+  "/blog/topic/marketing": {
+    "kw": "marketing guides",
+    "title": "Marketing Guides for Local Businesses | CasperPortal",
+    "desc": "Marketing guides for local businesses: combine Google Business Profile, SMS and email into one system, win back past customers and earn more reviews.",
+    "cta": "demo",
+    "noindex": true,
+    "next": { "feature": "/features/email-sms-marketing", "compare": "/compare/activecampaign", "guide": "/blog/multi-channel-marketing" }
+  },
+  "/blog/topic/sales": {
+    "kw": "sales follow-up guides",
+    "title": "Sales Follow-Up Guides for Local Businesses | CasperPortal",
+    "desc": "Sales follow-up guides for local businesses: a 7-touch sequence with email, SMS and voicemail templates, and how to automate follow-up from your pipeline.",
+    "cta": "demo",
+    "noindex": true,
+    "next": { "feature": "/features/sales-pipelines", "compare": "/compare/salesforce", "guide": "/blog/ultimate-b2b-follow-ups" }
+  },
+  "/blog/topic/seo": {
+    "kw": "local SEO guides",
+    "title": "Local SEO Guides for North Shore Businesses | CasperPortal",
+    "desc": "Local SEO guides for Georgetown and North Shore businesses: Google Business Profile, NAP consistency, citations, town pages and a steady flow of reviews.",
+    "cta": "demo",
+    "noindex": true,
+    "next": { "feature": "/features/reputation-management", "compare": "/compare/gohighlevel", "guide": "/blog/mastering-local-seo" }
+  }
+}

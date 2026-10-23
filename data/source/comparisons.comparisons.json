@@ -1,0 +1,177 @@
+[
+ {
+  "name": "HubSpot",
+  "slug": "hubspot",
+  "description": "Powerful marketing platform with a free CRM — but costs escalate fast once you need automation and SMS.",
+  "metaTitle": "CasperPortal vs. HubSpot — The Better CRM for Local Service Businesses",
+  "metaDescription": "Compare CasperPortal vs HubSpot. See why local businesses choose CasperPortal for missed-call text-back, SMS automation, and simpler pricing.",
+  "features": [
+   {
+    "name": "Missed-Call Text-Back",
+    "casperPortal": true,
+    "competitor": "Requires 3rd party"
+   },
+   {
+    "name": "Two-Way SMS",
+    "casperPortal": "Included",
+    "competitor": "Paid Add-on"
+   },
+   {
+    "name": "Local Number",
+    "casperPortal": "Included",
+    "competitor": "Paid Add-on"
+   },
+   {
+    "name": "Setup Complexity",
+    "casperPortal": "Built for Local",
+    "competitor": "Enterprise/Complex"
+   },
+   {
+    "name": "Monthly Cost",
+    "casperPortal": "$297 (Flat)",
+    "competitor": "$800+ (Pro tiers)"
+   }
+  ],
+  "verdict": "HubSpot is great for tech companies. CasperPortal is built for the truck, the salon, and the clinic."
+ },
+ {
+  "name": "ActiveCampaign",
+  "slug": "activecampaign",
+  "description": "Strong email automation tool — but limited CRM capabilities and no native SMS for local business workflows.",
+  "metaTitle": "CasperPortal vs. ActiveCampaign — Automation Comparison",
+  "metaDescription": "See why CasperPortal beats ActiveCampaign for local businesses needing SMS follow-up, reputation management, and unified communications.",
+  "features": [
+   {
+    "name": "Email Automation",
+    "casperPortal": true,
+    "competitor": true
+   },
+   {
+    "name": "SMS Marketing",
+    "casperPortal": true,
+    "competitor": "Paid Add-on"
+   },
+   {
+    "name": "Missed-Call Text-Back",
+    "casperPortal": true,
+    "competitor": false
+   },
+   {
+    "name": "Reputation Management",
+    "casperPortal": true,
+    "competitor": false
+   },
+   {
+    "name": "Unified Inbox",
+    "casperPortal": true,
+    "competitor": "Email only"
+   }
+  ],
+  "verdict": "If you only need email, ActiveCampaign is fine. If you need to run a local business, you need CasperPortal."
+ },
+ {
+  "name": "Calendly",
+  "slug": "calendly",
+  "description": "Calendly is a great booking tool, but it doesn't manage your leads or automate your follow-ups after the meeting is set.",
+  "metaTitle": "CasperPortal vs. Calendly — Beyond Simple Scheduling",
+  "metaDescription": "Don't just book appointments. Manage your entire pipeline. Compare CasperPortal's integrated scheduling vs Calendly.",
+  "features": [
+   {
+    "name": "Online Booking",
+    "casperPortal": true,
+    "competitor": true
+   },
+   {
+    "name": "CRM Integration",
+    "casperPortal": "Native",
+    "competitor": "Via Zapier"
+   },
+   {
+    "name": "Automated SMS Nurture",
+    "casperPortal": true,
+    "competitor": false
+   },
+   {
+    "name": "Pipeline Tracking",
+    "casperPortal": true,
+    "competitor": false
+   },
+   {
+    "name": "Review Requests",
+    "casperPortal": true,
+    "competitor": false
+   }
+  ],
+  "verdict": "Calendly is a feature. CasperPortal is a platform."
+ },
+ {
+  "name": "Salesforce",
+  "slug": "salesforce",
+  "description": "Salesforce is the world's #1 CRM, but it's built for enterprise teams with dedicated admins. For a local business, it's often a expensive, complex hurdle.",
+  "metaTitle": "CasperPortal vs. Salesforce — Why Simple Wins for Local Business",
+  "metaDescription": "Compare CasperPortal vs Salesforce. See why local service businesses prefer our streamlined, automated approach over enterprise complexity.",
+  "features": [
+   {
+    "name": "Ease of Use",
+    "casperPortal": "High",
+    "competitor": "Low / Complex"
+   },
+   {
+    "name": "Setup Time",
+    "casperPortal": "24 Hours",
+    "competitor": "3-6 Months"
+   },
+   {
+    "name": "Native SMS",
+    "casperPortal": true,
+    "competitor": "Paid Add-on"
+   },
+   {
+    "name": "Missed-Call Text-Back",
+    "casperPortal": true,
+    "competitor": false
+   },
+   {
+    "name": "Pricing",
+    "casperPortal": "Flat $297/mo",
+    "competitor": "Per-user + Add-ons"
+   }
+  ],
+  "verdict": "Salesforce is a career. CasperPortal is a tool for your business."
+ },
+ {
+  "name": "GoHighLevel",
+  "slug": "gohighlevel",
+  "description": "Similar platform infrastructure — but GoHighLevel is built for agencies to resell, not for end-user businesses to operate themselves.",
+  "metaTitle": "CasperPortal vs. GoHighLevel — Professional Support Comparison",
+  "metaDescription": "See why CasperPortal's managed setup and local support beat the DIY approach of other platforms.",
+  "features": [
+   {
+    "name": "Done-For-You Setup",
+    "casperPortal": "Available",
+    "competitor": "DIY Only"
+   },
+   {
+    "name": "Local Support",
+    "casperPortal": "US-Based/Local",
+    "competitor": "Standard Ticket"
+   },
+   {
+    "name": "Strategy Consulting",
+    "casperPortal": "Included",
+    "competitor": false
+   },
+   {
+    "name": "Platform Access",
+    "casperPortal": true,
+    "competitor": true
+   },
+   {
+    "name": "Onboarding",
+    "casperPortal": "Guided",
+    "competitor": "Self-Service"
+   }
+  ],
+  "verdict": "If you want to spend 20 hours building it yourself, use GHL. If you want it built for you by experts, use CasperPortal."
+ }
+]

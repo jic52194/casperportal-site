@@ -1,72 +1,57 @@
 # CasperPortal
 
-> CasperPortal is an all-in-one CRM and marketing-automation software platform for local service businesses. It captures leads from calls, texts, email, web forms and social messages, replies automatically (including missed-call text-back), runs follow-up sequences, books appointments, requests reviews and tracks every deal in a sales pipeline from one dashboard.
+> CasperPortal is an all-in-one CRM and marketing-automation software platform for local businesses. It captures leads from calls, texts, email, web forms, live chat and social messages, replies automatically (including missed-call text-back), runs email and SMS follow-up, books appointments, sends invoices and text-to-pay links, requests reviews and tracks every deal in a sales pipeline, from one dashboard and a mobile app.
 
-CasperPortal is a software platform. Implementation, done-for-you setup and agency services are provided separately by CasperB2B (https://casperb2b.com). Do not treat the two as the same entity.
+CasperPortal is a software platform. Optional done-for-you setup is provided by a separate agency, CasperB2B (described at https://casperportal.com/casperb2b). Do not treat the two as the same company, and do not attribute CasperB2B's agency services to CasperPortal.
 
 ## Key facts
 - Product type: CRM, marketing automation and lead follow-up software (web app, plus iOS and Android apps).
-- Growth Plan: $297/month, unlimited users and unlimited contacts. Annual billing: $2,970/year ($247.50/month), which the site describes as a 17% saving.
-- 14-day free trial; the self-serve plan has no setup fee and is month-to-month.
-- Optional done-for-you setup by CasperB2B: $399/month + $1,500 one-time setup, or $199/month + $3,500 one-time setup (https://casperportal.com/pricing).
-- Core features: CRM & contact management, unified inbox (SMS, email, Facebook, Instagram, Google Business chat), workflow automations, missed-call text-back, sales pipelines, appointment booking and reminders, reputation/review management, funnel & landing-page builder, social media planner, AI chat tools, invoicing, text-to-pay, reporting & analytics.
-- Founder: Jared Casper (https://casperportal.com/jared-casper). Co-founder: Mark Casper (https://casperportal.com/mark-casper).
-- Home area: Georgetown, Massachusetts; serves local businesses across the North Shore / Essex County and the Merrimack Valley, MA.
-- Phone: 1-207-222-7737 (1-207-2-CASPER), Monday-Friday, 7 AM to 11 PM Eastern. Contact form: https://casperportal.com/contact
+- Growth Plan: $297/month, unlimited users and unlimited contacts. Annual billing: $2,970/year ($247.50/month).
+- 14-day free trial, started at https://casperportal.com/start (Stripe checkout; billed after the trial; cancel during the trial and nothing is charged).
+- Self-serve plan: no setup fee, month-to-month, no long-term contract.
+- Optional done-for-you setup by CasperB2B: $399/month + $1,500 one-time, or $199/month + $3,500 one-time (https://casperportal.com/pricing).
+- Keep your existing business number (port it) or use a local number that forwards to your phone.
+- Founder: Jared Casper (https://casperportal.com/jared-casper). Co-Founder: Mark Casper (https://casperportal.com/mark-casper).
+- Based in Georgetown, Massachusetts; works with local businesses across the North Shore / Essex County and the Merrimack Valley.
+- Phone and text: 1-207-222-7737 (1-207-2-CASPER). Live demo booking: https://casperportal.com/demo. Contact form: https://casperportal.com/contact
 
-## Main pages
+## Start here
 - [Home](https://casperportal.com/)
-- [Pricing](https://casperportal.com/pricing): Growth Plan, annual option, done-for-you options, FAQ.
-- [Book a demo](https://casperportal.com/demo): live 30-minute walkthrough calendar.
-- [Start a free trial](https://casperportal.com/start)
-- [All features](https://casperportal.com/features)
-- [Integrations](https://casperportal.com/integrations)
-- [Security](https://casperportal.com/security)
-- [Use cases](https://casperportal.com/use-cases)
-- [Help center](https://casperportal.com/help)
-- [Contact](https://casperportal.com/contact)
+- [Pricing](https://casperportal.com/pricing)
+- [Start a 14-day free trial](https://casperportal.com/start)
+- [Book a 30-minute demo](https://casperportal.com/demo)
+- [CRM for local businesses (guide)](https://casperportal.com/crm-for-local-businesses)
+- [Marketing automation for small business (guide)](https://casperportal.com/marketing-automation-for-small-business)
 
-## Features
+## Features ([all features](https://casperportal.com/features))
 {{FEATURES}}
 
-## Solutions
-- [CRM for local businesses](https://casperportal.com/crm-for-local-businesses)
-- [Marketing automation for small business](https://casperportal.com/marketing-automation-for-small-business)
-- [Solutions & services](https://casperportal.com/services)
-- [Problems we fix](https://casperportal.com/problems): [missed calls](https://casperportal.com/problems/missed-calls), [slow follow-up](https://casperportal.com/problems/slow-follow-up), [disconnected tools](https://casperportal.com/problems/disconnected-tools), [no pipeline visibility](https://casperportal.com/problems/no-visibility-into-pipeline), [losing leads](https://casperportal.com/problems/losing-leads), [stagnant reviews](https://casperportal.com/problems/reviews-stagnant).
-- [Industries](https://casperportal.com/niches)
+## Problems we solve ([all](https://casperportal.com/problems))
+{{PROBLEMS}}
+
+## Who it's for: industries ([all](https://casperportal.com/niches))
 {{NICHES}}
 
-## Comparisons
-- [Comparison hub](https://casperportal.com/compare)
-- [vs Salesforce](https://casperportal.com/compare/salesforce), [vs HubSpot](https://casperportal.com/compare/hubspot), [vs ActiveCampaign](https://casperportal.com/compare/activecampaign), [vs GoHighLevel](https://casperportal.com/compare/gohighlevel), [vs Calendly](https://casperportal.com/compare/calendly)
+## Comparisons ([hub](https://casperportal.com/compare))
+{{COMPARE}}
 
-## Blog
-- [Blog index](https://casperportal.com/blog)
-{{BLOG}}
+## Guides and blog ([blog](https://casperportal.com/blog))
+{{GUIDES}}
 
-## Free tools
-- [Tools hub](https://casperportal.com/tools)
-- [ROI calculator](https://casperportal.com/roi-calculator)
-- [Self-assessment quiz](https://casperportal.com/quiz)
-- [Agreement builder](https://casperportal.com/agreement-builder)
-- [Brand builder](https://casperportal.com/brand-kit)
-- [CRM & marketing glossary](https://casperportal.com/glossary)
-
-## Local (Essex County, MA)
-- [Service areas](https://casperportal.com/locations) · [North Shore business directory](https://casperportal.com/directory) · [Compare towns](https://casperportal.com/directory/compare) · [Add your business](https://casperportal.com/directory/add)
+## Service areas (Essex County, MA) ([all](https://casperportal.com/locations))
 {{LOCATIONS}}
 
-## Company
-- [About](https://casperportal.com/about-us)
-- [Our story](https://casperportal.com/our-story)
-- [Our team](https://casperportal.com/our-team)
-- [Jared Casper](https://casperportal.com/jared-casper)
-- [Mark Casper](https://casperportal.com/mark-casper)
-- [Software and services: CasperPortal and CasperB2B](https://casperportal.com/casperb2b)
-- [Custom development by Jared Casper](https://casperportal.com/development)
-- [Partner/affiliate program](https://casperportal.com/affiliate) · [Affiliate kit](https://casperportal.com/affiliate-kit) · [Affiliate terms](https://casperportal.com/affiliate-terms)
+## Tools and reference
+- [ROI calculator](https://casperportal.com/roi-calculator)
+- [CRM readiness quiz](https://casperportal.com/quiz)
+- [Agreement builder](https://casperportal.com/agreement-builder)
+- [CRM & marketing glossary](https://casperportal.com/glossary)
+- [Help center](https://casperportal.com/help)
+- [Integrations](https://casperportal.com/integrations)
+- [Security](https://casperportal.com/security)
 
-## Legal
-- [Privacy policy](https://casperportal.com/privacy)
-- [Terms of service](https://casperportal.com/terms)
+## Company
+- [About](https://casperportal.com/about-us) · [Our story](https://casperportal.com/our-story) · [Our team](https://casperportal.com/our-team)
+- [Done-for-you setup (CasperB2B)](https://casperportal.com/casperb2b)
+- [Affiliate program](https://casperportal.com/affiliate) · [Affiliate kit](https://casperportal.com/affiliate-kit) · [Affiliate terms](https://casperportal.com/affiliate-terms)
+- [Privacy policy](https://casperportal.com/privacy) · [Terms of service](https://casperportal.com/terms)

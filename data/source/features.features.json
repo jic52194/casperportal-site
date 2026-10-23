@@ -1,0 +1,635 @@
+[
+ {
+  "title": "Website Live Chat",
+  "slug": "website-live-chat",
+  "description": "Built for local service businesses. Most visitors leave your website without saying a word. Live chat catches them in under 2 seconds — before they move on to someone else.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/9084498a-794e-407e-9f8e-1e5ad4750078.png",
+  "alt": "Website live chat and visitor messaging",
+  "faqs": [
+   {
+    "question": "Does the live chat connect to SMS?",
+    "answer": "Yes. When a visitor leaves a message in the web chat widget, CasperPortal captures their phone number and routes the conversation to SMS. This means you can reply from your phone, and the customer receives your reply as a text message after they've left your website."
+   },
+   {
+    "question": "Can I automate responses in the live chat?",
+    "answer": "Absolutely. You can set up automated greetings, FAQ responses, or even an AI bot to qualify the lead and book an appointment directly through the chat widget."
+   }
+  ]
+ },
+ {
+  "title": "Reputation\nManagement",
+  "slug": "reputation-management",
+  "description": "One bad review can undo months of great work. Take control of your online reputation by collecting more positive reviews and responding before damage spreads.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/3b940985-3893-49b6-98e9-a911a545241e.png",
+  "alt": "Online review and reputation management platform",
+  "faqs": [
+   {
+    "question": "How does automated review collection work?",
+    "answer": "When you mark a job as 'Complete' or a customer as 'Won' in the CRM, CasperPortal automatically triggers an SMS and email sequence asking the customer about their experience and providing a direct link to your Google Business Profile to leave a review."
+   },
+   {
+    "question": "Can I dispute negative reviews through the platform?",
+    "answer": "While you cannot directly delete a customer's Google review from the platform, CasperPortal alerts you instantly when a negative review is posted. This allows you to respond quickly, resolve the issue, and often successfully ask the customer to update their rating."
+   }
+  ]
+ },
+ {
+  "title": "Facebook Messenger",
+  "slug": "facebook-messenger",
+  "description": "Unanswered social messages tell customers you don't care. Pull every Facebook conversation into your CRM so nothing gets buried and no one feels ignored.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/c2fc1cf1-8e3e-4404-8612-4b729c9e876e.png",
+  "alt": "Facebook Messenger CRM communication",
+  "faqs": [
+   {
+    "question": "Why should I connect Facebook Messenger to my CRM?",
+    "answer": "Customers often reach out on the platform where they found you. By centralizing Facebook messages into your CRM, you ensure that social leads are tracked, followed up, and moved through your sales pipeline just like web leads."
+   },
+   {
+    "question": "Can I automate replies on Facebook?",
+    "answer": "Yes. You can set up automated greetings and FAQ responses for Facebook Messenger, ensuring that even after-hours inquiries get an immediate response."
+   }
+  ]
+ },
+ {
+  "title": "Google Call Tracking",
+  "slug": "google-call-tracking",
+  "description": "You're spending money on ads but have no idea which ones actually ring your phone. Track every call to its source so you stop wasting budget on what isn't working.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/32efb704-b2b0-4e95-a94b-951dd40ff129.png",
+  "alt": "Google Business Profile call tracking software",
+  "faqs": [
+   {
+    "question": "How does call tracking help me save money on ads?",
+    "answer": "By assigning unique tracking numbers to different ad campaigns, you can see exactly which keywords or ads are driving phone calls. This allows you to cut spending on non-performing ads and double down on what works."
+   },
+   {
+    "question": "Do I lose my original business number?",
+    "answer": "No. Tracking numbers simply forward to your existing business line. Your main number stays exactly as it is, while the tracking numbers provide the data you need to optimize your marketing."
+   }
+  ]
+ },
+ {
+  "title": "Missed Call Text Back",
+  "slug": "missed-call-text-back",
+  "description": "For contractors and field service teams. Instantly text back missed calls in <5 seconds so they know you're on it — even when you can't pick up the phone.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/71e35662-d145-4a4d-9579-5875d923bc7a.png",
+  "alt": "Missed call text back automation",
+  "faqs": [
+   {
+    "question": "How fast does the missed call text go out?",
+    "answer": "The text message is sent within 5 seconds of the call ending or going to voicemail. This speed is critical to catch the customer before they dial the next business on their Google search results."
+   },
+   {
+    "question": "Can I customize the missed call message?",
+    "answer": "Yes. You can fully customize the text message. A common template is: 'Hi, this is [Your Business Name]. We're currently assisting another customer, but how can we help you today?'"
+   },
+   {
+    "question": "Does this work with landlines?",
+    "answer": "Landlines cannot receive text messages, but CasperPortal can provide you with a local tracking number that forwards to your landline. When someone calls the tracking number and you miss it, the system will text their mobile phone back."
+   }
+  ]
+ },
+ {
+  "title": "Text To Pay",
+  "slug": "text-to-pay",
+  "description": "Chasing payments is exhausting and awkward. Send a text, they tap to pay — done. No more uncomfortable follow-ups or waiting weeks for a check.",
+  "icon": "https://vibe.filesafe.space/1775650048473203271/assets/592b04a2-88bc-4d07-8c09-e7fdb8e7dce3.png",
+  "alt": "Text to pay payment collection software",
+  "faqs": [
+   {
+    "question": "Is text-to-pay secure?",
+    "answer": "Yes. CasperPortal uses industry-standard encryption and partners with secure processors like Stripe to ensure every transaction is safe for both you and your customer."
+   },
+   {
+    "question": "What is the fee for text-to-pay?",
+    "answer": "CasperPortal does not charge additional transaction fees. You only pay the standard processing fees from your connected payment provider (e.g., Stripe's 2.9% + 30¢)."
+   }
+  ]
+ },
+ {
+  "title": "Memberships",
+  "slug": "memberships",
+  "description": "Constantly chasing new customers is the most expensive way to grow. Build membership areas that create recurring revenue and keep people coming back month after month.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/83446290-77d1-453b-914f-765794bad099.png",
+  "alt": "Membership platform and subscription tools",
+  "faqs": [
+   {
+    "question": "Can I host video courses in the membership area?",
+    "answer": "Yes. CasperPortal's membership area is perfect for hosting training videos, documents, and resources for your clients or team."
+   },
+   {
+    "question": "Can I charge a recurring subscription for access?",
+    "answer": "Absolutely. You can set up monthly or annual recurring billing that automatically grants or revokes access based on payment status."
+   }
+  ]
+ },
+ {
+  "title": "Lead Capture Forms",
+  "slug": "lead-capture-forms",
+  "description": "Interested people visit your site every day and leave without a trace. Capture their name and number before they disappear so you can follow up while intent is high.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/6b33c84d-394a-4c5d-90a4-db6a895a0976.png",
+  "alt": "Online forms and lead capture software",
+  "faqs": [
+   {
+    "question": "Can I embed these forms on my existing website?",
+    "answer": "Yes. You can easily embed CasperPortal forms on WordPress, Squarespace, Wix, or any other platform with a simple copy-paste code."
+   },
+   {
+    "question": "Do forms connect to the CRM automatically?",
+    "answer": "Yes. Every form submission instantly creates a contact record and can trigger automated follow-up sequences."
+   }
+  ]
+ },
+ {
+  "title": "Customer Surveys",
+  "slug": "customer-surveys",
+  "description": "Guessing what your customers want is a gamble you lose slowly. Ask them directly with simple surveys — then use what they tell you to keep them longer.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/db3d4788-6be6-4d75-8728-a1d8224d4993.png",
+  "alt": "Customer survey and feedback software",
+  "faqs": [
+   {
+    "question": "How do surveys help my business grow?",
+    "answer": "Surveys provide direct feedback on what you're doing right and where you can improve. They can also be used to qualify leads or gather data for case studies."
+   },
+   {
+    "question": "Can I automate survey delivery?",
+    "answer": "Yes. You can trigger a survey to be sent via SMS or email immediately after a service is completed or an appointment ends."
+   }
+  ]
+ },
+ {
+  "title": "Trigger Links",
+  "slug": "trigger-links",
+  "description": "Generic marketing gets ignored. Trigger links track exactly what each person clicks so your next message feels personal — like you read their mind.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/6c0033e3-8080-4bde-9600-86bcecc91c99.png",
+  "alt": "Trigger links marketing automation tools",
+  "faqs": [
+   {
+    "question": "What is a trigger link?",
+    "answer": "A trigger link is a special link that, when clicked, automatically performs an action in your CRM, such as adding a tag, moving a lead to a new pipeline stage, or starting an automation."
+   },
+   {
+    "question": "How do trigger links improve conversion?",
+    "answer": "They allow you to segment your audience based on their actual interests. If a lead clicks a link about 'Plumbing Repair,' you can automatically send them more relevant info about that specific service."
+   }
+  ]
+ },
+ {
+  "title": "SMS & Email Templates",
+  "slug": "sms-and-email-templates",
+  "description": "Rewriting the same message ten times a day drains your energy. Save your best-performing texts and emails as templates so every response is fast, sharp, and consistent.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/a0c6ec62-7fde-4246-b25e-436f34bcbe40.png",
+  "alt": "SMS and email template library",
+  "faqs": [
+   {
+    "question": "Can I use custom values in templates?",
+    "answer": "Yes. You can automatically pull in the contact's name, your business name, appointment times, and more, so every message feels personal even though it's a template."
+   },
+   {
+    "question": "Do you provide pre-written templates?",
+    "answer": "Yes. CasperPortal comes pre-loaded with high-converting templates for common local business scenarios like follow-ups, reminders, and review requests."
+   }
+  ]
+ },
+ {
+  "title": "Automation Triggers",
+  "slug": "automation-triggers",
+  "description": "Manually following up with every lead isn't scaling — it's surviving. Set triggers that fire the right action at the right time so your business runs even when you don't.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/0a770670-5670-4bb6-bb84-fe94a6134a12.png",
+  "alt": "Automation triggers for customer actions",
+  "faqs": [
+   {
+    "question": "What triggers an automation?",
+    "answer": "Triggers can be anything from a form submission, an incoming call, a link click, a tag being added, or even a customer's birthday."
+   },
+   {
+    "question": "Can I set delays between actions?",
+    "answer": "Yes. You can set precise delays (e.g., wait 2 hours, wait 3 days) between different steps in your automation sequence."
+   }
+  ]
+ },
+ {
+  "title": "Marketing Campaigns",
+  "slug": "marketing-campaigns",
+  "description": "Random marketing creates random results. Plan multi-step campaigns that build momentum — so every touchpoint pulls your audience closer to saying yes.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/b75fa911-11d8-4c0d-b1e2-94dcee82718c.png",
+  "alt": "Marketing campaign management platform",
+  "faqs": [
+   {
+    "question": "Can I run multi-channel campaigns?",
+    "answer": "Yes. You can build campaigns that combine SMS, email, voice drops, and social messaging into one cohesive sequence."
+   },
+   {
+    "question": "Can I schedule campaigns in advance?",
+    "answer": "Absolutely. You can plan and schedule your entire month's marketing in one sitting, and then let it run on autopilot."
+   }
+  ]
+ },
+ {
+  "title": "Social Media Planner",
+  "slug": "social-media-planner",
+  "description": "When you stop posting, your audience stops thinking about you. Schedule content ahead of time so your brand stays visible and consistent without consuming your day.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/afcfea9e-e8b9-40dd-818b-17330eb64c2d.png",
+  "alt": "Social media planner and content scheduler",
+  "faqs": [
+   {
+    "question": "Which social platforms are supported?",
+    "answer": "CasperPortal supports posting to Facebook, Instagram, LinkedIn, X (Twitter), Google Business Profile, and TikTok."
+   },
+   {
+    "question": "Can I preview my posts before they go live?",
+    "answer": "Yes. Our planner includes a visual preview for each platform so you can ensure your content looks perfect before it's scheduled."
+   }
+  ]
+ },
+ {
+  "title": "Invoicing",
+  "slug": "invoicing",
+  "description": "Late payments create cash flow stress that keeps you up at night. Send clean invoices that make it effortless for customers to pay you on time, every time.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/TLBXLD9M7LensL45PB90/media/65b236f67450226df131e543.png",
+  "alt": "Online invoicing and payment requests",
+  "faqs": [
+   {
+    "question": "Can I send recurring invoices?",
+    "answer": "Yes. You can set up automated recurring invoices for monthly maintenance plans or subscription services."
+   },
+   {
+    "question": "Do you support partial payments?",
+    "answer": "Yes. You can allow customers to pay a deposit or make partial payments toward a larger invoice."
+   }
+  ]
+ },
+ {
+  "title": "Blog Publishing",
+  "slug": "blog-publishing",
+  "description": "Your competitors are ranking above you on Google right now. Publish content that answers the questions your customers are already searching — and take that traffic back.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/3e6f4aef-645e-4d1a-a5b1-a5d2a7ce94b1.png",
+  "alt": "Business blogging and SEO content tools",
+  "faqs": [
+   {
+    "question": "Is the blog SEO-friendly?",
+    "answer": "Yes. CasperPortal's blog tool is built for SEO, with customizable meta titles, descriptions, and clean URL structures to help you rank higher."
+   },
+   {
+    "question": "Can I schedule blog posts?",
+    "answer": "Yes. You can write your content in advance and schedule it to go live at any date and time."
+   }
+  ]
+ },
+ {
+  "title": "Proposals & Estimates",
+  "slug": "proposals-and-estimates",
+  "description": "Slow quotes lose deals to faster competitors. Send polished proposals in minutes so you close while the customer is still excited — not after they've shopped around.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/356cd270-219c-4cdc-906f-e4e181b14fa2.png",
+  "alt": "Sales proposals and estimate software",
+  "faqs": [
+   {
+    "question": "Can customers sign proposals digitally?",
+    "answer": "Yes. CasperPortal includes integrated e-signatures, allowing customers to approve and sign your proposals from any device."
+   },
+   {
+    "question": "Can I convert an estimate into an invoice?",
+    "answer": "Yes. Once a proposal is signed, you can convert it into a live invoice with a single click."
+   }
+  ]
+ },
+ {
+  "title": "Communities",
+  "slug": "communities",
+  "description": "A transaction ends. A community doesn't. Build a space where your customers connect with each other and your brand — creating loyalty no competitor can steal.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/dabcd51b-4b37-4756-aab3-bc708fe7bc8c.png",
+  "alt": "Online communities and customer groups",
+  "faqs": [
+   {
+    "question": "Can I host a private forum for my clients?",
+    "answer": "Yes. CasperPortal's community feature allows you to build private, branded spaces for discussion, support, and engagement."
+   },
+   {
+    "question": "Is this a replacement for Facebook Groups?",
+    "answer": "Many businesses use it to move their audience away from social media distractions and into a space they fully own and control."
+   }
+  ]
+ },
+ {
+  "title": "Mobile App",
+  "slug": "mobile-app",
+  "description": "Run your entire business from your pocket. Reply to leads, manage your calendar, and send invoices from the CasperPortal iOS and Android apps.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/afcfea9e-e8b9-40dd-818b-17330eb64c2d.png",
+  "alt": "CasperPortal mobile app for iOS and Android",
+  "faqs": [
+   {
+    "question": "Does the app have push notifications?",
+    "answer": "Yes. You'll get instant alerts for new leads, incoming texts, and appointment updates, so you can respond in seconds."
+   },
+   {
+    "question": "Can my team use the mobile app too?",
+    "answer": "Absolutely. You can grant different permission levels to your staff so they can manage their own leads and conversations from their phones."
+   }
+  ]
+ },
+ {
+  "title": "CRM & Contact Management",
+  "slug": "crm-contact-management",
+  "description": "Replace messy spreadsheets and disconnected tools. Track every lead, customer, and conversation from a single, unified dashboard built for local businesses.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/735ba661-b09c-44fd-9b7a-696b3d10fdd2.png",
+  "alt": "CRM and contact management software",
+  "details": [
+   {
+    "title": "Unified Contact Records",
+    "description": "See every text, email, call, and note associated with a contact on one timeline.",
+    "iconName": "Users"
+   },
+   {
+    "title": "Smart Segmentation",
+    "description": "Filter your database by tags, behaviors, and pipeline stages to send hyper-targeted offers.",
+    "iconName": "Target"
+   },
+   {
+    "title": "Unlimited Contacts",
+    "description": "Scale your business without worrying about per-contact pricing tiers.",
+    "iconName": "TrendingUp"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "Can I import my existing contacts?",
+    "answer": "Yes, you can easily bulk import your contacts via CSV or sync them directly from your previous CRM."
+   },
+   {
+    "question": "Is there a limit to how many contacts I can store?",
+    "answer": "No, our standard plans include unlimited contacts so you can grow without penalty."
+   }
+  ]
+ },
+ {
+  "title": "Email & SMS Marketing",
+  "slug": "email-sms-marketing",
+  "description": "Run high-converting email and SMS campaigns from the same platform you use to manage your leads. Stay top-of-mind and turn past customers into repeat buyers.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/a2eadec3-ae36-4814-9826-09f5672b67db.png",
+  "alt": "Email and SMS marketing automation",
+  "details": [
+   {
+    "title": "Visual Campaign Builder",
+    "description": "Design beautiful, responsive emails with our drag-and-drop editor.",
+    "iconName": "Mail"
+   },
+   {
+    "title": "Two-Way SMS Campaigns",
+    "description": "Send bulk texts that feel personal and reply directly when customers text back.",
+    "iconName": "MessageSquare"
+   },
+   {
+    "title": "Automated Drip Sequences",
+    "description": "Nurture leads on autopilot with multi-step email and SMS sequences.",
+    "iconName": "Zap"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "Are SMS messaging fees included?",
+    "answer": "SMS billing is handled on a usage basis to ensure fair pricing. You only pay for the exact messages you send at highly competitive carrier rates."
+   },
+   {
+    "question": "Can I use my own domain for emails?",
+    "answer": "Absolutely. You can connect your custom domain to ensure high deliverability and brand consistency."
+   }
+  ]
+ },
+ {
+  "title": "Workflow Automations",
+  "slug": "workflow-automations",
+  "description": "Stop doing repetitive manual tasks. Build powerful, multi-step automations that trigger instantly when leads take action, saving you hours every week.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/60af926a-2d44-454c-93f0-8e92d718be52.png",
+  "alt": "Business workflow automation software",
+  "details": [
+   {
+    "title": "Visual Automation Builder",
+    "description": "Create complex if/then logic with a simple drag-and-drop interface.",
+    "iconName": "Layers"
+   },
+   {
+    "title": "Cross-Channel Triggers",
+    "description": "Trigger automations based on form submissions, incoming calls, link clicks, or calendar bookings.",
+    "iconName": "Zap"
+   },
+   {
+    "title": "Sub-200ms Processing",
+    "description": "Our enterprise-grade engine ensures your automations fire instantly.",
+    "iconName": "Clock"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "Do I need to know how to code to build automations?",
+    "answer": "Not at all. Our workflow builder is 100% visual and designed for non-technical users."
+   },
+   {
+    "question": "Are there pre-built automation templates?",
+    "answer": "Yes, we provide a library of proven automation templates for common local business scenarios."
+   }
+  ]
+ },
+ {
+  "title": "Sales Pipelines",
+  "slug": "sales-pipelines",
+  "description": "Visualize your entire sales process. Know exactly where every lead stands, what needs to happen next, and how much revenue is on the table.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/73101585-19b2-4fe9-80c2-f6b86cba1c49.png",
+  "alt": "Sales pipeline tracking software",
+  "details": [
+   {
+    "title": "Drag-and-Drop Pipelines",
+    "description": "Move deals through stages with a simple drag-and-drop interface.",
+    "iconName": "MousePointerClick"
+   },
+   {
+    "title": "Automated Stage Actions",
+    "description": "Trigger emails, texts, or internal notifications automatically when a deal moves to a new stage.",
+    "iconName": "Zap"
+   },
+   {
+    "title": "Revenue Forecasting",
+    "description": "See the total potential value of your pipeline at a glance.",
+    "iconName": "TrendingUp"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "Can I customize the pipeline stages?",
+    "answer": "Yes, you can create unlimited custom pipelines with stages that match your exact sales process."
+   },
+   {
+    "question": "Can I have multiple pipelines for different services?",
+    "answer": "Absolutely. You can create separate pipelines for different departments, services, or locations."
+   }
+  ]
+ },
+ {
+  "title": "Appointment Booking",
+  "slug": "appointment-booking",
+  "description": "Eliminate the back-and-forth of scheduling. Let clients book appointments directly into your calendar, complete with automated reminders to reduce no-shows.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/3b965981-7925-488d-a524-4d3dc393af77.png",
+  "alt": "Appointment booking and scheduling software",
+  "details": [
+   {
+    "title": "Two-Way Calendar Sync",
+    "description": "Syncs seamlessly with Google Calendar and Outlook to prevent double-booking.",
+    "iconName": "Calendar"
+   },
+   {
+    "title": "Automated Reminders",
+    "description": "Send automated SMS and email reminders to drastically reduce no-show rates.",
+    "iconName": "Clock"
+   },
+   {
+    "title": "Upfront Payments",
+    "description": "Require a deposit or full payment at the time of booking to secure the appointment.",
+    "iconName": "Shield"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "Can I embed the calendar on my website?",
+    "answer": "Yes, you can easily embed your booking widget on any website or share it via a direct link."
+   },
+   {
+    "question": "Can I set buffer times between appointments?",
+    "answer": "Yes, you can configure custom buffer times, minimum scheduling notice, and specific working hours."
+   }
+  ]
+ },
+ {
+  "title": "Omnichannel Messaging",
+  "slug": "omnichannel-messaging",
+  "description": "Stop jumping between apps. Manage SMS, email, Facebook Messenger, Instagram DMs, and Google Business Chat from one unified team inbox.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/03a496a0-84f8-4c5b-ad6f-442a55251545.png",
+  "alt": "Omnichannel messaging unified inbox",
+  "details": [
+   {
+    "title": "Unified Inbox",
+    "description": "Read and reply to messages from every channel in a single, continuous thread.",
+    "iconName": "MessageSquare"
+   },
+   {
+    "title": "Team Collaboration",
+    "description": "Assign conversations to specific team members and leave internal notes.",
+    "iconName": "Users"
+   },
+   {
+    "title": "Mobile App Access",
+    "description": "Reply to leads on the go with our fully-featured iOS and Android apps.",
+    "iconName": "Smartphone"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "Does this replace my personal phone number?",
+    "answer": "It can! You can use a dedicated business number for all calls and texts, keeping your personal number private."
+   },
+   {
+    "question": "Can multiple team members use the inbox at once?",
+    "answer": "Yes, your entire team can work out of the unified inbox simultaneously."
+   }
+  ]
+ },
+ {
+  "title": "Reporting & Analytics",
+  "slug": "reporting-analytics",
+  "description": "Stop guessing what's working. Get clear, actionable data on your lead sources, ad spend ROI, team performance, and overall revenue growth.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/d454a8e3-4d93-4126-b80b-38aab1f537d2.png",
+  "alt": "Business reporting and analytics dashboard",
+  "details": [
+   {
+    "title": "Ad Attribution",
+    "description": "Track exactly which Facebook or Google ads are generating leads and revenue.",
+    "iconName": "BarChart3"
+   },
+   {
+    "title": "Call Tracking Metrics",
+    "description": "Monitor call volume, missed calls, and team response times.",
+    "iconName": "Phone"
+   },
+   {
+    "title": "Custom Dashboards",
+    "description": "Build personalized dashboards to track the KPIs that matter most to your business.",
+    "iconName": "TrendingUp"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "Can I connect my Google Ads account?",
+    "answer": "Yes, native integration with Google Ads and Facebook Ads provides end-to-end ROI tracking."
+   },
+   {
+    "question": "Are reports customizable?",
+    "answer": "Yes, you can customize dashboard widgets to display the exact metrics you need."
+   }
+  ]
+ },
+ {
+  "title": "Funnel & Landing Page Builder",
+  "slug": "funnel-landing-page-builder",
+  "description": "Build high-converting landing pages and multi-step sales funnels without writing a single line of code. Turn your website traffic into qualified leads.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/c0ce42fd-f947-4edf-8cd8-f0bc47043533.png",
+  "alt": "Sales funnel and landing page builder",
+  "details": [
+   {
+    "title": "Drag-and-Drop Editor",
+    "description": "Design beautiful pages visually with our intuitive builder.",
+    "iconName": "MousePointerClick"
+   },
+   {
+    "title": "A/B Testing",
+    "description": "Test different headlines, images, and offers to see what converts best.",
+    "iconName": "TrendingUp"
+   },
+   {
+    "title": "Pre-Built Templates",
+    "description": "Start with high-converting templates designed specifically for local service businesses.",
+    "iconName": "Layers"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "Do I need separate web hosting?",
+    "answer": "No, fast and secure hosting is fully included with CasperPortal."
+   },
+   {
+    "question": "Can I use my own domain name?",
+    "answer": "Yes, you can connect unlimited custom domains to your funnels and landing pages."
+   }
+  ]
+ },
+ {
+  "title": "AI Chat Tools",
+  "slug": "ai-chat-tools",
+  "description": "Deploy intelligent AI agents that can answer customer questions, qualify leads, and book appointments directly into your calendar 24/7.",
+  "icon": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/9084498a-794e-407e-9f8e-1e5ad4750078.png",
+  "alt": "AI chatbot and conversational AI tools",
+  "details": [
+   {
+    "title": "Custom Knowledge Base",
+    "description": "Train the AI on your specific business FAQs, pricing, and service details.",
+    "iconName": "BookOpen"
+   },
+   {
+    "title": "Automated Booking",
+    "description": "The AI can check your calendar availability and schedule appointments autonomously.",
+    "iconName": "Calendar"
+   },
+   {
+    "title": "Human Handoff",
+    "description": "The AI seamlessly transfers the conversation to a human team member when needed.",
+    "iconName": "Users"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "Is the AI hard to train?",
+    "answer": "Not at all. You can simply provide it with links to your website or upload a document with your FAQs."
+   },
+   {
+    "question": "Does the AI work on SMS as well as web chat?",
+    "answer": "Yes, the AI can be configured to respond via SMS, web chat, Facebook Messenger, and Instagram."
+   }
+  ]
+ }
+]

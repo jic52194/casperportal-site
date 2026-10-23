@@ -1,0 +1,138 @@
+[
+ {
+  "slug": "missed-calls",
+  "title": "Missed Calls",
+  "description": "Stop wasting $500/month on missed leads when you can't answer the phone.",
+  "longDescription": "Every missed call is a missed opportunity. When potential customers call and don't get an answer, they move on to the next business on Google. You're literally paying for leads and letting them slip away.",
+  "cost": "On average, a single missed call costs a local service business $250 to $1,500 in lost revenue. Over a year, that's tens of thousands of dollars walking out the door.",
+  "icon": "PhoneMissed",
+  "image": "https://vibe.filesafe.space/1775650048473203271/assets/fcbbec77-53f9-44e6-b481-9804f44635c3.png",
+  "solution": "With CasperPortal's Missed Call Text-Back, every missed call automatically receives a text message immediately. You capture the lead, start a conversation, and book the job without ever picking up the phone.",
+  "faqs": [
+   {
+    "question": "How much does a missed call cost a local business?",
+    "answer": "On average, a missed call costs a local service business between $250 and $1,500 in lost revenue, depending on the industry. When a potential customer reaches voicemail, 80% will hang up and call the next competitor on Google."
+   },
+   {
+    "question": "What is missed call text-back automation?",
+    "answer": "Missed call text-back is an automated system that instantly sends a text message (SMS) to anyone whose call you miss. For example, it might say: 'Hi, this is [Business Name]. We're on the other line—how can we help you today?' This keeps the lead engaged and prevents them from calling a competitor."
+   },
+   {
+    "question": "Can I use my existing business phone number for missed call text-back?",
+    "answer": "Yes. CasperPortal can either port your existing business number or set up a tracking number that forwards directly to your main line, allowing the system to detect missed calls and fire the automated text response seamlessly."
+   }
+  ]
+ },
+ {
+  "slug": "slow-follow-up",
+  "title": "Slow Follow-Up",
+  "description": "Stop losing 40% of your deals because you forgot to follow up.",
+  "longDescription": "Most sales are made after the 5th contact, but most businesses stop trying after the 1st. Manually following up with every lead is impossible when you're busy running your business.",
+  "cost": "If you aren't responding within 5 minutes, your conversion rate drops by 80%. That means you're wasting 8 out of every 10 marketing dollars spent generating leads.",
+  "icon": "Clock",
+  "image": "https://vibe.filesafe.space/1775650048473203271/assets/22ee88ee-44c9-4e85-9f84-9affd77dd3a0.png",
+  "solution": "CasperPortal automates your entire follow-up process across SMS, email, and voicemail. Build automated sequences that nurture leads for months, turning cold inquiries into paying customers while you sleep.",
+  "faqs": [
+   {
+    "question": "Why is lead follow-up so important for local businesses?",
+    "answer": "Over 50% of sales happen after the 5th follow-up, yet 44% of salespeople give up after just one attempt. Consistent follow-up builds trust, stays top-of-mind, and drastically increases the chance of converting a lead into a paying customer."
+   },
+   {
+    "question": "How do you automate lead follow-up?",
+    "answer": "You can automate lead follow-up using a CRM like CasperPortal. When a lead enters your system (via form, call, or chat), it triggers a multi-channel sequence (SMS, email, voicemail drops) spaced out over days or weeks, ensuring no lead falls through the cracks."
+   },
+   {
+    "question": "What is the best follow-up cadence for service businesses?",
+    "answer": "A proven cadence is: Day 1 (Immediate text & email), Day 2 (Value-add email), Day 3 (Check-in text), Day 5 (Voicemail drop), and Day 7 (Final offer or break-up email). Automation handles this entirely in the background."
+   }
+  ]
+ },
+ {
+  "slug": "disconnected-tools",
+  "title": "Disconnected Tools",
+  "description": "Stop paying $995+/mo for 5 different software tools that don't talk to each other.",
+  "longDescription": "Paying for a CRM, email marketing software, SMS platform, funnel builder, and scheduling tool separately costs a fortune. Plus, trying to make them all talk to each other via Zapier is a nightmare that constantly breaks.",
+  "cost": "Between subscriptions ($800+/mo) and the time wasted doing manual data entry across platforms, disconnected tools drain thousands of dollars and dozens of hours every month.",
+  "icon": "Puzzle",
+  "image": "https://vibe.filesafe.space/1775650048473203271/assets/11483281-52b6-4c8b-b53b-caf143c499b8.png",
+  "solution": "CasperPortal replaces all of them. Get everything you need to run your business in one unified, easy-to-use platform for a fraction of the cost.",
+  "faqs": [
+   {
+    "question": "How much does the average local business spend on software?",
+    "answer": "Many local businesses spend between $500 and $1,500 per month on fragmented software stacks, paying separately for a CRM, email marketing, calendar scheduling, funnel builders, and reputation management tools."
+   },
+   {
+    "question": "What is software consolidation?",
+    "answer": "Software consolidation is the process of replacing multiple single-function applications with an all-in-one platform like CasperPortal. This reduces monthly overhead, eliminates messy integrations, and keeps all your customer data in one centralized dashboard."
+   },
+   {
+    "question": "Why do disconnected tools hurt business growth?",
+    "answer": "When tools don't talk to each other, data gets siloed. This leads to manual data entry, missed follow-ups, double-booking, and a disjointed customer experience. Unified systems ensure seamless automation from lead capture to final payment."
+   }
+  ]
+ },
+ {
+  "slug": "no-visibility-into-pipeline",
+  "title": "No Pipeline Visibility",
+  "description": "Stop guessing how much revenue is pending and which leads need attention.",
+  "longDescription": "If you don't know exactly where every lead is in your sales process, you are leaving money on the table. Without a clear pipeline, your team doesn't know who to call next or what actions drive the most revenue.",
+  "cost": "Without pipeline visibility, high-value leads fall through the cracks. A disorganized sales process can easily cost a local business 20-30% of their potential annual revenue.",
+  "icon": "BarChart3",
+  "image": "https://vibe.filesafe.space/1775650048473203271/assets/99fabf88-b989-4521-938f-d3352d72c589.png",
+  "solution": "CasperPortal gives you drag-and-drop sales pipelines. Instantly see how much money is on the table, where leads are getting stuck, and what your team needs to do today to close more deals.",
+  "faqs": [
+   {
+    "question": "Why do I need a visual sales pipeline?",
+    "answer": "A visual pipeline shows you the exact status of every lead (e.g., New Lead, Contacted, Estimate Sent, Won). It prevents leads from being forgotten and helps you accurately forecast upcoming revenue."
+   },
+   {
+    "question": "How do pipelines increase close rates?",
+    "answer": "By clearly showing which leads require follow-up, pipelines allow your team to prioritize high-value actions. Combined with automation, deals move smoothly from one stage to the next without manual effort."
+   }
+  ]
+ },
+ {
+  "slug": "losing-leads",
+  "title": "Losing Leads",
+  "description": "Turn more of your existing traffic into paying customers.",
+  "longDescription": "Getting traffic is only half the battle. If your website visitors aren't converting into leads because your forms are clunky or you don't offer immediate chat, you're wasting money on marketing.",
+  "cost": "If you spend $1,000 on ads and your website converts at 1% instead of 5%, you are paying 5x more for every lead. That's a massive drain on your marketing budget.",
+  "icon": "TrendingDown",
+  "image": "https://vibe.filesafe.space/1775650048473203271/assets/52105359-3eca-4361-b322-7e9ca77f0307.png",
+  "solution": "Deploy CasperPortal's high-converting funnels, web chat widgets, and automated booking calendars to capture more leads and drastically increase your conversion rates from the traffic you already have.",
+  "faqs": [
+   {
+    "question": "What is a good website conversion rate for local businesses?",
+    "answer": "A strong conversion rate for local service businesses is typically between 5% and 10%. If your website converts at less than 2%, you need better lead capture tools like web chat, exit-intent popups, and clear calendar booking links."
+   },
+   {
+    "question": "How does web chat improve conversion rates?",
+    "answer": "Web chat engages visitors the moment they land on your site. Instead of forcing them to call or fill out a long form, a chat widget allows them to ask a quick question, which CasperPortal instantly routes to your centralized inbox or mobile app."
+   }
+  ]
+ },
+ {
+  "slug": "reviews-stagnant",
+  "title": "Reviews Stagnant",
+  "description": "Build a 5-star reputation on autopilot.",
+  "longDescription": "Customers trust reviews as much as personal recommendations. If you aren't consistently getting new, positive reviews, your competitors will outshine you online.",
+  "cost": "A poor or stagnant online reputation directly impacts your Google ranking and conversion rate. Businesses with fewer than 4 stars lose up to 80% of potential customers to highly-rated competitors.",
+  "icon": "Star",
+  "image": "https://vibe.filesafe.space/1775650048473203271/assets/568f00cc-4da8-4e2d-a4b4-1a707b5d7642.png",
+  "solution": "CasperPortal automatically sends review requests to your customers via text and email as soon as a job is completed, effortlessly building your 5-star reputation while filtering out negative feedback.",
+  "faqs": [
+   {
+    "question": "How do I get more Google reviews for my business?",
+    "answer": "The most effective way to get more reviews is to ask for them immediately after a positive experience. Using an automated reputation management tool, you can trigger an SMS and email request the moment a job is marked complete in your CRM."
+   },
+   {
+    "question": "Why are consistent reviews important for local SEO?",
+    "answer": "Google's algorithm favors businesses with a steady velocity of new reviews. A business with fifty 5-star reviews from this month will often outrank a business with two hundred 5-star reviews from three years ago."
+   },
+   {
+    "question": "How do you handle negative reviews?",
+    "answer": "A good reputation management system directs happy customers to public review sites (like Google or Facebook) and routes unhappy customers to a private feedback form, giving you a chance to resolve the issue before it damages your public rating."
+   }
+  ]
+ }
+]

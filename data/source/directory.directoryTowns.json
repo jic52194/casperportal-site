@@ -1,0 +1,551 @@
+[
+ {
+  "slug": "georgetown-ma",
+  "name": "Georgetown",
+  "county": "Essex County",
+  "region": "North Shore",
+  "population": "~8,200",
+  "keyIndustries": [
+   "Home Services",
+   "Healthcare",
+   "Retail",
+   "Trades"
+  ],
+  "businessTypes": [
+   "Contractors",
+   "Clinics",
+   "Salons",
+   "Landscapers"
+  ],
+  "localHook": "Georgetown is where CasperPortal started. Jared Casper grew up here and built this platform for the exact kind of service businesses that make up this town.",
+  "nearbyTowns": [
+   "Rowley",
+   "Boxford",
+   "Groveland",
+   "Newbury"
+  ],
+  "crmPageSlug": "crm-software-georgetown-ma",
+  "coordinates": {
+   "lat": 42.7245,
+   "lng": -71.0045
+  }
+ },
+ {
+  "slug": "rowley-ma",
+  "name": "Rowley",
+  "county": "Essex County",
+  "region": "North Shore",
+  "population": "~6,400",
+  "keyIndustries": [
+   "Landscaping",
+   "Construction",
+   "Agriculture",
+   "Trades"
+  ],
+  "businessTypes": [
+   "Landscapers",
+   "Contractors",
+   "Farm Stands",
+   "Shops"
+  ],
+  "localHook": "Rowley's service businesses deal with seasonal surges — spring cleanups, summer builds, fall harvests. CasperPortal helps you respond first every time.",
+  "nearbyTowns": [
+   "Georgetown",
+   "Newbury",
+   "Ipswich",
+   "Boxford"
+  ],
+  "crmPageSlug": "crm-software-rowley-ma",
+  "coordinates": {
+   "lat": 42.7167,
+   "lng": -70.9856
+  }
+ },
+ {
+  "slug": "boxford-ma",
+  "name": "Boxford",
+  "county": "Essex County",
+  "region": "North Shore",
+  "population": "~8,000",
+  "keyIndustries": [
+   "Home Services",
+   "Equestrian",
+   "Construction",
+   "Retail"
+  ],
+  "businessTypes": [
+   "Home Service Pros",
+   "Contractors",
+   "Equestrian Businesses",
+   "Boutiques"
+  ],
+  "localHook": "Boxford's residential market demands professionalism and fast communication. CasperPortal helps you deliver both automatically.",
+  "nearbyTowns": [
+   "Georgetown",
+   "Topsfield",
+   "North Andover",
+   "Rowley"
+  ],
+  "crmPageSlug": "crm-software-boxford-ma",
+  "coordinates": {
+   "lat": 42.709,
+   "lng": -71.0512
+  }
+ },
+ {
+  "slug": "groveland-ma",
+  "name": "Groveland",
+  "county": "Essex County",
+  "region": "North Shore",
+  "population": "~6,700",
+  "keyIndustries": [
+   "Retail",
+   "Trades",
+   "Home Services",
+   "Dining"
+  ],
+  "businessTypes": [
+   "Shops",
+   "Plumbers",
+   "Electricians",
+   "Restaurants"
+  ],
+  "localHook": "Groveland's tight-knit community rewards businesses that respond quickly. Word-of-mouth is powerful here, but automated follow-up is what seals the deal.",
+  "nearbyTowns": [
+   "Georgetown",
+   "Haverhill",
+   "Merrimac",
+   "West Newbury"
+  ],
+  "crmPageSlug": "crm-software-groveland-ma",
+  "coordinates": {
+   "lat": 42.7634,
+   "lng": -71.0323
+  }
+ },
+ {
+  "slug": "haverhill-ma",
+  "name": "Haverhill",
+  "county": "Essex County",
+  "region": "Merrimack Valley",
+  "population": "~65,000",
+  "keyIndustries": [
+   "HVAC",
+   "Construction",
+   "Healthcare",
+   "Retail",
+   "Automotive"
+  ],
+  "businessTypes": [
+   "HVAC Companies",
+   "Clinics",
+   "Auto Dealers",
+   "Contractors",
+   "Salons"
+  ],
+  "localHook": "Haverhill is one of the largest cities on the North Shore. The volume of inbound calls and leads requires a system built to handle scale.",
+  "nearbyTowns": [
+   "Groveland",
+   "Lawrence",
+   "Methuen",
+   "Amesbury",
+   "North Andover"
+  ],
+  "crmPageSlug": "crm-software-haverhill-ma",
+  "coordinates": {
+   "lat": 42.7762,
+   "lng": -71.0773
+  }
+ },
+ {
+  "slug": "newburyport-ma",
+  "name": "Newburyport",
+  "county": "Essex County",
+  "region": "North Shore",
+  "population": "~18,000",
+  "keyIndustries": [
+   "Tourism",
+   "Boutique Retail",
+   "Dining",
+   "Marine",
+   "Real Estate"
+  ],
+  "businessTypes": [
+   "Boutiques",
+   "Restaurants",
+   "Marine Services",
+   "Real Estate Agents",
+   "Salons"
+  ],
+  "localHook": "Newburyport clients expect premium, fast, and personal service. CasperPortal helps you deliver that experience at scale without adding staff.",
+  "nearbyTowns": [
+   "Newbury",
+   "Amesbury",
+   "Salisbury",
+   "Rowley"
+  ],
+  "crmPageSlug": "crm-software-newburyport-ma",
+  "coordinates": {
+   "lat": 42.8126,
+   "lng": -70.8773
+  }
+ },
+ {
+  "slug": "newbury-ma",
+  "name": "Newbury",
+  "county": "Essex County",
+  "region": "North Shore",
+  "population": "~7,000",
+  "keyIndustries": [
+   "Agriculture",
+   "Home Services",
+   "Marine",
+   "Equestrian"
+  ],
+  "businessTypes": [
+   "Farm Stands",
+   "Landscapers",
+   "Marine Contractors",
+   "Home Pros"
+  ],
+  "localHook": "Newbury's rural-coastal blend means service businesses need tools that work during busy outdoor seasons and slow winters alike.",
+  "nearbyTowns": [
+   "Newburyport",
+   "Rowley",
+   "Ipswich",
+   "Georgetown"
+  ],
+  "crmPageSlug": "crm-software-newbury-ma",
+  "coordinates": {
+   "lat": 42.7734,
+   "lng": -70.9356
+  }
+ },
+ {
+  "slug": "north-andover-ma",
+  "name": "North Andover",
+  "county": "Essex County",
+  "region": "Merrimack Valley",
+  "population": "~30,000",
+  "keyIndustries": [
+   "Professional Services",
+   "Healthcare",
+   "Tech",
+   "Retail",
+   "HVAC"
+  ],
+  "businessTypes": [
+   "Consultants",
+   "Clinics",
+   "HVAC Companies",
+   "Law Firms",
+   "Salons"
+  ],
+  "localHook": "North Andover's professional-class population expects quick, polished communication. CasperPortal helps you meet that bar automatically.",
+  "nearbyTowns": [
+   "Andover",
+   "Lawrence",
+   "Haverhill",
+   "Boxford"
+  ],
+  "crmPageSlug": "crm-software-north-andover-ma",
+  "coordinates": {
+   "lat": 42.6981,
+   "lng": -71.1342
+  }
+ },
+ {
+  "slug": "topsfield-ma",
+  "name": "Topsfield",
+  "county": "Essex County",
+  "region": "North Shore",
+  "population": "~6,000",
+  "keyIndustries": [
+   "Agriculture",
+   "Home Services",
+   "Equestrian",
+   "Retail"
+  ],
+  "businessTypes": [
+   "Landscapers",
+   "Horse Farms",
+   "Home Service Pros",
+   "Boutiques"
+  ],
+  "localHook": "Topsfield's agricultural and equestrian community means service businesses here run seasonal cycles. CasperPortal keeps your pipeline moving year-round.",
+  "nearbyTowns": [
+   "Boxford",
+   "Ipswich",
+   "Danvers",
+   "Georgetown"
+  ],
+  "crmPageSlug": "crm-software-topsfield-ma",
+  "coordinates": {
+   "lat": 42.6345,
+   "lng": -70.9451
+  }
+ },
+ {
+  "slug": "amesbury-ma",
+  "name": "Amesbury",
+  "county": "Essex County",
+  "region": "North Shore",
+  "population": "~17,500",
+  "keyIndustries": [
+   "Manufacturing",
+   "Trades",
+   "Healthcare",
+   "Retail"
+  ],
+  "businessTypes": [
+   "Contractors",
+   "Clinics",
+   "Shops",
+   "Auto Services",
+   "Plumbers"
+  ],
+  "localHook": "Amesbury's manufacturing roots mean trade businesses dominate — and trade businesses live or die by how fast they respond to new job requests.",
+  "nearbyTowns": [
+   "Newburyport",
+   "Salisbury",
+   "Merrimac",
+   "Haverhill"
+  ],
+  "crmPageSlug": "crm-software-amesbury-ma",
+  "coordinates": {
+   "lat": 42.8582,
+   "lng": -70.9301
+  }
+ },
+ {
+  "slug": "salisbury-ma",
+  "name": "Salisbury",
+  "county": "Essex County",
+  "region": "North Shore",
+  "population": "~9,100",
+  "keyIndustries": [
+   "Tourism",
+   "Hospitality",
+   "Marine",
+   "Retail",
+   "Food Service"
+  ],
+  "businessTypes": [
+   "Hotels",
+   "Restaurants",
+   "Marina Services",
+   "Shops",
+   "Tour Operators"
+  ],
+  "localHook": "Salisbury Beach drives massive seasonal traffic. CasperPortal helps local businesses capture every inquiry the moment it comes in — day or night.",
+  "nearbyTowns": [
+   "Amesbury",
+   "Newburyport",
+   "Seabrook NH",
+   "Hampton NH"
+  ],
+  "crmPageSlug": "crm-software-salisbury-ma",
+  "coordinates": {
+   "lat": 42.8437,
+   "lng": -70.8648
+  }
+ },
+ {
+  "slug": "ipswich-ma",
+  "name": "Ipswich",
+  "county": "Essex County",
+  "region": "North Shore",
+  "population": "~13,500",
+  "keyIndustries": [
+   "Agriculture",
+   "Tourism",
+   "Marine",
+   "Healthcare",
+   "Trades"
+  ],
+  "businessTypes": [
+   "Farm-to-Table Restaurants",
+   "Marine Services",
+   "Contractors",
+   "Clinics",
+   "Tour Operators"
+  ],
+  "localHook": "Ipswich's farm-to-coast character attracts visitors and locals alike. Service businesses here need systems that keep up with both peak season volume and year-round operations.",
+  "nearbyTowns": [
+   "Rowley",
+   "Topsfield",
+   "Hamilton",
+   "Essex"
+  ],
+  "crmPageSlug": "crm-software-ipswich-ma",
+  "coordinates": {
+   "lat": 42.6787,
+   "lng": -70.8409
+  }
+ },
+ {
+  "slug": "danvers-ma",
+  "name": "Danvers",
+  "county": "Essex County",
+  "region": "North Shore",
+  "population": "~28,000",
+  "keyIndustries": [
+   "Retail",
+   "Healthcare",
+   "Tech",
+   "HVAC",
+   "Automotive"
+  ],
+  "businessTypes": [
+   "Medical Practices",
+   "Auto Dealers",
+   "HVAC Companies",
+   "Law Firms",
+   "Salons"
+  ],
+  "localHook": "Danvers sits at a major retail and healthcare crossroads on Route 1 and Route 128. High foot traffic and high competition mean your follow-up speed wins.",
+  "nearbyTowns": [
+   "Salem",
+   "Peabody",
+   "Beverly",
+   "Topsfield"
+  ],
+  "crmPageSlug": "crm-software-danvers-ma",
+  "coordinates": {
+   "lat": 42.5751,
+   "lng": -70.9298
+  }
+ },
+ {
+  "slug": "beverly-ma",
+  "name": "Beverly",
+  "county": "Essex County",
+  "region": "North Shore",
+  "population": "~43,000",
+  "keyIndustries": [
+   "Healthcare",
+   "Tech",
+   "Marine",
+   "Retail",
+   "Hospitality"
+  ],
+  "businessTypes": [
+   "Medical Practices",
+   "Tech Startups",
+   "Marina Services",
+   "Restaurants",
+   "Contractors"
+  ],
+  "localHook": "Beverly's growing tech and healthcare sectors mean more professional service businesses competing for the same clients. Speed and automation are your edge.",
+  "nearbyTowns": [
+   "Salem",
+   "Danvers",
+   "Hamilton",
+   "Peabody"
+  ],
+  "crmPageSlug": "crm-software-beverly-ma",
+  "coordinates": {
+   "lat": 42.5584,
+   "lng": -70.88
+  }
+ },
+ {
+  "slug": "salem-ma",
+  "name": "Salem",
+  "county": "Essex County",
+  "region": "North Shore",
+  "population": "~44,000",
+  "keyIndustries": [
+   "Tourism",
+   "Healthcare",
+   "Legal",
+   "Retail",
+   "Hospitality"
+  ],
+  "businessTypes": [
+   "Tour Operators",
+   "Restaurants",
+   "Law Firms",
+   "Boutiques",
+   "Medical Practices"
+  ],
+  "localHook": "Salem's tourism economy peaks in October and stays busy year-round. Local businesses need automation that captures every inquiry the moment it arrives.",
+  "nearbyTowns": [
+   "Beverly",
+   "Danvers",
+   "Peabody",
+   "Marblehead"
+  ],
+  "crmPageSlug": "crm-software-salem-ma",
+  "coordinates": {
+   "lat": 42.5195,
+   "lng": -70.8967
+  }
+ },
+ {
+  "slug": "lawrence-ma",
+  "name": "Lawrence",
+  "county": "Essex County",
+  "region": "Merrimack Valley",
+  "population": "~80,000",
+  "keyIndustries": [
+   "Healthcare",
+   "Trades",
+   "Food Service",
+   "Retail",
+   "Manufacturing"
+  ],
+  "businessTypes": [
+   "Clinics",
+   "Contractors",
+   "Restaurants",
+   "Auto Services",
+   "Salons"
+  ],
+  "localHook": "Lawrence is one of the largest and fastest-growing cities in Essex County. High-volume service businesses here need CRM automation that keeps pace with demand.",
+  "nearbyTowns": [
+   "Haverhill",
+   "Methuen",
+   "North Andover",
+   "Andover"
+  ],
+  "crmPageSlug": "crm-software-lawrence-ma",
+  "coordinates": {
+   "lat": 42.707,
+   "lng": -71.1631
+  }
+ },
+ {
+  "slug": "methuen-ma",
+  "name": "Methuen",
+  "county": "Essex County",
+  "region": "Merrimack Valley",
+  "population": "~53,000",
+  "keyIndustries": [
+   "HVAC",
+   "Construction",
+   "Healthcare",
+   "Automotive",
+   "Retail"
+  ],
+  "businessTypes": [
+   "HVAC Companies",
+   "Auto Dealers",
+   "Contractors",
+   "Medical Practices",
+   "Salons"
+  ],
+  "localHook": "Methuen's suburban density means high call volume for service businesses. CasperPortal handles the intake so your team stays focused on the work.",
+  "nearbyTowns": [
+   "Haverhill",
+   "Lawrence",
+   "North Andover",
+   "Andover"
+  ],
+  "crmPageSlug": "crm-software-methuen-ma",
+  "coordinates": {
+   "lat": 42.7262,
+   "lng": -71.1909
+  }
+ }
+]

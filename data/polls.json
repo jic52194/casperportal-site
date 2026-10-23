@@ -6,7 +6,7 @@
    "I don't have a system to track missed calls",
    "I rely on voicemail and never check it"
   ],
-  "followUp": "Book a free call with Jared to set up missed-call text-back in under 30 minutes.",
+  "followUp": "Book a demo and we will show you how missed-call text-back works on your own business number.",
   "ctaLabel": "Set Up Text-Back Now",
   "ctaUrl": "/demo"
  },
@@ -39,9 +39,9 @@
    "My business info is inconsistent across directories",
    "I don't know — I've never checked"
   ],
-  "followUp": "Get a free local SEO audit from Jared's team and find out exactly where you rank.",
-  "ctaLabel": "Get My Free SEO Audit",
-  "ctaUrl": "https://casperb2b.com/contact"
+  "followUp": "CasperPortal sends review requests by text and email and keeps every Google review conversation in one inbox.",
+  "ctaLabel": "See Reputation Management",
+  "ctaUrl": "/features/reputation-management"
  },
  "Which marketing channel do you rely on most right now?": {
   "options": [
@@ -61,7 +61,7 @@
    "Following up with leads who went quiet",
    "Responding to missed calls and messages after hours"
   ],
-  "followUp": "Automate the task you just picked in under an hour inside CasperPortal.",
+  "followUp": "Book a demo and we will show you how to automate the task you just picked inside CasperPortal.",
   "ctaLabel": "Automate Client Support",
   "ctaUrl": "/demo"
  },
@@ -72,7 +72,7 @@
    "Multi-touch lead follow-up",
    "Appointment reminders"
   ],
-  "followUp": "CasperPortal comes with all 5 of these pre-built. Book a demo to see how we'd set them up for you.",
+  "followUp": "CasperPortal can run all four of these. Book a demo to see how they would work for your business.",
   "ctaLabel": "See the Automations",
   "ctaUrl": "/demo"
  },
@@ -94,7 +94,7 @@
    "Review Management (Podium/Birdeye)",
    "Booking/Scheduling (Calendly/Vagaro)"
   ],
-  "followUp": "CasperPortal replaces all of these for one flat monthly price. Calculate your savings now.",
+  "followUp": "CasperPortal covers CRM, email, reviews and booking in one $297/month plan. Compare it with what you pay now.",
   "ctaLabel": "Run the Savings Calculator",
   "ctaUrl": "/roi-calculator"
  },
@@ -105,7 +105,7 @@
    "$2,000 - $5,000",
    "Over $5,000"
   ],
-  "followUp": "Use our interactive ROI calculator to see exactly how much revenue you're leaving on the table.",
+  "followUp": "Use the ROI calculator to estimate what missed calls may be costing you, with your own numbers.",
   "ctaLabel": "Run My ROI Calculation",
   "ctaUrl": "/roi-calculator"
  },
@@ -116,7 +116,7 @@
    "Google Review Requests",
    "New Lead Welcome Sequence"
   ],
-  "followUp": "We can set up all four of these for you with our Done-For-You path.",
+  "followUp": "You can build these yourself, or have them set up for you with optional done-for-you setup.",
   "ctaLabel": "See Setup Options",
   "ctaUrl": "/pricing"
  }

@@ -1,0 +1,209 @@
+{
+ "brand": {
+  "name": "CasperPortal",
+  "home": "https://casperportal.com/",
+  "phoneTel": "12072227737",
+  "phoneDisplay": "1-207-2-CASPER",
+  "logo": "https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/68746b0c213c8ae77efce26a.png"
+ },
+ "cta": {
+  "label": "Book a Demo",
+  "href": "/demo"
+ },
+ "nav": [
+  {
+   "label": "Platform",
+   "eyebrow": "Software",
+   "hint": "The CasperPortal Engine →",
+   "grid": "grid-cols-1 md:grid-cols-2",
+   "cols": [
+    {
+     "title": "Core Features",
+     "links": [
+      {
+       "text": "Workflow Automations",
+       "href": "/features/workflow-automations",
+       "description": "Automate tasks with sub-200ms processing.",
+       "iconUrl": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/60af926a-2d44-454c-93f0-8e92d718be52.png"
+      },
+      {
+       "text": "Sales Pipelines",
+       "href": "/features/sales-pipelines",
+       "description": "See every opportunity in your pipeline.",
+       "iconUrl": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/73101585-19b2-4fe9-80c2-f6b86cba1c49.png"
+      },
+      {
+       "text": "Omnichannel Messaging",
+       "href": "/features/omnichannel-messaging",
+       "description": "One inbox for texts, emails, and chat.",
+       "iconUrl": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/DNB14sOqM0GayjGjxxSy/media/03a496a0-84f8-4c5b-ad6f-442a55251545.png"
+      },
+      {
+       "text": "All Features",
+       "href": "/features",
+       "description": "Explore the full suite of tools."
+      }
+     ]
+    },
+    {
+     "title": "Use Cases & Platform",
+     "links": [
+      {
+       "text": "Use Cases",
+       "href": "/use-cases",
+       "description": "See exactly how businesses use CasperPortal."
+      },
+      {
+       "text": "Integrations",
+       "href": "/integrations",
+       "description": "Connect Stripe, Zapier, Quickbooks, and more."
+      },
+      {
+       "text": "Security",
+       "href": "/security",
+       "description": "Enterprise-grade encryption and compliance."
+      },
+      {
+       "text": "Problems We Fix",
+       "href": "/problems",
+       "description": "See the exact bottlenecks we solve."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Services",
+   "eyebrow": "Agency",
+   "hint": "Done-For-You Growth →",
+   "grid": "grid-cols-1",
+   "cols": [
+    {
+     "title": "Our Expertise",
+     "links": [
+      {
+       "text": "All Services",
+       "href": "/services",
+       "description": "Full-service agency growth solutions."
+      },
+      {
+       "text": "Our Portfolio",
+       "href": "/portfolio",
+       "description": "Real results for real businesses."
+      },
+      {
+       "text": "Affiliate Program",
+       "href": "/affiliate",
+       "description": "Partner with us and earn."
+      },
+      {
+       "text": "Custom Development",
+       "href": "/development",
+       "description": "Bespoke engineering by Jared Casper."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Pricing",
+   "href": "/pricing"
+  },
+  {
+   "label": "Resources",
+   "eyebrow": "Insights",
+   "hint": "Grow Your Business →",
+   "grid": "grid-cols-1 md:grid-cols-2",
+   "cols": [
+    {
+     "title": "Learning Hub",
+     "links": [
+      {
+       "text": "Blog & Insights",
+       "href": "/blog",
+       "description": "Actionable marketing strategies."
+      },
+      {
+       "text": "Glossary",
+       "href": "/glossary",
+       "description": "CRM and marketing terms defined."
+      },
+      {
+       "text": "Help Center",
+       "href": "/help",
+       "description": "Support and documentation."
+      },
+      {
+       "text": "Competitor Comparisons",
+       "href": "/compare",
+       "description": "How we stack up against the rest."
+      },
+      {
+       "text": "Industries We Serve",
+       "href": "/niches",
+       "description": "Tailored solutions for your sector."
+      }
+     ]
+    },
+    {
+     "title": "Local Business",
+     "links": [
+      {
+       "text": "Local Business Directory",
+       "href": "/directory",
+       "description": "Explore North Shore MA businesses."
+      },
+      {
+       "text": "Service Areas",
+       "href": "/locations",
+       "description": "North Shore MA towns we serve."
+      },
+      {
+       "text": "Free Tools Hub",
+       "href": "/tools",
+       "description": "Calculators and generators."
+      },
+      {
+       "text": "ROI Calculator",
+       "href": "/roi-calculator",
+       "description": "Calculate your potential savings."
+      },
+      {
+       "text": "Brand Kit",
+       "href": "/brand-kit",
+       "description": "Official assets and logos."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Company",
+   "eyebrow": "About",
+   "hint": "Meet the Team →",
+   "grid": "grid-cols-1",
+   "cols": [
+    {
+     "title": "Who We Are",
+     "links": [
+      {
+       "text": "Our Story",
+       "href": "/our-story",
+       "description": "The history of CasperPortal."
+      },
+      {
+       "text": "Our Team",
+       "href": "/our-team",
+       "description": "Meet the Casper family."
+      },
+      {
+       "text": "About Us",
+       "href": "/about-us",
+       "description": "Our mission and values."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

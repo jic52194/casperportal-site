@@ -9,6 +9,13 @@
   menus.forEach(function (d) { d.addEventListener("toggle", function () { if (d.open) menus.forEach(function (o) { if (o !== d) o.open = false; }); }); });
   document.addEventListener("click", function (e) { menus.forEach(function (d) { if (d.open && !d.contains(e.target)) d.open = false; }); });
   document.addEventListener("keydown", function (e) { if (e.key === "Escape") menus.forEach(function (d) { d.open = false; }); });
+  // CTA clicks → named analytics events (t.js also logs every click generically)
+  var track = window.cpTrack = function (t, l, x) { try { if (window.csoTrack) window.csoTrack.event(t, l, x); } catch (e) {} };
+  document.addEventListener("click", function (e) {
+    var a = e.target && e.target.closest ? e.target.closest("[data-cta]") : null; if (!a) return;
+    var place = a.closest("[data-place]"), sec = a.closest("section[id]");
+    track("cta_click", a.getAttribute("data-cta"), { place: place ? place.getAttribute("data-place") : "other", section: sec ? sec.id : null, label: (a.textContent || "").trim().slice(0, 60), href: (a.getAttribute("href") || "").split("?")[0] });
+  }, true);
   // floating contact
   var fc = $("[data-float]");
   if (fc) { var b = $("button", fc), p = $(".panel", fc); b.addEventListener("click", function () { p.hidden = !p.hidden; b.setAttribute("aria-expanded", p.hidden ? "false" : "true"); }); }
@@ -67,7 +74,7 @@
 
   // /start: checkout link only after the terms box is ticked (as on the live site)
   $$("[data-checkout]").forEach(function (box) {
-    var cb = $("input[type=checkbox]", box), a = $("a", box);
+    var cb = $("input[type=checkbox]", box), a = $("a[href*=\"pay.casperportal.net\"]", box) || $("a.btn", box);
     var sync = function () { a.setAttribute("aria-disabled", cb.checked ? "false" : "true"); a.classList.toggle("ghost", !cb.checked); };
     a.addEventListener("click", function (e) { if (!cb.checked) { e.preventDefault(); cb.focus(); cb.reportValidity && cb.setCustomValidity("Please agree to the Terms of Service and Privacy Policy first."); cb.reportValidity(); cb.setCustomValidity(""); } });
     cb.addEventListener("change", sync); sync();

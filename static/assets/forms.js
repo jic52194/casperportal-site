@@ -14,6 +14,8 @@
     return fetch(EP, { method: "POST", headers: { "Content-Type": "application/json", version: "2021-07-28" }, body: JSON.stringify(body), keepalive: true }).catch(function () {});
   }
   window.cpSend = send;
+  // named analytics event for every valid lead-form submit (t.js, first-party)
+  var lead = function (name, x) { try { if (window.csoTrack) window.csoTrack.event("lead_form_submit", name, x || { path: location.pathname }); } catch (e) {} };
   var v = function (f, n) { var el = f.elements[n]; return el ? String(el.value || "").trim() : ""; };
   var msg = function (f, text, ok) { var m = f.querySelector(".msg"); if (m) { m.textContent = text; m.className = "msg " + (ok ? "ok" : "err"); } };
   var go = function (url, delay) { setTimeout(function () { location.href = url; }, delay || 0); };
@@ -32,7 +34,7 @@
     "partner": function (f) {
       send("Partner Program Application", { first_name: v(f, "firstName"), last_name: v(f, "lastName"), email: v(f, "email"), phone: v(f, "phone"), website: v(f, "website"), "contact.promotion_strategy": v(f, "promotionStrategy") },
         { first_name: "First Name", last_name: "Last Name", email: "Email Address", phone: "Phone Number", website: "Website", "contact.promotion_strategy": "Promotion Strategy" });
-      msg(f, "Application submitted successfully! We'll review and get back to you within 24 hours.", true); f.reset();
+      msg(f, "Application submitted successfully! We'll review it and get back to you.", true); f.reset();
     },
     "addbiz": function (f) {
       send("Add Business Directory Form", { first_name: v(f, "firstName"), last_name: v(f, "lastName"), email: v(f, "email"), phone: v(f, "phone"), organization: v(f, "businessName"), city: v(f, "town"), website: v(f, "website"), "contact.industry": v(f, "industry") },
@@ -62,7 +64,7 @@
     var f = e.target.closest && e.target.closest("form[data-form]"); if (!f) return;
     e.preventDefault();
     if (!f.checkValidity()) { f.reportValidity(); return; }
-    var fn = FORMS[f.getAttribute("data-form")]; if (fn) fn(f);
+    var fn = FORMS[f.getAttribute("data-form")]; if (fn) { fn(f); lead(f.getAttribute("data-fm") || f.getAttribute("data-form")); }
   });
 
   // Personalization (same storage keys as the live site): greet a returning visitor by first name.
@@ -117,7 +119,7 @@
       e.preventDefault(); if (!form.checkValidity()) { form.reportValidity(); return; } if (!slot) return;
       var btn = form.querySelector("button[type=submit]"); btn.disabled = true; btn.textContent = "Confirming...";
       fetch(BOOK_EP, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ locationId: LOCATION_ID, calendarId: CAL_ID, firstName: v(form, "firstName"), lastName: v(form, "lastName"), email: v(form, "email"), phone: v(form, "phone"), notes: v(form, "notes"), selectedSlot: slot, selectedTimezone: tz, sessionId: uuid() }) })
-        .then(function (r) { if (r.ok) { location.href = "/thank-you"; } else { throw 0; } })
+        .then(function (r) { if (r.ok) { lead("Demo Booking", { path: location.pathname, slot: slot }); setTimeout(function () { location.href = "/thank-you"; }, 250); } else { throw 0; } })
         .catch(function () { btn.disabled = false; btn.textContent = "Confirm Booking"; msg(form, "Failed to book appointment. Please try again.", false); });
     });
   });
