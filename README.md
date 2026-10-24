@@ -43,7 +43,7 @@ Every form posts the same JSON the old site sent to GoHighLevel/LeadConnector: `
 | Agreement Builder (`/agreement-builder`) | Agreement Builder Form | opens print dialog with the 9-page packet |
 
 - **Demo calendar** (`/demo`): same GHL calendar `1VqK9zKLQ8h6cj5NRe7v` — open times from `https://backend.leadconnectorhq.com/calendars/1VqK9zKLQ8h6cj5NRe7v/free-slots`, bookings to `https://backend.leadconnectorhq.com/vibe-ai/booking/submit` → /thank-you.
-- **Payments** (Stripe payment links, unchanged): monthly `https://pay.casperportal.net/b/dRmaEYacS3E2dU037RdIA14` (all "Start 14-Day Free Trial" buttons, `/start`), annual `https://pay.casperportal.net/b/fZudRabgW0rQ8zGbEndIA15` (`/pricing`).
+- **Payments** (Stripe payment links, verified live): trial `https://pay.casperportal.net/b/5kQeVe98O6Qe03adMvdIA12` ($97/month after 14 days; `/start` and every primary trial button), Growth Plan monthly `https://pay.casperportal.net/b/dRmaEYacS3E2dU037RdIA14` ($297/month; `/pricing`), annual `https://pay.casperportal.net/b/fZudRabgW0rQ8zGbEndIA15` ($2,970/year; `/pricing`).
 - **Contact bubble**: call / text (207) 222-7737 (the old site's "chat" button was the same call/text panel).
 - Hero video stays on the owner's GHL media storage (163 MB, not copied); poster image is local.
 - The old site had no app/login links, so none were added.

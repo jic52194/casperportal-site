@@ -6,9 +6,9 @@ CasperPortal is a software platform. Optional done-for-you setup is provided by 
 
 ## Key facts
 - Product type: CRM, marketing automation and lead follow-up software (web app, plus iOS and Android apps).
-- Growth Plan: $297/month, unlimited users and unlimited contacts. Annual billing: $2,970/year ($247.50/month).
-- 14-day free trial, started at https://casperportal.com/start (Stripe checkout; billed after the trial; cancel during the trial and nothing is charged).
-- Self-serve plan: no setup fee, month-to-month, no long-term contract.
+- Self-serve trial: $97/month after a 14-day free trial, started at https://casperportal.com/start (Stripe checkout; $0 due today; cancel during the trial and nothing is charged).
+- Growth Plan: $297/month, unlimited users and unlimited contacts. Annual billing: $2,970/year ($247.50/month). Both include a 14-day trial and have their own checkouts on https://casperportal.com/pricing.
+- Self-serve plans: no setup fee, month-to-month, no long-term contract.
 - Optional done-for-you setup by CasperB2B: $399/month + $1,500 one-time, or $199/month + $3,500 one-time (https://casperportal.com/pricing).
 - Keep your existing business number (port it) or use a local number that forwards to your phone.
 - Founder: Jared Casper (https://casperportal.com/jared-casper). Co-Founder: Mark Casper (https://casperportal.com/mark-casper).

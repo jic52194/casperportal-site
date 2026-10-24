@@ -2,21 +2,21 @@
   "/": {
     "kw": "CRM and marketing automation software for local businesses",
     "title": "Local Business CRM & Marketing Automation | CasperPortal",
-    "desc": "CRM and marketing automation software for local businesses: missed-call text-back, follow-up, booking and one inbox. $297/mo, try it free for 14 days.",
+    "desc": "CRM and marketing automation software for local businesses: missed-call text-back, follow-up, booking and one inbox. 14-day free trial, then $97/month.",
     "cta": "trial",
     "next": { "feature": "/features/missed-call-text-back", "compare": "/compare/gohighlevel", "guide": "/crm-for-local-businesses" }
   },
   "/pricing": {
     "kw": "CasperPortal pricing",
-    "title": "CasperPortal Pricing: $297/mo, Unlimited Users & Contacts",
-    "desc": "CasperPortal pricing: one Growth Plan at $297/month or $2,970/year with unlimited users and contacts, no setup fee, no contract. Start a 14-day free trial.",
+    "title": "CasperPortal Pricing: $97/mo, $297/mo, or Annual",
+    "desc": "CasperPortal pricing: a 14-day free trial then $97/month, the Growth Plan at $297/month, or $2,970/year. No setup fee and no contract.",
     "cta": "trial",
     "next": { "feature": "/features/crm-contact-management", "compare": "/compare/hubspot", "guide": "/blog/economics-of-crm-roi" }
   },
   "/start": {
     "kw": "CasperPortal free trial",
     "title": "Start Your CasperPortal Free Trial (14 Days) | CasperPortal",
-    "desc": "Start your CasperPortal free trial: 14 days of the full Growth Plan with unlimited users and contacts. Secure Stripe checkout, cancel anytime in the trial.",
+    "desc": "Start your CasperPortal free trial: 14 days, then $97/month. Secure Stripe checkout, $0 due today, cancel anytime in the trial.",
     "cta": "trial",
     "next": { "feature": "/features/workflow-automations", "compare": "/compare/gohighlevel", "guide": "/blog/setup-first-automation" }
   },
