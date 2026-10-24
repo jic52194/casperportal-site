@@ -10,10 +10,15 @@ export const NAME = "CasperPortal";
 export const PHONE = "1-207-222-7737";
 export const PHONE_VANITY = "1-207-2-CASPER";
 export const PHONE_TEL = "+12072227737";
-export const PAY_MONTHLY = "https://pay.casperportal.net/b/dRmaEYacS3E2dU037RdIA14"; // Stripe payment link, monthly plan (unchanged from live site)
-export const PAY_ANNUAL = "https://pay.casperportal.net/b/fZudRabgW0rQ8zGbEndIA15"; // Stripe payment link, annual plan (unchanged)
+// Verified live 2026-10-24 on pay.casperportal.net (Stripe Checkout, 14-day trial, $0 due today).
+export const PAY_TRIAL = "https://pay.casperportal.net/b/5kQeVe98O6Qe03adMvdIA12"; // $97/month after the trial. /start and every primary trial CTA.
+export const PAY_MONTHLY = "https://pay.casperportal.net/b/dRmaEYacS3E2dU037RdIA14"; // $297/month Growth Plan after the trial. Pricing-tier button only.
+export const PAY_ANNUAL = "https://pay.casperportal.net/b/fZudRabgW0rQ8zGbEndIA15"; // $2,970/year after the trial. Pricing-tier button only.
 export const LOGO = "/img/casperportal-logo.png";
 export const OG_DEFAULT = "/img/og-default.png";
+export const OG_TRIAL = "/img/og-trial.png";
+export const OG_W = "1200";
+export const OG_H = "630";
 export const OUT = fileURLToPath(new URL("../dist/", import.meta.url));
 export const BUILT = new Date().toISOString();
 export const TODAY = BUILT.slice(0, 10);
@@ -34,13 +39,14 @@ export const ORG = {
   address: { "@type": "PostalAddress", addressLocality: "Georgetown", addressRegion: "MA", addressCountry: "US" },
   founder: [{ "@type": "Person", name: "Jared Casper", jobTitle: "Founder", url: SITE + "/jared-casper" }, { "@type": "Person", name: "Mark Casper", jobTitle: "Co-Founder", url: SITE + "/mark-casper" }],
   contactPoint: [{ "@type": "ContactPoint", contactType: "sales", telephone: PHONE_TEL, areaServed: "US", availableLanguage: "English", url: SITE + "/contact" }],
-  sameAs: ["https://www.instagram.com/casperportal", "https://www.linkedin.com/company/casperportal", "https://facebook.com/casperportal"],
+  sameAs: ["https://www.instagram.com/casperportal", "https://facebook.com/casperportal"],
 };
 export const SOFTWARE = {
   "@context": "https://schema.org", "@type": "SoftwareApplication", "@id": `${SITE}/#software`, name: NAME, url: SITE + "/",
   applicationCategory: "BusinessApplication", applicationSubCategory: "CRM and marketing automation", operatingSystem: "Web, iOS, Android",
   description: "All-in-one CRM, marketing automation and lead follow-up software for local businesses.", publisher: { "@id": ORG_ID },
   offers: [
+    { "@type": "Offer", name: "Self-serve trial (monthly)", price: "97", priceCurrency: "USD", url: SITE + "/start", priceSpecification: { "@type": "UnitPriceSpecification", price: "97", priceCurrency: "USD", unitCode: "MON" } },
     { "@type": "Offer", name: "Growth Plan (monthly)", price: "297", priceCurrency: "USD", url: SITE + "/pricing", priceSpecification: { "@type": "UnitPriceSpecification", price: "297", priceCurrency: "USD", unitCode: "MON" } },
     { "@type": "Offer", name: "Growth Plan (annual)", price: "2970", priceCurrency: "USD", url: SITE + "/pricing", priceSpecification: { "@type": "UnitPriceSpecification", price: "2970", priceCurrency: "USD", unitCode: "ANN" } },
   ],
@@ -73,7 +79,7 @@ const navMobile = () => NAV.map(([label, v, o = {}]) => typeof v === "string" ? 
 /** Facts-only trust strip (every fact is stated consistently on the pricing and start pages). */
 export const trustBlock = () => `<ul class="trust" aria-label="Plan facts">
 <li><b>14-day free trial</b><span>Billed only after the trial; cancel during it and pay nothing.</span></li>
-<li><b>$297/month, all features</b><span>Unlimited users and contacts on the Growth Plan.</span></li>
+<li><b>$97/month after the trial</b><span>Self-serve checkout from the trial page. $297/month and annual billing are on the pricing page.</span></li>
 <li><b>Month-to-month</b><span>No long-term contract and no setup fee on the self-serve plan.</span></li>
 <li><b>Keep your number</b><span>Port your business number or add a local number that forwards to you.</span></li>
 <li><b>Local people</b><span>Built in Georgetown, MA by Jared and Mark Casper. Call or text <a href="tel:${PHONE_TEL}">(207) 222-7737</a>.</span></li>
@@ -109,8 +115,10 @@ const footer = () => `<footer class="foot"><div class="wrap">
 </div></footer>
 <div class="float-contact no-print" data-float><button type="button" aria-expanded="false" aria-controls="fc-panel" aria-label="Call or text us">✆</button><div class="panel" id="fc-panel" hidden><p><b>GET IN TOUCH</b></p><a class="btn sm ghost" href="tel:${PHONE_TEL}">Call (207) 222-7737</a><a class="btn sm ghost" href="sms:${PHONE_TEL}">Text (207) 222-7737</a></div></div>`;
 
-/** Mobile sticky CTA: the page's primary goal + the other one. Hidden on checkout/thank-you pages. */
-const sticky = (cta) => cta === "none" ? "" : `<div class="sticky-cta no-print" data-place="sticky">${cta === "trial-only"
+/** Mobile sticky CTA: the page's primary goal + the other one. Hidden on thank-you. /start scrolls to its checkout card. */
+const sticky = (cta) => cta === "none" ? "" : `<div class="sticky-cta no-print" data-place="sticky">${cta === "checkout"
+  ? `<a class="btn" href="#checkout">${CTA.trial[1]}</a>`
+  : cta === "trial-only"
   ? `<a class="btn" href="${CTA.trial[0]}">${CTA.trial[1]}</a>`
   : cta === "demo" ? `<a class="btn" href="${CTA.demo[0]}">${CTA.demo[1]}</a><a class="btn ghost" href="${CTA.trial[0]}">Free trial</a>`
   : `<a class="btn" href="${CTA.trial[0]}">${CTA.trial[1]}</a><a class="btn ghost" href="${CTA.demo[0]}">Demo</a>`}</div>`;
@@ -119,23 +127,25 @@ const sticky = (cta) => cta === "none" ? "" : `<div class="sticky-cta no-print" 
 export function tagCtas(html) {
   return html.replace(/<a\b([^>]*?)\shref="([^"]+)"([^>]*)>/g, (m, a, href, b) => {
     if (/data-cta=/.test(a + b)) return m;
-    const kind = href === "/start" || href.startsWith(PAY_MONTHLY) ? "trial" : href.startsWith(PAY_ANNUAL) ? "annual" : href === "/demo" || href.startsWith("/demo#") ? "demo" : null;
+    const kind = href === "/start" || href === "#checkout" || href.startsWith(PAY_TRIAL) || href.startsWith(PAY_MONTHLY) ? "trial" : href.startsWith(PAY_ANNUAL) ? "annual" : href === "/demo" || href.startsWith("/demo#") ? "demo" : null;
     return kind ? `<a${a} href="${href}" data-cta="${kind}"${b}>` : m;
   });
 }
 
 /** The page shell. crumbs = [[name, path], ...] (adds BreadcrumbList + visible breadcrumb). */
-export function page({ path, title, desc, body, schema = [], noindex = false, crumbs, ogType = "website", image = OG_DEFAULT, lastmod = TODAY, related = "", stickyCta = "trial" }) {
+export function page({ path, title, desc, body, schema = [], noindex = false, crumbs, ogType = "website", image = OG_DEFAULT, imageAlt = "CasperPortal", lastmod = TODAY, related = "", stickyCta = "trial" }) {
   const url = SITE + (path === "/" ? "/" : path);
   const schemas = [{ "@context": "https://schema.org", "@type": "WebPage", "@id": url, url, name: title, description: desc, inLanguage: "en-US", dateModified: lastmod, isPartOf: { "@type": "WebSite", "@id": `${SITE}/#site`, name: NAME, url: SITE + "/" }, publisher: { "@id": ORG_ID } }, ...schema];
   if (crumbs && crumbs.length > 1) schemas.push({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: crumbs.map(([n, p], i) => ({ "@type": "ListItem", position: i + 1, name: n, item: SITE + (p || "/") })) });
   if (!noindex) urls.push([path, lastmod]);
   const img = image.startsWith("http") ? image : SITE + image;
+  const imgType = img.endsWith(".jpg") || img.endsWith(".jpeg") ? "image/jpeg" : img.endsWith(".webp") ? "image/webp" : "image/png";
+  const trialHref = path === "/start" ? "#checkout" : CTA.trial[0];
   return tagCtas(`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${esc(title)}</title><meta name="description" content="${esc(desc)}"><link rel="canonical" href="${url}">
 <meta name="robots" content="${noindex ? "noindex, follow" : "index, follow, max-image-preview:large, max-snippet:-1"}">
-<meta property="og:type" content="${ogType}"><meta property="og:site_name" content="CasperPortal"><meta property="og:locale" content="en_US"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${url}"><meta property="og:image" content="${img}"><meta property="og:image:alt" content="CasperPortal">
-<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${esc(title)}"><meta name="twitter:description" content="${esc(desc)}"><meta name="twitter:image" content="${img}"><meta name="theme-color" content="#020817">
+<meta property="og:type" content="${ogType}"><meta property="og:site_name" content="CasperPortal"><meta property="og:locale" content="en_US"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${url}"><meta property="og:image" content="${img}"><meta property="og:image:secure_url" content="${img}"><meta property="og:image:type" content="${imgType}"><meta property="og:image:width" content="${OG_W}"><meta property="og:image:height" content="${OG_H}"><meta property="og:image:alt" content="${esc(imageAlt)}">
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${esc(title)}"><meta name="twitter:description" content="${esc(desc)}"><meta name="twitter:url" content="${url}"><meta name="twitter:image" content="${img}"><meta name="twitter:image:alt" content="${esc(imageAlt)}"><meta name="theme-color" content="#020817">
 <link rel="icon" type="image/png" href="/favicon.png"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="sitemap" type="application/xml" href="/sitemap.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap">
 <link rel="stylesheet" href="/assets/site.css?v=${V}">
@@ -144,9 +154,9 @@ ${schemas.map(ld).join("")}
 <a class="skip" href="#main">Skip to content</a>
 <header class="top" data-place="header"><div class="wrap row"><a class="logo" href="/" aria-label="CasperPortal home"><img src="${LOGO}" alt="" width="36" height="36">CasperPortal</a>
 <nav class="mainnav" aria-label="Main">${navDesktop(path)}</nav>
-<div class="topcta"><a class="phone" href="tel:${PHONE_TEL}"><small>Call or text</small>${PHONE}</a><a class="btn sm ghost" href="${CTA.demo[0]}">Book a demo</a><a class="btn sm green" href="${CTA.trial[0]}">Start free trial</a></div>
+<div class="topcta"><a class="phone" href="tel:${PHONE_TEL}"><small>Call or text</small>${PHONE}</a><a class="btn sm ghost" href="${CTA.demo[0]}">Book a demo</a><a class="btn sm green" href="${trialHref}">Start free trial</a></div>
 <button class="burger" type="button" data-burger aria-label="Menu" aria-expanded="false" aria-controls="drawer">☰</button></div>
-<nav class="drawer" id="drawer" data-drawer aria-label="Mobile">${navMobile()}<a href="/contact">Contact</a><a href="tel:${PHONE_TEL}">Call ${PHONE}</a><p class="ctas"><a class="btn green" href="${CTA.trial[0]}">${CTA.trial[1]}</a><a class="btn ghost" href="${CTA.demo[0]}">${CTA.demo[1]}</a></p></nav></header>
+<nav class="drawer" id="drawer" data-drawer aria-label="Mobile">${navMobile()}<a href="/contact">Contact</a><a href="tel:${PHONE_TEL}">Call ${PHONE}</a><p class="ctas"><a class="btn green" href="${trialHref}">${CTA.trial[1]}</a><a class="btn ghost" href="${CTA.demo[0]}">${CTA.demo[1]}</a></p></nav></header>
 <main id="main">${crumbs && crumbs.length > 1 ? `<div class="wrap"><nav class="crumbs" aria-label="Breadcrumb">${crumbs.map(([n, p], i) => (i < crumbs.length - 1 ? `<a href="${p || "/"}">${esc(n)}</a>` : `<span aria-current="page">${esc(n)}</span>`)).join(" › ")}</nav></div>` : ""}
 <div class="wrap content" data-place="body">${body}</div>${related}</main>
 ${footer()}${sticky(stickyCta)}

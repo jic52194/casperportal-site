@@ -12,7 +12,7 @@ Rules: each keyword appears in the page's title, H1 (or a close natural form), t
 | /casperb2b | done-for-you CRM setup | Done-For-You CRM Setup for CasperPortal \| CasperPortal | Done-For-You CRM Setup for CasperPortal |
 | /contact | contact CasperPortal | Contact CasperPortal: Call, Text or Message \| CasperPortal | Contact CasperPortal |
 | /demo | CasperPortal demo | Book a CasperPortal Demo (30-Minute Live Walkthrough) | Book a CasperPortal Demo |
-| /pricing | CasperPortal pricing | CasperPortal Pricing: $297/mo, Unlimited Users & Contacts | CasperPortal Pricing: One Plan, Two Ways to Get Started |
+| /pricing | CasperPortal pricing | CasperPortal Pricing: $97/mo, $297/mo, or Annual | CasperPortal Pricing: $97/month, $297/month, or Annual |
 | /start | CasperPortal free trial | Start Your CasperPortal Free Trial (14 Days) \| CasperPortal | Start Your CasperPortal Free Trial |
 
 ## Features (28)

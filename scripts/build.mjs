@@ -6,7 +6,7 @@
 import { fileURLToPath } from "node:url";
 import { rmSync, mkdirSync, cpSync, writeFileSync, readFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
-import { SITE, OUT, TODAY, PHONE, PHONE_TEL, PAY_MONTHLY, PAY_ANNUAL, CTA, ORG, SOFTWARE, TOWNS, townName, urls, write, page, redirect, relatedBlock, nextBlock, faqSchema, setNav, getNav, esc, strip } from "./lib.mjs";
+import { SITE, OUT, TODAY, PHONE, PHONE_TEL, PAY_TRIAL, PAY_MONTHLY, PAY_ANNUAL, OG_TRIAL, CTA, ORG, SOFTWARE, TOWNS, townName, urls, write, page, redirect, relatedBlock, nextBlock, faqSchema, setNav, getNav, esc, strip } from "./lib.mjs";
 
 const ROOT = fileURLToPath(new URL("../", import.meta.url));
 const json = (f, fallback) => (existsSync(ROOT + f) ? JSON.parse(readFileSync(ROOT + f, "utf8")) : fallback);
@@ -147,7 +147,7 @@ const FORM_NAMES = { sales: "Sales Contact Form", contact: "Contact Us Form", pa
 const nameForms = (html) => html.replace(/<form\b([^>]*?)data-form="([a-z-]+)"([^>]*)>/g, (m, a, f, b) => /data-fm=/.test(m) ? m : `<form${a}data-form="${f}" data-fm="${FORM_NAMES[f] || f}"${b}>`);
 
 // ── conversion: one primary CTA destination per page ──
-const ctaKind = (href) => href === "/start" || href.startsWith(PAY_MONTHLY) || href.startsWith(PAY_ANNUAL) ? "trial" : href === "/demo" || href.startsWith("/demo#") ? "demo" : "other";
+const ctaKind = (href) => href === "/start" || href === "#checkout" || href.startsWith(PAY_TRIAL) ? "trial" : href.startsWith(PAY_MONTHLY) || href.startsWith(PAY_ANNUAL) ? "plan" : href === "/demo" || href.startsWith("/demo#") ? "demo" : "other";
 function onePrimary(body, cta) {
   return body.replace(/<a\b([^>]*?)\bclass="([^"]*\bbtn\b[^"]*)"([^>]*)>/g, (m, a, cls, b) => {
     if (/\bghost\b/.test(cls)) return m;
@@ -163,7 +163,7 @@ const faqHtml = (name, faqs = []) => faqs.length ? `<section id="faq"><h2>${esc(
 const steps = (xs) => `<ol class="steps">${xs.map((s) => `<li><p>${esc(s)}</p></li>`).join("")}</ol>`;
 const blocks = (xs) => `<div class="grid${xs.length % 2 === 0 && xs.length % 3 !== 0 ? " g2" : ""}">${xs.map(({ h, p }) => `<div class="card"><h3>${esc(h)}</h3><p>${esc(p)}</p></div>`).join("")}</div>`;
 const ctaRow = (cta) => { const [ph, pl] = CTA[cta], [sh, sl] = CTA[cta === "trial" ? "demo" : "trial"]; return `<p class="ctas"><a class="btn" href="${ph}">${pl}</a><a class="btn ghost" href="${sh}">${sl}</a></p>`; };
-const TRIAL_NOTE = `<p class="note">14-day free trial · then $297/month · cancel during the trial and you pay nothing</p>`;
+const TRIAL_NOTE = `<p class="note">14-day free trial · then $97/month · cancel during the trial and you pay nothing</p>`;
 const hero = (eyebrow, d, cta, art = "") => `<section class="lead-block"><div class="${art ? "hero" : ""}"><div><p class="eyebrow">${esc(eyebrow)}</p><h1>${esc(d.h1)}</h1><p class="lede">${esc(d.intro)}</p>${ctaRow(cta)}${cta === "trial" ? TRIAL_NOTE : ""}</div>${art}</div></section>`;
 const art = (img) => img ? `<div class="feat-art"><img src="${esc(img.src)}" alt="${esc(img.alt || "")}" width="${img.w || 64}" height="${img.h || 64}" loading="eager" fetchpriority="high" decoding="async"></div>` : "";
 const linked = (ps) => ps.map((p) => (PAGES[p] ? p : REDIRECTS[p])).filter((p, i, a) => p && PAGES[p] && a.indexOf(p) === i);
@@ -188,7 +188,7 @@ const RENDER = {
     `<section><div class="split"><div class="card"><h2>Choose CasperPortal if…</h2><ul class="checks">${(d.chooseUs || []).map((x) => `<li>${esc(x)}</li>`).join("")}</ul></div><div class="card"><h2>Choose ${esc(d.name)} if…</h2><ul class="checks">${(d.chooseThem || []).map((x) => `<li>${esc(x)}</li>`).join("")}</ul></div></div></section>` +
     `<section><h2>Switching from ${esc(d.name)}</h2>${steps(d.switch || [])}</section>` +
     faqHtml(`CasperPortal vs ${d.name}`, d.faqs) +
-    `<section class="final-cta"><h2>Try CasperPortal before you switch</h2><p>Run your own leads through CasperPortal for 14 days. Billed only after the trial, $297/month, month-to-month.</p><p class="ctas"><a class="btn" href="/start">Start 14-day free trial</a><a class="btn ghost" href="/pricing">See pricing</a></p></section>`,
+    `<section class="final-cta"><h2>Try CasperPortal before you switch</h2><p>Run your own leads through CasperPortal for 14 days. Billed only after the trial, $97/month, month-to-month. The $297/month and annual plans are on the pricing page.</p><p class="ctas"><a class="btn" href="/start">Start 14-day free trial</a><a class="btn ghost" href="/pricing">See pricing</a></p></section>`,
   towns: (d, slug, cta) => hero(`${d.region || "North Shore"} · ${d.county || "Essex County"}`, d, cta) +
     `<section><div class="split"><div class="card"><h2>${esc(d.name)} at a glance</h2><ul class="checks"><li>Population: ${esc(d.population)}</li><li>Key industries: ${esc((d.industries || []).join(", "))}</li><li>Common business types: ${esc((d.businessTypes || []).join(", "))}</li></ul></div><div class="card"><h2>Why follow-up matters in ${esc(d.name)}</h2><p>${esc(d.localHook)}</p></div></div></section>` +
     `<section><h2>How ${esc(d.name)} businesses use CasperPortal</h2><div class="grid">${(d.useCases || []).map((u) => { const n = linked([u.niche])[0]; return `<div class="card"><h3>${esc(u.h)}</h3><p>${esc(u.p)}</p>${n ? `<p><a href="${n}">CRM for ${esc((PAGES[n].data?.name || nameOf(n)).toLowerCase())} →</a></p>` : ""}</div>`; }).join("")}</div></section>` +
@@ -237,7 +237,7 @@ function crumbsFor(p, name) {
 }
 
 // ── pages ──
-const STICKY = { "/start": "none", "/thank-you": "none", "/directory/add": "none", "/demo": "trial-only" };
+const STICKY = { "/start": "checkout", "/thank-you": "none", "/directory/add": "none", "/demo": "trial-only" };
 const ARTICLE_GUIDES = ["/crm-for-local-businesses", "/marketing-automation-for-small-business"];
 const HUB = { "/features": "features", "/niches": "niches", "/problems": "problems", "/compare": "compare", "/locations": "towns" };
 let faqPages = 0;
@@ -266,7 +266,8 @@ for (const [p, m] of Object.entries(PAGES)) {
     const sib = siblings(p); if (sib) after += relatedBlock(sib[1].map(cardOf).filter(Boolean), sib[0]);
   }
   const sticky = STICKY[p] || (cta === "demo" ? "demo" : "trial");
-  const html = fixLinks(page({ path: p, title: m.title, desc: m.desc, body, schema, noindex: !!m.noindex, crumbs: crumbsFor(p, name), related: after, stickyCta: sticky, ogType: isPost(p) ? "article" : "website" }));
+  const share = p === "/" || p === "/start";
+  const html = fixLinks(page({ path: p, title: m.title, desc: m.desc, body, schema, noindex: !!m.noindex, crumbs: crumbsFor(p, name), related: after, stickyCta: sticky, ogType: isPost(p) ? "article" : "website", ...(share ? { image: OG_TRIAL, imageAlt: "CasperPortal 14-day free trial, then $97 a month" } : {}) }));
   write(p, html);
   BUILT[p] = { title: m.title, h1: strip((html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/) || [, ""])[1]), desc: m.desc, kw: m.kw || "", cta, src: m.src, noindex: !!m.noindex };
 }
