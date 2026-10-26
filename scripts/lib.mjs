@@ -165,7 +165,7 @@ ${footer()}${sticky(stickyCta)}
 }
 
 /** Redirect page for a merged/dropped URL (GitHub Pages serves it with a 200, so it carries canonical + meta refresh + noindex). */
-export const redirect = (to) => `<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Moved | CasperPortal</title><meta name="robots" content="noindex"><link rel="canonical" href="${to.startsWith("http") ? to : SITE + to}"><meta http-equiv="refresh" content="0; url=${to}"><script>location.replace(${JSON.stringify(to)}+location.search)</script></head><body><p>This page moved to <a href="${to}">${SITE}${to}</a>.</p></body></html>`;
+export const redirect = (to) => `<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Moved | CasperPortal</title><link rel="canonical" href="${to.startsWith("http") ? to : SITE + to}"><meta http-equiv="refresh" content="0; url=${to}"><script>location.replace(${JSON.stringify(to)}+location.search)</script></head><body><p>This page moved to <a href="${to}">${SITE}${to}</a>.</p></body></html>`;
 
 /** Sibling links inside a cluster ("More features", "More industries"…). items = [[path, title, blurb]] */
 export const relatedBlock = (items, h = "Related pages") => items.length ? `<section class="related no-print" aria-label="${esc(h)}"><div class="wrap"><h2>${esc(h)}</h2><ul>${items.map(([p, t, d]) => `<li><a href="${p}">${esc(t)}${d ? `<span>${esc(d)}</span>` : ""}</a></li>`).join("")}</ul></div></section>` : "";
